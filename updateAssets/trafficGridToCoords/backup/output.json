@@ -1,0 +1,297 @@
+[
+    {
+        "type": "journey",
+        "legs": [
+            {
+                "origin": {
+                    "type": "station",
+                    "id": "8100525",
+                    "name": "Pottendorf-Landegg",
+                    "location": {
+                        "type": "location",
+                        "id": "8100525",
+                        "latitude": 47.905332,
+                        "longitude": 16.396154
+                    },
+                    "products": {
+                        "nationalExpress": false,
+                        "national": false,
+                        "regionalExpress": false,
+                        "regional": true,
+                        "suburban": true,
+                        "bus": false,
+                        "ferry": false,
+                        "subway": false,
+                        "tram": false,
+                        "taxi": false
+                    }
+                },
+                "destination": {
+                    "type": "station",
+                    "id": "8103000",
+                    "name": "Wien Hbf",
+                    "location": {
+                        "type": "location",
+                        "id": "8103000",
+                        "latitude": 48.185103,
+                        "longitude": 16.377114
+                    },
+                    "products": {
+                        "nationalExpress": true,
+                        "national": true,
+                        "regionalExpress": true,
+                        "regional": true,
+                        "suburban": true,
+                        "bus": false,
+                        "ferry": false,
+                        "subway": true,
+                        "tram": true,
+                        "taxi": false
+                    }
+                },
+                "departure": "2024-09-02T06:32:00+02:00",
+                "plannedDeparture": "2024-09-02T06:32:00+02:00",
+                "departureDelay": null,
+                "arrival": "2024-09-02T07:00:00+02:00",
+                "plannedArrival": "2024-09-02T07:00:00+02:00",
+                "arrivalDelay": null,
+                "reachable": true,
+                "tripId": "2|#VN#1#ST#1724873012#PI#0#ZI#604312#TA#1#DA#20924#1S#8100719#1T#535#LS#8103000#LT#700#PU#80#RT#1#CA#REX#ZE#7685#ZB#REX 7685#PC#3#FR#8100719#FT#535#TO#8103000#TT#700#",
+                "line": {
+                    "type": "line",
+                    "id": "3-810028-6",
+                    "fahrtNr": "7685",
+                    "name": "REX 6",
+                    "public": true,
+                    "adminCode": "810028",
+                    "productName": "REX",
+                    "mode": "train",
+                    "product": "regional",
+                    "operator": {
+                        "type": "operator",
+                        "id": "gysev",
+                        "name": "GySEV"
+                    },
+                    "additionalName": "REX 6"
+                },
+                "direction": "Wien Hbf",
+                "arrivalPlatform": null,
+                "plannedArrivalPlatform": null,
+                "arrivalPrognosisType": "prognosed",
+                "departurePlatform": null,
+                "plannedDeparturePlatform": null,
+                "departurePrognosisType": "prognosed",
+                "stopovers": [
+                    {
+                        "stop": {
+                            "type": "station",
+                            "id": "8100525",
+                            "name": "Pottendorf-Landegg",
+                            "location": {
+                                "type": "location",
+                                "id": "8100525",
+                                "latitude": 47.905332,
+                                "longitude": 16.396154
+                            },
+                            "products": {
+                                "nationalExpress": false,
+                                "national": false,
+                                "regionalExpress": false,
+                                "regional": true,
+                                "suburban": true,
+                                "bus": false,
+                                "ferry": false,
+                                "subway": false,
+                                "tram": false,
+                                "taxi": false
+                            }
+                        },
+                        "arrival": null,
+                        "plannedArrival": null,
+                        "arrivalDelay": null,
+                        "arrivalPlatform": null,
+                        "arrivalPrognosisType": null,
+                        "plannedArrivalPlatform": null,
+                        "departure": "2024-09-02T06:32:00+02:00",
+                        "plannedDeparture": "2024-09-02T06:32:00+02:00",
+                        "departureDelay": null,
+                        "departurePlatform": null,
+                        "departurePrognosisType": null,
+                        "plannedDeparturePlatform": null
+                    },
+                    {
+                        "stop": {
+                            "type": "station",
+                            "id": "8100226",
+                            "name": "Ebreichsdorf",
+                            "location": {
+                                "type": "location",
+                                "id": "8100226",
+                                "latitude": 47.9612,
+                                "longitude": 16.408783
+                            },
+                            "products": {
+                                "nationalExpress": false,
+                                "national": false,
+                                "regionalExpress": false,
+                                "regional": true,
+                                "suburban": true,
+                                "bus": false,
+                                "ferry": false,
+                                "subway": false,
+                                "tram": false,
+                                "taxi": false
+                            }
+                        },
+                        "arrival": "2024-09-02T06:37:00+02:00",
+                        "plannedArrival": "2024-09-02T06:37:00+02:00",
+                        "arrivalDelay": null,
+                        "arrivalPlatform": null,
+                        "arrivalPrognosisType": null,
+                        "plannedArrivalPlatform": null,
+                        "departure": "2024-09-02T06:37:00+02:00",
+                        "plannedDeparture": "2024-09-02T06:37:00+02:00",
+                        "departureDelay": null,
+                        "departurePlatform": null,
+                        "departurePrognosisType": null,
+                        "plannedDeparturePlatform": null
+                    },
+                    {
+                        "stop": {
+                            "type": "station",
+                            "id": "8100514",
+                            "name": "Wien Meidling",
+                            "location": {
+                                "type": "location",
+                                "id": "8100514",
+                                "latitude": 48.174451,
+                                "longitude": 16.333085
+                            },
+                            "products": {
+                                "nationalExpress": true,
+                                "national": true,
+                                "regionalExpress": true,
+                                "regional": true,
+                                "suburban": true,
+                                "bus": false,
+                                "ferry": false,
+                                "subway": true,
+                                "tram": false,
+                                "taxi": false
+                            }
+                        },
+                        "arrival": "2024-09-02T06:53:00+02:00",
+                        "plannedArrival": "2024-09-02T06:53:00+02:00",
+                        "arrivalDelay": null,
+                        "arrivalPlatform": null,
+                        "arrivalPrognosisType": null,
+                        "plannedArrivalPlatform": null,
+                        "departure": "2024-09-02T06:55:00+02:00",
+                        "plannedDeparture": "2024-09-02T06:55:00+02:00",
+                        "departureDelay": null,
+                        "departurePlatform": null,
+                        "departurePrognosisType": null,
+                        "plannedDeparturePlatform": null
+                    },
+                    {
+                        "stop": {
+                            "type": "station",
+                            "id": "8103000",
+                            "name": "Wien Hbf",
+                            "location": {
+                                "type": "location",
+                                "id": "8103000",
+                                "latitude": 48.185103,
+                                "longitude": 16.377114
+                            },
+                            "products": {
+                                "nationalExpress": true,
+                                "national": true,
+                                "regionalExpress": true,
+                                "regional": true,
+                                "suburban": true,
+                                "bus": false,
+                                "ferry": false,
+                                "subway": true,
+                                "tram": true,
+                                "taxi": false
+                            }
+                        },
+                        "arrival": "2024-09-02T07:00:00+02:00",
+                        "plannedArrival": "2024-09-02T07:00:00+02:00",
+                        "arrivalDelay": null,
+                        "arrivalPlatform": null,
+                        "arrivalPrognosisType": "prognosed",
+                        "plannedArrivalPlatform": null,
+                        "departure": null,
+                        "plannedDeparture": null,
+                        "departureDelay": null,
+                        "departurePlatform": null,
+                        "departurePrognosisType": null,
+                        "plannedDeparturePlatform": null
+                    }
+                ],
+                "remarks": [
+                    {
+                        "text": "Number of bicycles conveyed limited",
+                        "type": "hint",
+                        "code": "bicycle-conveyance",
+                        "summary": "bicycles conveyed"
+                    },
+                    {
+                        "text": "2nd class only",
+                        "type": "hint",
+                        "code": "2nd-class-only",
+                        "summary": "2. class only"
+                    },
+                    {
+                        "text": "space for wheelchairs",
+                        "type": "hint",
+                        "code": "wheelchairs-space",
+                        "summary": "space for wheelchairs"
+                    },
+                    {
+                        "text": "Wheelchair space - For advance notification, call +43 5 1717",
+                        "type": "hint",
+                        "code": "wheelchairs-space-reservation",
+                        "summary": "space for wheelchairs, subject to reservation"
+                    },
+                    {
+                        "type": "hint",
+                        "code": "EF",
+                        "text": "Vehicle-mounted access ramp for wheelchair users"
+                    },
+                    {
+                        "type": "hint",
+                        "code": "OB",
+                        "text": "Low-floor coach"
+                    },
+                    {
+                        "text": "WC accessible for wheelchair",
+                        "type": "hint",
+                        "code": "wheelchair-accessible-toilet",
+                        "summary": "wheelchair-accessible toilet available"
+                    },
+                    {
+                        "text": "Wifi available",
+                        "type": "hint",
+                        "code": "wifi",
+                        "summary": "WiFi available"
+                    }
+                ]
+            }
+        ],
+        "refreshToken": "T$A=1@O=Pottendorf-Landegg@L=8100525@a=128@$A=1@O=Wien Hbf@L=8103000@a=128@$202409020632$202409020700$REX 7685$$1$$$$$$",
+        "price": {
+            "amount": -0.01,
+            "currency": "EUR"
+        },
+        "tickets": [
+            {
+                "priceObj": {
+                    "amount": -1
+                }
+            }
+        ]
+    }
+]

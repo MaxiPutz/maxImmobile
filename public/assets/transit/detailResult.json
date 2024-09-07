@@ -1,0 +1,1629 @@
+[
+    {
+        "time": 7,
+        "startPoint": {
+            "lat": 48.104561055467315,
+            "long": 16.270190219508585,
+            "name": "Brunn-Maria Enzersdorf",
+            "id": "8100698"
+        },
+        "endPoint": {
+            "lat": 48.23714265416501,
+            "long": 16.37967587837673,
+            "name": "Wien Dresdner Straße (Hellwagstraße)",
+            "id": "920041"
+        },
+        "endPointDist": 16830.294644530808,
+        "speed": 144.25966838169265,
+        "distToStation": 27,
+        "journeys": [
+            {
+                "type": "journey",
+                "legs": [
+                    {
+                        "origin": {
+                            "type": "stop",
+                            "id": "8100698",
+                            "name": "Brunn-Maria Enzersdorf Bahnhof",
+                            "location": {
+                                "type": "location",
+                                "id": "8100698",
+                                "latitude": 48.104955,
+                                "longitude": 16.288058
+                            },
+                            "products": {
+                                "nationalExpress": false,
+                                "national": false,
+                                "interregional": false,
+                                "regional": true,
+                                "suburban": true,
+                                "bus": false,
+                                "ferry": false,
+                                "subway": false,
+                                "tram": false,
+                                "onCall": false
+                            }
+                        },
+                        "destination": {
+                            "type": "stop",
+                            "id": "8101641",
+                            "name": "Wien Traisengasse Bahnhof",
+                            "location": {
+                                "type": "location",
+                                "id": "8101641",
+                                "latitude": 48.234786,
+                                "longitude": 16.38338
+                            },
+                            "products": {
+                                "nationalExpress": false,
+                                "national": false,
+                                "interregional": false,
+                                "regional": true,
+                                "suburban": true,
+                                "bus": false,
+                                "ferry": false,
+                                "subway": false,
+                                "tram": false,
+                                "onCall": false
+                            }
+                        },
+                        "departure": "2024-09-09T06:09:00+02:00",
+                        "plannedDeparture": "2024-09-09T06:09:00+02:00",
+                        "departureDelay": null,
+                        "arrival": "2024-09-09T06:44:00+02:00",
+                        "plannedArrival": "2024-09-09T06:44:00+02:00",
+                        "arrivalDelay": null,
+                        "reachable": true,
+                        "tripId": "2|#VN#1#ST#1725534376#PI#0#ZI#221730#TA#0#DA#90924#1S#8100516#1T#518#LS#8100236#LT#649#PU#81#RT#1#CA#s#ZE#1#ZB#S 1     #PC#5#FR#8100516#FT#518#TO#8100236#TT#649#",
+                        "line": {
+                            "type": "line",
+                            "id": "s-1-zug-nr-23256",
+                            "fahrtNr": "23256",
+                            "name": "S 1 (Zug-Nr. 23256)",
+                            "public": true,
+                            "adminCode": "81____",
+                            "productName": "S",
+                            "mode": "train",
+                            "product": "suburban",
+                            "operator": {
+                                "type": "operator",
+                                "id": "nahreisezug",
+                                "name": "Nahreisezug"
+                            }
+                        },
+                        "direction": "Wien Floridsdorf Bahnhof",
+                        "arrivalPlatform": "2",
+                        "plannedArrivalPlatform": "2",
+                        "arrivalPrognosisType": "prognosed",
+                        "departurePlatform": "2",
+                        "plannedDeparturePlatform": "2",
+                        "departurePrognosisType": "prognosed",
+                        "remarks": [
+                            {
+                                "type": "hint",
+                                "code": "OB",
+                                "text": "Niederflurfahrzeug"
+                            },
+                            {
+                                "type": "hint",
+                                "code": "RO",
+                                "text": "Rollstuhlstellplatz"
+                            },
+                            {
+                                "type": "hint",
+                                "code": "OA",
+                                "text": "Rollstuhlstellplatz - Voranmeldung unter +43 5 1717"
+                            },
+                            {
+                                "type": "hint",
+                                "code": "EF",
+                                "text": "Fahrzeuggebundene Einstiegshilfe"
+                            },
+                            {
+                                "type": "hint",
+                                "code": "OC",
+                                "text": "rollstuhltaugliches WC"
+                            },
+                            {
+                                "type": "hint",
+                                "code": "FK",
+                                "text": "Fahrradmitnahme begrenzt möglich"
+                            },
+                            {
+                                "type": "hint",
+                                "code": "K2",
+                                "text": "nur 2. Klasse"
+                            },
+                            {
+                                "type": "hint",
+                                "code": "SB",
+                                "text": "Zustieg im Nahverkehr (REX, R, CJX, S-Bahn) nur mit gültiger Fahrkarte"
+                            },
+                            {
+                                "type": "hint",
+                                "code": "WV",
+                                "text": "WLAN verfügbar"
+                            }
+                        ],
+                        "cycle": {
+                            "min": 240,
+                            "max": 900,
+                            "nr": 13
+                        },
+                        "alternatives": [
+                            {
+                                "tripId": "2|#VN#1#ST#1725534376#PI#0#ZI#221491#TA#0#DA#90924#1S#8100516#1T#535#LS#8100534#LT#722#PU#81#RT#1#CA#R#ZE#3#ZB#R 3     #PC#4#FR#8100516#FT#535#TO#8100534#TT#722#",
+                                "line": {
+                                    "type": "line",
+                                    "id": "r-3-zug-nr-22262",
+                                    "fahrtNr": "22262",
+                                    "name": "R 3 (Zug-Nr. 22262)",
+                                    "public": true,
+                                    "adminCode": "81____",
+                                    "productName": "R",
+                                    "mode": "train",
+                                    "product": "regional",
+                                    "operator": {
+                                        "type": "operator",
+                                        "id": "nahreisezug",
+                                        "name": "Nahreisezug"
+                                    }
+                                },
+                                "direction": "Stockerau Bahnhof",
+                                "when": "2024-09-09T06:13:00+02:00",
+                                "plannedWhen": "2024-09-09T06:13:00+02:00",
+                                "delay": null
+                            },
+                            {
+                                "tripId": "2|#VN#1#ST#1725534376#PI#0#ZI#222658#TA#0#DA#90924#1S#8101230#1T#621#LS#8100236#LT#704#PU#81#RT#1#CA#s#ZE#3#ZB#S 3     #PC#5#FR#8101230#FT#621#TO#8100236#TT#704#",
+                                "line": {
+                                    "type": "line",
+                                    "id": "s-3-zug-nr-29266",
+                                    "fahrtNr": "29266",
+                                    "name": "S 3 (Zug-Nr. 29266)",
+                                    "public": true,
+                                    "adminCode": "81____",
+                                    "productName": "S",
+                                    "mode": "train",
+                                    "product": "suburban",
+                                    "operator": {
+                                        "type": "operator",
+                                        "id": "nahreisezug",
+                                        "name": "Nahreisezug"
+                                    }
+                                },
+                                "direction": "Wien Floridsdorf Bahnhof",
+                                "when": "2024-09-09T06:24:00+02:00",
+                                "plannedWhen": "2024-09-09T06:24:00+02:00",
+                                "delay": null
+                            },
+                            {
+                                "tripId": "2|#VN#1#ST#1725534376#PI#0#ZI#221717#TA#1#DA#90924#1S#8100516#1T#548#LS#8100236#LT#719#PU#81#RT#1#CA#s#ZE#1#ZB#S 1     #PC#5#FR#8100516#FT#548#TO#8100236#TT#719#",
+                                "line": {
+                                    "type": "line",
+                                    "id": "s-1-zug-nr-23276",
+                                    "fahrtNr": "23276",
+                                    "name": "S 1 (Zug-Nr. 23276)",
+                                    "public": true,
+                                    "adminCode": "81____",
+                                    "productName": "S",
+                                    "mode": "train",
+                                    "product": "suburban",
+                                    "operator": {
+                                        "type": "operator",
+                                        "id": "nahreisezug",
+                                        "name": "Nahreisezug"
+                                    }
+                                },
+                                "direction": "Wien Floridsdorf Bahnhof",
+                                "when": "2024-09-09T06:39:00+02:00",
+                                "plannedWhen": "2024-09-09T06:39:00+02:00",
+                                "delay": null
+                            },
+                            {
+                                "tripId": "2|#VN#1#ST#1725534376#PI#0#ZI#221496#TA#0#DA#90924#1S#8100516#1T#605#LS#8100534#LT#755#PU#81#RT#1#CA#R#ZE#3#ZB#R 3     #PC#4#FR#8100516#FT#605#TO#8100534#TT#755#",
+                                "line": {
+                                    "type": "line",
+                                    "id": "r-3-zug-nr-22282",
+                                    "fahrtNr": "22282",
+                                    "name": "R 3 (Zug-Nr. 22282)",
+                                    "public": true,
+                                    "adminCode": "81____",
+                                    "productName": "R",
+                                    "mode": "train",
+                                    "product": "regional",
+                                    "operator": {
+                                        "type": "operator",
+                                        "id": "nahreisezug",
+                                        "name": "Nahreisezug"
+                                    }
+                                },
+                                "direction": "Stockerau Bahnhof",
+                                "when": "2024-09-09T06:43:00+02:00",
+                                "plannedWhen": "2024-09-09T06:43:00+02:00",
+                                "delay": null
+                            },
+                            {
+                                "tripId": "2|#VN#1#ST#1725534376#PI#0#ZI#221891#TA#0#DA#90924#1S#8101230#1T#651#LS#8101793#LT#757#PU#81#RT#1#CA#s#ZE#2#ZB#S 2     #PC#5#FR#8101230#FT#651#TO#8101793#TT#757#",
+                                "line": {
+                                    "type": "line",
+                                    "id": "s-2-zug-nr-24286",
+                                    "fahrtNr": "24286",
+                                    "name": "S 2 (Zug-Nr. 24286)",
+                                    "public": true,
+                                    "adminCode": "81____",
+                                    "productName": "S",
+                                    "mode": "train",
+                                    "product": "suburban",
+                                    "operator": {
+                                        "type": "operator",
+                                        "id": "nahreisezug",
+                                        "name": "Nahreisezug"
+                                    }
+                                },
+                                "direction": "Wolkersdorf im Weinviertel Bahnhof",
+                                "when": "2024-09-09T06:54:00+02:00",
+                                "plannedWhen": "2024-09-09T06:54:00+02:00",
+                                "delay": null
+                            }
+                        ]
+                    },
+                    {
+                        "origin": {
+                            "type": "stop",
+                            "id": "8101641",
+                            "name": "Wien Traisengasse Bahnhof",
+                            "location": {
+                                "type": "location",
+                                "id": "8101641",
+                                "latitude": 48.234786,
+                                "longitude": 16.38338
+                            },
+                            "products": {
+                                "nationalExpress": false,
+                                "national": false,
+                                "interregional": false,
+                                "regional": true,
+                                "suburban": true,
+                                "bus": false,
+                                "ferry": false,
+                                "subway": false,
+                                "tram": false,
+                                "onCall": false
+                            }
+                        },
+                        "destination": {
+                            "type": "stop",
+                            "id": "920041",
+                            "name": "Wien Dresdner Straße (Hellwagstraße)",
+                            "location": {
+                                "type": "location",
+                                "id": "920041",
+                                "latitude": 48.23715,
+                                "longitude": 16.379308
+                            },
+                            "products": {
+                                "nationalExpress": false,
+                                "national": false,
+                                "interregional": false,
+                                "regional": false,
+                                "suburban": false,
+                                "bus": true,
+                                "ferry": false,
+                                "subway": false,
+                                "tram": true,
+                                "onCall": false
+                            }
+                        },
+                        "departure": "2024-09-09T06:44:00+02:00",
+                        "plannedDeparture": "2024-09-09T06:44:00+02:00",
+                        "departureDelay": null,
+                        "arrival": "2024-09-09T06:51:00+02:00",
+                        "plannedArrival": "2024-09-09T06:51:00+02:00",
+                        "arrivalDelay": null,
+                        "public": true,
+                        "walking": true,
+                        "distance": 424
+                    }
+                ],
+                "refreshToken": "¶HKI¶T$A=1@O=Brunn-Maria Enzersdorf Bahnhof@L=8100698@a=128@$A=1@O=Wien Traisengasse Bahnhof@L=8101641@a=128@$202409090609$202409090644$S 1     $$1$$$$$$§W$A=1@O=Wien Traisengasse Bahnhof@L=8101641@a=128@$A=1@O=Zugang Donaueschingenstraße, LBK@L=608101641@a=128@$202409090644$202409090645$$$1$$$$$$§G@F$A=1@O=Zugang Donaueschingenstraße, LBK@L=608101641@a=128@$A=1@O=Wien Dresdner Straße (Hellwagstraße)@L=920041@a=128@$202409090645$202409090651$$$1$$$$$$¶GP¶ft@0@2000@120@1@100@1@0@0@@@@@false@0@-1@0@-1@-1@$f@$f@$f@$f@$f@$§bt@0@2000@120@1@100@1@0@0@@@@@false@0@-1@0@-1@-1@$f@$f@$f@$f@$f@$§tt@0@250000@120@0@100@1@0@0@@@@@false@0@-1@0@-1@-1@$t@0@250000@120@0@100@1@0@0@@@@@false@0@-1@0@-1@-1@$t@0@0@0@0@100@-1@0@0@@@@@false@0@-1@0@-1@-1@$f@$f@$f@$§¶KRCC¶#VE#1#MRTF#",
+                "cycle": {
+                    "min": 240
+                }
+            }
+        ]
+    },
+    {
+        "time": 10,
+        "startPoint": {
+            "lat": 48.23945929635512,
+            "long": 16.32414510975429,
+            "name": "Wien Gersthof",
+            "id": "8100249"
+        },
+        "endPoint": {
+            "lat": 48.23714265416501,
+            "long": 16.37967587837673,
+            "name": "Wien Dresdner Straße (Hellwagstraße)",
+            "id": "920041"
+        },
+        "endPointDist": 4120.646113108101,
+        "speed": 24.723876678648608,
+        "distToStation": 27,
+        "journeys": [
+            {
+                "type": "journey",
+                "legs": [
+                    {
+                        "origin": {
+                            "type": "stop",
+                            "id": "8100249",
+                            "name": "Wien Gersthof Bahnhof",
+                            "location": {
+                                "type": "location",
+                                "id": "8100249",
+                                "latitude": 48.230777,
+                                "longitude": 16.329067
+                            },
+                            "products": {
+                                "nationalExpress": false,
+                                "national": false,
+                                "interregional": false,
+                                "regional": false,
+                                "suburban": true,
+                                "bus": false,
+                                "ferry": false,
+                                "subway": false,
+                                "tram": false,
+                                "onCall": false
+                            }
+                        },
+                        "destination": {
+                            "type": "stop",
+                            "id": "8101947",
+                            "name": "Wien Handelskai (Bahnsteige 11-12)",
+                            "location": {
+                                "type": "location",
+                                "id": "8101947",
+                                "latitude": 48.242112,
+                                "longitude": 16.386023
+                            },
+                            "products": {
+                                "nationalExpress": false,
+                                "national": false,
+                                "interregional": false,
+                                "regional": false,
+                                "suburban": true,
+                                "bus": false,
+                                "ferry": false,
+                                "subway": false,
+                                "tram": false,
+                                "onCall": false
+                            }
+                        },
+                        "departure": "2024-09-09T06:04:00+02:00",
+                        "plannedDeparture": "2024-09-09T06:04:00+02:00",
+                        "departureDelay": null,
+                        "arrival": "2024-09-09T06:17:00+02:00",
+                        "plannedArrival": "2024-09-09T06:17:00+02:00",
+                        "arrivalDelay": null,
+                        "reachable": true,
+                        "tripId": "2|#VN#1#ST#1725534376#PI#0#ZI#221102#TA#2#DA#90924#1S#8100447#1T#550#LS#8101947#LT#617#PU#81#RT#1#CA#s#ZE#45#ZB#S 45    #PC#5#FR#8100447#FT#550#TO#8101947#TT#617#",
+                        "line": {
+                            "type": "line",
+                            "id": "s-45-zug-nr-20517",
+                            "fahrtNr": "20517",
+                            "name": "S 45 (Zug-Nr. 20517)",
+                            "public": true,
+                            "adminCode": "81____",
+                            "productName": "S",
+                            "mode": "train",
+                            "product": "suburban",
+                            "operator": {
+                                "type": "operator",
+                                "id": "nahreisezug",
+                                "name": "Nahreisezug"
+                            }
+                        },
+                        "direction": "Wien Handelskai (Bahnsteige 11-12)",
+                        "arrivalPlatform": "11",
+                        "plannedArrivalPlatform": "11",
+                        "arrivalPrognosisType": "prognosed",
+                        "departurePlatform": "1",
+                        "plannedDeparturePlatform": "1",
+                        "departurePrognosisType": "prognosed",
+                        "remarks": [
+                            {
+                                "type": "hint",
+                                "code": "OB",
+                                "text": "Niederflurfahrzeug"
+                            },
+                            {
+                                "type": "hint",
+                                "code": "RO",
+                                "text": "Rollstuhlstellplatz"
+                            },
+                            {
+                                "type": "hint",
+                                "code": "OA",
+                                "text": "Rollstuhlstellplatz - Voranmeldung unter +43 5 1717"
+                            },
+                            {
+                                "type": "hint",
+                                "code": "OG",
+                                "text": "bedingt rollstuhltaugliches WC"
+                            },
+                            {
+                                "type": "hint",
+                                "code": "FK",
+                                "text": "Fahrradmitnahme begrenzt möglich"
+                            },
+                            {
+                                "type": "hint",
+                                "code": "K2",
+                                "text": "nur 2. Klasse"
+                            },
+                            {
+                                "type": "hint",
+                                "code": "SB",
+                                "text": "Zustieg im Nahverkehr (REX, R, CJX, S-Bahn) nur mit gültiger Fahrkarte"
+                            }
+                        ],
+                        "cycle": {
+                            "min": 600,
+                            "max": 600,
+                            "nr": 13
+                        }
+                    },
+                    {
+                        "origin": {
+                            "type": "stop",
+                            "id": "8101947",
+                            "name": "Wien Handelskai (Bahnsteige 11-12)",
+                            "location": {
+                                "type": "location",
+                                "id": "8101947",
+                                "latitude": 48.242112,
+                                "longitude": 16.386023
+                            },
+                            "products": {
+                                "nationalExpress": false,
+                                "national": false,
+                                "interregional": false,
+                                "regional": false,
+                                "suburban": true,
+                                "bus": false,
+                                "ferry": false,
+                                "subway": false,
+                                "tram": false,
+                                "onCall": false
+                            }
+                        },
+                        "destination": {
+                            "type": "stop",
+                            "id": "920041",
+                            "name": "Wien Dresdner Straße (Hellwagstraße)",
+                            "location": {
+                                "type": "location",
+                                "id": "920041",
+                                "latitude": 48.23715,
+                                "longitude": 16.379308
+                            },
+                            "products": {
+                                "nationalExpress": false,
+                                "national": false,
+                                "interregional": false,
+                                "regional": false,
+                                "suburban": false,
+                                "bus": true,
+                                "ferry": false,
+                                "subway": false,
+                                "tram": true,
+                                "onCall": false
+                            }
+                        },
+                        "departure": "2024-09-09T06:17:00+02:00",
+                        "plannedDeparture": "2024-09-09T06:17:00+02:00",
+                        "departureDelay": null,
+                        "arrival": "2024-09-09T06:27:00+02:00",
+                        "plannedArrival": "2024-09-09T06:27:00+02:00",
+                        "arrivalDelay": null,
+                        "public": true,
+                        "walking": true,
+                        "distance": 718
+                    }
+                ],
+                "refreshToken": "¶HKI¶T$A=1@O=Wien Gersthof Bahnhof@L=8100249@a=128@$A=1@O=Wien Handelskai (Bahnsteige 11-12)@L=8101947@a=128@$202409090604$202409090617$S 45    $$1$$$$$$§W$A=1@O=Wien Handelskai (Bahnsteige 11-12)@L=8101947@a=128@$A=1@O=Zugang Engerthstraße@L=618101947@a=128@$202409090617$202409090618$$$1$$$$$$§G@F$A=1@O=Zugang Engerthstraße@L=618101947@a=128@$A=1@O=Wien Dresdner Straße (Hellwagstraße)@L=920041@a=128@$202409090618$202409090627$$$1$$$$$$¶GP¶ft@0@2000@120@1@100@1@0@0@@@@@false@0@-1@0@-1@-1@$f@$f@$f@$f@$f@$§bt@0@2000@120@1@100@1@0@0@@@@@false@0@-1@0@-1@-1@$f@$f@$f@$f@$f@$§tt@0@250000@120@0@100@1@0@0@@@@@false@0@-1@0@-1@-1@$t@0@250000@120@0@100@1@0@0@@@@@false@0@-1@0@-1@-1@$t@0@0@0@0@100@-1@0@0@@@@@false@0@-1@0@-1@-1@$f@$f@$f@$§¶KRCC¶#VE#1#MRTF#",
+                "cycle": {
+                    "min": 600
+                }
+            }
+        ]
+    },
+    {
+        "time": 1,
+        "startPoint": {
+            "lat": 48.23945929635512,
+            "long": 16.391588722561426,
+            "name": "Wien Handelskai (Bahnsteige 1-2)",
+            "id": "8101934"
+        },
+        "endPoint": {
+            "lat": 48.23714265416501,
+            "long": 16.37967587837673,
+            "name": "Wien Dresdner Straße (Hellwagstraße)",
+            "id": "920041"
+        },
+        "endPointDist": 919.0977764306364,
+        "speed": 55.145866585838185,
+        "distToStation": 27,
+        "journeys": [
+            {
+                "type": "journey",
+                "legs": [
+                    {
+                        "origin": {
+                            "type": "stop",
+                            "id": "920028",
+                            "name": "Wien Handelskai Bahnhst (Engerthstraße)",
+                            "location": {
+                                "type": "location",
+                                "id": "920028",
+                                "latitude": 48.241106,
+                                "longitude": 16.383874
+                            },
+                            "products": {
+                                "nationalExpress": false,
+                                "national": true,
+                                "interregional": false,
+                                "regional": false,
+                                "suburban": false,
+                                "bus": true,
+                                "ferry": false,
+                                "subway": false,
+                                "tram": false,
+                                "onCall": false
+                            }
+                        },
+                        "destination": {
+                            "type": "stop",
+                            "id": "920008",
+                            "name": "Wien Dresdner Straße (Leithastraße)",
+                            "location": {
+                                "type": "location",
+                                "id": "920008",
+                                "latitude": 48.236476,
+                                "longitude": 16.378526
+                            },
+                            "products": {
+                                "nationalExpress": false,
+                                "national": false,
+                                "interregional": false,
+                                "regional": false,
+                                "suburban": false,
+                                "bus": true,
+                                "ferry": false,
+                                "subway": false,
+                                "tram": false,
+                                "onCall": false
+                            }
+                        },
+                        "departure": "2024-09-09T06:00:00+02:00",
+                        "plannedDeparture": "2024-09-09T06:00:00+02:00",
+                        "departureDelay": null,
+                        "arrival": "2024-09-09T06:07:00+02:00",
+                        "plannedArrival": "2024-09-09T06:07:00+02:00",
+                        "arrivalDelay": null,
+                        "reachable": true,
+                        "tripId": "2|#VN#1#ST#1725534376#PI#0#ZI#228989#TA#0#DA#90924#1S#920029#1T#554#LS#902042#LT#624#PU#81#RT#1#CA#Bus#ZE#5A#ZB#Bus 5A  #PC#6#FR#920029#FT#554#TO#902042#TT#624#",
+                        "line": {
+                            "type": "line",
+                            "id": "bus-5a",
+                            "fahrtNr": "19652",
+                            "name": "Bus 5A",
+                            "public": true,
+                            "adminCode": "v04WL_",
+                            "productName": "Bus",
+                            "mode": "bus",
+                            "product": "bus",
+                            "operator": {
+                                "type": "operator",
+                                "id": "wiener-linien-gmbh-co-kg",
+                                "name": "Wiener Linien GmbH & Co KG"
+                            }
+                        },
+                        "direction": "Wien Nestroyplatz (Schrottgießergasse)",
+                        "arrivalPlatform": null,
+                        "plannedArrivalPlatform": null,
+                        "arrivalPrognosisType": "prognosed",
+                        "departurePlatform": null,
+                        "plannedDeparturePlatform": null,
+                        "departurePrognosisType": "prognosed",
+                        "remarks": [
+                            {
+                                "type": "hint",
+                                "code": "OB",
+                                "text": "Niederflurfahrzeug"
+                            },
+                            {
+                                "type": "hint",
+                                "code": "RO",
+                                "text": "Rollstuhlstellplatz"
+                            }
+                        ],
+                        "cycle": {
+                            "min": 360,
+                            "max": 600,
+                            "nr": 16
+                        }
+                    }
+                ],
+                "refreshToken": "¶HKI¶T$A=1@O=Wien Handelskai Bahnhst (Engerthstraße)@L=920028@a=128@$A=1@O=Wien Dresdner Straße (Leithastraße)@L=920008@a=128@$202409090600$202409090607$Bus 5A  $$1$$$$$$¶KRCC¶#VE#1#MRTF#",
+                "cycle": {
+                    "min": 360
+                },
+                "remarks": []
+            },
+            {
+                "type": "journey",
+                "legs": [
+                    {
+                        "origin": {
+                            "type": "stop",
+                            "id": "8101934",
+                            "name": "Wien Handelskai (Bahnsteige 1-2)",
+                            "location": {
+                                "type": "location",
+                                "id": "8101934",
+                                "latitude": 48.242121,
+                                "longitude": 16.385627
+                            },
+                            "products": {
+                                "nationalExpress": false,
+                                "national": false,
+                                "interregional": false,
+                                "regional": true,
+                                "suburban": true,
+                                "bus": false,
+                                "ferry": false,
+                                "subway": false,
+                                "tram": false,
+                                "onCall": false
+                            }
+                        },
+                        "destination": {
+                            "type": "stop",
+                            "id": "8101641",
+                            "name": "Wien Traisengasse Bahnhof",
+                            "location": {
+                                "type": "location",
+                                "id": "8101641",
+                                "latitude": 48.234786,
+                                "longitude": 16.38338
+                            },
+                            "products": {
+                                "nationalExpress": false,
+                                "national": false,
+                                "interregional": false,
+                                "regional": true,
+                                "suburban": true,
+                                "bus": false,
+                                "ferry": false,
+                                "subway": false,
+                                "tram": false,
+                                "onCall": false
+                            }
+                        },
+                        "departure": "2024-09-09T06:00:00+02:00",
+                        "plannedDeparture": "2024-09-09T06:00:00+02:00",
+                        "departureDelay": null,
+                        "arrival": "2024-09-09T06:02:00+02:00",
+                        "plannedArrival": "2024-09-09T06:02:00+02:00",
+                        "arrivalDelay": null,
+                        "reachable": true,
+                        "tripId": "2|#VN#1#ST#1725534376#PI#0#ZI#222640#TA#0#DA#90924#1S#8100466#1T#506#LS#8100514#LT#622#PU#81#RT#1#CA#s#ZE#1#ZB#S 1     #PC#5#FR#8100466#FT#506#TO#8100514#TT#622#",
+                        "line": {
+                            "type": "line",
+                            "id": "s-1-zug-nr-29237",
+                            "fahrtNr": "29237",
+                            "name": "S 1 (Zug-Nr. 29237)",
+                            "public": true,
+                            "adminCode": "81____",
+                            "productName": "S",
+                            "mode": "train",
+                            "product": "suburban",
+                            "operator": {
+                                "type": "operator",
+                                "id": "nahreisezug",
+                                "name": "Nahreisezug"
+                            }
+                        },
+                        "direction": "Wien Meidling Bahnhof",
+                        "arrivalPlatform": "1",
+                        "plannedArrivalPlatform": "1",
+                        "arrivalPrognosisType": "prognosed",
+                        "departurePlatform": "1",
+                        "plannedDeparturePlatform": "1",
+                        "departurePrognosisType": "prognosed",
+                        "remarks": [
+                            {
+                                "type": "hint",
+                                "code": "OB",
+                                "text": "Niederflurfahrzeug"
+                            },
+                            {
+                                "type": "hint",
+                                "code": "RO",
+                                "text": "Rollstuhlstellplatz"
+                            },
+                            {
+                                "type": "hint",
+                                "code": "OA",
+                                "text": "Rollstuhlstellplatz - Voranmeldung unter +43 5 1717"
+                            },
+                            {
+                                "type": "hint",
+                                "code": "OC",
+                                "text": "rollstuhltaugliches WC"
+                            },
+                            {
+                                "type": "hint",
+                                "code": "FK",
+                                "text": "Fahrradmitnahme begrenzt möglich"
+                            },
+                            {
+                                "type": "hint",
+                                "code": "K2",
+                                "text": "nur 2. Klasse"
+                            },
+                            {
+                                "type": "hint",
+                                "code": "SB",
+                                "text": "Zustieg im Nahverkehr (REX, R, CJX, S-Bahn) nur mit gültiger Fahrkarte"
+                            }
+                        ],
+                        "cycle": {
+                            "min": 180,
+                            "max": 600,
+                            "nr": 21
+                        },
+                        "alternatives": [
+                            {
+                                "tripId": "2|#VN#1#ST#1725534376#PI#0#ZI#222643#TA#0#DA#90924#1S#8100236#1T#600#LS#8101150#LT#635#PU#81#RT#1#CA#s#ZE#3#ZB#S 3     #PC#5#FR#8100236#FT#600#TO#8101150#TT#635#",
+                                "line": {
+                                    "type": "line",
+                                    "id": "s-3-zug-nr-29241",
+                                    "fahrtNr": "29241",
+                                    "name": "S 3 (Zug-Nr. 29241)",
+                                    "public": true,
+                                    "adminCode": "81____",
+                                    "productName": "S",
+                                    "mode": "train",
+                                    "product": "suburban",
+                                    "operator": {
+                                        "type": "operator",
+                                        "id": "nahreisezug",
+                                        "name": "Nahreisezug"
+                                    }
+                                },
+                                "direction": "Wien Liesing Bahnhof",
+                                "when": "2024-09-09T06:03:00+02:00",
+                                "plannedWhen": "2024-09-09T06:03:00+02:00",
+                                "delay": null
+                            },
+                            {
+                                "tripId": "2|#VN#1#ST#1725534376#PI#0#ZI#222268#TA#0#DA#90924#1S#8101793#1T#543#LS#8100353#LT#641#PU#81#RT#1#CA#s#ZE#2#ZB#S 2     #PC#5#FR#8101793#FT#543#TO#8100353#TT#641#",
+                                "line": {
+                                    "type": "line",
+                                    "id": "s-7-zug-nr-27243",
+                                    "fahrtNr": "27243",
+                                    "name": "S 7 (Zug-Nr. 27243)",
+                                    "public": true,
+                                    "adminCode": "81____",
+                                    "productName": "S",
+                                    "mode": "train",
+                                    "product": "suburban",
+                                    "operator": {
+                                        "type": "operator",
+                                        "id": "nahreisezug",
+                                        "name": "Nahreisezug"
+                                    }
+                                },
+                                "direction": "Flughafen Wien Bahnhof",
+                                "when": "2024-09-09T06:09:00+02:00",
+                                "plannedWhen": "2024-09-09T06:09:00+02:00",
+                                "delay": null
+                            },
+                            {
+                                "tripId": "2|#VN#1#ST#1725534376#PI#0#ZI#222646#TA#0#DA#90924#1S#8100202#1T#528#LS#8100516#LT#745#PU#81#RT#1#CA#s#ZE#4#ZB#S 4     #PC#5#FR#8100202#FT#528#TO#8100516#TT#745#",
+                                "line": {
+                                    "type": "line",
+                                    "id": "s-4-zug-nr-29247",
+                                    "fahrtNr": "29247",
+                                    "name": "S 4 (Zug-Nr. 29247)",
+                                    "public": true,
+                                    "adminCode": "81____",
+                                    "productName": "S",
+                                    "mode": "train",
+                                    "product": "suburban",
+                                    "operator": {
+                                        "type": "operator",
+                                        "id": "nahreisezug",
+                                        "name": "Nahreisezug"
+                                    }
+                                },
+                                "direction": "Wr.Neustadt Hbf",
+                                "when": "2024-09-09T06:15:00+02:00",
+                                "plannedWhen": "2024-09-09T06:15:00+02:00",
+                                "delay": null
+                            },
+                            {
+                                "tripId": "2|#VN#1#ST#1725534376#PI#0#ZI#222649#TA#0#DA#90924#1S#8101245#1T#523#LS#8101230#LT#706#PU#81#RT#1#CA#s#ZE#2#ZB#S 2     #PC#5#FR#8101245#FT#523#TO#8101230#TT#706#",
+                                "line": {
+                                    "type": "line",
+                                    "id": "s-2-zug-nr-29255",
+                                    "fahrtNr": "29255",
+                                    "name": "S 2 (Zug-Nr. 29255)",
+                                    "public": true,
+                                    "adminCode": "81____",
+                                    "productName": "S",
+                                    "mode": "train",
+                                    "product": "suburban",
+                                    "operator": {
+                                        "type": "operator",
+                                        "id": "nahreisezug",
+                                        "name": "Nahreisezug"
+                                    }
+                                },
+                                "direction": "Mödling Bahnhof",
+                                "when": "2024-09-09T06:25:00+02:00",
+                                "plannedWhen": "2024-09-09T06:25:00+02:00",
+                                "delay": null
+                            },
+                            {
+                                "tripId": "2|#VN#1#ST#1725534376#PI#0#ZI#222651#TA#0#DA#90924#1S#8100245#1T#557#LS#8100514#LT#652#PU#81#RT#1#CA#s#ZE#1#ZB#S 1     #PC#5#FR#8100245#FT#557#TO#8100514#TT#652#",
+                                "line": {
+                                    "type": "line",
+                                    "id": "s-1-zug-nr-29257",
+                                    "fahrtNr": "29257",
+                                    "name": "S 1 (Zug-Nr. 29257)",
+                                    "public": true,
+                                    "adminCode": "81____",
+                                    "productName": "S",
+                                    "mode": "train",
+                                    "product": "suburban",
+                                    "operator": {
+                                        "type": "operator",
+                                        "id": "nahreisezug",
+                                        "name": "Nahreisezug"
+                                    }
+                                },
+                                "direction": "Wien Meidling Bahnhof",
+                                "when": "2024-09-09T06:30:00+02:00",
+                                "plannedWhen": "2024-09-09T06:30:00+02:00",
+                                "delay": null
+                            }
+                        ]
+                    },
+                    {
+                        "origin": {
+                            "type": "stop",
+                            "id": "8101641",
+                            "name": "Wien Traisengasse Bahnhof",
+                            "location": {
+                                "type": "location",
+                                "id": "8101641",
+                                "latitude": 48.234786,
+                                "longitude": 16.38338
+                            },
+                            "products": {
+                                "nationalExpress": false,
+                                "national": false,
+                                "interregional": false,
+                                "regional": true,
+                                "suburban": true,
+                                "bus": false,
+                                "ferry": false,
+                                "subway": false,
+                                "tram": false,
+                                "onCall": false
+                            }
+                        },
+                        "destination": {
+                            "type": "stop",
+                            "id": "920041",
+                            "name": "Wien Dresdner Straße (Hellwagstraße)",
+                            "location": {
+                                "type": "location",
+                                "id": "920041",
+                                "latitude": 48.23715,
+                                "longitude": 16.379308
+                            },
+                            "products": {
+                                "nationalExpress": false,
+                                "national": false,
+                                "interregional": false,
+                                "regional": false,
+                                "suburban": false,
+                                "bus": true,
+                                "ferry": false,
+                                "subway": false,
+                                "tram": true,
+                                "onCall": false
+                            }
+                        },
+                        "departure": "2024-09-09T06:02:00+02:00",
+                        "plannedDeparture": "2024-09-09T06:02:00+02:00",
+                        "departureDelay": null,
+                        "arrival": "2024-09-09T06:09:00+02:00",
+                        "plannedArrival": "2024-09-09T06:09:00+02:00",
+                        "arrivalDelay": null,
+                        "public": true,
+                        "walking": true,
+                        "distance": 424
+                    }
+                ],
+                "refreshToken": "¶HKI¶T$A=1@O=Wien Handelskai (Bahnsteige 1-2)@L=8101934@a=128@$A=1@O=Wien Traisengasse Bahnhof@L=8101641@a=128@$202409090600$202409090602$S 1     $$1$$$$$$§W$A=1@O=Wien Traisengasse Bahnhof@L=8101641@a=128@$A=1@O=Zugang Donaueschingenstraße, LBK@L=608101641@a=128@$202409090602$202409090603$$$1$$$$$$§G@F$A=1@O=Zugang Donaueschingenstraße, LBK@L=608101641@a=128@$A=1@O=Wien Dresdner Straße (Hellwagstraße)@L=920041@a=128@$202409090603$202409090609$$$1$$$$$$¶GP¶ft@0@2000@120@1@100@1@0@0@@@@@false@0@-1@0@-1@-1@$f@$f@$f@$f@$f@$§bt@0@2000@120@1@100@1@0@0@@@@@false@0@-1@0@-1@-1@$f@$f@$f@$f@$f@$§tt@0@250000@120@0@100@1@0@0@@@@@false@0@-1@0@-1@-1@$t@0@250000@120@0@100@1@0@0@@@@@false@0@-1@0@-1@-1@$t@0@0@0@0@100@-1@0@0@@@@@false@0@-1@0@-1@-1@$f@$f@$f@$§¶KRCC¶#VE#1#MRTF#",
+                "cycle": {
+                    "min": 180
+                }
+            },
+            {
+                "type": "journey",
+                "legs": [
+                    {
+                        "origin": {
+                            "type": "stop",
+                            "id": "920002",
+                            "name": "Wien Handelskai Bahnhst (U6)",
+                            "location": {
+                                "type": "location",
+                                "id": "920002",
+                                "latitude": 48.241798,
+                                "longitude": 16.385654
+                            },
+                            "products": {
+                                "nationalExpress": false,
+                                "national": false,
+                                "interregional": false,
+                                "regional": false,
+                                "suburban": false,
+                                "bus": false,
+                                "ferry": false,
+                                "subway": true,
+                                "tram": false,
+                                "onCall": false
+                            }
+                        },
+                        "destination": {
+                            "type": "stop",
+                            "id": "920001",
+                            "name": "Wien Dresdner Straße (U6)",
+                            "location": {
+                                "type": "location",
+                                "id": "920001",
+                                "latitude": 48.237177,
+                                "longitude": 16.38018
+                            },
+                            "products": {
+                                "nationalExpress": false,
+                                "national": false,
+                                "interregional": false,
+                                "regional": false,
+                                "suburban": false,
+                                "bus": false,
+                                "ferry": false,
+                                "subway": true,
+                                "tram": false,
+                                "onCall": false
+                            }
+                        },
+                        "departure": "2024-09-09T06:01:00+02:00",
+                        "plannedDeparture": "2024-09-09T06:01:00+02:00",
+                        "departureDelay": null,
+                        "arrival": "2024-09-09T06:02:00+02:00",
+                        "plannedArrival": "2024-09-09T06:02:00+02:00",
+                        "arrivalDelay": null,
+                        "reachable": true,
+                        "tripId": "2|#VN#1#ST#1725534376#PI#0#ZI#381009#TA#1#DA#90924#1S#921008#1T#558#LS#923054#LT#632#PU#81#RT#1#CA#U#ZE#U6#ZB#U6      #PC#8#FR#921008#FT#558#TO#923054#TT#632#",
+                        "line": {
+                            "type": "line",
+                            "id": "u6",
+                            "fahrtNr": "914854",
+                            "name": "U6",
+                            "public": true,
+                            "adminCode": "v04WL_",
+                            "mode": "train",
+                            "product": "subway",
+                            "operator": {
+                                "type": "operator",
+                                "id": "wiener-linien-gmbh-co-kg",
+                                "name": "Wiener Linien GmbH & Co KG"
+                            }
+                        },
+                        "direction": "Wien Siebenhirten (U6)",
+                        "arrivalPlatform": "2",
+                        "plannedArrivalPlatform": "2",
+                        "arrivalPrognosisType": "prognosed",
+                        "departurePlatform": "2",
+                        "plannedDeparturePlatform": "2",
+                        "departurePrognosisType": "prognosed",
+                        "remarks": [
+                            {
+                                "type": "hint",
+                                "code": "OB",
+                                "text": "Niederflurfahrzeug"
+                            },
+                            {
+                                "type": "hint",
+                                "code": "RO",
+                                "text": "Rollstuhlstellplatz"
+                            }
+                        ],
+                        "cycle": {
+                            "min": 120,
+                            "max": 240,
+                            "nr": 44
+                        }
+                    }
+                ],
+                "refreshToken": "¶HKI¶T$A=1@O=Wien Handelskai Bahnhst (U6)@L=920002@a=128@$A=1@O=Wien Dresdner Straße (U6)@L=920001@a=128@$202409090601$202409090602$U6      $$1$$$$$$¶KRCC¶#VE#1#MRTF#",
+                "cycle": {
+                    "min": 120
+                },
+                "remarks": []
+            }
+        ]
+    },
+    {
+        "time": 7,
+        "startPoint": {
+            "lat": 48.14952713576325,
+            "long": 16.432054890245706,
+            "name": "Wien Zentralfriedhof (S-Bahn)",
+            "id": "8101820"
+        },
+        "endPoint": {
+            "lat": 48.23714265416501,
+            "long": 16.37967587837673,
+            "name": "Wien Dresdner Straße (Hellwagstraße)",
+            "id": "920041"
+        },
+        "endPointDist": 10487.553097480364,
+        "speed": 89.8933122641174,
+        "distToStation": 27,
+        "journeys": [
+            {
+                "type": "journey",
+                "legs": [
+                    {
+                        "origin": {
+                            "type": "stop",
+                            "id": "8101820",
+                            "name": "Wien Zentralfriedhof S-Bahn Bahnhof",
+                            "location": {
+                                "type": "location",
+                                "id": "8101820",
+                                "latitude": 48.154171,
+                                "longitude": 16.426133
+                            },
+                            "products": {
+                                "nationalExpress": false,
+                                "national": false,
+                                "interregional": false,
+                                "regional": false,
+                                "suburban": true,
+                                "bus": false,
+                                "ferry": false,
+                                "subway": false,
+                                "tram": false,
+                                "onCall": false
+                            }
+                        },
+                        "destination": {
+                            "type": "stop",
+                            "id": "8101641",
+                            "name": "Wien Traisengasse Bahnhof",
+                            "location": {
+                                "type": "location",
+                                "id": "8101641",
+                                "latitude": 48.234786,
+                                "longitude": 16.38338
+                            },
+                            "products": {
+                                "nationalExpress": false,
+                                "national": false,
+                                "interregional": false,
+                                "regional": true,
+                                "suburban": true,
+                                "bus": false,
+                                "ferry": false,
+                                "subway": false,
+                                "tram": false,
+                                "onCall": false
+                            }
+                        },
+                        "departure": "2024-09-09T06:02:00+02:00",
+                        "plannedDeparture": "2024-09-09T06:02:00+02:00",
+                        "departureDelay": null,
+                        "arrival": "2024-09-09T06:20:00+02:00",
+                        "plannedArrival": "2024-09-09T06:20:00+02:00",
+                        "arrivalDelay": null,
+                        "reachable": true,
+                        "tripId": "2|#VN#1#ST#1725534376#PI#0#ZI#221720#TA#0#DA#90924#1S#8100353#1T#549#LS#8100236#LT#625#PU#81#RT#1#CA#s#ZE#7#ZB#S 7     #PC#5#FR#8100353#FT#549#TO#8100236#TT#625#",
+                        "line": {
+                            "type": "line",
+                            "id": "s-7-zug-nr-23238",
+                            "fahrtNr": "23238",
+                            "name": "S 7 (Zug-Nr. 23238)",
+                            "public": true,
+                            "adminCode": "81____",
+                            "productName": "S",
+                            "mode": "train",
+                            "product": "suburban",
+                            "operator": {
+                                "type": "operator",
+                                "id": "nahreisezug",
+                                "name": "Nahreisezug"
+                            }
+                        },
+                        "direction": "Wien Floridsdorf Bahnhof",
+                        "arrivalPlatform": "2",
+                        "plannedArrivalPlatform": "2",
+                        "arrivalPrognosisType": "prognosed",
+                        "departurePlatform": "1",
+                        "plannedDeparturePlatform": "1",
+                        "departurePrognosisType": "prognosed",
+                        "remarks": [
+                            {
+                                "type": "hint",
+                                "code": "OB",
+                                "text": "Niederflurfahrzeug"
+                            },
+                            {
+                                "type": "hint",
+                                "code": "RO",
+                                "text": "Rollstuhlstellplatz"
+                            },
+                            {
+                                "type": "hint",
+                                "code": "OA",
+                                "text": "Rollstuhlstellplatz - Voranmeldung unter +43 5 1717"
+                            },
+                            {
+                                "type": "hint",
+                                "code": "EF",
+                                "text": "Fahrzeuggebundene Einstiegshilfe"
+                            },
+                            {
+                                "type": "hint",
+                                "code": "OC",
+                                "text": "rollstuhltaugliches WC"
+                            },
+                            {
+                                "type": "hint",
+                                "code": "FK",
+                                "text": "Fahrradmitnahme begrenzt möglich"
+                            },
+                            {
+                                "type": "hint",
+                                "code": "K2",
+                                "text": "nur 2. Klasse"
+                            },
+                            {
+                                "type": "hint",
+                                "code": "SB",
+                                "text": "Zustieg im Nahverkehr (REX, R, CJX, S-Bahn) nur mit gültiger Fahrkarte"
+                            },
+                            {
+                                "type": "hint",
+                                "code": "WV",
+                                "text": "WLAN verfügbar"
+                            }
+                        ],
+                        "cycle": {
+                            "min": 1800,
+                            "max": 1800,
+                            "nr": 5
+                        }
+                    },
+                    {
+                        "origin": {
+                            "type": "stop",
+                            "id": "8101641",
+                            "name": "Wien Traisengasse Bahnhof",
+                            "location": {
+                                "type": "location",
+                                "id": "8101641",
+                                "latitude": 48.234786,
+                                "longitude": 16.38338
+                            },
+                            "products": {
+                                "nationalExpress": false,
+                                "national": false,
+                                "interregional": false,
+                                "regional": true,
+                                "suburban": true,
+                                "bus": false,
+                                "ferry": false,
+                                "subway": false,
+                                "tram": false,
+                                "onCall": false
+                            }
+                        },
+                        "destination": {
+                            "type": "stop",
+                            "id": "920041",
+                            "name": "Wien Dresdner Straße (Hellwagstraße)",
+                            "location": {
+                                "type": "location",
+                                "id": "920041",
+                                "latitude": 48.23715,
+                                "longitude": 16.379308
+                            },
+                            "products": {
+                                "nationalExpress": false,
+                                "national": false,
+                                "interregional": false,
+                                "regional": false,
+                                "suburban": false,
+                                "bus": true,
+                                "ferry": false,
+                                "subway": false,
+                                "tram": true,
+                                "onCall": false
+                            }
+                        },
+                        "departure": "2024-09-09T06:20:00+02:00",
+                        "plannedDeparture": "2024-09-09T06:20:00+02:00",
+                        "departureDelay": null,
+                        "arrival": "2024-09-09T06:27:00+02:00",
+                        "plannedArrival": "2024-09-09T06:27:00+02:00",
+                        "arrivalDelay": null,
+                        "public": true,
+                        "walking": true,
+                        "distance": 424
+                    }
+                ],
+                "refreshToken": "¶HKI¶T$A=1@O=Wien Zentralfriedhof S-Bahn Bahnhof@L=8101820@a=128@$A=1@O=Wien Traisengasse Bahnhof@L=8101641@a=128@$202409090602$202409090620$S 7     $$1$$$$$$§W$A=1@O=Wien Traisengasse Bahnhof@L=8101641@a=128@$A=1@O=Zugang Donaueschingenstraße, LBK@L=608101641@a=128@$202409090620$202409090621$$$1$$$$$$§G@F$A=1@O=Zugang Donaueschingenstraße, LBK@L=608101641@a=128@$A=1@O=Wien Dresdner Straße (Hellwagstraße)@L=920041@a=128@$202409090621$202409090627$$$1$$$$$$¶GP¶ft@0@2000@120@1@100@1@0@0@@@@@false@0@-1@0@-1@-1@$f@$f@$f@$f@$f@$§bt@0@2000@120@1@100@1@0@0@@@@@false@0@-1@0@-1@-1@$f@$f@$f@$f@$f@$§tt@0@250000@120@0@100@1@0@0@@@@@false@0@-1@0@-1@-1@$t@0@250000@120@0@100@1@0@0@@@@@false@0@-1@0@-1@-1@$t@0@0@0@0@100@-1@0@0@@@@@false@0@-1@0@-1@-1@$f@$f@$f@$§¶KRCC¶#VE#1#MRTF#",
+                "cycle": {
+                    "min": 1800
+                }
+            }
+        ]
+    },
+    {
+        "time": 7,
+        "startPoint": {
+            "lat": 48.419323617538865,
+            "long": 16.512987225614264,
+            "name": "Schleinbach",
+            "id": "8101535"
+        },
+        "endPoint": {
+            "lat": 48.23714265416501,
+            "long": 16.37967587837673,
+            "name": "Wien Dresdner Straße (Hellwagstraße)",
+            "id": "920041"
+        },
+        "endPointDist": 22527.829236915233,
+        "speed": 193.09567917355915,
+        "distToStation": 27,
+        "journeys": [
+            {
+                "type": "journey",
+                "legs": [
+                    {
+                        "origin": {
+                            "type": "stop",
+                            "id": "8101535",
+                            "name": "Schleinbach Bahnhst",
+                            "location": {
+                                "type": "location",
+                                "id": "8101535",
+                                "latitude": 48.422059,
+                                "longitude": 16.489875
+                            },
+                            "products": {
+                                "nationalExpress": false,
+                                "national": false,
+                                "interregional": false,
+                                "regional": true,
+                                "suburban": true,
+                                "bus": false,
+                                "ferry": false,
+                                "subway": false,
+                                "tram": false,
+                                "onCall": false
+                            }
+                        },
+                        "destination": {
+                            "type": "stop",
+                            "id": "8101641",
+                            "name": "Wien Traisengasse Bahnhof",
+                            "location": {
+                                "type": "location",
+                                "id": "8101641",
+                                "latitude": 48.234786,
+                                "longitude": 16.38338
+                            },
+                            "products": {
+                                "nationalExpress": false,
+                                "national": false,
+                                "interregional": false,
+                                "regional": true,
+                                "suburban": true,
+                                "bus": false,
+                                "ferry": false,
+                                "subway": false,
+                                "tram": false,
+                                "onCall": false
+                            }
+                        },
+                        "departure": "2024-09-09T06:10:00+02:00",
+                        "plannedDeparture": "2024-09-09T06:10:00+02:00",
+                        "departureDelay": null,
+                        "arrival": "2024-09-09T06:41:00+02:00",
+                        "plannedArrival": "2024-09-09T06:41:00+02:00",
+                        "arrivalDelay": null,
+                        "reachable": true,
+                        "tripId": "2|#VN#1#ST#1725534376#PI#0#ZI#222277#TA#0#DA#90924#1S#8101180#1T#519#LS#8100353#LT#711#PU#81#RT#1#CA#REX#ZE#2#ZB#REX 2   #PC#4#FR#8101180#FT#519#TO#8100353#TT#711#",
+                        "line": {
+                            "type": "line",
+                            "id": "rex-2-zug-nr-27265",
+                            "fahrtNr": "27265",
+                            "name": "REX 2 (Zug-Nr. 27265)",
+                            "public": true,
+                            "adminCode": "81____",
+                            "productName": "REX",
+                            "mode": "train",
+                            "product": "regional",
+                            "operator": {
+                                "type": "operator",
+                                "id": "nahreisezug",
+                                "name": "Nahreisezug"
+                            }
+                        },
+                        "direction": "Flughafen Wien Bahnhof",
+                        "arrivalPlatform": "1",
+                        "plannedArrivalPlatform": "1",
+                        "arrivalPrognosisType": "prognosed",
+                        "departurePlatform": "1",
+                        "plannedDeparturePlatform": "1",
+                        "departurePrognosisType": "prognosed",
+                        "remarks": [
+                            {
+                                "type": "hint",
+                                "code": "OB",
+                                "text": "Niederflurfahrzeug"
+                            },
+                            {
+                                "type": "hint",
+                                "code": "RO",
+                                "text": "Rollstuhlstellplatz"
+                            },
+                            {
+                                "type": "hint",
+                                "code": "OA",
+                                "text": "Rollstuhlstellplatz - Voranmeldung unter +43 5 1717"
+                            },
+                            {
+                                "type": "hint",
+                                "code": "EF",
+                                "text": "Fahrzeuggebundene Einstiegshilfe"
+                            },
+                            {
+                                "type": "hint",
+                                "code": "OC",
+                                "text": "rollstuhltaugliches WC"
+                            },
+                            {
+                                "type": "hint",
+                                "code": "FK",
+                                "text": "Fahrradmitnahme begrenzt möglich"
+                            },
+                            {
+                                "type": "hint",
+                                "code": "K2",
+                                "text": "nur 2. Klasse"
+                            },
+                            {
+                                "type": "hint",
+                                "code": "SB",
+                                "text": "Zustieg im Nahverkehr (REX, R, CJX, S-Bahn) nur mit gültiger Fahrkarte"
+                            },
+                            {
+                                "type": "hint",
+                                "code": "WV",
+                                "text": "WLAN verfügbar"
+                            }
+                        ],
+                        "cycle": {
+                            "min": 420,
+                            "max": 1380,
+                            "nr": 8
+                        },
+                        "alternatives": [
+                            {
+                                "tripId": "2|#VN#1#ST#1725534376#PI#0#ZI#222666#TA#0#DA#90924#1S#8101245#1T#553#LS#8101230#LT#736#PU#81#RT#1#CA#s#ZE#2#ZB#S 2     #PC#5#FR#8101245#FT#553#TO#8101230#TT#736#",
+                                "line": {
+                                    "type": "line",
+                                    "id": "s-2-zug-nr-29275",
+                                    "fahrtNr": "29275",
+                                    "name": "S 2 (Zug-Nr. 29275)",
+                                    "public": true,
+                                    "adminCode": "81____",
+                                    "productName": "S",
+                                    "mode": "train",
+                                    "product": "suburban",
+                                    "operator": {
+                                        "type": "operator",
+                                        "id": "nahreisezug",
+                                        "name": "Nahreisezug"
+                                    }
+                                },
+                                "direction": "Mödling Bahnhof",
+                                "when": "2024-09-09T06:17:00+02:00",
+                                "plannedWhen": "2024-09-09T06:17:00+02:00",
+                                "delay": null
+                            },
+                            {
+                                "tripId": "2|#VN#1#ST#1725534376#PI#0#ZI#222581#TA#0#DA#90924#1S#8101180#1T#547#LS#8100027#LT#835#PU#81#RT#1#CA#REX#ZE#2#ZB#REX 2   #PC#4#FR#8101180#FT#547#TO#8100027#TT#835#",
+                                "line": {
+                                    "type": "line",
+                                    "id": "rex-2-zug-nr-2913",
+                                    "fahrtNr": "2913",
+                                    "name": "REX 2 (Zug-Nr. 2913)",
+                                    "public": true,
+                                    "adminCode": "81____",
+                                    "productName": "REX",
+                                    "mode": "train",
+                                    "product": "regional",
+                                    "operator": {
+                                        "type": "operator",
+                                        "id": "nahreisezug",
+                                        "name": "Nahreisezug"
+                                    }
+                                },
+                                "direction": "Payerbach-Reichenau Bahnhof",
+                                "when": "2024-09-09T06:33:00+02:00",
+                                "plannedWhen": "2024-09-09T06:33:00+02:00",
+                                "delay": null
+                            },
+                            {
+                                "tripId": "2|#VN#1#ST#1725534376#PI#0#ZI#222616#TA#1#DA#90924#1S#8101245#1T#623#LS#8101230#LT#806#PU#81#RT#1#CA#s#ZE#2#ZB#S 2     #PC#5#FR#8101245#FT#623#TO#8101230#TT#806#",
+                                "line": {
+                                    "type": "line",
+                                    "id": "s-2-zug-nr-29295",
+                                    "fahrtNr": "29295",
+                                    "name": "S 2 (Zug-Nr. 29295)",
+                                    "public": true,
+                                    "adminCode": "81____",
+                                    "productName": "S",
+                                    "mode": "train",
+                                    "product": "suburban",
+                                    "operator": {
+                                        "type": "operator",
+                                        "id": "nahreisezug",
+                                        "name": "Nahreisezug"
+                                    }
+                                },
+                                "direction": "Mödling Bahnhof",
+                                "when": "2024-09-09T06:47:00+02:00",
+                                "plannedWhen": "2024-09-09T06:47:00+02:00",
+                                "delay": null
+                            },
+                            {
+                                "tripId": "2|#VN#1#ST#1725534376#PI#0#ZI#222290#TA#0#DA#90924#1S#8101180#1T#619#LS#8100353#LT#811#PU#81#RT#1#CA#REX#ZE#2#ZB#REX 2   #PC#4#FR#8101180#FT#619#TO#8100353#TT#811#",
+                                "line": {
+                                    "type": "line",
+                                    "id": "rex-2-zug-nr-27305",
+                                    "fahrtNr": "27305",
+                                    "name": "REX 2 (Zug-Nr. 27305)",
+                                    "public": true,
+                                    "adminCode": "81____",
+                                    "productName": "REX",
+                                    "mode": "train",
+                                    "product": "regional",
+                                    "operator": {
+                                        "type": "operator",
+                                        "id": "nahreisezug",
+                                        "name": "Nahreisezug"
+                                    }
+                                },
+                                "direction": "Flughafen Wien Bahnhof",
+                                "when": "2024-09-09T07:10:00+02:00",
+                                "plannedWhen": "2024-09-09T07:10:00+02:00",
+                                "delay": null
+                            },
+                            {
+                                "tripId": "2|#VN#1#ST#1725534376#PI#0#ZI#222581#TA#1#DA#90924#1S#8101180#1T#647#LS#8100027#LT#935#PU#81#RT#1#CA#REX#ZE#2#ZB#REX 2   #PC#4#FR#8101180#FT#647#TO#8100027#TT#935#",
+                                "line": {
+                                    "type": "line",
+                                    "id": "rex-2-zug-nr-2917",
+                                    "fahrtNr": "2917",
+                                    "name": "REX 2 (Zug-Nr. 2917)",
+                                    "public": true,
+                                    "adminCode": "81____",
+                                    "productName": "REX",
+                                    "mode": "train",
+                                    "product": "regional",
+                                    "operator": {
+                                        "type": "operator",
+                                        "id": "nahreisezug",
+                                        "name": "Nahreisezug"
+                                    }
+                                },
+                                "direction": "Payerbach-Reichenau Bahnhof",
+                                "when": "2024-09-09T07:33:00+02:00",
+                                "plannedWhen": "2024-09-09T07:33:00+02:00",
+                                "delay": null
+                            }
+                        ]
+                    },
+                    {
+                        "origin": {
+                            "type": "stop",
+                            "id": "8101641",
+                            "name": "Wien Traisengasse Bahnhof",
+                            "location": {
+                                "type": "location",
+                                "id": "8101641",
+                                "latitude": 48.234786,
+                                "longitude": 16.38338
+                            },
+                            "products": {
+                                "nationalExpress": false,
+                                "national": false,
+                                "interregional": false,
+                                "regional": true,
+                                "suburban": true,
+                                "bus": false,
+                                "ferry": false,
+                                "subway": false,
+                                "tram": false,
+                                "onCall": false
+                            }
+                        },
+                        "destination": {
+                            "type": "stop",
+                            "id": "920041",
+                            "name": "Wien Dresdner Straße (Hellwagstraße)",
+                            "location": {
+                                "type": "location",
+                                "id": "920041",
+                                "latitude": 48.23715,
+                                "longitude": 16.379308
+                            },
+                            "products": {
+                                "nationalExpress": false,
+                                "national": false,
+                                "interregional": false,
+                                "regional": false,
+                                "suburban": false,
+                                "bus": true,
+                                "ferry": false,
+                                "subway": false,
+                                "tram": true,
+                                "onCall": false
+                            }
+                        },
+                        "departure": "2024-09-09T06:41:00+02:00",
+                        "plannedDeparture": "2024-09-09T06:41:00+02:00",
+                        "departureDelay": null,
+                        "arrival": "2024-09-09T06:48:00+02:00",
+                        "plannedArrival": "2024-09-09T06:48:00+02:00",
+                        "arrivalDelay": null,
+                        "public": true,
+                        "walking": true,
+                        "distance": 424
+                    }
+                ],
+                "refreshToken": "¶HKI¶T$A=1@O=Schleinbach Bahnhst@L=8101535@a=128@$A=1@O=Wien Traisengasse Bahnhof@L=8101641@a=128@$202409090610$202409090641$REX 2   $$1$$$$$$§W$A=1@O=Wien Traisengasse Bahnhof@L=8101641@a=128@$A=1@O=Zugang Donaueschingenstraße, LBK@L=608101641@a=128@$202409090641$202409090642$$$1$$$$$$§G@F$A=1@O=Zugang Donaueschingenstraße, LBK@L=608101641@a=128@$A=1@O=Wien Dresdner Straße (Hellwagstraße)@L=920041@a=128@$202409090642$202409090648$$$1$$$$$$¶GP¶ft@0@2000@120@1@100@1@0@0@@@@@false@0@-1@0@-1@-1@$f@$f@$f@$f@$f@$§bt@0@2000@120@1@100@1@0@0@@@@@false@0@-1@0@-1@-1@$f@$f@$f@$f@$f@$§tt@0@250000@120@0@100@1@0@0@@@@@false@0@-1@0@-1@-1@$t@0@250000@120@0@100@1@0@0@@@@@false@0@-1@0@-1@-1@$t@0@0@0@0@100@-1@0@0@@@@@false@0@-1@0@-1@-1@$f@$f@$f@$§¶KRCC¶#VE#1#MRTF#",
+                "cycle": {
+                    "min": 420
+                }
+            }
+        ]
+    }
+]
