@@ -7,7 +7,7 @@ import { calcPublicDuration } from "./lib/calcPublicDuration.js"
 
 const searchAndRecalcGrid = false
 
-const skipStation = 1 //<-----------------------------achtung should be 1 for testing 10
+const skipStation = 100 //<-----------------------------achtung should be 1 for testing 10
 
 const latitude =  
 //48.1855 // Wien HBF

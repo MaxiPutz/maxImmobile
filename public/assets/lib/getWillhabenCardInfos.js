@@ -1,6 +1,7 @@
 import { token } from "../../../public/private/token.js"
 
 
+
 export async function getWillhaebenCardInfos () {
     var box = [...document.querySelectorAll("[class*=Box]")]
     .filter(ele =>  ele.children.length == 2)

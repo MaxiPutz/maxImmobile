@@ -1,4 +1,6 @@
-import accessTokenObject from "./accestoken.js";
+import { accessTokenObject } from "../../../public/private/token.js"
+
+
 
 async function getPublicTransportationDirections(origin, destination, accessToken) {
     /**

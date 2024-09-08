@@ -1,5 +1,5 @@
 import { client } from "./hafasClient.js"
-import { getNextMonday } from "./nextMondayAt6to10.js"
+import { getNextMonday, getSecoundMondayOnAugust } from "./nextMondayAt6to10.js"
 
 let isStationIdProcess = {
 
@@ -16,7 +16,7 @@ export async function calcPublicDuration (startId, endId) {
     }
     
     const { journeys } = await client.journeys(startId, endId, {
-        departure: getNextMonday(),
+        departure: getNextMonday(), // getNextMonday(),
         results: 10,
         stopovers: false,
         transfers: 3, // You can change this if you want to allow transfers

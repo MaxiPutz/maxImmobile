@@ -1,6 +1,7 @@
 import { token } from "../../../public/private/token.js"
 
 
+
 export async function getCoordinates(villageString) {
         
         const query = encodeURIComponent(`${villageString}`);
