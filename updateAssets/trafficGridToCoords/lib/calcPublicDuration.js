@@ -17,9 +17,9 @@ export async function calcPublicDuration (startId, endId) {
     
     const { journeys } = await client.journeys(startId, endId, {
         departure: getNextMonday(),
-        results: 4,
+        results: 10,
         stopovers: false,
-        transfers: 0, // You can change this if you want to allow transfers
+        transfers: 3, // You can change this if you want to allow transfers
         //products: ['nationalExpress', 'regionalExpress', 'regional'], // Specify which type of trains to consider
         maxDuration: 60*4 // Max duration in minutes (4 hours)
     })

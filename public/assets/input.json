@@ -1,5 +1,1180 @@
 [
     {
+        "price": "€ 735",
+        "teaser": [
+            "59 m²",
+            "2 Zimmer",
+            "Balkon, Garten"
+        ],
+        "destination": "3500 Krems an der Donau",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-an-der-donau/krems-gemuetliche-2zi-59qm-balkon-wohnung-lift-tiefgarage-2018444157/",
+        "coords": {
+            "latitude": 48.41126,
+            "longitude": 15.60058
+        }
+    },
+    {
+        "price": "€ 890,10",
+        "teaser": [
+            "74 m²",
+            "3 Zimmer",
+            "Terrasse, Garten"
+        ],
+        "destination": "3354 Wolfsbach",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/neubauwohnung-mit-garten-terrasse-und-garage-in-traumhafter-lage-1475176117/",
+        "coords": {
+            "latitude": 48.078928,
+            "longitude": 14.669516
+        }
+    },
+    {
+        "price": "€ 540",
+        "teaser": [
+            "55 m²",
+            "2 Zimmer",
+            "Terrasse, Loggia, Garten"
+        ],
+        "destination": "2842 Edlitz",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/neunkirchen/gefoerderte-genossenschaftswohnung-miete-mit-kaufrecht-erstbezug-top-2-3-771789652/",
+        "coords": {
+            "latitude": 47.597196,
+            "longitude": 16.140018
+        }
+    },
+    {
+        "price": "€ 898,79",
+        "teaser": [
+            "69 m²",
+            "3 Zimmer",
+            "Loggia, Garten"
+        ],
+        "destination": "3100 St. Pölten, Doktor-Wilhelm-Steingötter-Straße 25",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/geraeumiges-wohnvergnuegen-hochwertige-ausstattung-und-viel-platz-fuer-die-ganze-familie-traumhafte-3-zimmer-wohnung-wohntraum-1000258547/",
+        "coords": {
+            "latitude": 48.223444,
+            "longitude": 15.632794
+        }
+    },
+    {
+        "price": "€ 899,65",
+        "teaser": [
+            "68 m²",
+            "3 Zimmer",
+            "Loggia, Garten"
+        ],
+        "destination": "3100 St. Pölten, Doktor-Wilhelm-Steingötter-Straße 25",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/geraeumiges-wohnvergnuegen-hochwertige-ausstattung-und-viel-platz-fuer-die-ganze-familie-traumhafte-3-zimmer-wohnung-wohntraum-1958764460/",
+        "coords": {
+            "latitude": 48.223444,
+            "longitude": 15.632794
+        }
+    },
+    {
+        "price": "€ 974,93",
+        "teaser": [
+            "71 m²",
+            "3 Zimmer",
+            "Balkon, Loggia, Garten"
+        ],
+        "destination": "3100 St. Pölten, Doktor-Wilhelm-Steingötter-Straße 25",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/geraeumiges-wohnvergnuegen-hochwertige-ausstattung-und-viel-platz-fuer-die-ganze-familie-traumhafte-3-zimmer-wohnung-jetzt-zuschlagen-2116521728/",
+        "coords": {
+            "latitude": 48.223444,
+            "longitude": 15.632794
+        }
+    },
+    {
+        "price": "€ 949,25",
+        "teaser": [
+            "69 m²",
+            "3 Zimmer",
+            "Loggia, Garten"
+        ],
+        "destination": "3100 St. Pölten, Doktor-Wilhelm-Steingötter-Straße 25",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/geraeumiges-wohnvergnuegen-hochwertige-ausstattung-und-viel-platz-fuer-die-ganze-familie-traumhafte-3-zimmer-wohnung-jetzt-anfragen-1414146956/",
+        "coords": {
+            "latitude": 48.223444,
+            "longitude": 15.632794
+        }
+    },
+    {
+        "price": "€ 925,07",
+        "teaser": [
+            "69 m²",
+            "3 Zimmer",
+            "Loggia, Garten"
+        ],
+        "destination": "3100 St. Pölten, Doktor-Wilhelm-Steingötter-Straße 25",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/geraeumiges-wohnvergnuegen-hochwertige-ausstattung-und-viel-platz-fuer-die-ganze-familie-traumhafte-3-zimmer-wohnung-wohntraum-2038771317/",
+        "coords": {
+            "latitude": 48.223444,
+            "longitude": 15.632794
+        }
+    },
+    {
+        "price": "€ 948,28",
+        "teaser": [
+            "70 m²",
+            "3 Zimmer",
+            "Balkon, Loggia, Garten"
+        ],
+        "destination": "3100 St. Pölten, Doktor-Wilhelm-Steingötter-Straße 25",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/geraeumiges-wohnvergnuegen-hochwertige-ausstattung-und-viel-platz-fuer-die-ganze-familie-traumhafte-3-zimmer-wohnung-jetzt-anfragen-782963280/",
+        "coords": {
+            "latitude": 48.223444,
+            "longitude": 15.632794
+        }
+    },
+    {
+        "price": "€ 925,40",
+        "teaser": [
+            "71 m²",
+            "3 Zimmer",
+            "Balkon, Loggia, Garten"
+        ],
+        "destination": "3100 St. Pölten, Doktor-Wilhelm-Steingötter-Straße 25",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/geraeumiges-wohnvergnuegen-hochwertige-ausstattung-und-viel-platz-fuer-die-ganze-familie-traumhafte-3-zimmer-wohnung-jetzt-anfragen-1317681227/",
+        "coords": {
+            "latitude": 48.223444,
+            "longitude": 15.632794
+        }
+    },
+    {
+        "price": "€ 945,27",
+        "teaser": [
+            "70 m²",
+            "3 Zimmer",
+            "Loggia"
+        ],
+        "destination": "2700 Wiener Neustadt, Gymelsdorfergasse 48A",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/wiener-neustadt/das-beste-aus-stadt-und-natur-wohnen-im-herzen-von-wiener-neustadt-wohntraum-1594753194/",
+        "coords": {
+            "latitude": 47.813919,
+            "longitude": 16.243852
+        }
+    },
+    {
+        "price": "€ 925,48",
+        "teaser": [
+            "61 m²",
+            "3 Zimmer",
+            "Loggia"
+        ],
+        "destination": "2700 Wiener Neustadt, Gymelsdorfergasse 50",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/wiener-neustadt/das-beste-aus-stadt-und-natur-wohnen-im-herzen-von-wiener-neustadt-jetzt-anfragen-894217021/",
+        "coords": {
+            "latitude": 47.813919,
+            "longitude": 16.243852
+        }
+    },
+    {
+        "price": "€ 921,76",
+        "teaser": [
+            "66 m²",
+            "3 Zimmer",
+            "Balkon, Loggia"
+        ],
+        "destination": "3100 St. Pölten, Julius Raab-Promenade 31-35",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/provisionsfreier-wohngenuss-im-herzen-der-landeshauptstadt-jetzt-zuschlagen-1654885330/",
+        "coords": {
+            "latitude": 48.204602,
+            "longitude": 15.620226
+        }
+    },
+    {
+        "price": "€ 670",
+        "teaser": [
+            "52 m²",
+            "2 Zimmer",
+            "Loggia"
+        ],
+        "destination": "3100 St. Pölten, Julius Raab-Promenade 31-35",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/provisionsfreier-wohngenuss-im-herzen-der-landeshauptstadt-hochwertige-ausstattung-zum-wohlfuehlen-jetzt-zuschlagen-919645465/",
+        "coords": {
+            "latitude": 48.204602,
+            "longitude": 15.620226
+        }
+    },
+    {
+        "price": "€ 825",
+        "teaser": [
+            "69 m²",
+            "3 Zimmer",
+            "Balkon"
+        ],
+        "destination": "2700 Wiener Neustadt, Lagergasse 20",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/wiener-neustadt/genossenschaftswohnung-1949369710/",
+        "coords": {
+            "latitude": 47.832711,
+            "longitude": 16.253489
+        }
+    },
+    {
+        "price": "€ 700",
+        "teaser": [
+            "66 m²",
+            "3 Zimmer",
+            "Terrasse"
+        ],
+        "destination": "2514 Traiskirchen",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/baden/schoene-3-zimmer-wohnung-mit-15-m-grossen-suedterrasse-im-zentrum-ruhige-innenhoflage-1401889294/",
+        "coords": {
+            "latitude": 48.014223,
+            "longitude": 16.29366
+        }
+    },
+    {
+        "price": "€ 740",
+        "teaser": [
+            "62 m²",
+            "3 Zimmer",
+            "Terrasse, Balkon"
+        ],
+        "destination": "3451 Michelhausen",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/tulln/provisionsfrei-perfekt-aufgeteilte-3-zimmer-balkon-wohnung-inkl-ewe-einbaukueche-kfz-stellplatz-in-michelhausen-1732149727/",
+        "coords": {
+            "latitude": 48.290065,
+            "longitude": 15.94161
+        }
+    },
+    {
+        "price": "€ 837,37",
+        "teaser": [
+            "82 m²",
+            "3 Zimmer",
+            "Balkon"
+        ],
+        "destination": "2824 Seebenstein, Bahnstraße 10/2",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/neunkirchen/nachmieter-fuer-traumhafte-3-zimmer-wohnung-1730908936/",
+        "coords": {
+            "latitude": 47.701685,
+            "longitude": 16.143145
+        }
+    },
+    {
+        "price": "€ 440,90",
+        "teaser": [
+            "54 m²",
+            "2 Zimmer",
+            "Balkon"
+        ],
+        "destination": "7210 Mattersburg, Brunnenplatz",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/burgenland/mattersburg/charmante-2-zimmer-wohnung-am-brunnenplatz-mit-balkon-in-mattersburg-928015472/",
+        "coords": {
+            "latitude": 47.738108,
+            "longitude": 16.399881
+        }
+    },
+    {
+        "price": "€ 707,35",
+        "teaser": [
+            "56 m²",
+            "2 Zimmer",
+            "Loggia"
+        ],
+        "destination": "2193 Wilfersdorf, Marktplatz 12-16",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/mistelbach/nachmieter-fuer-genossenschaftswohnung-gesucht-1425944034/",
+        "coords": {
+            "latitude": 48.586161,
+            "longitude": 16.644527
+        }
+    },
+    {
+        "price": "€ 749",
+        "teaser": [
+            "49 m²",
+            "2 Zimmer",
+            "Terrasse, Dachterrasse"
+        ],
+        "destination": "3100 St. Pölten, Rathausgasse",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/stilvoll-wohnen-in-zentraler-lage-maisonette-mit-terrasse-und-top-ausstattung-in-st-poelten-1457174387/",
+        "coords": {
+            "latitude": 48.204508,
+            "longitude": 15.623609
+        }
+    },
+    {
+        "price": "€ 585",
+        "teaser": [
+            "85 m²",
+            "4 Zimmer",
+            "Balkon"
+        ],
+        "destination": "3701 Großweikersdorf, Hornerstrasse",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/tulln/nachmieter-fuer-gefoerderte-wohnung-ab-voraussichtlich-oktober-in-grossweikersdorf-1828803390/",
+        "coords": {
+            "latitude": 48.477497,
+            "longitude": 15.97767
+        }
+    },
+    {
+        "price": "€ 975,63",
+        "teaser": [
+            "70 m²",
+            "3 Zimmer",
+            "Balkon, Loggia"
+        ],
+        "destination": "3100 St. Pölten, Doktor-Wilhelm-Steingötter-Straße 25",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/steingoetterhof-stadt-trifft-natur-nbsp-neubau-erstbezugswohnungen-in-wunderbarer-lage-jetzt-zuschlagen-1648981172/",
+        "coords": {
+            "latitude": 48.223444,
+            "longitude": 15.632794
+        }
+    },
+    {
+        "price": "€ 948,85",
+        "teaser": [
+            "69 m²",
+            "3 Zimmer",
+            "Loggia"
+        ],
+        "destination": "3100 St. Pölten, Doktor-Wilhelm-Steingötter-Straße 25",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/steingoetterhof-stadt-trifft-natur-nbsp-neubau-erstbezugswohnungen-in-wunderbarer-lage-jetzt-zuschlagen-1176528594/",
+        "coords": {
+            "latitude": 48.223444,
+            "longitude": 15.632794
+        }
+    },
+    {
+        "price": "€ 925,81",
+        "teaser": [
+            "71 m²",
+            "3 Zimmer",
+            "Balkon, Loggia"
+        ],
+        "destination": "3100 St. Pölten, Doktor-Wilhelm-Steingötter-Straße 25",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/steingoetterhof-stadt-trifft-natur-nbsp-neubau-erstbezugswohnungen-in-wunderbarer-lage-wohntraum-2142949585/",
+        "coords": {
+            "latitude": 48.223444,
+            "longitude": 15.632794
+        }
+    },
+    {
+        "price": "€ 899,37",
+        "teaser": [
+            "67 m²",
+            "3 Zimmer",
+            "Loggia"
+        ],
+        "destination": "3100 St. Pölten, Doktor-Wilhelm-Steingötter-Straße 25",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/steingoetterhof-stadt-trifft-natur-nbsp-neubau-erstbezugswohnungen-in-wunderbarer-lage-jetzt-zuschlagen-1128757380/",
+        "coords": {
+            "latitude": 48.223444,
+            "longitude": 15.632794
+        }
+    },
+    {
+        "price": "€ 925,14",
+        "teaser": [
+            "68 m²",
+            "3 Zimmer",
+            "Loggia"
+        ],
+        "destination": "3100 St. Pölten, Doktor-Wilhelm-Steingötter-Straße 25",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/steingoetterhof-stadt-trifft-natur-nbsp-neubau-erstbezugswohnungen-in-wunderbarer-lage-jetzt-anfragen-2122520004/",
+        "coords": {
+            "latitude": 48.223444,
+            "longitude": 15.632794
+        }
+    },
+    {
+        "price": "€ 948,25",
+        "teaser": [
+            "70 m²",
+            "3 Zimmer",
+            "Balkon, Loggia"
+        ],
+        "destination": "3100 St. Pölten, Doktor-Wilhelm-Steingötter-Straße 25",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/steingoetterhof-stadt-trifft-natur-nbsp-neubau-erstbezugswohnungen-in-wunderbarer-lage-jetzt-zuschlagen-1016792082/",
+        "coords": {
+            "latitude": 48.223444,
+            "longitude": 15.632794
+        }
+    },
+    {
+        "price": "€ 898,67",
+        "teaser": [
+            "69 m²",
+            "3 Zimmer",
+            "Loggia"
+        ],
+        "destination": "3100 St. Pölten, Doktor-Wilhelm-Steingötter-Straße 25",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/steingoetterhof-stadt-trifft-natur-nbsp-neubau-erstbezugswohnungen-in-wunderbarer-lage-jetzt-anfragen-1964460179/",
+        "coords": {
+            "latitude": 48.223444,
+            "longitude": 15.632794
+        }
+    },
+    {
+        "price": "€ 749",
+        "teaser": [
+            "48 m²",
+            "2 Zimmer",
+            "Terrasse, Loggia, Garten"
+        ],
+        "destination": "3100 St. Pölten, Jahnstraße",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/2-zimmer-mit-garten-westliche-ausrichtung-innenhof-erstbezug-1634223454/",
+        "coords": {
+            "latitude": 48.198133,
+            "longitude": 15.626705
+        }
+    },
+    {
+        "price": "€ 799",
+        "teaser": [
+            "53 m²",
+            "2 Zimmer",
+            "Balkon"
+        ],
+        "destination": "7000 Eisenstadt, Unterbergstraße",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/burgenland/eisenstadt/schoene-helle-mietwohnung-in-ruhiger-und-zentraler-lage-777663895/",
+        "coords": {
+            "latitude": 47.846166,
+            "longitude": 16.516298
+        }
+    },
+    {
+        "price": "€ 930",
+        "teaser": [
+            "50 m²",
+            "2 Zimmer",
+            "Loggia"
+        ],
+        "destination": "2320 Schwechat, Alanovaplatz 2",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/bruck-an-der-leitha/wohnung-abzugeben-1612077947/",
+        "coords": {
+            "latitude": 48.143032,
+            "longitude": 16.47074
+        }
+    },
+    {
+        "price": "€ 647",
+        "teaser": [
+            "46 m²",
+            "2 Zimmer",
+            "Balkon, Loggia"
+        ],
+        "destination": "2700 Wiener Neustadt, Fliegergasse",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/wiener-neustadt/2-zimmer-neubauwohnung-innenstadtnaehe-mit-balkon-886249842/",
+        "coords": {
+            "latitude": 47.828369,
+            "longitude": 16.233448
+        }
+    },
+    {
+        "price": "€ 940",
+        "teaser": [
+            "54 m²",
+            "3 Zimmer",
+            "Terrasse, Garten"
+        ],
+        "destination": "2700 Wiener Neustadt",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/wiener-neustadt/blumengasse-2-zimmer-wohnung-garten-terrasse-neubau-erstbezug-klimaanlage-einbaukueche-zzgl-tiefgaragenstellplatz-top-c4-987111206/",
+        "coords": {
+            "latitude": 47.813919,
+            "longitude": 16.243852
+        }
+    },
+    {
+        "price": "€ 865",
+        "teaser": [
+            "51 m²",
+            "2 Zimmer",
+            "Terrasse, Garten"
+        ],
+        "destination": "2700 Wiener Neustadt",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/wiener-neustadt/blumengasse-2-zimmer-wohnung-garten-terrasse-neubau-erstbezug-klimaanlage-einbaukueche-zzgl-tiefgaragenstellplatz-top-a4-1995011337/",
+        "coords": {
+            "latitude": 47.813919,
+            "longitude": 16.243852
+        }
+    },
+    {
+        "price": "€ 940",
+        "teaser": [
+            "54 m²",
+            "2 Zimmer",
+            "Balkon"
+        ],
+        "destination": "2700 Wiener Neustadt",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/wiener-neustadt/blumengasse-2-zimmer-wohnung-mit-balkon-neubau-erstbezug-klimaanlage-einbaukueche-zzgl-tiefgaragenstellplatz-top-c10-1048892085/",
+        "coords": {
+            "latitude": 47.813919,
+            "longitude": 16.243852
+        }
+    },
+    {
+        "price": "€ 998",
+        "teaser": [
+            "57 m²",
+            "3 Zimmer",
+            "Terrasse, Garten"
+        ],
+        "destination": "2700 Wiener Neustadt",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/wiener-neustadt/blumengasse-3-zimmer-wohnung-garten-terrasse-neubau-erstbezug-klimaanlage-einbaukueche-zzgl-tiefgaragenstellplatz-top-a2-1538344599/",
+        "coords": {
+            "latitude": 47.813919,
+            "longitude": 16.243852
+        }
+    },
+    {
+        "price": "€ 950",
+        "teaser": [
+            "58 m²",
+            "2 Zimmer",
+            "Balkon"
+        ],
+        "destination": "2700 Wiener Neustadt",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/wiener-neustadt/blumengasse-2-zimmer-wohnung-mit-balkon-1-og-neubau-erstbezug-klimaanlage-einbaukueche-zzgl-tiefgaragenstellplatz-top-a8-851860137/",
+        "coords": {
+            "latitude": 47.813919,
+            "longitude": 16.243852
+        }
+    },
+    {
+        "price": "€ 700",
+        "teaser": [
+            "61 m²",
+            "3 Zimmer",
+            "Balkon"
+        ],
+        "destination": "2191 Gaweinstal, Brünnerstraße",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/mistelbach/teilmoeblierte-3-zimmer-wohnung-2191-gaweinstal-2004117644/",
+        "coords": {
+            "latitude": 48.480875,
+            "longitude": 16.593355
+        }
+    },
+    {
+        "price": "€ 790",
+        "teaser": [
+            "52 m²",
+            "2 Zimmer",
+            "Balkon"
+        ],
+        "destination": "2000 Stockerau, Neubau 11 (gartenseitig)",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/korneuburg/stockerau-zentrum-2-zimmer-wohnung-mit-balkon-u-garagenplatz-in-niedrigenergiehaus-1751542456/",
+        "coords": {
+            "latitude": 48.383619,
+            "longitude": 16.214385
+        }
+    },
+    {
+        "price": "€ 928,01",
+        "teaser": [
+            "55 m²",
+            "2 Zimmer",
+            "Balkon"
+        ],
+        "destination": "2551 Enzesfeld-Lindabrunn, Gartengasse Bezirk Baden",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/baden/ruhige-2-zimmerwohnung-mit-balkon-und-tiefgaragenplatz-in-waldrandlage-2055452785/",
+        "coords": {
+            "latitude": 47.912235,
+            "longitude": 16.171239
+        }
+    },
+    {
+        "price": "€ 600",
+        "teaser": [
+            "65 m²",
+            "2 Zimmer",
+            "Balkon, Garten"
+        ],
+        "destination": "2514 Traiskirchen, Eduard Schwab Gasse",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/baden/wohnung-zu-mieten-1244002876/",
+        "coords": {
+            "latitude": 48.012251,
+            "longitude": 16.289053
+        }
+    },
+    {
+        "price": "€ 657",
+        "teaser": [
+            "92 m²",
+            "4 Zimmer",
+            "Loggia"
+        ],
+        "destination": "3300 Amstetten, Parksiedlung 30",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/familienwohnung-in-amstetten-1095735319/",
+        "coords": {
+            "latitude": 48.13162,
+            "longitude": 14.859044
+        }
+    },
+    {
+        "price": "€ 817",
+        "teaser": [
+            "55 m²",
+            "2 Zimmer",
+            "Balkon"
+        ],
+        "destination": "2320 Schwechat, Bruck Hainburger-Straße",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/bruck-an-der-leitha/balkon-mit-blick-auf-baeume-statt-auf-wohnblock-1246063049/",
+        "coords": {
+            "latitude": 48.140444,
+            "longitude": 16.482743
+        }
+    },
+    {
+        "price": "€ 997,75",
+        "teaser": [
+            "65 m²",
+            "2 Zimmer",
+            "Balkon"
+        ],
+        "destination": "3470 Kirchberg am Wagram",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/tulln/wohnen-mit-staedtischen-komfort-744807824/",
+        "coords": {
+            "latitude": 48.436096,
+            "longitude": 15.897245
+        }
+    },
+    {
+        "price": "€ 982,94",
+        "teaser": [
+            "63 m²",
+            "2 Zimmer",
+            "Balkon"
+        ],
+        "destination": "3470 Kirchberg am Wagram",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/tulln/eine-wohnung-die-anzieht-und-fasziniert-744807827/",
+        "coords": {
+            "latitude": 48.436096,
+            "longitude": 15.897245
+        }
+    },
+    {
+        "price": "€ 997,80",
+        "teaser": [
+            "75 m²",
+            "3 Zimmer",
+            "Terrasse"
+        ],
+        "destination": "3100 St. Pölten",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/traumhafte-mietwohnung-im-zentrum-generalsanierung-2020-758763534/",
+        "coords": {
+            "latitude": 48.204512,
+            "longitude": 15.624423
+        }
+    },
+    {
+        "price": "€ 595",
+        "teaser": [
+            "56 m²",
+            "2 Zimmer",
+            "Garten"
+        ],
+        "destination": "3104 Stattersdorf",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/moderne-helle-mietwohnung-in-st-poelten-stattersdorf-mit-garten-und-autoabstellplatz-1463705098/",
+        "coords": {
+            "latitude": 48.159619,
+            "longitude": 15.643241
+        }
+    },
+    {
+        "price": "€ 798",
+        "teaser": [
+            "60 m²",
+            "2 Zimmer",
+            "Balkon"
+        ],
+        "destination": "7000 Eisenstadt",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/burgenland/eisenstadt/7000-eisenstad-sehr-schoenes-60m2-terrassen-apartment-top-moebliert-mit-seeblick-in-herrlicher-waldrand-ruhelage-2011673697/",
+        "coords": {
+            "latitude": 47.846668,
+            "longitude": 16.524896
+        }
+    },
+    {
+        "price": "€ 897",
+        "teaser": [
+            "75 m²",
+            "3 Zimmer",
+            "Balkon"
+        ],
+        "destination": "3140 Pottenbrunn",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/gefoerderte-genossenschaftswohnung-in-miete-727772745/",
+        "coords": {
+            "latitude": 48.239143,
+            "longitude": 15.698013
+        }
+    },
+    {
+        "price": "€ 695",
+        "teaser": [
+            "91 m²",
+            "Balkon"
+        ],
+        "destination": "2880 Kirchberg am Wechsel",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/neunkirchen/modernes-wohnen-in-idyllischer-lage-91m-wohnung-mit-2-balkonen-in-kirchberg-am-wechsel-zu-vermieten-1094744822/",
+        "coords": {
+            "latitude": 47.609477,
+            "longitude": 15.990636
+        }
+    },
+    {
+        "price": "€ 899,80",
+        "teaser": [
+            "70 m²",
+            "3 Zimmer",
+            "Terrasse, Garten"
+        ],
+        "destination": "3451 Michelhausen",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/tulln/-green-garden-ruhig-und-exklusiv-wohnen-mit-sonnenterrasse-1887744267/",
+        "coords": {
+            "latitude": 48.290065,
+            "longitude": 15.94161
+        }
+    },
+    {
+        "price": "€ 980,10",
+        "teaser": [
+            "70 m²",
+            "3 Zimmer",
+            "Terrasse, Garten"
+        ],
+        "destination": "3451 Michelhausen",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/tulln/-green-garden-exklusive-gartenwohnung-im-zentrum-1959718149/",
+        "coords": {
+            "latitude": 48.290065,
+            "longitude": 15.94161
+        }
+    },
+    {
+        "price": "€ 785",
+        "teaser": [
+            "70 m²",
+            "3 Zimmer",
+            "Garten"
+        ],
+        "destination": "3100 St. Pölten, Parkstraße",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/3-zimmer-wohnung-nahe-der-traisen-und-hammerpark-1009678182/",
+        "coords": {
+            "latitude": 48.193516,
+            "longitude": 15.629151
+        }
+    },
+    {
+        "price": "€ 640",
+        "teaser": [
+            "89 m²",
+            "3 Zimmer",
+            "Dachterrasse"
+        ],
+        "destination": "2604 Theresienfeld, Hauptplatz 5",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/wiener-neustadt-land/guenstige-dachgeschoss-wohnung-mit-grosser-terrasse-1230456874/",
+        "coords": {
+            "latitude": 47.859736,
+            "longitude": 16.248047
+        }
+    },
+    {
+        "price": "€ 744",
+        "teaser": [
+            "50 m²",
+            "2 Zimmer",
+            "Terrasse, Garten"
+        ],
+        "destination": "3350 Haag, Schönfeld 2",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/moderne-neubau-wohnung-mit-garten-1854685193/",
+        "coords": {
+            "latitude": 48.101392,
+            "longitude": 14.571933
+        }
+    },
+    {
+        "price": "€ 849",
+        "teaser": [
+            "65 m²",
+            "2 Zimmer",
+            "Balkon"
+        ],
+        "destination": "7100 Neusiedl am See, Kardinal-Franz-König-Platz 8",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/burgenland/neusiedl-am-see/schoene-mietwohnung-in-top-lage-in-neusiedl-am-see-766657031/",
+        "coords": {
+            "latitude": 47.944492,
+            "longitude": 16.841486
+        }
+    },
+    {
+        "price": "€ 780",
+        "teaser": [
+            "52 m²",
+            "2 Zimmer",
+            "Balkon"
+        ],
+        "destination": "2000 Stockerau, Franz Dietz Weg",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/korneuburg/early-bird-naturverbundene-designerwohnung-zum-anmieten-1638242923/",
+        "coords": {
+            "latitude": 48.395464,
+            "longitude": 16.202353
+        }
+    },
+    {
+        "price": "€ 865",
+        "teaser": [
+            "50 m²",
+            "2 Zimmer",
+            "Terrasse, Garten"
+        ],
+        "destination": "3512 Mautern an der Donau, Südtiroler Platz 6",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-land/moeblierte-50m-wohnung-mit-garten-in-mautern-1447600043/",
+        "coords": {
+            "latitude": 48.392314,
+            "longitude": 15.578973
+        }
+    },
+    {
+        "price": "€ 895",
+        "teaser": [
+            "60 m²",
+            "2 Zimmer",
+            "Loggia"
+        ],
+        "destination": "7100 Neusiedl am See",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/burgenland/neusiedl-am-see/mietwohnung-in-neusiedl-am-see-in-seenaehe-u-bahnhofsnaehe-1387049549/",
+        "coords": {
+            "latitude": 47.94839,
+            "longitude": 16.843662
+        }
+    },
+    {
+        "price": "€ 750",
+        "teaser": [
+            "68 m²",
+            "3 Zimmer",
+            "Terrasse, Loggia"
+        ],
+        "destination": "3100 St. Pölten",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/moderne-dachgeschosswohnung-mit-terrasse-und-loggia-2065887301/",
+        "coords": {
+            "latitude": 48.204512,
+            "longitude": 15.624423
+        }
+    },
+    {
+        "price": "€ 976,07",
+        "teaser": [
+            "79 m²",
+            "3 Zimmer",
+            "Balkon"
+        ],
+        "destination": "2700 Wiener Neustadt, Niklaus Pacassi-Gasse 1",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/wiener-neustadt/top-9-1531654172/",
+        "coords": {
+            "latitude": 47.81695,
+            "longitude": 16.216034
+        }
+    },
+    {
+        "price": "€ 616,78",
+        "teaser": [
+            "65 m²",
+            "2 Zimmer",
+            "Loggia"
+        ],
+        "destination": "3500 Krems an der Donau, Wilheringstraße 2d",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-an-der-donau/top-95-2039760556/",
+        "coords": {
+            "latitude": 48.411688,
+            "longitude": 15.622421
+        }
+    },
+    {
+        "price": "€ 902,39",
+        "teaser": [
+            "91 m²",
+            "3 Zimmer",
+            "Loggia"
+        ],
+        "destination": "3500 Krems an der Donau, Weinzierl 78a",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-an-der-donau/top-54-1966102304/",
+        "coords": {
+            "latitude": 48.414115,
+            "longitude": 15.624403
+        }
+    },
+    {
+        "price": "€ 676,77",
+        "teaser": [
+            "66 m²",
+            "3 Zimmer",
+            "Loggia"
+        ],
+        "destination": "2700 Wiener Neustadt, Altabachgasse 9B",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/wiener-neustadt/top-45-858688827/",
+        "coords": {
+            "latitude": 47.822585,
+            "longitude": 16.252392
+        }
+    },
+    {
+        "price": "€ 879,83",
+        "teaser": [
+            "88 m²",
+            "3 Zimmer",
+            "Loggia"
+        ],
+        "destination": "3500 Krems an der Donau, Weinzierl 78",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-an-der-donau/top-47-1212557478/",
+        "coords": {
+            "latitude": 48.414483,
+            "longitude": 15.624041
+        }
+    },
+    {
+        "price": "€ 803,63",
+        "teaser": [
+            "76 m²",
+            "2 Zimmer",
+            "Loggia"
+        ],
+        "destination": "2700 Wiener Neustadt, J.W. Gangelbergergasse 1",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/wiener-neustadt/stiege-2-top-8-759501424/",
+        "coords": {
+            "latitude": 47.813919,
+            "longitude": 16.243852
+        }
+    },
+    {
+        "price": "€ 888",
+        "teaser": [
+            "75 m²",
+            "3 Zimmer",
+            "Balkon"
+        ],
+        "destination": "2291 Lassee, Untere Haupt Str.17",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/gaenserndorf/provisionsfrei-helle-und-moderne-neubau-3-zimmerwohnung-mit-balkon-und-parkplatz-1954489354/",
+        "coords": {
+            "latitude": 48.225946,
+            "longitude": 16.826196
+        }
+    },
+    {
+        "price": "€ 816,90",
+        "teaser": [
+            "50 m²",
+            "2 Zimmer",
+            "Loggia, Garten"
+        ],
+        "destination": "3100 St. Pölten, Kremser Landstraße 24",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/modernes-wohnen-naehe-stadtzentrum-neubauwohnungen-in-idealer-lage-jetzt-anfragen-1511344131/",
+        "coords": {
+            "latitude": 48.211429,
+            "longitude": 15.625279
+        }
+    },
+    {
+        "price": "€ 817,08",
+        "teaser": [
+            "49 m²",
+            "2 Zimmer",
+            "Loggia, Garten"
+        ],
+        "destination": "3100 St. Pölten, Kremser Landstraße 24",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/paerchentraum-nahe-bahnhof-provisionsfrei-wohntraum-1629314831/",
+        "coords": {
+            "latitude": 48.211429,
+            "longitude": 15.625279
+        }
+    },
+    {
+        "price": "€ 920,32",
+        "teaser": [
+            "81 m²",
+            "3 Zimmer",
+            "Balkon"
+        ],
+        "destination": "7000 Eisenstadt, Rudolf-von-Eichthal-Straße 70",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/burgenland/eisenstadt/traumhafte-mietwohnung-in-eisenstadt-geraeumig-gepflegt-und-mit-balkon-garage-und-stellplatz-wohntraum-2120788312/",
+        "coords": {
+            "latitude": 47.834424,
+            "longitude": 16.520226
+        }
+    },
+    {
+        "price": "€ 948,97",
+        "teaser": [
+            "73 m²",
+            "3 Zimmer",
+            "Balkon, Loggia, Garten"
+        ],
+        "destination": "3100 St. Pölten, Doktor-Wilhelm-Steingötter-Straße 25",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/optimaler-grundriss-hochwertige-ausstattung-und-viel-platz-fuer-die-ganze-familie-traumhafte-3-zimmer-wohnung-jetzt-anfragen-1936110464/",
+        "coords": {
+            "latitude": 48.223444,
+            "longitude": 15.632794
+        }
+    },
+    {
+        "price": "€ 814,53",
+        "teaser": [
+            "51 m²",
+            "2 Zimmer",
+            "Balkon"
+        ],
+        "destination": "2391 Kaltenleutgeben, Hauptstraße 139",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/moedling/zu-vermieten-bezugsfertige-und-gut-geschnittene-2-zimmer-wohnung-mit-balkon-t05-kaleu139-1824750235/",
+        "coords": {
+            "latitude": 48.11309,
+            "longitude": 16.185662
+        }
+    },
+    {
+        "price": "€ 949,61",
+        "teaser": [
+            "57 m²",
+            "2 Zimmer",
+            "Terrasse, Garten"
+        ],
+        "destination": "2391 Kaltenleutgeben, Hauptstraße 139",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/moedling/mietkauf-gut-geschnittene-2-zimmer-gartenwohnung-zu-vergeben-a-13-kaleu139-provisionsfrei-1772401933/",
+        "coords": {
+            "latitude": 48.11309,
+            "longitude": 16.185662
+        }
+    },
+    {
+        "price": "€ 784,76",
+        "teaser": [
+            "63 m²",
+            "2 Zimmer",
+            "Garten"
+        ],
+        "destination": "2700 Wiener Neustadt, Pottendorfer Straße 218",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/wiener-neustadt/wiener-neustadt-ix-1-freifinanzierte-mietwohnung-mit-kaufoption-top-306-1000-00011761-00001306-1644748365/",
+        "coords": {
+            "latitude": 47.835333,
+            "longitude": 16.272209
+        }
+    },
+    {
+        "price": "€ 733,26",
+        "teaser": [
+            "54 m²",
+            "2 Zimmer",
+            "Loggia"
+        ],
+        "destination": "3100 St. Pölten, Wiener Straße 69",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/st-poelten-xvi-2-freifinanzierte-mietwohnung-mit-kaufoption-top-37-1000-00011552-00001137-753710290/",
+        "coords": {
+            "latitude": 48.204278,
+            "longitude": 15.638879
+        }
+    },
+    {
+        "price": "€ 963,68",
+        "teaser": [
+            "58 m²",
+            "2 Zimmer",
+            "Balkon"
+        ],
+        "destination": "2380 Perchtoldsdorf",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/moedling/altbau-dachgeschosswohnung-mit-flair-1431425482/",
+        "coords": {
+            "latitude": 48.118057,
+            "longitude": 16.266033
+        }
+    },
+    {
+        "price": "€ 545,11",
+        "teaser": [
+            "54 m²",
+            "2 Zimmer",
+            "Balkon"
+        ],
+        "destination": "2064 Wulzeshofen, Nr. 310",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/mistelbach/wulzeshofen-i-2-lz-1840-top-205-633815629/",
+        "coords": {
+            "latitude": 48.717925,
+            "longitude": 16.300674
+        }
+    },
+    {
+        "price": "€ 884,04",
+        "teaser": [
+            "58 m²",
+            "2 Zimmer",
+            "Balkon"
+        ],
+        "destination": "3352 St. Peter in der Au, Amstettner Straße 15/9",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/amstettner-strasse-15-9-1753347108/",
+        "coords": {
+            "latitude": 48.045095,
+            "longitude": 14.621136
+        }
+    },
+    {
+        "price": "€ 976,20",
+        "teaser": [
+            "81 m²",
+            "3 Zimmer",
+            "Dachterrasse"
+        ],
+        "destination": "3324 Euratsfeld, Dr. Alois Mock Platz 4/15",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/dr-alois-mock-platz-4-15-1292163611/",
+        "coords": {
+            "latitude": 48.083446,
+            "longitude": 14.931382
+        }
+    },
+    {
+        "price": "€ 776,43",
+        "teaser": [
+            "62 m²",
+            "2 Zimmer",
+            "Balkon"
+        ],
+        "destination": "3542 Gföhl, Jaidhofer Gasse 10/3/2",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-land/jaidhofer-gasse-10-3-2-1374395564/",
+        "coords": {
+            "latitude": 48.521216,
+            "longitude": 15.487412
+        }
+    },
+    {
+        "price": "€ 762,25",
+        "teaser": [
+            "53 m²",
+            "2 Zimmer",
+            "Balkon"
+        ],
+        "destination": "3500 Krems an der Donau, Hafenstraße 32.12",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-an-der-donau/hafenstrasse-32-12-1257246195/",
+        "coords": {
+            "latitude": 48.41126,
+            "longitude": 15.60058
+        }
+    },
+    {
+        "price": "€ 997,75",
+        "teaser": [
+            "65 m²",
+            "2 Zimmer",
+            "Balkon"
+        ],
+        "destination": "3470 Kirchberg am Wagram",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/tulln/traumhafte-balkonwohnung-provisionsfrei-uebergabe-erfolgt-beziehbar-und-schluesselfertig-inkl-bad-und-tiefgaragenparkplatz-771298275/",
+        "coords": {
+            "latitude": 48.436096,
+            "longitude": 15.897245
+        }
+    },
+    {
+        "price": "not found",
+        "teaser": [
+            "65 m²",
+            "2 Zimmer",
+            "Loggia, Garten"
+        ],
+        "destination": "7210 Mattersburg, Johann Nepomuk Berger Straße 7",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/burgenland/mattersburg/ebenerdige-2-zimmer-wohnung-912960114/",
+        "coords": {
+            "latitude": 47.735334,
+            "longitude": 16.404191
+        }
+    },
+    {
         "price": "€ 777,81",
         "teaser": [
             "74 m²",
@@ -238,20 +1413,6 @@
         }
     },
     {
-        "price": "€ 550",
-        "teaser": [
-            "49 m²",
-            "2 Zimmer",
-            "Garten"
-        ],
-        "destination": "3100 St. Pölten, Dr Karl Renner Promenade",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/zentrum-st-poelten-2-zimmer-altbauwohnung-49-qm-1061620491/",
-        "coords": {
-            "latitude": 48.204512,
-            "longitude": 15.624423
-        }
-    },
-    {
         "price": "€ 801,47",
         "teaser": [
             "86 m²",
@@ -347,6 +1508,20 @@
         "coords": {
             "latitude": 48.10952,
             "longitude": 14.877841
+        }
+    },
+    {
+        "price": "€ 550",
+        "teaser": [
+            "49 m²",
+            "2 Zimmer",
+            "Garten"
+        ],
+        "destination": "3100 St. Pölten, Dr Karl Renner Promenade",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/zentrum-st-poelten-2-zimmer-altbauwohnung-49-qm-1061620491/",
+        "coords": {
+            "latitude": 48.204512,
+            "longitude": 15.624423
         }
     },
     {
@@ -1454,6 +2629,20 @@
         }
     },
     {
+        "price": "€ 550,53",
+        "teaser": [
+            "62 m²",
+            "2 Zimmer",
+            "Balkon"
+        ],
+        "destination": "3100 St. Pölten, Strohmayrstrasse 2",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/gemuetliche-wohnung-mit-genossenschaft-ab-november-1857264061/",
+        "coords": {
+            "latitude": 48.188976,
+            "longitude": 15.623307
+        }
+    },
+    {
         "price": "€ 814,66",
         "teaser": [
             "48 m²",
@@ -2434,20 +3623,6 @@
         }
     },
     {
-        "price": "€ 725",
-        "teaser": [
-            "68 m²",
-            "2 Zimmer",
-            "Terrasse"
-        ],
-        "destination": "2880 Kirchberg am Wechsel-Markt",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/neunkirchen/helle-wohnung-ebenerdig-mit-terrasse-ausrichtung-ruhiger-begruenter-innenhof-west-1560666749/",
-        "coords": {
-            "latitude": 47.610483,
-            "longitude": 15.98978
-        }
-    },
-    {
         "price": "€ 756,35",
         "teaser": [
             "56 m²",
@@ -2672,20 +3847,6 @@
         }
     },
     {
-        "price": "€ 890",
-        "teaser": [
-            "71 m²",
-            "3 Zimmer",
-            "Balkon"
-        ],
-        "destination": "2130 Mistelbach, Oberhoferstraße 7",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/mistelbach/freundliche-sehr-ruhige-helle-wohnung-im-zentrum-provisionsfrei-1403949405/",
-        "coords": {
-            "latitude": 48.571345,
-            "longitude": 16.572277
-        }
-    },
-    {
         "price": "€ 786,54",
         "teaser": [
             "62 m²",
@@ -2700,20 +3861,6 @@
         }
     },
     {
-        "price": "€ 749",
-        "teaser": [
-            "68 m²",
-            "2 Zimmer",
-            "Loggia"
-        ],
-        "destination": "3500 Rehberg",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-an-der-donau/gepflegte-2-zi-mietwohnung-mit-verglaster-loggia-und-neuer-kueche-1436484122/",
-        "coords": {
-            "latitude": 48.42751,
-            "longitude": 15.589187
-        }
-    },
-    {
         "price": "€ 820",
         "teaser": [
             "82 m²",
@@ -2725,6 +3872,20 @@
         "coords": {
             "latitude": 48.41126,
             "longitude": 15.60058
+        }
+    },
+    {
+        "price": "€ 749",
+        "teaser": [
+            "68 m²",
+            "2 Zimmer",
+            "Loggia"
+        ],
+        "destination": "3500 Rehberg",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-an-der-donau/gepflegte-2-zi-mietwohnung-mit-verglaster-loggia-und-neuer-kueche-1436484122/",
+        "coords": {
+            "latitude": 48.42751,
+            "longitude": 15.589187
         }
     },
     {
@@ -3134,7 +4295,7 @@
         }
     },
     {
-        "price": "€ 890",
+        "price": "not found",
         "teaser": [
             "80 m²",
             "2 Zimmer",
@@ -3176,20 +4337,6 @@
         }
     },
     {
-        "price": "€ 720",
-        "teaser": [
-            "87 m²",
-            "3 Zimmer",
-            "Balkon"
-        ],
-        "destination": "3364 Neuhofen an der Ybbs, Hauptstrasse 15/6",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/gemuetliche-3-zimmer-wohnung-1844747090/",
-        "coords": {
-            "latitude": 48.0575,
-            "longitude": 14.854722
-        }
-    },
-    {
         "price": "€ 854,20",
         "teaser": [
             "59 m²",
@@ -3214,20 +4361,6 @@
         "coords": {
             "latitude": 48.342941,
             "longitude": 16.332365
-        }
-    },
-    {
-        "price": "€ 700",
-        "teaser": [
-            "60 m²",
-            "2 Zimmer",
-            "Garten"
-        ],
-        "destination": "7121 Weiden am See, Seepark Weiden Rosenhof",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/burgenland/neusiedl-am-see/wohnen-direkt-am-neusiedler-see-1845952396/",
-        "coords": {
-            "latitude": 47.92356,
-            "longitude": 16.872814
         }
     },
     {
@@ -3441,7 +4574,7 @@
         }
     },
     {
-        "price": "€ 689,58",
+        "price": "not found",
         "teaser": [
             "60 m²",
             "2 Zimmer",
@@ -3676,20 +4809,6 @@
         "coords": {
             "latitude": 48.01845,
             "longitude": 15.966279
-        }
-    },
-    {
-        "price": "€ 864,38",
-        "teaser": [
-            "50 m²",
-            "2 Zimmer",
-            "Terrasse, Garten"
-        ],
-        "destination": "2391 Kaltenleutgeben, Hauptstraße 139",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/moedling/zu-vermieten-kaleu139-2-zimmer-wohnung-mit-terrasse-b10-802042926/",
-        "coords": {
-            "latitude": 48.11309,
-            "longitude": 16.185662
         }
     },
     {
@@ -3937,7 +5056,7 @@
             "Loggia"
         ],
         "destination": "2331 Vösendorf",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/moedling/unbefristet-3-zi-loggia-zzgl-heizung-top-11-stiege-2-1236326698/",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/moedling/unbefristet-3-zi-loggia-inkl-heizung-top-11-stiege-2-1236326698/",
         "coords": {
             "latitude": 48.121277,
             "longitude": 16.340839
@@ -4028,7 +5147,7 @@
         }
     },
     {
-        "price": "€ 595",
+        "price": "not found",
         "teaser": [
             "55 m²",
             "2 Zimmer",
@@ -5999,7 +7118,7 @@
         }
     },
     {
-        "price": "€ 782",
+        "price": "€ 773",
         "teaser": [
             "82 m²",
             "2 Zimmer",
@@ -6075,11 +7194,11 @@
             "2 Zimmer",
             "Loggia, Dachterrasse"
         ],
-        "destination": "3550 Langenlois, Top 19",
+        "destination": "3550 Langenlois, Kaserngasse 11",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-land/langenlois-xvii-19-2040881466/",
         "coords": {
-            "latitude": 48.473493,
-            "longitude": 15.67694
+            "latitude": 48.472439,
+            "longitude": 15.672106
         }
     },
     {
@@ -6089,11 +7208,11 @@
             "2 Zimmer",
             "Balkon, Loggia, Dachterrasse"
         ],
-        "destination": "3550 Langenlois, Top 8",
+        "destination": "3550 Langenlois, Kaserngasse 11",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-land/langenlois-xvii-8-1492378810/",
         "coords": {
-            "latitude": 48.473493,
-            "longitude": 15.67694
+            "latitude": 48.472439,
+            "longitude": 15.672106
         }
     },
     {
@@ -6159,11 +7278,11 @@
             "2 Zimmer",
             "Loggia, Dachterrasse"
         ],
-        "destination": "3550 Langenlois, Top 2",
+        "destination": "3550 Langenlois, Kaserngasse 11",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-land/langenlois-xvii-2-1835185869/",
         "coords": {
-            "latitude": 48.473493,
-            "longitude": 15.67694
+            "latitude": 48.472439,
+            "longitude": 15.672106
         }
     },
     {
@@ -6173,11 +7292,11 @@
             "2 Zimmer",
             "Loggia, Dachterrasse"
         ],
-        "destination": "3550 Langenlois, Top 9",
+        "destination": "3550 Langenlois, Kaserngasse 11",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-land/langenlois-xvii-9-1002228908/",
         "coords": {
-            "latitude": 48.473493,
-            "longitude": 15.67694
+            "latitude": 48.472439,
+            "longitude": 15.672106
         }
     },
     {
@@ -6187,11 +7306,11 @@
             "2 Zimmer",
             "Loggia, Dachterrasse"
         ],
-        "destination": "3550 Langenlois, Top 3",
+        "destination": "3550 Langenlois, Kaserngasse 11",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-land/langenlois-xvii-3-1373938329/",
         "coords": {
-            "latitude": 48.473493,
-            "longitude": 15.67694
+            "latitude": 48.472439,
+            "longitude": 15.672106
         }
     },
     {
@@ -6201,11 +7320,11 @@
             "2 Zimmer",
             "Loggia, Dachterrasse"
         ],
-        "destination": "3550 Langenlois, Top 7",
+        "destination": "3550 Langenlois, Kaserngasse 11",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-land/langenlois-xvii-7-930897840/",
         "coords": {
-            "latitude": 48.473493,
-            "longitude": 15.67694
+            "latitude": 48.472439,
+            "longitude": 15.672106
         }
     },
     {
@@ -6215,11 +7334,11 @@
             "2 Zimmer",
             "Loggia, Dachterrasse"
         ],
-        "destination": "3550 Langenlois, Top 13",
+        "destination": "3550 Langenlois, Kaserngasse 11",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-land/langenlois-xvii-13-1868095415/",
         "coords": {
-            "latitude": 48.473493,
-            "longitude": 15.67694
+            "latitude": 48.472439,
+            "longitude": 15.672106
         }
     },
     {
@@ -6229,11 +7348,11 @@
             "2 Zimmer",
             "Loggia, Dachterrasse"
         ],
-        "destination": "3550 Langenlois, Top 15",
+        "destination": "3550 Langenlois, Kaserngasse 11",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-land/langenlois-xvii-15-1242620384/",
         "coords": {
-            "latitude": 35.659662,
-            "longitude": 139.69843175
+            "latitude": 48.472439,
+            "longitude": 15.672106
         }
     },
     {
@@ -6243,11 +7362,11 @@
             "2 Zimmer",
             "Loggia, Dachterrasse"
         ],
-        "destination": "3550 Langenlois, Top 11",
+        "destination": "3550 Langenlois, Kaserngasse 11",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-land/langenlois-xvii-11-942395285/",
         "coords": {
-            "latitude": 44.805058,
-            "longitude": 20.456732
+            "latitude": 48.472439,
+            "longitude": 15.672106
         }
     },
     {
@@ -6257,11 +7376,11 @@
             "2 Zimmer",
             "Loggia, Dachterrasse"
         ],
-        "destination": "3550 Langenlois, Top 10",
+        "destination": "3550 Langenlois, Kaserngasse 11",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-land/langenlois-xvii-10-2015490280/",
         "coords": {
-            "latitude": 48.473493,
-            "longitude": 15.67694
+            "latitude": 48.472439,
+            "longitude": 15.672106
         }
     },
     {
@@ -6271,11 +7390,11 @@
             "2 Zimmer",
             "Loggia, Dachterrasse"
         ],
-        "destination": "3550 Langenlois, Top 6",
+        "destination": "3550 Langenlois, Kaserngasse 11",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-land/langenlois-xvii-6-2005690390/",
         "coords": {
-            "latitude": 48.473493,
-            "longitude": 15.67694
+            "latitude": 48.472439,
+            "longitude": 15.672106
         }
     },
     {
@@ -6469,20 +7588,6 @@
         ],
         "destination": "3362 Mauer bei Amstetten, Hausmeninger Straße 219/Haus 1/Tür 42",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/amstetten-mauer-ii-42-726698251/",
-        "coords": {
-            "latitude": 48.093464,
-            "longitude": 14.800279
-        }
-    },
-    {
-        "price": "€ 487,87",
-        "teaser": [
-            "45 m²",
-            "2 Zimmer",
-            "Balkon"
-        ],
-        "destination": "3362 Mauer bei Amstetten, Hausmeninger Straße 219/Haus 1/Tür 43",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/amstetten-mauer-ii-43-726698252/",
         "coords": {
             "latitude": 48.093464,
             "longitude": 14.800279
@@ -6710,20 +7815,6 @@
         "coords": {
             "latitude": 47.944833,
             "longitude": 16.108175
-        }
-    },
-    {
-        "price": "€ 590",
-        "teaser": [
-            "40 m²",
-            "2 Zimmer",
-            "Garten"
-        ],
-        "destination": "2320 Schwechat, Paul-Schiff-Gasse 7",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/bruck-an-der-leitha/schwechat-neu-sanierte-40m2-2-zimmer-wohnung-zu-mieten-1975527544/",
-        "coords": {
-            "latitude": 48.146,
-            "longitude": 16.473694
         }
     },
     {
@@ -7440,7 +8531,7 @@
         }
     },
     {
-        "price": "€ 731,47",
+        "price": "not found",
         "teaser": [
             "55 m²",
             "2 Zimmer",
@@ -7605,20 +8696,6 @@
         "coords": {
             "latitude": 47.724686,
             "longitude": 16.079495
-        }
-    },
-    {
-        "price": "€ 595",
-        "teaser": [
-            "56 m²",
-            "2 Zimmer",
-            "Garten"
-        ],
-        "destination": "3104 Stattersdorf",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/moderne-helle-mietwohnung-in-st-poelten-stattersdorf-mit-garten-und-autoabstellplatz-1463705098/",
-        "coords": {
-            "latitude": 48.159619,
-            "longitude": 15.643241
         }
     },
     {
@@ -8404,7 +9481,7 @@
         }
     },
     {
-        "price": "€ 900",
+        "price": "€ 899",
         "teaser": [
             "90 m²",
             "2 Zimmer",
@@ -8648,11 +9725,11 @@
             "2 Zimmer",
             "Loggia, Dachterrasse"
         ],
-        "destination": "3550 Langenlois, Top 5",
+        "destination": "3550 Langenlois, Kaserngasse 11",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-land/langenlois-xvii-5-1632974887/",
         "coords": {
-            "latitude": 48.473493,
-            "longitude": 15.67694
+            "latitude": 48.472439,
+            "longitude": 15.672106
         }
     },
     {
@@ -10770,20 +11847,6 @@
         }
     },
     {
-        "price": "€ 700",
-        "teaser": [
-            "80 m²",
-            "3 Zimmer",
-            "Terrasse"
-        ],
-        "destination": "2620 Neunkirchen",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/neunkirchen/3-zimmerwohnung-zu-vermieten-2056959582/",
-        "coords": {
-            "latitude": 47.721305,
-            "longitude": 16.080672
-        }
-    },
-    {
         "price": "€ 742",
         "teaser": [
             "87 m²",
@@ -10882,7 +11945,7 @@
         }
     },
     {
-        "price": "€ 840",
+        "price": "€ 820",
         "teaser": [
             "57 m²",
             "2 Zimmer",
@@ -11050,7 +12113,7 @@
         }
     },
     {
-        "price": "€ 560",
+        "price": "not found",
         "teaser": [
             "45 m²",
             "Loggia"
@@ -11077,20 +12140,6 @@
         }
     },
     {
-        "price": "€ 735",
-        "teaser": [
-            "59 m²",
-            "2 Zimmer",
-            "Balkon, Garten"
-        ],
-        "destination": "3500 Krems an der Donau",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-an-der-donau/krems-gemuetliche-2zi-59qm-balkon-wohnung-lift-tiefgarage-2018444157/",
-        "coords": {
-            "latitude": 48.41126,
-            "longitude": 15.60058
-        }
-    },
-    {
         "price": "€ 589,38",
         "teaser": [
             "80 m²",
@@ -11102,188 +12151,6 @@
         "coords": {
             "latitude": 48.250416,
             "longitude": 15.675441
-        }
-    },
-    {
-        "price": "€ 898,79",
-        "teaser": [
-            "69 m²",
-            "3 Zimmer",
-            "Loggia, Garten"
-        ],
-        "destination": "3100 St. Pölten, Doktor-Wilhelm-Steingötter-Straße 25",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/geraeumiges-wohnvergnuegen-hochwertige-ausstattung-und-viel-platz-fuer-die-ganze-familie-traumhafte-3-zimmer-wohnung-wohntraum-1000258547/",
-        "coords": {
-            "latitude": 48.223444,
-            "longitude": 15.632794
-        }
-    },
-    {
-        "price": "€ 899,65",
-        "teaser": [
-            "68 m²",
-            "3 Zimmer",
-            "Loggia, Garten"
-        ],
-        "destination": "3100 St. Pölten, Doktor-Wilhelm-Steingötter-Straße 25",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/geraeumiges-wohnvergnuegen-hochwertige-ausstattung-und-viel-platz-fuer-die-ganze-familie-traumhafte-3-zimmer-wohnung-wohntraum-1958764460/",
-        "coords": {
-            "latitude": 48.223444,
-            "longitude": 15.632794
-        }
-    },
-    {
-        "price": "€ 974,93",
-        "teaser": [
-            "71 m²",
-            "3 Zimmer",
-            "Balkon, Loggia, Garten"
-        ],
-        "destination": "3100 St. Pölten, Doktor-Wilhelm-Steingötter-Straße 25",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/geraeumiges-wohnvergnuegen-hochwertige-ausstattung-und-viel-platz-fuer-die-ganze-familie-traumhafte-3-zimmer-wohnung-jetzt-zuschlagen-2116521728/",
-        "coords": {
-            "latitude": 48.223444,
-            "longitude": 15.632794
-        }
-    },
-    {
-        "price": "€ 949,25",
-        "teaser": [
-            "69 m²",
-            "3 Zimmer",
-            "Loggia, Garten"
-        ],
-        "destination": "3100 St. Pölten, Doktor-Wilhelm-Steingötter-Straße 25",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/geraeumiges-wohnvergnuegen-hochwertige-ausstattung-und-viel-platz-fuer-die-ganze-familie-traumhafte-3-zimmer-wohnung-jetzt-anfragen-1414146956/",
-        "coords": {
-            "latitude": 48.223444,
-            "longitude": 15.632794
-        }
-    },
-    {
-        "price": "€ 925,07",
-        "teaser": [
-            "69 m²",
-            "3 Zimmer",
-            "Loggia, Garten"
-        ],
-        "destination": "3100 St. Pölten, Doktor-Wilhelm-Steingötter-Straße 25",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/geraeumiges-wohnvergnuegen-hochwertige-ausstattung-und-viel-platz-fuer-die-ganze-familie-traumhafte-3-zimmer-wohnung-wohntraum-2038771317/",
-        "coords": {
-            "latitude": 48.223444,
-            "longitude": 15.632794
-        }
-    },
-    {
-        "price": "€ 948,28",
-        "teaser": [
-            "70 m²",
-            "3 Zimmer",
-            "Balkon, Loggia, Garten"
-        ],
-        "destination": "3100 St. Pölten, Doktor-Wilhelm-Steingötter-Straße 25",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/geraeumiges-wohnvergnuegen-hochwertige-ausstattung-und-viel-platz-fuer-die-ganze-familie-traumhafte-3-zimmer-wohnung-jetzt-anfragen-782963280/",
-        "coords": {
-            "latitude": 48.223444,
-            "longitude": 15.632794
-        }
-    },
-    {
-        "price": "€ 925,40",
-        "teaser": [
-            "71 m²",
-            "3 Zimmer",
-            "Balkon, Loggia, Garten"
-        ],
-        "destination": "3100 St. Pölten, Doktor-Wilhelm-Steingötter-Straße 25",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/geraeumiges-wohnvergnuegen-hochwertige-ausstattung-und-viel-platz-fuer-die-ganze-familie-traumhafte-3-zimmer-wohnung-jetzt-anfragen-1317681227/",
-        "coords": {
-            "latitude": 48.223444,
-            "longitude": 15.632794
-        }
-    },
-    {
-        "price": "€ 945,27",
-        "teaser": [
-            "70 m²",
-            "3 Zimmer",
-            "Loggia"
-        ],
-        "destination": "2700 Wiener Neustadt, Gymelsdorfergasse 48A",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/wiener-neustadt/das-beste-aus-stadt-und-natur-wohnen-im-herzen-von-wiener-neustadt-wohntraum-1594753194/",
-        "coords": {
-            "latitude": 47.813919,
-            "longitude": 16.243852
-        }
-    },
-    {
-        "price": "€ 925,48",
-        "teaser": [
-            "61 m²",
-            "3 Zimmer",
-            "Loggia"
-        ],
-        "destination": "2700 Wiener Neustadt, Gymelsdorfergasse 50",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/wiener-neustadt/das-beste-aus-stadt-und-natur-wohnen-im-herzen-von-wiener-neustadt-jetzt-anfragen-894217021/",
-        "coords": {
-            "latitude": 47.813919,
-            "longitude": 16.243852
-        }
-    },
-    {
-        "price": "€ 921,76",
-        "teaser": [
-            "66 m²",
-            "3 Zimmer",
-            "Balkon, Loggia"
-        ],
-        "destination": "3100 St. Pölten, Julius Raab-Promenade 31-35",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/provisionsfreier-wohngenuss-im-herzen-der-landeshauptstadt-jetzt-zuschlagen-1654885330/",
-        "coords": {
-            "latitude": 48.204602,
-            "longitude": 15.620226
-        }
-    },
-    {
-        "price": "€ 670",
-        "teaser": [
-            "52 m²",
-            "2 Zimmer",
-            "Loggia"
-        ],
-        "destination": "3100 St. Pölten, Julius Raab-Promenade 31-35",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/provisionsfreier-wohngenuss-im-herzen-der-landeshauptstadt-hochwertige-ausstattung-zum-wohlfuehlen-jetzt-zuschlagen-919645465/",
-        "coords": {
-            "latitude": 48.204602,
-            "longitude": 15.620226
-        }
-    },
-    {
-        "price": "€ 825",
-        "teaser": [
-            "69 m²",
-            "3 Zimmer",
-            "Balkon"
-        ],
-        "destination": "2700 Wiener Neustadt, Lagergasse 20",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/wiener-neustadt/genossenschaftswohnung-1949369710/",
-        "coords": {
-            "latitude": 47.832711,
-            "longitude": 16.253489
-        }
-    },
-    {
-        "price": "€ 700",
-        "teaser": [
-            "66 m²",
-            "3 Zimmer",
-            "Terrasse"
-        ],
-        "destination": "2514 Traiskirchen",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/baden/schoene-3-zimmer-wohnung-mit-15-m-grossen-suedterrasse-im-zentrum-ruhige-innenhoflage-1401889294/",
-        "coords": {
-            "latitude": 48.014223,
-            "longitude": 16.29366
         }
     },
     {
@@ -11399,104 +12266,6 @@
         }
     },
     {
-        "price": "€ 975,63",
-        "teaser": [
-            "70 m²",
-            "3 Zimmer",
-            "Balkon, Loggia"
-        ],
-        "destination": "3100 St. Pölten, Doktor-Wilhelm-Steingötter-Straße 25",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/steingoetterhof-stadt-trifft-natur-nbsp-neubau-erstbezugswohnungen-in-wunderbarer-lage-jetzt-zuschlagen-1648981172/",
-        "coords": {
-            "latitude": 48.223444,
-            "longitude": 15.632794
-        }
-    },
-    {
-        "price": "€ 948,85",
-        "teaser": [
-            "69 m²",
-            "3 Zimmer",
-            "Loggia"
-        ],
-        "destination": "3100 St. Pölten, Doktor-Wilhelm-Steingötter-Straße 25",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/steingoetterhof-stadt-trifft-natur-nbsp-neubau-erstbezugswohnungen-in-wunderbarer-lage-jetzt-zuschlagen-1176528594/",
-        "coords": {
-            "latitude": 48.223444,
-            "longitude": 15.632794
-        }
-    },
-    {
-        "price": "€ 925,81",
-        "teaser": [
-            "71 m²",
-            "3 Zimmer",
-            "Balkon, Loggia"
-        ],
-        "destination": "3100 St. Pölten, Doktor-Wilhelm-Steingötter-Straße 25",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/steingoetterhof-stadt-trifft-natur-nbsp-neubau-erstbezugswohnungen-in-wunderbarer-lage-wohntraum-2142949585/",
-        "coords": {
-            "latitude": 48.223444,
-            "longitude": 15.632794
-        }
-    },
-    {
-        "price": "€ 899,37",
-        "teaser": [
-            "67 m²",
-            "3 Zimmer",
-            "Loggia"
-        ],
-        "destination": "3100 St. Pölten, Doktor-Wilhelm-Steingötter-Straße 25",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/steingoetterhof-stadt-trifft-natur-nbsp-neubau-erstbezugswohnungen-in-wunderbarer-lage-jetzt-zuschlagen-1128757380/",
-        "coords": {
-            "latitude": 48.223444,
-            "longitude": 15.632794
-        }
-    },
-    {
-        "price": "€ 925,14",
-        "teaser": [
-            "68 m²",
-            "3 Zimmer",
-            "Loggia"
-        ],
-        "destination": "3100 St. Pölten, Doktor-Wilhelm-Steingötter-Straße 25",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/steingoetterhof-stadt-trifft-natur-nbsp-neubau-erstbezugswohnungen-in-wunderbarer-lage-jetzt-anfragen-2122520004/",
-        "coords": {
-            "latitude": 48.223444,
-            "longitude": 15.632794
-        }
-    },
-    {
-        "price": "€ 948,25",
-        "teaser": [
-            "70 m²",
-            "3 Zimmer",
-            "Balkon, Loggia"
-        ],
-        "destination": "3100 St. Pölten, Doktor-Wilhelm-Steingötter-Straße 25",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/steingoetterhof-stadt-trifft-natur-nbsp-neubau-erstbezugswohnungen-in-wunderbarer-lage-jetzt-zuschlagen-1016792082/",
-        "coords": {
-            "latitude": 48.223444,
-            "longitude": 15.632794
-        }
-    },
-    {
-        "price": "€ 898,67",
-        "teaser": [
-            "69 m²",
-            "3 Zimmer",
-            "Loggia"
-        ],
-        "destination": "3100 St. Pölten, Doktor-Wilhelm-Steingötter-Straße 25",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/steingoetterhof-stadt-trifft-natur-nbsp-neubau-erstbezugswohnungen-in-wunderbarer-lage-jetzt-anfragen-1964460179/",
-        "coords": {
-            "latitude": 48.223444,
-            "longitude": 15.632794
-        }
-    },
-    {
         "price": "€ 694,77",
         "teaser": [
             "57 m²",
@@ -11511,20 +12280,6 @@
         }
     },
     {
-        "price": "€ 749",
-        "teaser": [
-            "48 m²",
-            "2 Zimmer",
-            "Terrasse, Loggia, Garten"
-        ],
-        "destination": "3100 St. Pölten, Jahnstraße",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/2-zimmer-mit-garten-westliche-ausrichtung-innenhof-erstbezug-1634223454/",
-        "coords": {
-            "latitude": 48.198133,
-            "longitude": 15.626705
-        }
-    },
-    {
         "price": "not found",
         "teaser": [
             "56 m²",
@@ -11536,34 +12291,6 @@
         "coords": {
             "latitude": 48.140931,
             "longitude": 16.47718
-        }
-    },
-    {
-        "price": "€ 647",
-        "teaser": [
-            "46 m²",
-            "2 Zimmer",
-            "Balkon, Loggia"
-        ],
-        "destination": "2700 Wiener Neustadt, Fliegergasse",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/wiener-neustadt/2-zimmer-neubauwohnung-innenstadtnaehe-mit-balkon-886249842/",
-        "coords": {
-            "latitude": 47.828369,
-            "longitude": 16.233448
-        }
-    },
-    {
-        "price": "€ 790",
-        "teaser": [
-            "52 m²",
-            "2 Zimmer",
-            "Balkon"
-        ],
-        "destination": "2000 Stockerau, Neubau 11 (gartenseitig)",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/korneuburg/stockerau-zentrum-2-zimmer-wohnung-mit-balkon-u-garagenplatz-in-niedrigenergiehaus-1751542456/",
-        "coords": {
-            "latitude": 48.383619,
-            "longitude": 16.214385
         }
     },
     {
@@ -11665,48 +12392,6 @@
         }
     },
     {
-        "price": "€ 899,80",
-        "teaser": [
-            "70 m²",
-            "3 Zimmer",
-            "Terrasse, Garten"
-        ],
-        "destination": "3451 Michelhausen",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/tulln/-green-garden-ruhig-und-exklusiv-wohnen-mit-sonnenterrasse-1887744267/",
-        "coords": {
-            "latitude": 48.290065,
-            "longitude": 15.94161
-        }
-    },
-    {
-        "price": "€ 980,10",
-        "teaser": [
-            "70 m²",
-            "3 Zimmer",
-            "Terrasse, Garten"
-        ],
-        "destination": "3451 Michelhausen",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/tulln/-green-garden-exklusive-gartenwohnung-im-zentrum-1959718149/",
-        "coords": {
-            "latitude": 48.290065,
-            "longitude": 15.94161
-        }
-    },
-    {
-        "price": "€ 744",
-        "teaser": [
-            "50 m²",
-            "2 Zimmer",
-            "Terrasse, Garten"
-        ],
-        "destination": "3350 Haag, Schönfeld 2",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/moderne-neubau-wohnung-mit-garten-1854685193/",
-        "coords": {
-            "latitude": 48.101392,
-            "longitude": 14.571933
-        }
-    },
-    {
         "price": "€ 829,95",
         "teaser": [
             "64 m²",
@@ -11718,34 +12403,6 @@
         "coords": {
             "latitude": 48.404377,
             "longitude": 16.49059
-        }
-    },
-    {
-        "price": "€ 865",
-        "teaser": [
-            "50 m²",
-            "2 Zimmer",
-            "Terrasse, Garten"
-        ],
-        "destination": "3512 Mautern an der Donau, Südtiroler Platz 6",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-land/moeblierte-50m-wohnung-mit-garten-in-mautern-1447600043/",
-        "coords": {
-            "latitude": 48.392314,
-            "longitude": 15.578973
-        }
-    },
-    {
-        "price": "€ 780",
-        "teaser": [
-            "52 m²",
-            "2 Zimmer",
-            "Balkon"
-        ],
-        "destination": "2000 Stockerau, Franz Dietz Weg",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/korneuburg/early-bird-naturverbundene-designerwohnung-zum-anmieten-1638242923/",
-        "coords": {
-            "latitude": 48.395464,
-            "longitude": 16.202353
         }
     },
     {
@@ -11777,34 +12434,6 @@
         }
     },
     {
-        "price": "€ 713,92",
-        "teaser": [
-            "66 m²",
-            "3 Zimmer",
-            "Loggia"
-        ],
-        "destination": "2700 Wiener Neustadt, Altabachgasse 9A",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/wiener-neustadt/top-46-1569807059/",
-        "coords": {
-            "latitude": 47.822357,
-            "longitude": 16.253088
-        }
-    },
-    {
-        "price": "€ 888",
-        "teaser": [
-            "75 m²",
-            "3 Zimmer",
-            "Balkon"
-        ],
-        "destination": "2291 Lassee, Untere Haupt Str.17",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/gaenserndorf/provisionsfrei-helle-und-moderne-neubau-3-zimmerwohnung-mit-balkon-und-parkplatz-1954489354/",
-        "coords": {
-            "latitude": 48.225946,
-            "longitude": 16.826196
-        }
-    },
-    {
         "price": "€ 995",
         "teaser": [
             "75 m²",
@@ -11833,90 +12462,6 @@
         }
     },
     {
-        "price": "€ 816,90",
-        "teaser": [
-            "50 m²",
-            "2 Zimmer",
-            "Loggia, Garten"
-        ],
-        "destination": "3100 St. Pölten, Kremser Landstraße 24",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/modernes-wohnen-naehe-stadtzentrum-neubauwohnungen-in-idealer-lage-jetzt-anfragen-1511344131/",
-        "coords": {
-            "latitude": 48.211429,
-            "longitude": 15.625279
-        }
-    },
-    {
-        "price": "€ 817,08",
-        "teaser": [
-            "49 m²",
-            "2 Zimmer",
-            "Loggia, Garten"
-        ],
-        "destination": "3100 St. Pölten, Kremser Landstraße 24",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/paerchentraum-nahe-bahnhof-provisionsfrei-wohntraum-1629314831/",
-        "coords": {
-            "latitude": 48.211429,
-            "longitude": 15.625279
-        }
-    },
-    {
-        "price": "€ 920,32",
-        "teaser": [
-            "81 m²",
-            "3 Zimmer",
-            "Balkon"
-        ],
-        "destination": "7000 Eisenstadt, Rudolf-von-Eichthal-Straße 70",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/burgenland/eisenstadt/traumhafte-mietwohnung-in-eisenstadt-geraeumig-gepflegt-und-mit-balkon-garage-und-stellplatz-wohntraum-2120788312/",
-        "coords": {
-            "latitude": 47.834424,
-            "longitude": 16.520226
-        }
-    },
-    {
-        "price": "€ 948,97",
-        "teaser": [
-            "73 m²",
-            "3 Zimmer",
-            "Balkon, Loggia, Garten"
-        ],
-        "destination": "3100 St. Pölten, Doktor-Wilhelm-Steingötter-Straße 25",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/optimaler-grundriss-hochwertige-ausstattung-und-viel-platz-fuer-die-ganze-familie-traumhafte-3-zimmer-wohnung-jetzt-anfragen-1936110464/",
-        "coords": {
-            "latitude": 48.223444,
-            "longitude": 15.632794
-        }
-    },
-    {
-        "price": "€ 814,53",
-        "teaser": [
-            "51 m²",
-            "2 Zimmer",
-            "Balkon"
-        ],
-        "destination": "2391 Kaltenleutgeben, Hauptstraße 139",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/moedling/zu-vermieten-bezugsfertige-und-gut-geschnittene-2-zimmer-wohnung-mit-balkon-t05-kaleu139-1824750235/",
-        "coords": {
-            "latitude": 48.11309,
-            "longitude": 16.185662
-        }
-    },
-    {
-        "price": "€ 949,61",
-        "teaser": [
-            "57 m²",
-            "2 Zimmer",
-            "Terrasse, Garten"
-        ],
-        "destination": "2391 Kaltenleutgeben, Hauptstraße 139",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/moedling/mietkauf-gut-geschnittene-2-zimmer-gartenwohnung-zu-vergeben-a-13-kaleu139-provisionsfrei-1772401933/",
-        "coords": {
-            "latitude": 48.11309,
-            "longitude": 16.185662
-        }
-    },
-    {
         "price": "€ 762,69",
         "teaser": [
             "58 m²",
@@ -11928,62 +12473,6 @@
         "coords": {
             "latitude": 47.813919,
             "longitude": 16.243852
-        }
-    },
-    {
-        "price": "€ 963,68",
-        "teaser": [
-            "58 m²",
-            "2 Zimmer",
-            "Balkon"
-        ],
-        "destination": "2380 Perchtoldsdorf",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/moedling/altbau-dachgeschosswohnung-mit-flair-1431425482/",
-        "coords": {
-            "latitude": 48.118057,
-            "longitude": 16.266033
-        }
-    },
-    {
-        "price": "€ 762,25",
-        "teaser": [
-            "53 m²",
-            "2 Zimmer",
-            "Balkon"
-        ],
-        "destination": "3500 Krems an der Donau, Hafenstraße 32.12",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-an-der-donau/hafenstrasse-32-12-1257246195/",
-        "coords": {
-            "latitude": 48.41126,
-            "longitude": 15.60058
-        }
-    },
-    {
-        "price": "€ 997,75",
-        "teaser": [
-            "65 m²",
-            "2 Zimmer",
-            "Balkon"
-        ],
-        "destination": "3470 Kirchberg am Wagram",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/tulln/traumhafte-balkonwohnung-provisionsfrei-uebergabe-erfolgt-beziehbar-und-schluesselfertig-inkl-bad-und-tiefgaragenparkplatz-771298275/",
-        "coords": {
-            "latitude": 48.436096,
-            "longitude": 15.897245
-        }
-    },
-    {
-        "price": "not found",
-        "teaser": [
-            "65 m²",
-            "2 Zimmer",
-            "Loggia, Garten"
-        ],
-        "destination": "7210 Mattersburg, Johann Nepomuk Berger Straße 7",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/burgenland/mattersburg/ebenerdige-2-zimmer-wohnung-912960114/",
-        "coords": {
-            "latitude": 47.735334,
-            "longitude": 16.404191
         }
     },
     {
@@ -12127,20 +12616,6 @@
         }
     },
     {
-        "price": "not found",
-        "teaser": [
-            "95 m²",
-            "4 Zimmer",
-            "Balkon"
-        ],
-        "destination": "3100 St. Pölten, Handel-Mazzetti-Straße",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/vollmoeblierte-95m-genossenschaftswohnung-in-st-poelten-sued-zu-vergeben-1473083611/",
-        "coords": {
-            "latitude": 48.187608,
-            "longitude": 15.627644
-        }
-    },
-    {
         "price": "€ 792,22",
         "teaser": [
             "79 m²",
@@ -12207,20 +12682,6 @@
         "coords": {
             "latitude": 47.727252,
             "longitude": 16.214421
-        }
-    },
-    {
-        "price": "€ 790",
-        "teaser": [
-            "47 m²",
-            "2 Zimmer",
-            "Terrasse"
-        ],
-        "destination": "2401 Fischamend",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/bruck-an-der-leitha/top-neubau-mit-terrasse-und-garage-1480845321/",
-        "coords": {
-            "latitude": 48.118984,
-            "longitude": 16.611444
         }
     },
     {
@@ -12378,20 +12839,6 @@
         }
     },
     {
-        "price": "€ 815",
-        "teaser": [
-            "79 m²",
-            "3 Zimmer",
-            "Balkon"
-        ],
-        "destination": "3508 Paudorf, Kardinal König-Straße 5/16",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-land/zweitbezug-moderne-wohnung-im-zentrum-1335561610/",
-        "coords": {
-            "latitude": 48.352949,
-            "longitude": 15.623561
-        }
-    },
-    {
         "price": "€ 770",
         "teaser": [
             "74 m²",
@@ -12400,6 +12847,20 @@
         ],
         "destination": "3508 Paudorf, Kardinal König-Straße 5/10",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-land/zweitbezug-ruhige-wohnung-im-zentrum-von-paudorf-1085254325/",
+        "coords": {
+            "latitude": 48.352949,
+            "longitude": 15.623561
+        }
+    },
+    {
+        "price": "€ 815",
+        "teaser": [
+            "79 m²",
+            "3 Zimmer",
+            "Balkon"
+        ],
+        "destination": "3508 Paudorf, Kardinal König-Straße 5/16",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-land/zweitbezug-moderne-wohnung-im-zentrum-1335561610/",
         "coords": {
             "latitude": 48.352949,
             "longitude": 15.623561
@@ -14756,34 +15217,6 @@
         }
     },
     {
-        "price": "€ 533",
-        "teaser": [
-            "55 m²",
-            "2 Zimmer",
-            "Terrasse, Dachterrasse, Garten"
-        ],
-        "destination": "2274 Rabensburg, Veilchengasse 12/11",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/mistelbach/erstbezug-helle-dachterrassenwohnung-872588362/",
-        "coords": {
-            "latitude": 48.645259,
-            "longitude": 16.900108
-        }
-    },
-    {
-        "price": "€ 724",
-        "teaser": [
-            "75 m²",
-            "3 Zimmer",
-            "Balkon, Dachterrasse, Garten"
-        ],
-        "destination": "2274 Rabensburg, Veilchengasse 12/6",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/mistelbach/schoene-erstbezugswohnung-mit-suedseitigen-balkon-1129058758/",
-        "coords": {
-            "latitude": 48.645259,
-            "longitude": 16.900108
-        }
-    },
-    {
         "price": "€ 987",
         "teaser": [
             "77 m²",
@@ -14837,6 +15270,34 @@
         "coords": {
             "latitude": 48.352949,
             "longitude": 15.623561
+        }
+    },
+    {
+        "price": "€ 533",
+        "teaser": [
+            "55 m²",
+            "2 Zimmer",
+            "Terrasse, Dachterrasse, Garten"
+        ],
+        "destination": "2274 Rabensburg, Veilchengasse 12/11",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/mistelbach/erstbezug-helle-dachterrassenwohnung-872588362/",
+        "coords": {
+            "latitude": 48.645259,
+            "longitude": 16.900108
+        }
+    },
+    {
+        "price": "€ 724",
+        "teaser": [
+            "75 m²",
+            "3 Zimmer",
+            "Balkon, Dachterrasse, Garten"
+        ],
+        "destination": "2274 Rabensburg, Veilchengasse 12/6",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/mistelbach/schoene-erstbezugswohnung-mit-suedseitigen-balkon-1129058758/",
+        "coords": {
+            "latitude": 48.645259,
+            "longitude": 16.900108
         }
     },
     {
@@ -15344,7 +15805,7 @@
         }
     },
     {
-        "price": "€ 800",
+        "price": "not found",
         "teaser": [
             "68 m²",
             "2 Zimmer",
@@ -15582,20 +16043,6 @@
         }
     },
     {
-        "price": "€ 799",
-        "teaser": [
-            "53 m²",
-            "2 Zimmer",
-            "Balkon"
-        ],
-        "destination": "7000 Eisenstadt, Unterbergstraße",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/burgenland/eisenstadt/schoene-helle-mietwohnung-in-ruhiger-und-zentraler-lage-777663895/",
-        "coords": {
-            "latitude": 47.846166,
-            "longitude": 16.516298
-        }
-    },
-    {
         "price": "€ 684,99",
         "teaser": [
             "75 m²",
@@ -15638,14 +16085,14 @@
         }
     },
     {
-        "price": "€ 674",
+        "price": "€ 813",
         "teaser": [
-            "64 m²",
-            "2 Zimmer",
-            "Terrasse, Dachterrasse"
+            "81 m²",
+            "3 Zimmer",
+            "Balkon"
         ],
-        "destination": "2274 Rabensburg, Veilchengasse 7/13",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/mistelbach/wunderschoene-sanierte-wohnung-mit-2-dachterrassen-1202715696/",
+        "destination": "2274 Rabensburg, Veilchengasse 7/5",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/mistelbach/grosse-unbefristete-balkonwohnung-1442971547/",
         "coords": {
             "latitude": 48.645259,
             "longitude": 16.900108
@@ -15694,14 +16141,14 @@
         }
     },
     {
-        "price": "€ 813",
+        "price": "€ 674",
         "teaser": [
-            "81 m²",
-            "3 Zimmer",
-            "Balkon"
+            "64 m²",
+            "2 Zimmer",
+            "Terrasse, Dachterrasse"
         ],
-        "destination": "2274 Rabensburg, Veilchengasse 7/5",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/mistelbach/grosse-unbefristete-balkonwohnung-1442971547/",
+        "destination": "2274 Rabensburg, Veilchengasse 7/13",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/mistelbach/wunderschoene-sanierte-wohnung-mit-2-dachterrassen-1202715696/",
         "coords": {
             "latitude": 48.645259,
             "longitude": 16.900108
@@ -18786,20 +19233,6 @@
         }
     },
     {
-        "price": "€ 540",
-        "teaser": [
-            "55 m²",
-            "2 Zimmer",
-            "Terrasse, Loggia, Garten"
-        ],
-        "destination": "2842 Edlitz",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/neunkirchen/gefoerderte-genossenschaftswohnung-miete-mit-kaufrecht-erstbezug-top-2-3-771789652/",
-        "coords": {
-            "latitude": 47.597196,
-            "longitude": 16.140018
-        }
-    },
-    {
         "price": "€ 680",
         "teaser": [
             "76 m²",
@@ -18911,34 +19344,6 @@
         }
     },
     {
-        "price": "€ 997,75",
-        "teaser": [
-            "65 m²",
-            "2 Zimmer",
-            "Balkon"
-        ],
-        "destination": "3470 Kirchberg am Wagram",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/tulln/wohnen-mit-staedtischen-komfort-744807824/",
-        "coords": {
-            "latitude": 48.436096,
-            "longitude": 15.897245
-        }
-    },
-    {
-        "price": "€ 982,94",
-        "teaser": [
-            "63 m²",
-            "2 Zimmer",
-            "Balkon"
-        ],
-        "destination": "3470 Kirchberg am Wagram",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/tulln/eine-wohnung-die-anzieht-und-fasziniert-744807827/",
-        "coords": {
-            "latitude": 48.436096,
-            "longitude": 15.897245
-        }
-    },
-    {
         "price": "€ 773",
         "teaser": [
             "74 m²",
@@ -18950,34 +19355,6 @@
         "coords": {
             "latitude": 47.502065,
             "longitude": 16.296243
-        }
-    },
-    {
-        "price": "€ 798",
-        "teaser": [
-            "60 m²",
-            "2 Zimmer",
-            "Balkon"
-        ],
-        "destination": "7000 Eisenstadt",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/burgenland/eisenstadt/7000-eisenstad-sehr-schoenes-60m2-terrassen-apartment-top-moebliert-mit-seeblick-in-herrlicher-waldrand-ruhelage-2011673697/",
-        "coords": {
-            "latitude": 47.846668,
-            "longitude": 16.524896
-        }
-    },
-    {
-        "price": "€ 895",
-        "teaser": [
-            "60 m²",
-            "2 Zimmer",
-            "Loggia"
-        ],
-        "destination": "7100 Neusiedl am See",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/burgenland/neusiedl-am-see/mietwohnung-in-neusiedl-am-see-in-seenaehe-u-bahnhofsnaehe-1387049549/",
-        "coords": {
-            "latitude": 47.94839,
-            "longitude": 16.843662
         }
     },
     {
@@ -19009,20 +19386,6 @@
         }
     },
     {
-        "price": "€ 803,63",
-        "teaser": [
-            "76 m²",
-            "2 Zimmer",
-            "Loggia"
-        ],
-        "destination": "2700 Wiener Neustadt, J.W. Gangelbergergasse 1",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/wiener-neustadt/stiege-2-top-8-759501424/",
-        "coords": {
-            "latitude": 47.813919,
-            "longitude": 16.243852
-        }
-    },
-    {
         "price": "not found",
         "teaser": [
             "80 m²",
@@ -19033,34 +19396,6 @@
         "coords": {
             "latitude": 47.909419,
             "longitude": 16.386874
-        }
-    },
-    {
-        "price": "€ 784,76",
-        "teaser": [
-            "63 m²",
-            "2 Zimmer",
-            "Garten"
-        ],
-        "destination": "2700 Wiener Neustadt, Pottendorfer Straße 218",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/wiener-neustadt/wiener-neustadt-ix-1-freifinanzierte-mietwohnung-mit-kaufoption-top-306-1000-00011761-00001306-1644748365/",
-        "coords": {
-            "latitude": 47.835333,
-            "longitude": 16.272209
-        }
-    },
-    {
-        "price": "€ 733,26",
-        "teaser": [
-            "54 m²",
-            "2 Zimmer",
-            "Loggia"
-        ],
-        "destination": "3100 St. Pölten, Wiener Straße 69",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/st-poelten-xvi-2-freifinanzierte-mietwohnung-mit-kaufoption-top-37-1000-00011552-00001137-753710290/",
-        "coords": {
-            "latitude": 48.204278,
-            "longitude": 15.638879
         }
     },
     {
@@ -19075,20 +19410,6 @@
         "coords": {
             "latitude": 47.71603,
             "longitude": 16.187054
-        }
-    },
-    {
-        "price": "€ 545,11",
-        "teaser": [
-            "54 m²",
-            "2 Zimmer",
-            "Balkon"
-        ],
-        "destination": "2064 Wulzeshofen, Nr. 310",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/mistelbach/wulzeshofen-i-2-lz-1840-top-205-633815629/",
-        "coords": {
-            "latitude": 48.717925,
-            "longitude": 16.300674
         }
     },
     {
@@ -19984,7 +20305,7 @@
         }
     },
     {
-        "price": "not found",
+        "price": "€ 795",
         "teaser": [
             "74 m²",
             "3 Zimmer",
@@ -20110,20 +20431,6 @@
         }
     },
     {
-        "price": "€ 898",
-        "teaser": [
-            "55 m²",
-            "2 Zimmer",
-            "Balkon"
-        ],
-        "destination": "2232 Deutsch-Wagram, Wilhelm Exnergasse 29a",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/gaenserndorf/provisionsfreie-2-zimmerwohnung-in-gruenruhelage-1986010454/",
-        "coords": {
-            "latitude": 48.298061,
-            "longitude": 16.562874
-        }
-    },
-    {
         "price": "not found",
         "teaser": [
             "63 m²",
@@ -20152,14 +20459,14 @@
         }
     },
     {
-        "price": "€ 688",
+        "price": "€ 648",
         "teaser": [
             "66 m²",
             "2 Zimmer",
             "Balkon"
         ],
         "destination": "2700 Wiener Neustadt, Fischauer Gasse",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/wiener-neustadt/nur-privat-2-ziwohnung-balkon-1933064889/",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/wiener-neustadt/gelegenheit-2-ziwohnung-balkon-1933064889/",
         "coords": {
             "latitude": 47.821771,
             "longitude": 16.22675
@@ -20931,20 +21238,6 @@
         "coords": {
             "latitude": 48.150831,
             "longitude": 14.894483
-        }
-    },
-    {
-        "price": "not found",
-        "teaser": [
-            "86 m²",
-            "3 Zimmer",
-            "Balkon"
-        ],
-        "destination": "3300 Amstetten, Mozartstraße 22",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/privat-3-zimmer-whg-mit-balkon-in-amstetten-1269347082/",
-        "coords": {
-            "latitude": 48.12414,
-            "longitude": 14.881692
         }
     },
     {
@@ -22078,76 +22371,6 @@
         }
     },
     {
-        "price": "€ 711",
-        "teaser": [
-            "43 m²",
-            "2 Zimmer",
-            "Loggia"
-        ],
-        "destination": "3300 Amstetten, Ferdinand-Walko-Straße 2, Tür 10",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/2-zimmer-neubau-wohnung-mit-loggia-in-amstetten-1426810221/",
-        "coords": {
-            "latitude": 48.117186,
-            "longitude": 14.86997
-        }
-    },
-    {
-        "price": "€ 807",
-        "teaser": [
-            "63 m²",
-            "2 Zimmer",
-            "Balkon"
-        ],
-        "destination": "2700 Wiener Neustadt, Pottendorferstraße",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/wiener-neustadt/genossenschaftswohnung-63m-mit-balkon-11m-weitergabe-neuwertig-moebliert-1458758843/",
-        "coords": {
-            "latitude": 47.826224,
-            "longitude": 16.251081
-        }
-    },
-    {
-        "price": "€ 889,42",
-        "teaser": [
-            "80 m²",
-            "3 Zimmer",
-            "Loggia"
-        ],
-        "destination": "3500 Krems an der Donau, Reifgasse",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-an-der-donau/3-zi-neben-campus-reifg-garage-loggia-885135485/",
-        "coords": {
-            "latitude": 48.408396,
-            "longitude": 15.590497
-        }
-    },
-    {
-        "price": "€ 997,80",
-        "teaser": [
-            "75 m²",
-            "3 Zimmer",
-            "Terrasse"
-        ],
-        "destination": "3100 St. Pölten",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/traumhafte-mietwohnung-im-zentrum-generalsanierung-2020-758763534/",
-        "coords": {
-            "latitude": 48.204512,
-            "longitude": 15.624423
-        }
-    },
-    {
-        "price": "€ 897",
-        "teaser": [
-            "75 m²",
-            "3 Zimmer",
-            "Balkon"
-        ],
-        "destination": "3140 Pottenbrunn",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/gefoerderte-genossenschaftswohnung-in-miete-727772745/",
-        "coords": {
-            "latitude": 48.239143,
-            "longitude": 15.698013
-        }
-    },
-    {
         "price": "€ 784",
         "teaser": [
             "80 m²",
@@ -22159,104 +22382,6 @@
         "coords": {
             "latitude": 47.597667,
             "longitude": 16.141612
-        }
-    },
-    {
-        "price": "€ 821,50",
-        "teaser": [
-            "57 m²",
-            "2 Zimmer",
-            "Terrasse"
-        ],
-        "destination": "3500 Krems an der Donau, Körnermarkt 6",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-an-der-donau/top-lage-wohnung-im-zentrum-von-krems-838874590/",
-        "coords": {
-            "latitude": 48.410798,
-            "longitude": 15.596273
-        }
-    },
-    {
-        "price": "€ 750",
-        "teaser": [
-            "68 m²",
-            "3 Zimmer",
-            "Terrasse, Loggia"
-        ],
-        "destination": "3100 St. Pölten",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/moderne-dachgeschosswohnung-mit-terrasse-und-loggia-2065887301/",
-        "coords": {
-            "latitude": 48.204512,
-            "longitude": 15.624423
-        }
-    },
-    {
-        "price": "€ 900",
-        "teaser": [
-            "71 m²",
-            "3 Zimmer",
-            "Balkon"
-        ],
-        "destination": "2700 Wiener Neustadt",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/wiener-neustadt/schoene-neubau-dachgeschosswohnung-mit-eigenem-parkplatz-zu-vermieten-1401462881/",
-        "coords": {
-            "latitude": 47.813919,
-            "longitude": 16.243852
-        }
-    },
-    {
-        "price": "not found",
-        "teaser": [
-            "68 m²",
-            "2 Zimmer",
-            "Terrasse, Garten"
-        ],
-        "destination": "3312 Oed, Hollerweg 6/3",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/geraeumige-helle-zweizimmerwohnung-mit-garten-1056595229/",
-        "coords": {
-            "latitude": 48.123052,
-            "longitude": 14.744331
-        }
-    },
-    {
-        "price": "€ 657",
-        "teaser": [
-            "92 m²",
-            "4 Zimmer",
-            "Loggia"
-        ],
-        "destination": "3300 Amstetten, Parksiedlung 30",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/familienwohnung-in-amstetten-1003489997/",
-        "coords": {
-            "latitude": 48.13162,
-            "longitude": 14.859044
-        }
-    },
-    {
-        "price": "€ 790",
-        "teaser": [
-            "64 m²",
-            "2 Zimmer",
-            "Balkon"
-        ],
-        "destination": "3702 Niederrußbach, Ölbergstrasse",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/korneuburg/mietwohnung-gefoerdert-provisionsfrei-1822929808/",
-        "coords": {
-            "latitude": 48.45385,
-            "longitude": 16.04156
-        }
-    },
-    {
-        "price": "€ 580",
-        "teaser": [
-            "65 m²",
-            "2 Zimmer",
-            "Terrasse"
-        ],
-        "destination": "2880 Kirchberg am Wechsel, Molz 5",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/neunkirchen/65m2-wohnung-1511716518/",
-        "coords": {
-            "latitude": 47.590164,
-            "longitude": 15.975093
         }
     },
     {

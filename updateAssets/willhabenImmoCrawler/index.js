@@ -8,7 +8,7 @@ import { addCoordsToInfo } from "./addCoordsToInfo.js";
 const allInfos = [];
 
 (async () => {
-    const browser = await puppeteer.launch({ headless: true });
+    const browser = await puppeteer.launch({ headless: false });
     const page = await browser.newPage();
 
     //const url = 'https://www.willhaben.at/iad/immobilien/mietwohnungen/mietwohnung-angebote';

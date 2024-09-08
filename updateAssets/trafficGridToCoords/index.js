@@ -10,12 +10,12 @@ const searchAndRecalcGrid = false
 const skipStation = 1 //<-----------------------------achtung should be 1 for testing 10
 
 const latitude =  
-48.1855 // Wien HBF
-//48.23714265416501 // dresdnerstraße u6  
+//48.1855 // Wien HBF
+48.23714265416501 // dresdnerstraße u6  
 // 48.1855 // Wien HBF
 const longitude = 
-16.3781  // Wien HBF
-//16.37967587837673 // dresdnerstraße u6 
+//16.3781  // Wien HBF
+16.37967587837673 // dresdnerstraße u6 
  //16.3781  // Wien HBF
 
 
