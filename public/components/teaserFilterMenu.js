@@ -49,8 +49,8 @@ const setSelectedFilter = (event) => {
 const generateTeaserCheckBox = () => {
 
     return teaserList.map(ele => html`
-        <label for="${ele}"> ${ele}</label>
         <input type="checkbox" id="${ele}" name="${ele}" @change=${(e)=> setSelectedFilter(e)} >
+        <label for="${ele}"> ${ele}</label>
     `)
 }
 

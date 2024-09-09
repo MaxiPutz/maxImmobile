@@ -2,6 +2,7 @@ node_modules/
 updateAssets/fetchWillhabenImmo/result.json
 updateAssets/fetchWillhabenImmo/detailResult.json
 updateAssets/fetchWillhabenImmo/ERROR.log
+updateAssets/fetchWillhabenImmo/ERROR_NoCoords.log
 
 backup/*
 public/private/token.js

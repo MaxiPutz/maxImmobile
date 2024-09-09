@@ -52,7 +52,7 @@ for (let i = 0; i < result.length; i++) {
 
   console.log(i);
   
-  let newObj = convertAdvertToObject(advert)
+  let newObj = await convertAdvertToObject(advert)
   if (newObj === undefined) {
     continue
   }

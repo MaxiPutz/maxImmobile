@@ -22,7 +22,7 @@ export const getValFromAttributeKeys = (attributeKey, obj) => {
  * @param {WillHabenEstate} advert 
  * @returns 
  */
-export const convertAdvertToObject = (advert) => {
+export const convertAdvertToObject = async (advert) => {
     const destination = `${getValFromAttributeKeys('POSTCODE', advert)} ${getValFromAttributeKeys('LOCATION', advert)} ${getValFromAttributeKeys('ADDRESS', advert)}`;
 
     let coords;
@@ -30,13 +30,13 @@ export const convertAdvertToObject = (advert) => {
         coords = getValFromAttributeKeys("COORDINATES", advert )[0].split(",")
         
     } catch {
-        const tmp = getCoordinates(destination)
+        const tmp = await getCoordinates(destination)
         coords = [tmp.latitude, tmp.longitude]
-        console
+        
         if (!isInEurope({lat: coords[0], lng: coords[1]})) {
-            const tmp2 =   getCoordinates(getValFromAttributeKeys('POSTCODE', advert) + ", AUT") 
+            const tmp2 =   await getCoordinates(getValFromAttributeKeys('POSTCODE', advert)[0] + ", AUT") 
             coords = [tmp2.latitude, tmp2.longitude]
-                                          
+            fs.appendFileSync("ERROR_NoCoords.log", `no coords foumd ${coords} \n ${getValFromAttributeKeys('POSTCODE', advert)[0] + ", AUT"} \n ${ JSON.stringify(advert, undefined, 4)}`)
         } 
         
     }
@@ -65,6 +65,7 @@ export const convertAdvertToObject = (advert) => {
         coords: {
             latitude: coords[0],
             longitude: coords[1]
-        }
+        },
+        postcode: getValFromAttributeKeys('POSTCODE', advert)[0]
     };
 };
