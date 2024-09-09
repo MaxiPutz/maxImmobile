@@ -1,5 +1,5 @@
-**/private/
 node_modules/
 updateAssets/fetchWillhabenImmo/result.json
 updateAssets/fetchWillhabenImmo/detailResult.json
 backup/*
+public/private/

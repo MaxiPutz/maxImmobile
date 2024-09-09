@@ -1,13 +1,13 @@
 [
     {
-        "price": "€ 851,69",
+        "price": "€ 1.270,81",
         "teaser": [
-            " 55 m²",
-            " 2 Zimmer",
-            "  Terrasse, Balkon, Garten"
+            " 95 m²",
+            " 4 Zimmer",
+            "  Balkon, Garten"
         ],
         "destination": "2700 Wiener Neustadt ",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/wiener-neustadt/sommerbonus-sichern-hochwertig-ausgestattete-mietwohnungen-nahe-stadtpark-1762718768/",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/wiener-neustadt/sommerbonus-sichern-hochwertig-ausgestattete-mietwohnungen-nahe-stadtpark-869648487/",
         "coords": {
             "latitude": "47.80547878",
             "longitude": "16.2345348"
@@ -15,6 +15,60 @@
         "isGenossenschaft": false,
         "info": [
             "  Herzlich willkommen in Wiener Neustadt - Maximiliangasse/Kammanngasse CELIA -  \"Wo Träume wahr werden\" Jetzt schnell sein und unseren Sommerbonus von 3 gratis Monatsmieten sichern!  An diesem Standort haben wir brandneue Mietwohnungen mit privater..."
+        ]
+    },
+    {
+        "price": "€ 550",
+        "teaser": [
+            " 55 m²",
+            " 2 Zimmer",
+            "  Garten"
+        ],
+        "destination": " Sankt Pölten ",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/campo-wohnung-dg-wohnung-mit-balkon-pottenbrunn-miete-ca-55-m2-2051243294/",
+        "coords": {
+            "latitude": "48.23618933",
+            "longitude": "15.69693816"
+        },
+        "isGenossenschaft": false,
+        "info": [
+            "In zentraler Lage in Pottenbrunn wurde vom Besitzer des neu renovierten Mehrparteienwohnhaus ein Zubau mit 6 Wohnungen geschaffen. In massiver Bauweise schließt sich dieses Bauwerk dem Altbau harmonisch an. Es stehen je 2 Wohnungen im Erdgeschoß, im..."
+        ]
+    },
+    {
+        "price": "€ 560,39",
+        "teaser": [
+            " 54 m²",
+            " 3 Zimmer",
+            "  Terrasse, Dachterrasse, Garten"
+        ],
+        "destination": "2620 Ternitz Urbanhof 1K",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/neunkirchen/staffelmiete-2-zimmer-gartenwohnung-inklusive-sonnenuntergang-1259244534/",
+        "coords": {
+            "latitude": "47.7274538",
+            "longitude": "16.0690319"
+        },
+        "isGenossenschaft": false,
+        "info": [
+            "\"Ternitz W O H N P A R K II\"   Dieses Wohnhaus (Stiege 3) umfasst insgesamt 17 geförderte Wohneinheiten (Insgesamt sind 11 Stiegenhäuser geplant). Alle Wohnungen verfügen entweder über eine Terrasse mit Eigengarten, einen Balkon oder eine Dachterrasse...."
+        ]
+    },
+    {
+        "price": "€ 564,63",
+        "teaser": [
+            " 56 m²",
+            " 2 Zimmer",
+            "  Balkon, Dachterrasse"
+        ],
+        "destination": "2620 Ternitz Urbanhof 1K",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/neunkirchen/staffelmiete-2-zimmer-balkonwohnung-ideal-zum-ausklingen-lassen-des-tages-1543516406/",
+        "coords": {
+            "latitude": "47.7274538",
+            "longitude": "16.0690319"
+        },
+        "isGenossenschaft": false,
+        "info": [
+            "\"Ternitz W O H N P A R K II\"   Dieses Wohnhaus (Stiege 3) umfasst insgesamt 17 geförderte Wohneinheiten (Insgesamt sind 11 Stiegenhäuser geplant). Alle Wohnungen verfügen entweder über eine Terrasse mit Eigengarten, einen Balkon oder eine Dachterrasse...."
         ]
     },
     {
@@ -180,10 +234,13 @@
         ]
     },
     {
-        "price": "ab € 829,99",
-        "teaser": [],
+        "price": "€ 829,99",
+        "teaser": [
+            " 62 m²",
+            " 3 Zimmer"
+        ],
         "destination": "2700 Wiener Neustadt Gymelsdorfergasse 48",
-        "url": "https://www.willhaben.at/iad/immobilien/d/neubauprojekt/niederoesterreich/wiener-neustadt/gymelsdorfer-gasse-48-city-quartier-02-2700-wiener-neustadt-1820772902/",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/wiener-neustadt/3-zimmer-wohnung-neubau-balkon-aussenflaeche-komplettkueche-kellerabteil-cq2-13-2021624538/",
         "coords": {
             "latitude": "47.8011555",
             "longitude": "16.2377859"
@@ -930,10 +987,13 @@
         ]
     },
     {
-        "price": "ab € 485",
-        "teaser": [],
+        "price": "€ 685",
+        "teaser": [
+            " 73 m²",
+            " 3 Zimmer"
+        ],
         "destination": "7000 Eisenstadt Kirchäcker Ost, Bauplatz 5a",
-        "url": "https://www.willhaben.at/iad/immobilien/d/neubauprojekt/burgenland/eisenstadt/wohnen-mit-parkblick-attraktive-wohnhausanlage-mit-innovativem-dachgarten-und-freiraumkonzept-tag-der-offenen-tuer-am-27-9-2024-703821910/",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/burgenland/eisenstadt/wohnen-mit-parkblick-moderne-3-zimmer-wohnung-mit-balkon-im-erstbezug-tag-der-offenen-tuer-am-27-9-2024-10-14-uhr-1784479576/",
         "coords": {
             "latitude": "47.83877182006836",
             "longitude": "16.536880493164062"
@@ -1401,10 +1461,7 @@
         ],
         "destination": "2130 Mistelbach Franz Josef Straße 87/9",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/mistelbach/genossenschaftswohnung-nachmieter-gesucht-2096400648/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": true,
         "info": [
             "Suche Nachmieter für meine Genossenschaftswohnung mit Kaufoption in 2130 Mistelbach, Franz Josef Straße 87/9 ab November 2024 Zentrumsnahe 68,22m2 Genossenschaftswohnung besteht aus 2 Zimmern und bietet folgende Ausstattung +Tiefgaragenstellplatz..."
@@ -1527,10 +1584,7 @@
         ],
         "destination": "3492 Etsdorf am Kamp Grünweg 30/8",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-land/kleine-aber-feine-genossenschaftswohnung-gefoerderte-1817485508/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": true,
         "info": [
             "Die Wohnung ist sehr hell und besteht aus zwei Zimmern. Das Badezimmer ist groß und besitzt eine Duschwand (diese ist nicht mal ein Jahr alt Rechnung vorhanden) . Es gibt einen Abstellraum der Platz für einige Dinge hat. Gegenüber von der Wohnungstüre..."
@@ -1941,10 +1995,7 @@
         ],
         "destination": "2824 Seebenstein Bahnstraße 10/2",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/neunkirchen/nachmieter-fuer-traumhafte-3-zimmer-wohnung-1730908936/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Sehr schöne Wohnung mit hervorragender Raumaufteilung und wunderschönen Ausblick auf die Seebensteiner Burg. *Küche & Wohnzimmer in einem *Schlafzimmer *Kinderzimmer / Arbeitszimmer *Badezimmer *WC *Großzügiges Kellerabteil *Garten *Parkmöglichkeit in..."
@@ -3038,10 +3089,7 @@
         ],
         "destination": "3352 St. Peter in der Au Amstettner Straße 15/9",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/amstettner-strasse-15-9-1753347108/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "schöne 2-Zimmer-Wohnung mit Kochnische, Bad, Nebenräumen - im 1. OG mit Balkon Heizung: Biogene Fernwärme Heizwärmebedarf (kWh/m²a): 29.6 Balkonanzahl:1 Stellplatz: Garage Verfügbar ab: 01-12-2024 Finanzierungsbeitrag: 1976,43"
@@ -3092,10 +3140,7 @@
         ],
         "destination": "3500 Krems an der Donau Hafenstraße 32.12",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-an-der-donau/hafenstrasse-32-12-1257246195/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "alle Wohnungen sind barrierefrei mit einem Aufzug erreichbar, Garagenparkplätze vorhanden, Kinderspielplatz in der Anlage, rasche Erreichbarkeit des Naherholungsgebietes entlang des Kremsflusses mit zahlreichen Spazier-, Wander- und Radwegen; vielfältige..."
@@ -3911,10 +3956,13 @@
         ]
     },
     {
-        "price": "ab € 620",
-        "teaser": [],
+        "price": "€ 830",
+        "teaser": [
+            " 44 m²",
+            " 2 Zimmer"
+        ],
         "destination": "2344 Maria Enzersdorf Franz Josef-Straße",
-        "url": "https://www.willhaben.at/iad/immobilien/d/neubauprojekt/niederoesterreich/moedling/the-vineyard-ihr-investment-inmitten-der-weinberge-1076001050/",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/moedling/flexibilitaet-pur-mietkauf-the-vineyards-erst-mieten-dann-kaufen-1414145041/",
         "coords": {
             "latitude": "48.0974674",
             "longitude": "16.2830111"
@@ -3997,10 +4045,13 @@
         ]
     },
     {
-        "price": "ab € 716,80",
-        "teaser": [],
+        "price": "€ 724,20",
+        "teaser": [
+            " 55 m²",
+            " 2 Zimmer"
+        ],
         "destination": "7222 Rohrbach bei Mattersburg Am Seepark",
-        "url": "https://www.willhaben.at/iad/immobilien/d/neubauprojekt/burgenland/mattersburg/rohrbach-1902634005/",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/burgenland/mattersburg/top6-m-traumhaftes-appartement-im-schoenen-burgenland-ihr-neues-zuhause-erwartet-sie-schon-1964122775/",
         "coords": {
             "latitude": "47.7056",
             "longitude": "16.4268"
@@ -4029,9 +4080,13 @@
         ]
     },
     {
-        "teaser": [],
+        "price": "€ 994,85",
+        "teaser": [
+            " 78 m²",
+            " 3 Zimmer"
+        ],
         "destination": "2460 Bruck an der Leitha Dr. Wilhelm Kramer-Straße",
-        "url": "https://www.willhaben.at/iad/immobilien/d/neubauprojekt/niederoesterreich/bruck-an-der-leitha/2460-bruck-an-der-leitha-dr-w-kramer-strasse-2-miete-2099666001/",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/bruck-an-der-leitha/mieten-sie-jetzt-schon-ihre-zukuenftige-eigentumswohnung-737135492/",
         "coords": {
             "latitude": "48.03818",
             "longitude": "16.78556"
@@ -4545,10 +4600,13 @@
         ]
     },
     {
-        "price": "ab € 699",
-        "teaser": [],
+        "price": "€ 849",
+        "teaser": [
+            " 54 m²",
+            " 3 Zimmer"
+        ],
         "destination": "3100 St. Pölten Jahnstraße",
-        "url": "https://www.willhaben.at/iad/immobilien/d/neubauprojekt/niederoesterreich/sankt-poelten/jahngruende-schoene-erstbezugswohnungen-zentrale-lage-ruhige-wohngegend-947907118/",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/3-zimmer-durchdachter-grundriss-balkon-ruhelage-1221918585/",
         "coords": {
             "latitude": "48.1985097",
             "longitude": "15.6266274"
@@ -4639,10 +4697,7 @@
         ],
         "destination": "2630 Ternitz Hauptstraße 19",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/neunkirchen/kaufoption-attraktive-gefoerderte-3-zimmer-wohnung-mit-schoener-terrasse-1396929331/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Wohnbauprojekt der \"Gewog Arthur Krupp\", ein Unternehmen der \"Wien-Süd\"-Gruppe   Moderne 3-Zimmer-Wohnung mit schöner Terrasse 2630 Ternitz, Hauptstraße 19, Top 7 Fertigstellung: Juli 2012   Wohnen in schöner Lage: Die  freundliche 3-Zimmer-Wohnung mit..."
@@ -4909,10 +4964,7 @@
         ],
         "destination": "2440 Gramatneusiedl Dr Löw Gasse 8",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/bruck-an-der-leitha/helle-3-zimmer-balkonwohnung-mit-garten-nutzung-in-gramatneusiedl-zu-vermieten-1895028579/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Link zum Video: https://youtu.be/7MpgZIYLLys Helle 3-Zimmer-Balkonwohnung mit Garten-Nutzung in Gramatneusiedl zu vermieten. Zur Vermietung gelangt eine sehr helle und gut gelegene 3-Zimmerwohnung mit ca. 70 m² in 2440 Gramatneusiedl. Die Wohnung besteht..."
@@ -4945,10 +4997,7 @@
         ],
         "destination": "2544 Leobersdorf Südbahnstraße 22",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/baden/unbefristet-erstbezug-moderne-2-zimmer-wohnung-mit-freiflaeche-in-zentraler-lage-1595516877/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Moderne Wohnkonzepte in zentraler Grünlage Die gegenständliche Liegenschaft verfügt über 23 Wohneinheiten, welche ein lichtdurchflutetes Wohnflair mit traumhaften Grünblick bieten. Die Wohnungen wurden unter Beachtung von zeitgemäßen, intelligenten..."
@@ -5351,14 +5400,14 @@
         ]
     },
     {
-        "price": "ab € 436",
-        "teaser": [],
+        "price": "€ 626,14",
+        "teaser": [
+            " 63 m²",
+            " 2 Zimmer"
+        ],
         "destination": "3362 Mauer bei Amstetten Hausmeninger Straße 219",
-        "url": "https://www.willhaben.at/iad/immobilien/d/neubauprojekt/niederoesterreich/amstetten/amstetten-mauer-ii-1968639445/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/amstetten-mauer-ii-1-726698244/",
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Das Projekt umfasst gesamt 55 Wohnungen, die in 2- bis 4-Zimmer Wohungen in Ausführung gelangen. Jeder Einheit steht ein individuell nutzbarer Freiraum in Form von Balkonen oder Loggien zur Verfügung. Zusätzlich gelangt man über eine Aufzugsanlage..."
@@ -5427,10 +5476,7 @@
         ],
         "destination": "3643 Maria Laach am Jauerling Nr. 101/8",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-land/nr-101-8-1158010942/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "2-Zimmer-Wohnung mit Kochnische, Bad, WC und Nebenräumen - inklusive Balkon Heizung: Fernwärme Heizwärmebedarf (kWh/m²a): 52.4 Gesamtenergieeffezienz Faktor (kW): 1.21 Balkonanzahl:1 Verfügbar ab: sofort Finanzierungsbeitrag: 1500"
@@ -5445,10 +5491,7 @@
         ],
         "destination": "3500 Krems an der Donau Fidelio-Straße 5/11",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-an-der-donau/fidelio-strasse-5-11-1848779543/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "2 Zimmer, Küche, Bad und Nebenräume - Loggia - 1 gedeckter Stellplatz Heizung: biogene Fernwärme EVN Heizwärmebedarf (kWh/m²a): 19.5 Gesamtenergieeffezienz Faktor (kW): 0.58 Loggiaanzahl: 1 Balkonanzahl:1 Verfügbar ab: 01-10-2024 Finanzierungsbeitrag:..."
@@ -5499,10 +5542,7 @@
         ],
         "destination": "3500 Krems an der Donau Gschmeidlerstraße 39/6",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-an-der-donau/gschmeidlerstrasse-39-6-1969422860/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "grün, zentral, lebensfroh - wohnen in der Mitterau, gemütliche 2-Zimmer-Wohnung, Küche, Bad (Dusche), WC und Nebenräume, Balkon, beste Infrastruktur und Verkehrsanbindung, Naherholungsgebiet Donau und Kremsfluss direkt vor der Haustüre Heizung: Fernwärme..."
@@ -5535,10 +5575,7 @@
         ],
         "destination": "3500 Krems an der Donau Hafenstraße 30.17",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-an-der-donau/hafenstrasse-30-17-1812957479/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "JUNGES WOHNEN - 2 Zimmer, Küche, Bad und Nebenräume - Balkon - 1 Garagenstellplatz - Junges Wohnen - Höchstalter bei Bezug der Wohnung 35 Jahre Heizung: Fernwärme Heizwärmebedarf (kWh/m²a): 25.4 Balkonanzahl:1 Stellplatz: Garage Verfügbar ab: 01-11-2024..."
@@ -5715,10 +5752,7 @@
         ],
         "destination": "4300 St. Valentin Raiffeisenstraße 17/2",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/st-valentin-gefoerderte-2-zimmer-mietwohnung-balkon-1845435823/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "monatl. Kosten inkl. BK. weitere Objektinformationen Top: 02"
@@ -6255,10 +6289,7 @@
         ],
         "destination": "3100 St. Pölten Fröstlgasse 1b/13",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/genossenschaftswohnung-in-st-poelten-1375337569/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": true,
         "info": [
             "Keine Beschreibung vorhanden"
@@ -6373,10 +6404,13 @@
         ]
     },
     {
-        "price": "ab € 634,76",
-        "teaser": [],
+        "price": "€ 949,61",
+        "teaser": [
+            " 57 m²",
+            " 2 Zimmer"
+        ],
         "destination": "2391 Kaltenleutgeben Hauptstraße 139",
-        "url": "https://www.willhaben.at/iad/immobilien/d/neubauprojekt/niederoesterreich/moedling/kaltenleutgeben-hauptstrasse-139-1166195563/",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/moedling/mietkauf-gut-geschnittene-2-zimmer-gartenwohnung-zu-vergeben-a-13-kaleu139-provisionsfrei-1772401933/",
         "coords": {
             "latitude": "48.11294",
             "longitude": "16.18586"
@@ -6459,10 +6493,13 @@
         ]
     },
     {
-        "price": "ab € 699,49",
-        "teaser": [],
+        "price": "€ 945,46",
+        "teaser": [
+            " 63 m²",
+            " 3 Zimmer"
+        ],
         "destination": "2700 Wiener Neustadt Gymelsdorfergasse",
-        "url": "https://www.willhaben.at/iad/immobilien/d/neubauprojekt/niederoesterreich/wiener-neustadt/hier-ist-fuer-jeden-die-passende-wohnung-dabei-traumprojekt-in-wiener-neustadt-verlieben-sie-sich-jeden-tag-aufs-neue-in-ihre-wohnung-rasch-sein-558994629/",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/wiener-neustadt/hier-ist-fuer-jeden-die-passende-wohnung-dabei-traumprojekt-in-wiener-neustadt-verlieben-sie-sich-jeden-tag-aufs-neue-in-ihre-wohnung-rasch-sein-1401160977/",
         "coords": {
             "latitude": "47.8034506",
             "longitude": "16.2397641"
@@ -6535,10 +6572,7 @@
         ],
         "destination": "3451 Pixendorf ",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/tulln/zumglueck-tullnerfeld-pixendorf-erstbezug-im-gruenen-stadtnaehe-1597720883/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Im Tullnerfeld in Pixendorf entstehen ZumGLÜCK neu errichtete unbefristete Mietwohnungen die ab September 2024 bezogen werden können. Egal ob für Ein-Personen Haushalte, Paare oder Familien - ZumGLÜCK Tullnerfeld bietet für jeden die passende Wohnung...."
@@ -6571,10 +6605,7 @@
         ],
         "destination": "3451 Pixendorf ",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/tulln/zumglueck-tullnerfeld-in-pixendorf-erstbezug-unbefristet-direkt-vom-bautraeger-859921594/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Im Tullnerfeld in Pixendorf entstehen ZumGLÜCK neu errichtete unbefristete Mietwohnungen die ab September 2024 bezogen werden können. Egal ob für Ein-Personen Haushalte, Paare oder Familien - ZumGLÜCK Tullnerfeld bietet für jeden die passende Wohnung...."
@@ -6589,10 +6620,7 @@
         ],
         "destination": "3451 Pixendorf ",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/tulln/zumglueck-tullnerfeld-in-pixendorf-erstbezug-unbefristet-direkt-vom-bautraeger-1474953997/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Im Tullnerfeld in Pixendorf entstehen ZumGLÜCK neu errichtete unbefristete Mietwohnungen die ab September 2024 bezogen werden können. Egal ob für Ein-Personen Haushalte, Paare oder Familien - ZumGLÜCK Tullnerfeld bietet für jeden die passende Wohnung...."
@@ -7488,10 +7516,7 @@
         ],
         "destination": "3483 Feuersbrunn Große Zeile 23/2",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/tulln/grosse-zeile-23-2-2043335615/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Heizung: Gas-Heizkessel Heizwärmebedarf (kWh/m²a): 45 Gesamtenergieeffezienz Faktor (kW): 0.91 Terrassenanzahl:1 Gartenfläche: 19 m² Verfügbar ab: sofort Finanzierungsbeitrag: 3120,39"
@@ -7516,10 +7541,13 @@
         ]
     },
     {
-        "price": "ab € 749",
-        "teaser": [],
+        "price": "€ 749",
+        "teaser": [
+            " 59 m²",
+            " 2 Zimmer"
+        ],
         "destination": "3100 St. Pölten Rennbahnstraße",
-        "url": "https://www.willhaben.at/iad/immobilien/d/neubauprojekt/niederoesterreich/sankt-poelten/-hochwertige-mietwohnungen-nahe-des-traisen-flusses-landhausviertel-1600957732/",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/-2-zimmer-ab-september-nahe-des-traisen-flusses-landhausviertel-1779423967/",
         "coords": {
             "latitude": "48.2037375",
             "longitude": "15.6318768"
@@ -7836,10 +7864,13 @@
         ]
     },
     {
-        "price": "ab € 748",
-        "teaser": [],
+        "price": "€ 754",
+        "teaser": [
+            " 59 m²",
+            " 2 Zimmer"
+        ],
         "destination": "3508 Paudorf Kardinal König Straße 7",
-        "url": "https://www.willhaben.at/iad/immobilien/d/neubauprojekt/niederoesterreich/krems-land/gefoerderte-wohnungen-in-paudorf-1208719426/",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-land/ruhig-wohnen-und-doch-mitten-im-zentrum-932482506/",
         "coords": {
             "latitude": "48.351341247558594",
             "longitude": "15.6110200881958"
@@ -7850,10 +7881,13 @@
         ]
     },
     {
-        "price": "ab € 533",
-        "teaser": [],
+        "price": "€ 727",
+        "teaser": [
+            " 76 m²",
+            " 3 Zimmer"
+        ],
         "destination": "2274 Rabensburg Veilchengasse 12",
-        "url": "https://www.willhaben.at/iad/immobilien/d/neubauprojekt/niederoesterreich/mistelbach/wohnen-in-rabensburg-1511173638/",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/mistelbach/garten-erstbezug-unbefristet-1960306717/",
         "coords": {
             "latitude": "48.64533",
             "longitude": "16.89887"
@@ -8061,10 +8095,13 @@
         ]
     },
     {
-        "price": "ab € 575,78",
-        "teaser": [],
+        "price": "€ 945,06",
+        "teaser": [
+            " 63 m²",
+            " 2 Zimmer"
+        ],
         "destination": "3451 Pixendorf Fuchsenstraße",
-        "url": "https://www.willhaben.at/iad/immobilien/d/neubauprojekt/niederoesterreich/tulln/unbefristete-mietwohnungen-im-lebensraum-tullnerfeld-entdecken-sie-ihre-neue-wohnoase-2039447207/",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/tulln/unbefristet-wohnen-im-gruenen-ihr-neues-zuhause-im-herzen-des-tullnerfelds-2096272275/",
         "coords": {
             "latitude": "48.2872565",
             "longitude": "15.9833475"
@@ -8119,10 +8156,7 @@
         ],
         "destination": "3352 St. Peter in der Au Kürnberg 85/6",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/kuernberg-85-6-1058151811/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Entspanntes Wohnen im Grünen - Die Katastrale Kürnberg zählt zur Marktgemeinde St. Peter in der Au und liegt im Herzen des Most viertels. Die malerische Marktgemeinde ist durch die Moststraße und den Tourismus geprägt. Im voralpinen Ausläufer der..."
@@ -8137,10 +8171,7 @@
         ],
         "destination": "3332 Gleiß Waidhofnerstraße 28/15",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/waidhofnerstrasse-28-15-1844194804/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "BETREUTES WOHNEN: 2-Zimmer-Wohnung mit MÖBLIERTER KOCHNISCHE, Bad, Nebenräumen - zuzüglich Betreuungsgrundpaket vom Kloster Gleiss EUR 80,-- monatlich Heizung: zentrale Pelletsheizung Heizwärmebedarf (kWh/m²a): 8.61 Balkonanzahl:1 Verfügbar ab: sofort..."
@@ -8155,10 +8186,7 @@
         ],
         "destination": "3362 Mauer bei Amstetten Hausmeninger Straße 219/Haus 1/Tür 8",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/amstetten-mauer-ii-8-1794189578/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "zuzüglich Heiz- um Warmwasserkosten EUR 50,20/Monat Heizung: Fernwärme - Fußbodenheizung Heizwärmebedarf (kWh/m²a): 14.4 Gesamtenergieeffezienz Faktor (kW): 0.62 Balkonanzahl:1 Stellplatz: Garage Verfügbar ab: verfügbar auf Anfrage Finanzierungsbeitrag:..."
@@ -8173,10 +8201,7 @@
         ],
         "destination": "3362 Mauer bei Amstetten Hausmeninger Straße 219/Haus 1/Tür 9",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/amstetten-mauer-ii-9-1772557115/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "zuzüglich Heiz- um Warmwasserkosten EUR 50,46/Monat Heizung: Fernwärme - Fußbodenheizung Heizwärmebedarf (kWh/m²a): 14.4 Gesamtenergieeffezienz Faktor (kW): 0.62 Balkonanzahl:1 Stellplatz: Garage Verfügbar ab: verfügbar auf Anfrage Finanzierungsbeitrag:..."
@@ -8191,10 +8216,7 @@
         ],
         "destination": "3362 Mauer bei Amstetten Hausmeninger Straße 219/Haus 1/Tür 23",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/amstetten-mauer-ii-23-1129702401/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "zuzüglich Heiz- um Warmwasserkosten EUR 63,69/Monat Heizung: Fernwärme - Fußbodenheizung Heizwärmebedarf (kWh/m²a): 18.6 Gesamtenergieeffezienz Faktor (kW): 0.63 Loggiaanzahl: 1 Stellplatz: Garage Verfügbar ab: verfügbar auf Anfrage Finanzierungsbeitrag:..."
@@ -8209,10 +8231,7 @@
         ],
         "destination": "3362 Mauer bei Amstetten Hausmeninger Straße 219/Haus 1/Tür 26",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/amstetten-mauer-ii-26-1722133657/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "zuzüglich Heiz- um Warmwasserkosten EUR 50,46/Monat Heizung: Fernwärme - Fußbodenheizung Heizwärmebedarf (kWh/m²a): 14.4 Gesamtenergieeffezienz Faktor (kW): 0.62 Balkonanzahl:1 Stellplatz: Garage Verfügbar ab: verfügbar auf Anfrage Finanzierungsbeitrag:..."
@@ -8245,10 +8264,7 @@
         ],
         "destination": "3451 Pixendorf ",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/tulln/zumglueck-tullnerfeld-erstbezug-unbefristet-direkt-vom-bautraeger-1106637402/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Im Tullnerfeld in Pixendorf entstehen ZumGLÜCK neu errichtete unbefristete Mietwohnungen die ab September 2024 bezogen werden können. Egal ob für Ein-Personen Haushalte, Paare oder Familien - ZumGLÜCK Tullnerfeld bietet für jeden die passende Wohnung...."
@@ -9010,10 +9026,13 @@
         ]
     },
     {
-        "price": "ab € 631,01",
-        "teaser": [],
+        "price": "€ 814,66",
+        "teaser": [
+            " 48 m²",
+            " 2 Zimmer"
+        ],
         "destination": "3100 St. Pölten ",
-        "url": "https://www.willhaben.at/iad/immobilien/d/neubauprojekt/niederoesterreich/sankt-poelten/am-rathausplatz-im-herzen-der-stadt-karmeliterhof-543085963/",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/2-zimmer-ab-sofort-dachgeschoss-herrliche-aussicht-1167041381/",
         "coords": {
             "latitude": "48.2054335",
             "longitude": "15.6183427"
@@ -9032,10 +9051,7 @@
         ],
         "destination": "3100 St. Pölten Steinfeldstraße 30/15",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/genossenschaftswohnung-in-zentrumsnaehe-2007156243/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": true,
         "info": [
             "Keine Beschreibung vorhanden"
@@ -9302,10 +9318,7 @@
         ],
         "destination": "3451 Pixendorf ",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/tulln/neu-zumglueck-tullnerfeld-erstbezug-direkt-vom-bautraeger-2072337745/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Im Tullnerfeld in Pixendorf entstehen ZumGLÜCK neu errichtete unbefristete Mietwohnungen die ab September 2024 bezogen werden können. Egal ob für Ein-Personen Haushalte, Paare oder Familien - ZumGLÜCK Tullnerfeld bietet für jeden die passende Wohnung...."
@@ -9355,10 +9368,7 @@
         ],
         "destination": "3451 Pixendorf ",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/tulln/zumglueck-tullnerfeld-in-pixendorf-erstbezug-unbefristet-direkt-vom-bautraeger-1855615231/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Im Tullnerfeld in Pixendorf entstehen ZumGLÜCK neu errichtete unbefristete Mietwohnungen die ab September 2024 bezogen werden können. Egal ob für Ein-Personen Haushalte, Paare oder Familien - ZumGLÜCK Tullnerfeld bietet für jeden die passende Wohnung...."
@@ -9427,10 +9437,7 @@
         ],
         "destination": "3451 Pixendorf ",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/tulln/zumglueck-tullnerfeld-erstbezug-unbefristet-direkt-vom-bautraeger-875227515/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Im Tullnerfeld in Pixendorf entstehen ZumGLÜCK neu errichtete unbefristete Mietwohnungen die ab September 2024 bezogen werden können. Egal ob für Ein-Personen Haushalte, Paare oder Familien - ZumGLÜCK Tullnerfeld bietet für jeden die passende Wohnung...."
@@ -9445,10 +9452,7 @@
         ],
         "destination": "3451 Pixendorf ",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/tulln/zumglueck-tullnerfeld-erstbezug-unbefristet-direkt-vom-bautraeger-875215568/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Im Tullnerfeld in Pixendorf entstehen ZumGLÜCK neu errichtete unbefristete Mietwohnungen die ab September 2024 bezogen werden können. Egal ob für Ein-Personen Haushalte, Paare oder Familien - ZumGLÜCK Tullnerfeld bietet für jeden die passende Wohnung...."
@@ -10120,10 +10124,13 @@
         ]
     },
     {
-        "price": "ab € 898,72",
-        "teaser": [],
+        "price": "€ 898,72",
+        "teaser": [
+            " 58 m²",
+            " 2 Zimmer"
+        ],
         "destination": "3100 St. Pölten Maximilianstraße",
-        "url": "https://www.willhaben.at/iad/immobilien/d/neubauprojekt/niederoesterreich/sankt-poelten/-im-zentrum-nahe-hauptbahnhof-542428361/",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/2-zimmer-ab-september-mit-balkon-zentale-lage-1348630936/",
         "coords": {
             "latitude": "48.2118306",
             "longitude": "15.6238647"
@@ -10134,10 +10141,13 @@
         ]
     },
     {
-        "price": "ab € 692",
-        "teaser": [],
+        "price": "€ 799,47",
+        "teaser": [
+            " 65 m²",
+            " 2 Zimmer"
+        ],
         "destination": "3550 Langenlois Kaserngasse",
-        "url": "https://www.willhaben.at/iad/immobilien/d/neubauprojekt/niederoesterreich/krems-land/langenlois-xvii-1252924474/",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-land/langenlois-xvii-2-1835185869/",
         "coords": {
             "latitude": "48.47236",
             "longitude": "15.67326"
@@ -10256,10 +10266,13 @@
         ]
     },
     {
-        "price": "ab € 939",
-        "teaser": [],
+        "price": "€ 939",
+        "teaser": [
+            " 52 m²",
+            " 2 Zimmer"
+        ],
         "destination": "3400 Klosterneuburg Wiener Straße",
-        "url": "https://www.willhaben.at/iad/immobilien/d/neubauprojekt/niederoesterreich/tulln/-ideale-verkehrsanbindung-hochwertige-mietwohnungen-ab-sofort-10-jahre-befristung-652952152/",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/tulln/-klostergarten-provisionsfrei-niedrige-energiekosten-ab-sofort-10-jahre-befristung-819804275/",
         "coords": {
             "latitude": "48.2969748",
             "longitude": "16.3347467"
@@ -10386,10 +10399,7 @@
         ],
         "destination": "2630 Ternitz Dr. Karl Rennerstraße 91 M/24",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/neunkirchen/2-zimmerwohnung-saniert-1583380486/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Zur Vermietung gelangt eine 2 Zimmerwohnung im 5. Stock. LIFT VORHANDEN Das Wohn- und das Schlafzimmer sind mit Laminatboden ausgestattet. Im Vorraum, Küche und Abstellraum ist ein PVC Boden verlegt. Das Badezimmer ist mit Dusche und Waschbecken..."
@@ -10404,10 +10414,7 @@
         ],
         "destination": "3333 Böhlerwerk Nellingstraße 50/6",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/nellingstrasse-50-6-753696025/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "3-Zimmer-Wohnung mit Kochnische, Bad, WC und Nebenräumen - inkl. Fußbodenheizung und Loggia Heizung: Nellingstr.49:Wärmepumpe/ Nellingstr.50:Gaszentral Heizwärmebedarf (kWh/m²a): 21.5 Gesamtenergieeffezienz Faktor (kW): 0.53 Loggiaanzahl: 1 Verfügbar ab:..."
@@ -10656,10 +10663,7 @@
         ],
         "destination": "3451 Pixendorf ",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/tulln/zumglueck-tullnerfeld-erstbezug-unbefristet-direkt-vom-bautraeger-1347790436/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Im Tullnerfeld in Pixendorf entstehen ZumGLÜCK neu errichtete unbefristete Mietwohnungen die ab September 2024 bezogen werden können. Egal ob für Ein-Personen Haushalte, Paare oder Familien - ZumGLÜCK Tullnerfeld bietet für jeden die passende Wohnung...."
@@ -10972,10 +10976,13 @@
         ]
     },
     {
-        "price": "ab € 807,83",
-        "teaser": [],
+        "price": "€ 846",
+        "teaser": [
+            " 42 m²",
+            " 1 Zimmer"
+        ],
         "destination": "2351 Wiener Neudorf Schillerstraße",
-        "url": "https://www.willhaben.at/iad/immobilien/d/neubauprojekt/niederoesterreich/moedling/erstbezugswohnungen-mit-freiflaeche-in-optimaler-lage-nahe-scs-und-badner-bahn-581354868/",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/moedling/-grosser-balkon-1-5-zimmer-einbaukueche-nahe-scs-und-wlb-sonnig-1241805759/",
         "coords": {
             "latitude": "48.0816",
             "longitude": "16.31117"
@@ -11156,10 +11163,7 @@
         ],
         "destination": "3352 St. Peter in der Au Amstettner Straße 15/17",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/amstettner-strasse-15-17-981144206/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "2-Zimmer-Wohnung mit Kochnische, Bad, WC und Nebenräumen - inkl. Balkon Heizung: Biogene Fernwärme Heizwärmebedarf (kWh/m²a): 45.5 Gesamtenergieeffezienz Faktor (kW): 1.1 Balkonanzahl:1 Stellplatz: Garage Verfügbar ab: sofort Finanzierungsbeitrag:..."
@@ -11372,10 +11376,7 @@
         ],
         "destination": "3331 Kematen 4. Straße 1/5",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/kematen-4-strasse-1-5-barrierefreie-3-zimmer-wohnung-mit-tollem-weitblick-1753983238/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "BETREUTES WOHNEN -3-Zimmer-Wohnung mit MÖBLIERTER KOCHNISCHE, Bad, Nebenräumen - zuzüglich Betreuungsgrundpaket der Caritas EUR 65,-- monatlich/ auch als \"normale Wohnung\" mit 3-jähriger Befristung anmietbar"
@@ -11390,10 +11391,7 @@
         ],
         "destination": "3333 Böhlerwerk Nellingstraße 50/13",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/nellingstrasse-50-13-1284646040/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "schöne, geräumige 2-Zimmer-Wohnung mit Kochnische, Bad, Nebenräumen - im 2. OG mit Lift und Dachterrasse - toller Ausblick, ruhige Lage Heizung: Nellingstr.49:Wärmepumpe/ Nellingstr.50:Gaszentral Heizwärmebedarf (kWh/m²a): 21.5 Gesamtenergieeffezienz..."
@@ -11426,10 +11424,7 @@
         ],
         "destination": "3500 Krems an der Donau Fidelio-Straße 17/10",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-an-der-donau/fidelio-strasse-17-10-1312352121/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "2 Zimmer, Küche, Bad und Nebenräume - Balkon - 1 gedeckter Stellplatz - diverse Einrichtungsgegenstände können vom Vormieter gegen Ablöse übernommen werden Heizung: biogene Fernwärme EVN Heizwärmebedarf (kWh/m²a): 21.51 Loggiaanzahl: 1 Balkonanzahl:1..."
@@ -11462,10 +11457,7 @@
         ],
         "destination": "3362 Mauer bei Amstetten Hausmeninger Straße 219/Haus 1/Tür 1",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/amstetten-mauer-ii-1-726698244/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "zuzüglich Heiz- um Warmwasserkosten EUR 66,24/Monat Heizung: Fernwärme - Fußbodenheizung Heizwärmebedarf (kWh/m²a): 18.6 Gesamtenergieeffezienz Faktor (kW): 0.63 Loggiaanzahl: 1 Terrassenanzahl:1 Stellplatz: Garage Verfügbar ab: verfügbar auf Anfrage..."
@@ -11480,10 +11472,7 @@
         ],
         "destination": "3362 Mauer bei Amstetten Hausmeninger Straße 219/Haus 1/Tür 10",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/amstetten-mauer-ii-10-726698254/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "zuzüglich Heiz- um Warmwasserkosten EUR 49,91/Monat Heizung: Fernwärme - Fußbodenheizung Heizwärmebedarf (kWh/m²a): 14.4 Gesamtenergieeffezienz Faktor (kW): 0.62 Balkonanzahl:1 Stellplatz: Garage Verfügbar ab: verfügbar auf Anfrage Finanzierungsbeitrag:..."
@@ -11498,10 +11487,7 @@
         ],
         "destination": "3362 Mauer bei Amstetten Hausmeninger Straße 219/Haus 1/Tür 5",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/amstetten-mauer-ii-5-726698245/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "zuzüglich Heiz- um Warmwasserkosten EUR 64,44/Monat Heizung: Fernwärme - Fußbodenheizung Heizwärmebedarf (kWh/m²a): 18.6 Gesamtenergieeffezienz Faktor (kW): 0.63 Loggiaanzahl: 1 Terrassenanzahl:1 Stellplatz: Garage Verfügbar ab: verfügbar auf Anfrage..."
@@ -11516,10 +11502,7 @@
         ],
         "destination": "3362 Mauer bei Amstetten Hausmeninger Straße 219/Haus 1/Tür 40",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/amstetten-mauer-ii-40-726698249/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "zuzüglich Heiz- um Warmwasserkosten EUR 64,70/Monat Heizung: Fernwärme - Fußbodenheizung Heizwärmebedarf (kWh/m²a): 18.6 Gesamtenergieeffezienz Faktor (kW): 0.63 Loggiaanzahl: 1 Balkonanzahl:1 Stellplatz: Garage Verfügbar ab: verfügbar auf Anfrage..."
@@ -11534,10 +11517,7 @@
         ],
         "destination": "3362 Mauer bei Amstetten Hausmeninger Straße 219/Haus 1/Tür 28",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/amstetten-mauer-ii-28-726698256/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "zuzüglich Heiz- um Warmwasserkosten EUR 53,49/Monat Heizung: Fernwärme - Fußbodenheizung Heizwärmebedarf (kWh/m²a): 14.4 Gesamtenergieeffezienz Faktor (kW): 0.62 Balkonanzahl:1 Stellplatz: Garage Verfügbar ab: verfügbar auf Anfrage Finanzierungsbeitrag:..."
@@ -11552,10 +11532,7 @@
         ],
         "destination": "3362 Mauer bei Amstetten Hausmeninger Straße 219/Haus 1/Tür 44",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/amstetten-mauer-ii-44-726698257/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "zuzüglich Heiz- um Warmwasserkosten EUR 50,20/Monat Heizung: Fernwärme - Fußbodenheizung Heizwärmebedarf (kWh/m²a): 14.4 Gesamtenergieeffezienz Faktor (kW): 0.62 Balkonanzahl:1 Stellplatz: Garage Verfügbar ab: verfügbar auf Anfrage Finanzierungsbeitrag:..."
@@ -11570,10 +11547,7 @@
         ],
         "destination": "3362 Mauer bei Amstetten Hausmeninger Straße 219/Haus 1/Tür 42",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/amstetten-mauer-ii-42-726698251/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "zuzüglich Heiz- um Warmwasserkosten EUR 64,15/Monat Heizung: Fernwärme - Fußbodenheizung Heizwärmebedarf (kWh/m²a): 18.6 Gesamtenergieeffezienz Faktor (kW): 0.63 Loggiaanzahl: 1 Stellplatz: Garage Verfügbar ab: verfügbar auf Anfrage Finanzierungsbeitrag:..."
@@ -11588,10 +11562,7 @@
         ],
         "destination": "3362 Mauer bei Amstetten Hausmeninger Straße 219/Haus 1/Tür 27",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/amstetten-mauer-ii-27-726698255/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "zuzüglich Heiz- um Warmwasserkosten EUR 49,91/Monat Heizung: Fernwärme - Fußbodenheizung Heizwärmebedarf (kWh/m²a): 14.4 Gesamtenergieeffezienz Faktor (kW): 0.62 Balkonanzahl:1 Stellplatz: Garage Verfügbar ab: verfügbar auf Anfrage Finanzierungsbeitrag:..."
@@ -11660,10 +11631,7 @@
         ],
         "destination": "4303 St. Pantaleon Neubaustraße 19",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/01880-00175-3-zimmer-wohnung-in-st-pantaleon-1973025643/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Der Heizwärmebedarf gemäß Energieausweis beträgt 54,7 kWh/m²a fGEE: 0,79 Diese Wohnung mit 74,25 m² Wohnnutzfläche befindet sich im 2. Obergeschoss und weist folgende Räumlichkeiten auf:  Wohn-, Schlafzimmer, Küche, Bad, WC, Vorraum und eine Loggia. Der..."
@@ -11804,10 +11772,7 @@
         ],
         "destination": "3300 Greinsfurth Urlstraße 19/3",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/gefoerderte-2-zimmer-wohnung-miete-mit-kaufoption-1756727522/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "weitere Objektinformationen Top: 1/3 Finanzierungs Beitrag:11598.26 Eur"
@@ -12577,10 +12542,7 @@
         ],
         "destination": "2491 Neufeld an der Leitha Eisenstädterstraße 26",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/burgenland/eisenstadt-umgebung/vergeben-genossenschaftswohnung-neufelder-see-1465497577/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": true,
         "info": [
             "Die sehr helle Wohnung befindet sich drei Minuten zu Fuß vom wunderschönen Neufelder See; die Wohnung ist im 2. Stock des 2-stöckigen Gebäudes! sie wurde 2020 errichtet und mit sehr viel Liebe (sehr hell und modern) eingerichtet. Alle Räume sind mit..."
@@ -12793,10 +12755,7 @@
         ],
         "destination": "3451 Pixendorf Rebhuhnstraße 1, 3. OG, Top 31",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/tulln/gepflegte-2-zimmer-wohnung-in-pixendorf-naehe-tullnerfelder-bahnhof-1046277369/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Nachmieter gesucht: Helle 2-Zimmer-Wohnung mit Terrasse (55 m²) Beziehbar ab 01.12.2024, nach Absprache auch früher möglich. Wir suchen einen Nachmieter für unsere helle, gemütliche 2-Zimmer-Wohnung. Die Wohnung ist teilweise möbliert und verfügt über: -..."
@@ -13217,10 +13176,13 @@
         ]
     },
     {
-        "price": "ab € 729,99",
-        "teaser": [],
+        "price": "€ 729,99",
+        "teaser": [
+            " 40 m²",
+            " 2 Zimmer"
+        ],
         "destination": "2201 Gerasdorf Süßenbrunner Straße 14-18",
-        "url": "https://www.willhaben.at/iad/immobilien/d/neubauprojekt/niederoesterreich/korneuburg/suessenbrunner-strasse-14-18-2201-gerasdorf-bei-wien-1763636705/",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/korneuburg/2-zimmer-erstbezugswohnung-inkl-kueche-6-50m-balkon-aussenflaeche-und-kellerabteil-sbsg-top-2-06-992701443/",
         "coords": {
             "latitude": "48.292472",
             "longitude": "16.472014"
@@ -13275,10 +13237,7 @@
         ],
         "destination": "3451 Pixendorf ",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/tulln/neu-zumglueck-tullnerfeld-erstbezug-direkt-vom-bautraeger-1543842189/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Im Tullnerfeld in Pixendorf entstehen ZumGLÜCK neu errichtete unbefristete Mietwohnungen die ab September 2024 bezogen werden können. Egal ob für Ein-Personen Haushalte, Paare oder Familien - ZumGLÜCK Tullnerfeld bietet für jeden die passende Wohnung...."
@@ -13293,10 +13252,7 @@
         ],
         "destination": "3451 Pixendorf ",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/tulln/neu-zumglueck-tullnerfeld-erstbezug-direkt-vom-bautraeger-1444530474/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Im Tullnerfeld in Pixendorf entstehen ZumGLÜCK neu errichtete unbefristete Mietwohnungen die ab September 2024 bezogen werden können. Egal ob für Ein-Personen Haushalte, Paare oder Familien - ZumGLÜCK Tullnerfeld bietet für jeden die passende Wohnung...."
@@ -13455,10 +13411,7 @@
         ],
         "destination": "3500 Krems an der Donau Hafenstraße 30.16",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-an-der-donau/hafenstrasse-30-16-1200471143/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "schöne, lichtdurchflutete Wohnung mit 2 Zimmern, Küche, Bad, Nebenräume - Balkon - 1 Garagenstellplatz JUNGES WOHNEN (Höchstalter bei Bezug der Wohnung 35 Jahre) Heizung: Fernwärme Heizwärmebedarf (kWh/m²a): 18.9 Gesamtenergieeffezienz Faktor (kW): 0.48..."
@@ -13527,10 +13480,7 @@
         ],
         "destination": "3500 Krems an der Donau Hafenstraße 32.10",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-an-der-donau/hafenstrasse-32-10-996460522/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "2-Zimmer, Küche, Bad/WC und Vorraum - Balkon - 1 Garagenstellplatz - JUNGES WOHNEN (Höchstalter bei Bezug der Wohnung 35 Jahre) Heizung: Fernwärme Heizwärmebedarf (kWh/m²a): 16.46 Balkonanzahl:1 Stellplatz: Garage Verfügbar ab: 01-12-2024..."
@@ -13733,10 +13683,13 @@
         ]
     },
     {
-        "price": "ab € 699",
-        "teaser": [],
+        "price": "€ 749",
+        "teaser": [
+            " 48 m²",
+            " 2 Zimmer"
+        ],
         "destination": "3100 St. Pölten Jahnstraße 15",
-        "url": "https://www.willhaben.at/iad/immobilien/d/neubauprojekt/niederoesterreich/sankt-poelten/jahngruende-die-traumhafte-wohnoase-mitten-in-der-stadt-1889993140/",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/jahngruende-die-traumhafte-wohnoase-mitten-in-der-stadt-1216530424/",
         "coords": {
             "latitude": "48.20022135",
             "longitude": "15.62690175"
@@ -13953,10 +13906,7 @@
         ],
         "destination": "2500 Baden Radetzkystraße 45",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/baden/sehr-helle-2-zimmerwohnung-mit-grossem-suedseitigen-balkon-nahe-zentrum-badens-2090110089/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Sehr helle 2-Zimmerwohnung mit großem südseitigen Balkon im ersten Stockwerk nähe Zentrum Badens. Eigener Parkplatz und Mitbenützung des Gemeinschaftsgarten. Bushaltestelle in der Nähe. Sehr ruhige Lage, da im rückwärtigen Teil gelegen. Großes..."
@@ -13971,10 +13921,7 @@
         ],
         "destination": "3451 Pixendorf ",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/tulln/zumglueck-tullnerfeld-in-pixendorf-erstbezug-unbefristet-direkt-vom-bautraeger-1635277080/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Im Tullnerfeld in Pixendorf entstehen ZumGLÜCK neu errichtete unbefristete Mietwohnungen die ab September 2024 bezogen werden können. Egal ob für Ein-Personen Haushalte, Paare oder Familien - ZumGLÜCK Tullnerfeld bietet für jeden die passende Wohnung...."
@@ -14187,10 +14134,7 @@
         ],
         "destination": "3500 Krems an der Donau Admonterstraße 19/4/21",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-an-der-donau/admonterstrasse-19-4-21-881447994/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "2 Zimmer, Küche, Bad und Nebenräume - Balkon - monatliche Vorschreibung inklusive Betriebskosten, Heiz- und Warmwasserakonto Heizung: Fernwärme Heizwärmebedarf (kWh/m²a): 38 Verfügbar ab: 01-11-2024 Finanzierungsbeitrag: 1500"
@@ -14205,10 +14149,7 @@
         ],
         "destination": "3483 Feuersbrunn Große Zeile 23/5",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/tulln/grosse-zeile-23-5-733668352/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "In Feuersbrunn ist eine 3-Zimmer Mietwohnung verfügbar. Die Wohnung verfügt über einen Vorraum, zwei Schlafzimmer, einen Wohn-Essbereich, ein Badezimmer mit Badewanne (WC extra) und einen Balkon sowie ein Kellerabteil. Der Wohneinheit ist ein Parkplatz..."
@@ -14241,10 +14182,7 @@
         ],
         "destination": "3500 Krems an der Donau Hafenstraße 32.1",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-an-der-donau/hafenstrasse-32-1-1242233224/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "2 Zimmer, Küche, Bad und Nebenräume - Garten - 1 Garagenstellplatz - JUNGES WOHNEN (Höchstalter bei Bezug der Wohnung 35 Jahre) Heizung: Fernwärme Heizwärmebedarf (kWh/m²a): 22.6 Balkonanzahl:1 Gartenfläche: 54 m² Stellplatz: Garage Verfügbar ab:..."
@@ -14295,10 +14233,7 @@
         ],
         "destination": "3352 St. Peter in der Au Amstettner Straße 15/18",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/st-peter-au-amstettner-strasse-15-18-schoene-2-zimmer-wohnung-mit-grossem-balkon-2045736655/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "schöne 2 Zimmer-Wohnung mit großem Balkon - Küchenmöbel können gegen geringe Ablöse übernommen werden Heizung: Biogene Fernwärme"
@@ -14367,10 +14302,7 @@
         ],
         "destination": "4482 Ennsdorf Eulenstraße 42",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/00753-00021-top-neubauwohnung-in-ennsdorf-1717410793/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Der Heizwärmebedarf gemäß Energieausweis beträgt 35,2 kWh/m²a fGEE 0,67 Diese Wohnung mit 87,09m2 Wohnnutzfläche befindet sich im EG und beinhaltet folgende Räumlichkeiten:  großzügige WohnKüche, Schlaf- und Kinderzimmer, Bad, WC, Abstell- und Vorraum..."
@@ -14385,10 +14317,7 @@
         ],
         "destination": "4303 St. Pantaleon Bahnstraße 16",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/00160-00204-2-1-2-zimmer-wohnung-in-st-pantaleon-1055029547/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Der Heizwärmebedarf gemäß Energieausweis beträgt 53,4 kWh/m²a; fGEE 1,05 Diese Wohnung 2 1/2 Zimmer Wohnung mit 64 m² Wohnnutzfläche befindet sich im Erdgeschoss und weist folgende Räumlichkeiten auf:  Wohn- und Schlafzimmer, Küche, Bad, WC, Abstell- und..."
@@ -14439,10 +14368,7 @@
         ],
         "destination": "2840 Grimmenstein Steinmühlenstr.12/A/3",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/neunkirchen/grimmenstein-gefoerderte-4-zimmer-wohnung-balkon-miete-mit-kaufrecht-1293845842/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Monatl. Kosten inkl. BK und PKW-Abstellplatz. weitere Objektinformationen Top: 1/3 Finanzierungs Beitrag:15159.51 Eur"
@@ -14737,10 +14663,13 @@
         ]
     },
     {
-        "price": "ab € 699",
-        "teaser": [],
+        "price": "€ 849,01",
+        "teaser": [
+            " 54 m²",
+            " 3 Zimmer"
+        ],
         "destination": "3100 St. Pölten Jahnstraße 15",
-        "url": "https://www.willhaben.at/iad/immobilien/d/neubauprojekt/niederoesterreich/sankt-poelten/jahngruende-modernes-wohnen-in-erstklassiger-lage-2040363008/",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/familienfreundliches-wohnen-in-st-poelten-geraeumige-3-zimmer-wohnung-in-der-jahngruende-2082575686/",
         "coords": {
             "latitude": "48.20022135",
             "longitude": "15.62690175"
@@ -15561,42 +15490,6 @@
         ]
     },
     {
-        "price": "€ 560,39",
-        "teaser": [
-            " 54 m²",
-            " 3 Zimmer",
-            "  Terrasse, Dachterrasse, Garten"
-        ],
-        "destination": "2620 Ternitz Urbanhof 1K",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/neunkirchen/staffelmiete-2-zimmer-gartenwohnung-inklusive-sonnenuntergang-1259244534/",
-        "coords": {
-            "latitude": "47.7274538",
-            "longitude": "16.0690319"
-        },
-        "isGenossenschaft": false,
-        "info": [
-            "\"Ternitz W O H N P A R K II\"   Dieses Wohnhaus (Stiege 3) umfasst insgesamt 17 geförderte Wohneinheiten (Insgesamt sind 11 Stiegenhäuser geplant). Alle Wohnungen verfügen entweder über eine Terrasse mit Eigengarten, einen Balkon oder eine Dachterrasse...."
-        ]
-    },
-    {
-        "price": "€ 564,63",
-        "teaser": [
-            " 56 m²",
-            " 2 Zimmer",
-            "  Balkon, Dachterrasse"
-        ],
-        "destination": "2620 Ternitz Urbanhof 1K",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/neunkirchen/staffelmiete-2-zimmer-balkonwohnung-ideal-zum-ausklingen-lassen-des-tages-1543516406/",
-        "coords": {
-            "latitude": "47.7274538",
-            "longitude": "16.0690319"
-        },
-        "isGenossenschaft": false,
-        "info": [
-            "\"Ternitz W O H N P A R K II\"   Dieses Wohnhaus (Stiege 3) umfasst insgesamt 17 geförderte Wohneinheiten (Insgesamt sind 11 Stiegenhäuser geplant). Alle Wohnungen verfügen entweder über eine Terrasse mit Eigengarten, einen Balkon oder eine Dachterrasse...."
-        ]
-    },
-    {
         "price": "€ 609,08",
         "teaser": [
             " 48 m²",
@@ -15641,10 +15534,7 @@
         ],
         "destination": "2514 Traiskirchen Kapellenweg 5",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/baden/wohnung-zu-vermieten-in-traiskirchen-1365709874/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Vermietung einer renovierten 2-Zimmerwohnung mit ruhiger Wohnlage in Zentrumsnähe Traiskirchen. Die Wohnung verfügt über eine große Loggia, die zu erholsamen Stunden einlädt. Küche ist keine vorhanden. Außerdem bietet Ihnen das Kellerabteil ausreichend..."
@@ -15857,10 +15747,7 @@
         ],
         "destination": "2632 Grafenbach-St. Valentin Paul Kögler-Straße 6",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/neunkirchen/2-zimmer-wohnung-mit-garten-in-ruhelage-grafenbach-2092492002/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Zur Wiedervergabe gelangt diese schöne 2-Zimmer-Wohnung mit klarer Raumaufteilung und großen Eigengarten zum Entspannen. Der Wohnung ist ein PKW-Stellplatz im Freien mit Carport fix zugeteilt. Weiters ist ein Kellerersatzraum im Erdgeschoss gegenüber der..."
@@ -15911,10 +15798,7 @@
         ],
         "destination": "3542 Gföhl Donnersmarkstraße 28, 3542 Gföhl",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-land/gfoehl-vi-1-lz-2440-top-103-1838899129/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Die Wohnhausanlage umfasst insgesamt 17 Wohnungen mit einer Wohnfläche von ca. 49 m² - 78 m² in Miete mit Kaufoption. Folgende Punkte sind hervorzuheben: Terrasse mit teilweise Eigengarten bzw. Balkon PKW-Stellplatz im Carport mit einer Leerverrohrung..."
@@ -16073,10 +15957,7 @@
         ],
         "destination": "3350 Haag Josef-Andesner-Str.1/1",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/haag-erstbezug-53-m-miete-mit-kaufrecht-1577989679/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Monatl. Kosten inkl. BK. 1 PKW-Einstellplatz bis 30.09.2026 kostenlos je Wohneinheit. ca. 62 m² Garten. weitere Objektinformationen Top: 1/1 Finanzierungs Beitrag:34112.47 Eur"
@@ -16127,10 +16008,7 @@
         ],
         "destination": "2842 Thomasberg Lehenkreuzstraße 11/2/8",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/neunkirchen/gefoerderte-4-zimmer-wohnung-miete-mit-kaufoption-balkon-1603553888/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "weitere Objektinformationen Top: 2/8 Finanzierungs Beitrag:19313.45 Eur"
@@ -16199,10 +16077,7 @@
         ],
         "destination": "7210 Mattersburg Mörzgasse 6",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/burgenland/mattersburg/wunderschoene-2-zimmer-wohnung-59m-inkl-bk-und-garagenplatz-825-1213263481/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Zur Vermietung gelangt eine 2 Zimmer Wohnung bestehend aus: Vorraum Badezimmer WC Abstellraum 2 Zimmer (1 Wohnküche und 1 Zimmer) Loggia Garagenplatz Kellerabteil Die Wohung ist in einem sehr guten Zustand und wirklich top ausgestattet. Es gibt eine..."
@@ -16847,10 +16722,7 @@
         ],
         "destination": "3107 St. Pölten Mühlweg 114/11",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/2-zimmer-mietwohnung-mit-loggia-1814926205/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Monatl. Kosten inkl. BK und PKW-Abstellplatz. KEIN Wohnzuschuss möglich! weitere Objektinformationen Top: 01/11 Finanzierungs Beitrag:13574.69 Eur"
@@ -17189,10 +17061,7 @@
         ],
         "destination": "2034 Großharras Großharras 145/1",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/mistelbach/grossharras-erstvergabe-top-1-gefoerderte-mietwohnung-1065555707/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "weitere Objektinformationen Top: 1 Finanzierungs Beitrag:6727.12 Eur"
@@ -17207,10 +17076,7 @@
         ],
         "destination": "2034 Großharras Großharras 145/3",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/mistelbach/grossharras-erstvergabe-top-3-gefoerderte-mietwohnung-1634889572/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "weitere Objektinformationen Top: 3 Finanzierungs Beitrag:6166.52 Eur"
@@ -17225,10 +17091,7 @@
         ],
         "destination": "2034 Großharras Großharras 145/4",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/mistelbach/grossharras-erstvergabe-top-4-gefoerderte-mietwohnung-1010623801/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "weitere Objektinformationen Top: 4 Finanzierungs Beitrag:6867.26 Eur"
@@ -17243,10 +17106,7 @@
         ],
         "destination": "2034 Großharras Großharras 145/5",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/mistelbach/grossharras-erstvergabe-top-5-gefoerderte-mietwohnung-1758482899/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "weitere Objektinformationen Top: 5 Finanzierungs Beitrag:9530.08 Eur"
@@ -17261,10 +17121,7 @@
         ],
         "destination": "2034 Großharras Großharras 145/6",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/mistelbach/grossharras-erstvergabe-top-6-gefoerderte-mietwohnung-1373196314/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "weitere Objektinformationen Top: 6 Finanzierungs Beitrag:8128.60 Eur"
@@ -17279,10 +17136,7 @@
         ],
         "destination": "2034 Großharras Großharras 145/7",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/mistelbach/grossharras-erstvergabe-top-7-gefoerderte-mietwohnung-1354897402/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "weitere Objektinformationen Top: 7 Finanzierungs Beitrag:11912.60 Eur"
@@ -17297,10 +17151,7 @@
         ],
         "destination": "2251 Ebenthal Stillfriederstraße 2/2/8",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/gaenserndorf/gefoerderte-dachgeschosswohnung-in-miete-mit-kaufoption-balkon-1961134664/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Monatl. Kosten inkl. BK und PKW-Abstellplatz mir Carport. weitere Objektinformationen Top: 2/8 Finanzierungs Beitrag:15578.12 Eur"
@@ -17315,10 +17166,7 @@
         ],
         "destination": "2034 Großharras Großharras 145/2",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/mistelbach/grossharras-erstvergabe-top-2-gefoerderte-mietwohnung-1356141805/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "weitere Objektinformationen Top: 2 Finanzierungs Beitrag:6446.82 Eur"
@@ -17369,10 +17217,7 @@
         ],
         "destination": "2620 Natschbach Am Klosteracker 2/2/8",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/neunkirchen/natschbach-loipersbach-gefoerdert-miete-ca-79-m-932172146/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "monatl. Kosten inkl. BK und 2 PKW-Abstellplätze. weitere Objektinformationen Top: 2/8 Finanzierungs Beitrag:35041.64 Eur"
@@ -17818,10 +17663,7 @@
         ],
         "destination": "3361 Aschbach-Markt Severinusstraße 1/2",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/gefoerderte-miete-mit-kaufoption-balkon-1630740776/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Monatl. Kosten inkl. BK und PKW-Abstellplatz. weitere Objektinformationen Top: 4/2 Finanzierungs Beitrag:16145.62 Eur"
@@ -17990,6 +17832,23 @@
         ]
     },
     {
+        "price": "€ 870",
+        "teaser": [
+            " 51 m²",
+            "  Balkon"
+        ],
+        "destination": "2320 Schwechat Malzstraße 3",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/bruck-an-der-leitha/wohnung-in-schwechat-zu-vermieten-1205239285/",
+        "coords": {
+            "latitude": "48.140983",
+            "longitude": "16.469832"
+        },
+        "isGenossenschaft": false,
+        "info": [
+            "Bei weiteren Fragen bitte um Kontaktaufnahme!"
+        ]
+    },
+    {
         "price": "€ 694,30",
         "teaser": [
             " 54 m²",
@@ -18052,10 +17911,7 @@
         ],
         "destination": "3542 Gföhl Donnersmarkstraße 28, 3542 Gföhl",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-land/gfoehl-vi-1-lz-2440-top-107-1774618193/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Die Wohnhausanlage umfasst insgesamt 17 Wohnungen mit einer Wohnfläche von ca. 49 m² - 78 m² in Miete mit Kaufoption. Folgende Punkte sind hervorzuheben: Terrasse mit teilweise Eigengarten bzw. Balkon PKW-Stellplatz im Carport mit einer Leerverrohrung..."
@@ -18070,10 +17926,7 @@
         ],
         "destination": "3542 Gföhl Donnersmarkstraße 28, 3542 Gföhl",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-land/gfoehl-vi-1-lz-2440-top-111-1192198458/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Die Wohnhausanlage umfasst insgesamt 17 Wohnungen mit einer Wohnfläche von ca. 49 m² - 78 m² in Miete mit Kaufoption. Folgende Punkte sind hervorzuheben: Terrasse mit teilweise Eigengarten bzw. Balkon PKW-Stellplatz im Carport mit einer Leerverrohrung..."
@@ -18124,10 +17977,7 @@
         ],
         "destination": "3451 Pixendorf ",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/tulln/zumglueck-tullnerfeld-erstbezug-unbefristet-direkt-vom-bautraeger-1330838660/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Im Tullnerfeld in Pixendorf entstehen ZumGLÜCK neu errichtete unbefristete Mietwohnungen die ab September 2024 bezogen werden können. Egal ob für Ein-Personen Haushalte, Paare oder Familien - ZumGLÜCK Tullnerfeld bietet für jeden die passende Wohnung...."
@@ -18232,10 +18082,7 @@
         ],
         "destination": "3451 Pixendorf ",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/tulln/zumglueck-tullnerfeld-in-pixendorf-erstbezug-unbefristet-direkt-vom-bautraeger-802898094/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Im Tullnerfeld in Pixendorf entstehen ZumGLÜCK neu errichtete unbefristete Mietwohnungen die ab September 2024 bezogen werden können. Egal ob für Ein-Personen Haushalte, Paare oder Familien - ZumGLÜCK Tullnerfeld bietet für jeden die passende Wohnung...."
@@ -18250,10 +18097,7 @@
         ],
         "destination": "3451 Pixendorf ",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/tulln/zumglueck-tullnerfeld-in-pixendorf-erstbezug-unbefristet-direkt-vom-bautraeger-935451117/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Im Tullnerfeld in Pixendorf entstehen ZumGLÜCK neu errichtete unbefristete Mietwohnungen die ab September 2024 bezogen werden können. Egal ob für Ein-Personen Haushalte, Paare oder Familien - ZumGLÜCK Tullnerfeld bietet für jeden die passende Wohnung...."
@@ -18268,10 +18112,7 @@
         ],
         "destination": "3542 Gföhl Donnersmarkstraße 28, 3542 Gföhl",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-land/gfoehl-vi-1-lz-2440-top-101-2084835524/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Die Wohnhausanlage umfasst insgesamt 17 Wohnungen mit einer Wohnfläche von ca. 49 m² - 78 m² in Miete mit Kaufoption. Folgende Punkte sind hervorzuheben: Terrasse mit teilweise Eigengarten bzw. Balkon PKW-Stellplatz im Carport mit einer Leerverrohrung..."
@@ -18286,10 +18127,7 @@
         ],
         "destination": "3542 Gföhl Donnersmarkstraße 28, 3542 Gföhl",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-land/gfoehl-vi-1-lz-2440-top-105-1481058626/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Die Wohnhausanlage umfasst insgesamt 17 Wohnungen mit einer Wohnfläche von ca. 49 m² - 78 m² in Miete mit Kaufoption. Folgende Punkte sind hervorzuheben: Terrasse mit teilweise Eigengarten bzw. Balkon PKW-Stellplatz im Carport mit einer Leerverrohrung..."
@@ -18304,10 +18142,7 @@
         ],
         "destination": "3542 Gföhl Donnersmarkstraße 28, 3542 Gföhl",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-land/gfoehl-vi-1-lz-2440-top-109-1630691063/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Die Wohnhausanlage umfasst insgesamt 17 Wohnungen mit einer Wohnfläche von ca. 49 m² - 78 m² in Miete mit Kaufoption. Folgende Punkte sind hervorzuheben: Terrasse mit teilweise Eigengarten bzw. Balkon PKW-Stellplatz im Carport mit einer Leerverrohrung..."
@@ -18322,10 +18157,7 @@
         ],
         "destination": "3542 Gföhl Donnersmarkstraße 28, 3542 Gföhl",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-land/gfoehl-vi-1-lz-2440-top-113-1241119776/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Die Wohnhausanlage umfasst insgesamt 17 Wohnungen mit einer Wohnfläche von ca. 49 m² - 78 m² in Miete mit Kaufoption. Folgende Punkte sind hervorzuheben: Terrasse mit teilweise Eigengarten bzw. Balkon PKW-Stellplatz im Carport mit einer Leerverrohrung..."
@@ -18394,10 +18226,7 @@
         ],
         "destination": "3451 Pixendorf ",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/tulln/zumglueck-tullnerfeld-in-pixendorf-erstbezug-unbefristet-direkt-vom-bautraeger-2096478425/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Im Tullnerfeld in Pixendorf entstehen ZumGLÜCK neu errichtete unbefristete Mietwohnungen die ab September 2024 bezogen werden können. Egal ob für Ein-Personen Haushalte, Paare oder Familien - ZumGLÜCK Tullnerfeld bietet für jeden die passende Wohnung...."
@@ -18458,10 +18287,13 @@
         ]
     },
     {
-        "price": "ab € 911,08",
-        "teaser": [],
+        "price": "€ 911,08",
+        "teaser": [
+            " 76 m²",
+            " 3 Zimmer"
+        ],
         "destination": "2214 Auersthal Ackerweg 1",
-        "url": "https://www.willhaben.at/iad/immobilien/d/neubauprojekt/niederoesterreich/gaenserndorf/gefoerderte-mietwohnungen-in-auersthal-bezirk-gaenserndorf-632130236/",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/gaenserndorf/erstbezug-3-zimmerwohnung-mit-balkon-in-auersthal-wohnen-sie-das-erste-monat-mietzinsfrei-817923093/",
         "coords": {
             "latitude": "48.3781806",
             "longitude": "16.623309"
@@ -18623,10 +18455,7 @@
         ],
         "destination": "3451 Pixendorf ",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/tulln/zumglueck-tullnerfeld-in-pixendorf-erstbezug-unbefristet-direkt-vom-bautraeger-2014298624/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Im Tullnerfeld in Pixendorf entstehen ZumGLÜCK neu errichtete unbefristete Mietwohnungen die ab September 2024 bezogen werden können. Egal ob für Ein-Personen Haushalte, Paare oder Familien - ZumGLÜCK Tullnerfeld bietet für jeden die passende Wohnung...."
@@ -18659,10 +18488,7 @@
         ],
         "destination": "3451 Pixendorf ",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/tulln/zumglueck-tullnerfeld-in-pixendorf-erstbezug-unbefristet-direkt-vom-bautraeger-2125124659/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Im Tullnerfeld in Pixendorf entstehen ZumGLÜCK neu errichtete unbefristete Mietwohnungen die ab September 2024 bezogen werden können. Egal ob für Ein-Personen Haushalte, Paare oder Familien - ZumGLÜCK Tullnerfeld bietet für jeden die passende Wohnung...."
@@ -18677,10 +18503,7 @@
         ],
         "destination": "3451 Pixendorf ",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/tulln/zumglueck-tullnerfeld-in-pixendorf-erstbezug-unbefristet-direkt-vom-bautraeger-1035206643/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Im Tullnerfeld in Pixendorf entstehen ZumGLÜCK neu errichtete unbefristete Mietwohnungen die ab September 2024 bezogen werden können. Egal ob für Ein-Personen Haushalte, Paare oder Familien - ZumGLÜCK Tullnerfeld bietet für jeden die passende Wohnung...."
@@ -18695,10 +18518,7 @@
         ],
         "destination": "3451 Pixendorf ",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/tulln/zumglueck-tullnerfeld-erstbezug-unbefristet-direkt-vom-bautraeger-1809332795/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Im Tullnerfeld in Pixendorf entstehen ZumGLÜCK neu errichtete unbefristete Mietwohnungen die ab September 2024 bezogen werden können. Egal ob für Ein-Personen Haushalte, Paare oder Familien - ZumGLÜCK Tullnerfeld bietet für jeden die passende Wohnung...."
@@ -18713,10 +18533,7 @@
         ],
         "destination": "3451 Pixendorf ",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/tulln/zumglueck-tullnerfeld-erstbezug-unbefristet-direkt-vom-bautraeger-1698735676/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Im Tullnerfeld in Pixendorf entstehen ZumGLÜCK neu errichtete unbefristete Mietwohnungen die ab September 2024 bezogen werden können. Egal ob für Ein-Personen Haushalte, Paare oder Familien - ZumGLÜCK Tullnerfeld bietet für jeden die passende Wohnung...."
@@ -19109,10 +18926,7 @@
         ],
         "destination": "3451 Pixendorf ",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/tulln/zumglueck-tullnerfeld-erstbezug-unbefristet-direkt-vom-bautraeger-1058635961/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Im Tullnerfeld in Pixendorf entstehen ZumGLÜCK neu errichtete unbefristete Mietwohnungen die ab September 2024 bezogen werden können. Egal ob für Ein-Personen Haushalte, Paare oder Familien - ZumGLÜCK Tullnerfeld bietet für jeden die passende Wohnung...."
@@ -19127,10 +18941,7 @@
         ],
         "destination": "3451 Pixendorf ",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/tulln/zumglueck-tullnerfeld-erstbezug-unbefristet-direkt-vom-bautraeger-1748635265/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Im Tullnerfeld in Pixendorf entstehen ZumGLÜCK neu errichtete unbefristete Mietwohnungen die ab September 2024 bezogen werden können. Egal ob für Ein-Personen Haushalte, Paare oder Familien - ZumGLÜCK Tullnerfeld bietet für jeden die passende Wohnung...."
@@ -19217,10 +19028,7 @@
         ],
         "destination": "3451 Pixendorf ",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/tulln/neu-zumglueck-tullnerfeld-erstbezug-direkt-vom-bautraeger-915904148/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Im Tullnerfeld in Pixendorf entstehen ZumGLÜCK neu errichtete unbefristete Mietwohnungen die ab September 2024 bezogen werden können. Egal ob für Ein-Personen Haushalte, Paare oder Familien - ZumGLÜCK Tullnerfeld bietet für jeden die passende Wohnung...."
@@ -19307,10 +19115,7 @@
         ],
         "destination": "2434 Sommerein Militärsiedlung 14",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/bruck-an-der-leitha/erstbezug-wohnen-am-leithagebirge-top-34-1513396134/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Modernes Wohnbaukonzept mit ökologischem Heizsystem. Alle freie Wohnungen siehe LINK weitere Objektinformationen !! Die Wohnhausanlage umfasst 36 geförderte Wohnungen und liegt am Fuße des Leithagebirge, in absoluter Ruhelage. Sie zeichnet sich durch..."
@@ -19343,24 +19148,6 @@
         ],
         "destination": "2560 Berndorf Hirtenbergerstraße 54",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/baden/erstbezug-wohlfuehlen-im-triestingtal-haus1-18-2029263595/",
-        "coords": {
-            "latitude": "47.93455",
-            "longitude": "16.16183"
-        },
-        "isGenossenschaft": false,
-        "info": [
-            "Geförderte Wohnungen, die keinen Wunsch offen lassen. Modernes Wohnbaukonzept mit ökologischem Heizsystem. Alle freie Wohnungen siehe LINK weitere Objektinformationen !! Das Triestingtal wartet und hat viel zu bieten: kunstvolle Zeitzeugen,..."
-        ]
-    },
-    {
-        "price": "€ 649",
-        "teaser": [
-            " 53 m²",
-            " 2 Zimmer",
-            "  Terrasse"
-        ],
-        "destination": "2560 Berndorf Hirtenbergerstraße 54",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/baden/erstbezug-wohlfuehlen-im-triestingtal-haus-2-11-2050418757/",
         "coords": {
             "latitude": "47.93455",
             "longitude": "16.16183"
@@ -19451,10 +19238,7 @@
         ],
         "destination": "2434 Sommerein Militärsiedlung 14",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/bruck-an-der-leitha/erstbezug-wohnen-am-leithagebirge-top-8-1570332462/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Modernes Wohnbaukonzept mit ökologischem Heizsystem.Alle freie Wohnungen siehe LINK weitere Objektinformationen !! Die Wohnhausanlage umfasst 36 geförderte Wohnungen und liegt am Fuße des Leithagebirge, in absoluter Ruhelage. Sie zeichnet sich durch eine..."
@@ -19505,10 +19289,7 @@
         ],
         "destination": "2434 Sommerein Militärsiedlung 14",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/bruck-an-der-leitha/erstbezug-wohnen-am-leithagebirge-top-30-1783212337/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Modernes Wohnbaukonzept mit ökologischem Heizsystem. Alle freie Wohnungen siehe LINK weitere Objektinformationen !! Die Wohnhausanlage umfasst 36 geförderte Wohnungen und liegt am Fuße des Leithagebirge, in absoluter Ruhelage. Sie zeichnet sich durch..."
@@ -19757,10 +19538,7 @@
         ],
         "destination": "3100 Oberwagram Wienerstraße 69",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/genossenschaftswohnung-in-wagram-1602803510/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": true,
         "info": [
             "Die zentral gelegene Genossenschaftswohnung der Alpenland wird je nach Absprache vollmöbliert übergeben. Sämtliche Einrichtungsgegenstände wurden beim Erstbezug 2020 neu angeschafft. Zur Wohnung gehören ein Balkon, Tiefgaragenstellplatz und ein..."
@@ -19947,10 +19725,13 @@
         ]
     },
     {
-        "price": "ab € 558",
-        "teaser": [],
+        "price": "€ 565",
+        "teaser": [
+            " 50 m²",
+            " 2 Zimmer"
+        ],
         "destination": "2620 Neunkirchen Fabriksgasse 13",
-        "url": "https://www.willhaben.at/iad/immobilien/d/neubauprojekt/niederoesterreich/neunkirchen/wohnen-in-zentraler-lage-gefoerderte-erstbezugswohnungen-mit-schoenen-freibereichen-tag-der-offenen-tuer-am-13-9-2024-767658625/",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/neunkirchen/zentrale-lage-charmante-2-zimmer-wohnung-mit-terrasse-tag-der-offenen-tuer-am-13-9-2024-10-14-uhr-893091558/",
         "coords": {
             "latitude": "47.721966",
             "longitude": "16.0833462"
@@ -21174,10 +20955,7 @@
         ],
         "destination": "2434 Sommerein Militärsiedlung 14",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/bruck-an-der-leitha/erstbezug-wohnen-am-leithagebirge-top-17-2096956987/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Modernes Wohnbaukonzept mit ökologischem Heizsystem. Alle freie Wohnungen siehe LINK weitere Objektinformationen !! Die Wohnhausanlage umfasst 36 geförderte Wohnungen und liegt am Fuße des Leithagebirge, in absoluter Ruhelage. Sie zeichnet sich durch..."
@@ -21192,10 +20970,7 @@
         ],
         "destination": "2434 Sommerein Militärsiedlung 14",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/bruck-an-der-leitha/erstbezug-wohnen-am-leithagebirge-top-25-1967804230/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Modernes Wohnbaukonzept mit ökologischem Heizsystem. Alle freie Wohnungen siehe LINK weitere Objektinformationen !! Die Wohnhausanlage umfasst 36 geförderte Wohnungen und liegt am Fuße des Leithagebirge, in absoluter Ruhelage. Sie zeichnet sich durch..."
@@ -21210,10 +20985,7 @@
         ],
         "destination": "2434 Sommerein Militärsiedlung 14",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/bruck-an-der-leitha/erstbezug-wohnen-am-leithagebirge-top-21-1024740748/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Modernes Wohnbaukonzept mit ökologischem Heizsystem. Alle freie Wohnungen siehe LINK weitere Objektinformationen !! Die Wohnhausanlage umfasst 36 geförderte Wohnungen und liegt am Fuße des Leithagebirge, in absoluter Ruhelage. Sie zeichnet sich durch..."
@@ -21228,10 +21000,7 @@
         ],
         "destination": "2434 Sommerein Militärsiedlung 14",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/bruck-an-der-leitha/erstbezug-wohnen-am-leithagebirge-top-7-774201616/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Modernes Wohnbaukonzept mit ökologischem Heizsystem.Alle freie Wohnungen siehe LINK weitere Objektinformationen !! Die Wohnhausanlage umfasst 36 geförderte Wohnungen und liegt am Fuße des Leithagebirge, in absoluter Ruhelage. Sie zeichnet sich durch eine..."
@@ -22146,10 +21915,7 @@
         ],
         "destination": "3451 Pixendorf ",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/tulln/helle-2-5-zimmer-balkonwohnung-top-ausstattung-inkl-kueche-nachhaltig-modern-1974556773/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Dein Zuhause ist einzigartig - wir gestalten es persönlich. Idyllische Balkonwohnung in Pixendorf | Bezugsfertig ab 01.02.2024 Die Wohnung befindet sich im 1. Obergeschoss und verfügt über eine Wohnfläche von 60,5m² mit direktem Zugang zu einem..."
@@ -22182,10 +21948,7 @@
         ],
         "destination": "2434 Sommerein Militärsiedlung 14",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/bruck-an-der-leitha/erstbezug-wohnen-am-leithagebirge-top-24-712393335/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Modernes Wohnbaukonzept mit ökologischem Heizsystem. Alle freie Wohnungen siehe LINK weitere Objektinformationen !! Die Wohnhausanlage umfasst 36 geförderte Wohnungen und liegt am Fuße des Leithagebirge, in absoluter Ruhelage. Sie zeichnet sich durch..."
@@ -22290,10 +22053,7 @@
         ],
         "destination": "3451 Pixendorf ",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/tulln/2-zimmer-wohnung-kueche-und-parkplatz-inklusive-nachhaltig-und-modern-2025563850/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Einziehen & Wohlfühlen! Die Nähe zum Bahnhof Tullnerfeld, das besondere Wohngefühl und die hellen Räume überzeugen in dieser Balkonwohnung! Diese gut durchdachte 2-Zimmer-Wohnung misst rund 55 m² Wohnfläche + Balkon. Sie verfügt über ein helles..."
@@ -22344,10 +22104,7 @@
         ],
         "destination": "2434 Sommerein Militärsiedlung 14",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/bruck-an-der-leitha/erstbezug-wohnen-am-leithagebirge-top-20-712383420/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Modernes Wohnbaukonzept mit ökologischem Heizsystem. Alle freie Wohnungen siehe LINK weitere Objektinformationen !! Die Wohnhausanlage umfasst 36 geförderte Wohnungen und liegt am Fuße des Leithagebirge, in absoluter Ruhelage. Sie zeichnet sich durch..."
@@ -22470,10 +22227,7 @@
         ],
         "destination": "2434 Sommerein Militärsiedlung 14",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/bruck-an-der-leitha/erstbezug-wohnen-am-leithagebirge-top-18-712373715/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Modernes Wohnbaukonzept mit ökologischem Heizsystem. Alle freie Wohnungen siehe LINK weitere Objektinformationen !! Die Wohnhausanlage umfasst 36 geförderte Wohnungen und liegt am Fuße des Leithagebirge, in absoluter Ruhelage. Sie zeichnet sich durch..."
@@ -22506,10 +22260,7 @@
         ],
         "destination": "2434 Sommerein Militärsiedlung 14",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/bruck-an-der-leitha/erstbezug-wohnen-am-leithagebirge-top-14-712369809/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Modernes Wohnbaukonzept mit ökologischem Heizsystem. Alle freie Wohnungen siehe LINK weitere Objektinformationen !! Die Wohnhausanlage umfasst 36 geförderte Wohnungen und liegt am Fuße des Leithagebirge, in absoluter Ruhelage. Sie zeichnet sich durch..."
@@ -22560,10 +22311,7 @@
         ],
         "destination": "2434 Sommerein Militärsiedlung 14",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/bruck-an-der-leitha/erstbezug-wohnen-am-leithagebirge-top-12-712362931/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Modernes Wohnbaukonzept mit ökologischem Heizsystem. Alle freie Wohnungen siehe LINK weitere Objektinformationen !! Die Wohnhausanlage umfasst 36 geförderte Wohnungen und liegt am Fuße des Leithagebirge, in absoluter Ruhelage. Sie zeichnet sich durch..."
@@ -22596,10 +22344,7 @@
         ],
         "destination": "3451 Pixendorf ",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/tulln/zumglueck-tullnerfeld-erstbezug-unbefristet-direkt-vom-bautraeger-803661931/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Im Tullnerfeld in Pixendorf entstehen ZumGLÜCK neu errichtete unbefristete Mietwohnungen die ab September 2024 bezogen werden können. Egal ob für Ein-Personen Haushalte, Paare oder Familien - ZumGLÜCK Tullnerfeld bietet für jeden die passende Wohnung...."
@@ -22614,10 +22359,7 @@
         ],
         "destination": "2434 Sommerein Militärsiedlung 14",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/bruck-an-der-leitha/erstbezug-wohnen-am-leithagebirge-top-9-712353484/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Modernes Wohnbaukonzept mit ökologischem Heizsystem. Alle freie Wohnungen siehe LINK weitere Objektinformationen !! Die Wohnhausanlage umfasst 36 geförderte Wohnungen und liegt am Fuße des Leithagebirge, in absoluter Ruhelage. Sie zeichnet sich durch..."
@@ -22722,10 +22464,7 @@
         ],
         "destination": "2630 Ternitz Franz Dinhoblstraße 10/1/33",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/neunkirchen/3-zimmerwohnung-im-zentrum-von-ternitz-1471658330/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Neu sanierte 3 Zimmerwohnung im 5. Stock, Lift vorhanden. In den Wohnräumen ist durchgehend Laminatboden verlegt. Das Badezimmer ist mit einer Dusche ausgestattet und bis zur TOK sind Fliesen verlegt. Separates WC, Boden mit Fliesen. Eine geräumige..."
@@ -22812,10 +22551,7 @@
         ],
         "destination": "3451 Pixendorf ",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/tulln/zumglueck-tullnerfeld-erstbezug-unbefristet-direkt-vom-bautraeger-772705869/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Im Tullnerfeld in Pixendorf entstehen ZumGLÜCK neu errichtete unbefristete Mietwohnungen die ab September 2024 bezogen werden können. Egal ob für Ein-Personen Haushalte, Paare oder Familien - ZumGLÜCK Tullnerfeld bietet für jeden die passende Wohnung...."
@@ -22830,10 +22566,7 @@
         ],
         "destination": "3451 Pixendorf ",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/tulln/zumglueck-tullnerfeld-in-pixendorf-erstbezug-unbefristet-direkt-vom-bautraeger-772705086/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Im Tullnerfeld in Pixendorf entstehen ZumGLÜCK neu errichtete unbefristete Mietwohnungen die ab September 2024 bezogen werden können. Egal ob für Ein-Personen Haushalte, Paare oder Familien - ZumGLÜCK Tullnerfeld bietet für jeden die passende Wohnung...."
@@ -22848,10 +22581,7 @@
         ],
         "destination": "3451 Pixendorf ",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/tulln/zumglueck-tullnerfeld-in-pixendorf-erstbezug-unbefristet-direkt-vom-bautraeger-772704587/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Im Tullnerfeld in Pixendorf entstehen ZumGLÜCK neu errichtete unbefristete Mietwohnungen die ab September 2024 bezogen werden können. Egal ob für Ein-Personen Haushalte, Paare oder Familien - ZumGLÜCK Tullnerfeld bietet für jeden die passende Wohnung...."
@@ -23046,10 +22776,7 @@
         ],
         "destination": "2522 Oberwaltersdorf Gebösstrasse 1/4/9",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/baden/mietwohnung-1543237173/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Helle freundliche gepflegte zentral im grünen gelegene 3 Zimmer Wohnung 69 m², mit 5 m² Balkon, im dritten Stock Die Wohnung besteht aus Wohnzimmer: Laminatboden, SAT Anschluss, Tel.- Internetanschluss, Zimmer : Laminatboden Schlafzimmer: Laminatboden,..."
@@ -23909,10 +23636,7 @@
         ],
         "destination": "3451 Pixendorf ",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/tulln/zumglueck-tullnerfeld-in-pixendorf-erstbezug-unbefristet-direkt-vom-bautraeger-1069860622/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Im Tullnerfeld in Pixendorf entstehen ZumGLÜCK neu errichtete unbefristete Mietwohnungen die ab September 2024 bezogen werden können. Egal ob für Ein-Personen Haushalte, Paare oder Familien - ZumGLÜCK Tullnerfeld bietet für jeden die passende Wohnung...."
@@ -23963,10 +23687,7 @@
         ],
         "destination": "3500 Krems an der Donau Hohensteinstraße 33/2",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-an-der-donau/altbauwohnung-in-mitten-von-krems-an-der-donau-top2-1320794289/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Raumaufteilung: Vorraum/Küche mit vollausgestatteter Küche Wohnzimmer 3 Zimmer Abstellraum Bad mit WC Terrasse Kellerabteil Böden: Parkett, Fliesen inkl. Wasser inkl. Heizung (Hackschnitzel) inkl. Müll- & Kanalgebühren inkl. Feuerversicherung exkl. Strom..."
@@ -23988,24 +23709,6 @@
         "isGenossenschaft": false,
         "info": [
             "Vermietet wird eine provisionsfreie und teilmöbelierte Wohnung (Küche, Badmöbel und Lampen sind inkludiert) mit ca 59qm Wohnfläche und 5qm Balkon in Laxenburg (Bezirk Mödling). Die Wohnung befindet sich im ruhigen Innenhof im 1. Stock, ohne Lift eines im..."
-        ]
-    },
-    {
-        "price": "€ 550",
-        "teaser": [
-            " 55 m²",
-            " 2 Zimmer",
-            "  Garten"
-        ],
-        "destination": " Sankt Pölten ",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/campo-wohnung-dg-wohnung-mit-balkon-pottenbrunn-miete-ca-55-m2-2051243294/",
-        "coords": {
-            "latitude": "48.23618933",
-            "longitude": "15.69693816"
-        },
-        "isGenossenschaft": false,
-        "info": [
-            "In zentraler Lage in Pottenbrunn wurde vom Besitzer des neu renovierten Mehrparteienwohnhaus ein Zubau mit 6 Wohnungen geschaffen. In massiver Bauweise schließt sich dieses Bauwerk dem Altbau harmonisch an. Es stehen je 2 Wohnungen im Erdgeschoß, im..."
         ]
     },
     {
@@ -25833,10 +25536,7 @@
         ],
         "destination": "3300 Amstetten Ferdinand-Waldmüller-Straße 8/15",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/gefoerderte-miete-mit-kaufoption-balkon-1719924775/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Monatl. Kosten inkl. BK und PKW-Einstellplatz. weitere Objektinformationen Top: 8/15 Finanzierungs Beitrag:17854.19 Eur"
@@ -26442,10 +26142,7 @@
         ],
         "destination": "2320 Schwechat Mannswörtherstraße 6-8/1/4",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/bruck-an-der-leitha/nachfolger-fuer-genossenschaftswohnung-1012827629/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": true,
         "info": [
             "Wir suchen Nachfolger für unsere Genossenschaftswohnung. Voraussetzung ist die österr. Staatsbürgerschaft. In der Nähe befindet sich ein Billa. Andere Einkaufsmöglichkeiten entweder in Schwechat, oder im angrenzenden 11. Bezirk bei Huma Eleven, Hofer,..."
@@ -26532,10 +26229,7 @@
         ],
         "destination": "2700 Wiener Neustadt Bräunlichgasse 13/b",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/wiener-neustadt/genossenschaftswohnung-mit-garten-und-loggia-reserviert-1966624822/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": true,
         "info": [
             "Genossenschaftsbeitrag ca.29000€!"
@@ -26694,10 +26388,7 @@
         ],
         "destination": "3300 Amstetten Ferdinand-Waldmüller-Straße 10/10",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/gefoerderte-miete-mit-kaufoption-balkon-1173381977/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Monatl. Kosten inkl. BK und PKW-Einstellplatz. weitere Objektinformationen Top: 10/10 Finanzierungs Beitrag:8280.14 Eur"
@@ -27135,10 +26826,13 @@
         ]
     },
     {
-        "price": "ab € 962",
-        "teaser": [],
+        "price": "€ 993",
+        "teaser": [
+            " 87 m²",
+            " 3 Zimmer"
+        ],
         "destination": "2840 Grimmenstein Wechsel Bundesstraße 70",
-        "url": "https://www.willhaben.at/iad/immobilien/d/neubauprojekt/niederoesterreich/neunkirchen/wohnen-mit-gruenblick-attraktive-mietwohnungen-in-der-buckligen-welt-741715123/",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/neunkirchen/wohnen-mit-gruenblick-moderne-3-zimmer-erstbezugswohnung-mit-balkon-741580364/",
         "coords": {
             "latitude": "47.61664",
             "longitude": "16.12696"
@@ -27444,10 +27138,7 @@
         ],
         "destination": "2620 Wartmannstetten Straßhofer Straße 23/4",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/neunkirchen/wartmannstetten-gefoerderte-3-zimmer-wohnung-miete-mit-kaufoption-loggia-1732336810/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Sonderfinanzierung: Monatl. Kosten inkl. nicht rückzahlbarem Zuschuss, der auf 3 Jahre befristet ist, sowie inkl. BK und PKW-Abstellplatz. weitere Objektinformationen Top: 23/4 (2/4) Finanzierungs Beitrag:23163.55 Eur"
@@ -27472,10 +27163,13 @@
         ]
     },
     {
-        "price": "ab € 650",
-        "teaser": [],
+        "price": "€ 893",
+        "teaser": [
+            " 75 m²",
+            " 3 Zimmer"
+        ],
         "destination": "7072 Mörbisch am See Wasserweg 2",
-        "url": "https://www.willhaben.at/iad/immobilien/d/neubauprojekt/burgenland/eisenstadt-umgebung/wohnen-in-unmittelbarer-seenaehe-attraktive-provisionsfreie-wohnungen-im-erstbezug-687618940/",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/burgenland/eisenstadt-umgebung/provisionsfrei-attraktive-3-zimmer-wohnung-mit-kaufoption-1246709148/",
         "coords": {
             "latitude": "47.75503",
             "longitude": "16.67218"
@@ -27494,10 +27188,7 @@
         ],
         "destination": "3350 Haag Josef-Andesner-Str.3/15",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/haag-gefoerdert-miete-mit-kaufoption-ca-89-m-1395652064/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "weitere Objektinformationen Top: 3/15 Finanzierungs Beitrag:34848.31 Eur"
@@ -27512,10 +27203,7 @@
         ],
         "destination": "3350 Haag Josef-Andesner-Str.3/18",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/haag-erstbezug-71-m-miete-mit-kaufrecht-1301588047/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "weitere Objektinformationen Top: 3/18 Finanzierungs Beitrag:30617.37 Eur"
@@ -27530,10 +27218,7 @@
         ],
         "destination": "3350 Haag Josef-Andesner-Str.3/7",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/haag-gefoerdert-miete-mit-kaufoption-ca-71-m-1864934292/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "weitere Objektinformationen Top: 3/7 Finanzierungs Beitrag:32937.63 Eur"
@@ -27548,10 +27233,7 @@
         ],
         "destination": "3350 Haag Josef-Andesner-Str.3/14",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/haag-gefoerdert-miete-mit-kaufoption-ca-71-m-2138566211/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "weitere Objektinformationen Top: 3/14 Finanzierungs Beitrag:20176.19 Eur"
@@ -27566,10 +27248,7 @@
         ],
         "destination": "3350 Haag Josef-Andesner-Str.3/16",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/haag-gefoerdert-miete-mit-kaufoption-ca-53-m-1356352287/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "weitere Objektinformationen Top: 3/16 Finanzierungs Beitrag:17874.91 Eur"
@@ -27584,10 +27263,7 @@
         ],
         "destination": "3350 Haag Josef-Andesner-Str.3/5",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/haag-erstbezug-53-m-miete-mit-kaufrecht-1254611344/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "weitere Objektinformationen Top: 3/5 Finanzierungs Beitrag:16714.78 Eur"
@@ -28933,10 +28609,7 @@
         ],
         "destination": "2823 Pitten Hans Tieß-Straße 151/2/6",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/neunkirchen/ruhige-wohnung-in-optimaler-lage-in-pitten-toller-preis-inkl-gas-und-bk-878785196/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "Geräumige Zwei-Zimmer-Wohnung im ersten Stock in einer ruhigen Wohngegend im Ortsteil Sautern. Die schöne Loggia ist zum Garten hin ausgerichtet. Zu der Wohnung gehört ein Kellerabteil, ebenso gibt es eine Waschküche und Fahrradabstellraum. Öffentliche..."
@@ -29345,10 +29018,7 @@
         ],
         "destination": "3100 St. Pölten Dr.-Wilhelm-Steingötter-Straße 25",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/klimafitter-erstbezug-mit-blick-ins-gruene-1096724160/",
-        "coords": {
-            "latitude": null,
-            "longitude": null
-        },
+        "coords": {},
         "isGenossenschaft": false,
         "info": [
             "ERSTBEZUG: Zur Vermietung gelangt eine 2-Zimmer-Wohnung mit einer Wohnfläche von ca. 43,5 m² und ca. 5,6 m² Loggia. Die Wohnung teilt sich wie folgt auf: * Wohnküche ca. 22 m² * Zimmer ca. 11 m² * Vorraum ca. 4,5 m² * Bad ca. 6 m² * Loggia ca. 5,6 m² Die..."

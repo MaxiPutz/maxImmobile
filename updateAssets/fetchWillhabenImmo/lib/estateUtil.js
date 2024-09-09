@@ -3,6 +3,7 @@
  * 
 */
 import { } from "../../../public/jsDocs/index.js"
+import {getCoordinates, isInEurope} from "./getCoordinates.js"
 
 /**
  * 
@@ -25,14 +26,30 @@ export const convertAdvertToObject = (advert) => {
 
     let coords;
     try {
-        coords = getValFromAttributeKeys("COORDINATES", advert)[0].split(",");
+        coords = getValFromAttributeKeys("COORDINATES", advert )[0].split(",")
+        
     } catch {
-        coords = [null, null]; // Handle missing coordinates
+        const tmp = getCoordinates(destination)
+        coords = [tmp.latitude, tmp.longitude]
+        console
+        if (!isInEurope({lat: coords[0], lng: coords[1]})) {
+            const tmp2 =   getCoordinates(getValFromAttributeKeys('POSTCODE', advert) + ", AUT") 
+            coords = [tmp2.latitude, tmp2.longitude]
+                                          
+        } 
+        
     }
 
-    const teaser = [
-        ...advert.teaserAttributes.map(ele => `${ele.prefix || ""} ${ele.value} ${ele.postfix || ""}`)
-    ];
+
+    let teaser = [
+        ...advert.teaserAttributes.map(ele => `${ele.prefix ? ele.prefix : ""} ${ele.value} ${ele.postfix ? ele.postfix : ""}`)
+    ]
+    if (teaser.length === 0 ) {
+        advert = advert.children[0]
+        teaser = [
+            ...advert.teaserAttributes.map(ele => `${ele.prefix ? ele.prefix : ""} ${ele.value} ${ele.postfix ? ele.postfix : ""}`)
+        ]
+    }
 
     return {
         price: getValFromAttributeKeys('PRICE_FOR_DISPLAY', advert)[0] || undefined,
