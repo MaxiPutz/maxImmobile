@@ -1,3 +1,4 @@
+import { setCustomRenderForTeaserFilterMenu } from "./components/teaserFilterMenu.js"
 import { map } from "./mapbox/mapbox.js";
 import { getIsochrone } from "./mapbox/logic.js";
 import { setCustomHeaderRender, setCustomRender, setMarkCoords } from "./mapbox/viewInfos/viewInfos.js";
@@ -11,6 +12,7 @@ const defaultLng = 16.3738
 
 setCustomRender(customRender)
 setCustomHeaderRender(customHeaderRender)
+setCustomRenderForTeaserFilterMenu(customRender)
 
 let marker = new mapboxgl.Marker({
     draggable: true

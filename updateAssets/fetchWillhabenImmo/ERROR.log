@@ -626,4 +626,318 @@ no child and no teaser
     "upsellingOrganisationLogo": "https://cache.willhaben.at/mmo/logo/adSearchResult/21073913/haring_immobilien_treuhand_logo_neu_2021_8872976422434411406_11202856898934117611_medium.png",
     "teaserAttributes": [],
     "children": null
+}no child and no teaser
+{
+    "id": "1351986499",
+    "verticalId": 2,
+    "adTypeId": 16,
+    "productId": 270,
+    "advertStatus": {
+        "id": "active",
+        "description": "aktiv",
+        "statusId": 50
+    },
+    "description": "Kierlingerstraße 124-126, 3400 Klosterneuburg",
+    "attributes": {
+        "attribute": [
+            {
+                "name": "LOCATION",
+                "values": [
+                    "Klosterneuburg"
+                ]
+            },
+            {
+                "name": "POSTCODE",
+                "values": [
+                    "3400"
+                ]
+            },
+            {
+                "name": "STATE",
+                "values": [
+                    "Niederösterreich"
+                ]
+            },
+            {
+                "name": "BODY_DYN",
+                "values": [
+                    "Kierlinger Straße 124-126, 3400 Klosterneuburg Wohnbauprojekt mit Wohnungen zur Miete   inkl privaten Außenflächen Garten, Terrasse, Loggia oder Balkon . Regionalbus Haltestelle Marienheim in Gehweite und Bahnhof Klosterneuburg Kierling sind nur 2,2 km..."
+                ]
+            },
+            {
+                "name": "ORGNAME",
+                "values": [
+                    "Haring Immobilien Treuhand GmbH"
+                ]
+            },
+            {
+                "name": "ORG_UUID",
+                "values": [
+                    "33f94e82-d3d1-40c2-8991-c82a3667e9e5"
+                ]
+            },
+            {
+                "name": "DISTRICT",
+                "values": [
+                    "Tulln"
+                ]
+            },
+            {
+                "name": "HEADING",
+                "values": [
+                    "Kierlingerstraße 124-126, 3400 Klosterneuburg"
+                ]
+            },
+            {
+                "name": "LOCATION_QUALITY",
+                "values": [
+                    "1.0"
+                ]
+            },
+            {
+                "name": "PUBLISHED",
+                "values": [
+                    "1725879900000"
+                ]
+            },
+            {
+                "name": "COUNTRY",
+                "values": [
+                    "Österreich"
+                ]
+            },
+            {
+                "name": "LOCATION_ID",
+                "values": [
+                    "106706"
+                ]
+            },
+            {
+                "name": "NUMBER_OF_ROOMS",
+                "values": [
+                    "0"
+                ]
+            },
+            {
+                "name": "ADTYPE_ID",
+                "values": [
+                    "16"
+                ]
+            },
+            {
+                "name": "ADID",
+                "values": [
+                    "1351986499"
+                ]
+            },
+            {
+                "name": "ORGID",
+                "values": [
+                    "21073913"
+                ]
+            },
+            {
+                "name": "SEO_URL",
+                "values": [
+                    "immobilien/d/neubauprojekt/niederoesterreich/tulln/kierlingerstrasse-124-126-3400-klosterneuburg-1351986499/"
+                ]
+            },
+            {
+                "name": "ALL_IMAGE_URLS",
+                "values": [
+                    "9/135/198/6499_925162308.jpg;9/135/198/6499_-1681926547.jpg;9/135/198/6499_2135939232.jpg;9/135/198/6499_1067375091.jpg;9/135/198/6499_-802956070.jpg;9/135/198/6499_-1254431759.jpg;9/135/198/6499_1602803276.jpg;9/135/198/6499_2006770779.jpg;9/135/198/6499_-1180440431.jpg;9/135/198/6499_-1920410877.jpg"
+                ]
+            },
+            {
+                "name": "PUBLISHED_String",
+                "values": [
+                    "2024-09-09T13:05:00Z"
+                ]
+            },
+            {
+                "name": "UPSELLING_AD_SEARCHRESULT",
+                "values": [
+                    "true"
+                ]
+            },
+            {
+                "name": "categorytreeids",
+                "values": [
+                    "5008881"
+                ]
+            },
+            {
+                "name": "PROJECT/UNIT_RENT_FROM",
+                "values": [
+                    "770.0"
+                ]
+            },
+            {
+                "name": "ADVERTISER_REF",
+                "values": [
+                    "1240/231254"
+                ]
+            },
+            {
+                "name": "PRODUCT_ID",
+                "values": [
+                    "270"
+                ]
+            },
+            {
+                "name": "MMO",
+                "values": [
+                    "9/135/198/6499_925162308.jpg"
+                ]
+            },
+            {
+                "name": "AD_UUID",
+                "values": [
+                    "1528c11c-5f3e-421d-bf13-a6ca8aa3da02"
+                ]
+            },
+            {
+                "name": "ADDRESS",
+                "values": [
+                    "Kierlingerstraße 124-126"
+                ]
+            },
+            {
+                "name": "AD_SEARCHRESULT_LOGO",
+                "values": [
+                    "adSearchResult/21073913/haring_immobilien_treuhand_logo_neu_2021_8872976422434411406_11202856898934117611.png"
+                ]
+            },
+            {
+                "name": "COORDINATES",
+                "values": [
+                    "48.306608,16.2993711"
+                ]
+            },
+            {
+                "name": "PRICE",
+                "values": [
+                    "770"
+                ]
+            },
+            {
+                "name": "PRICE_FOR_DISPLAY",
+                "values": [
+                    "ab € 770"
+                ]
+            },
+            {
+                "name": "ISPRIVATE",
+                "values": [
+                    "0"
+                ]
+            },
+            {
+                "name": "UNIT_TITLE",
+                "values": [
+                    "1240/231254"
+                ]
+            }
+        ]
+    },
+    "advertImageList": {
+        "advertImage": [
+            {
+                "id": 1,
+                "name": "9/135/198/6499_925162308.jpg",
+                "selfLink": "https://api.willhaben.at/restapi/v2/atimage/1351986499/1",
+                "description": "Cover Image",
+                "mainImageUrl": "https://cache.willhaben.at/mmo/9/135/198/6499_925162308_hoved.jpg",
+                "thumbnailImageUrl": "https://cache.willhaben.at/mmo/9/135/198/6499_925162308_thumb.jpg",
+                "referenceImageUrl": "https://cache.willhaben.at/mmo/9/135/198/6499_925162308.jpg",
+                "similarImageSearchUrl": null,
+                "reference": "9/135/198/6499_925162308.jpg"
+            },
+            {
+                "id": 1,
+                "name": "9/135/198/6499_-1681926547.jpg",
+                "selfLink": "https://api.willhaben.at/restapi/v2/atimage/1351986499/1",
+                "description": "Cover Image",
+                "mainImageUrl": "https://cache.willhaben.at/mmo/9/135/198/6499_-1681926547_hoved.jpg",
+                "thumbnailImageUrl": "https://cache.willhaben.at/mmo/9/135/198/6499_-1681926547_thumb.jpg",
+                "referenceImageUrl": "https://cache.willhaben.at/mmo/9/135/198/6499_-1681926547.jpg",
+                "similarImageSearchUrl": null,
+                "reference": "9/135/198/6499_-1681926547.jpg"
+            },
+            {
+                "id": 1,
+                "name": "9/135/198/6499_2135939232.jpg",
+                "selfLink": "https://api.willhaben.at/restapi/v2/atimage/1351986499/1",
+                "description": "Cover Image",
+                "mainImageUrl": "https://cache.willhaben.at/mmo/9/135/198/6499_2135939232_hoved.jpg",
+                "thumbnailImageUrl": "https://cache.willhaben.at/mmo/9/135/198/6499_2135939232_thumb.jpg",
+                "referenceImageUrl": "https://cache.willhaben.at/mmo/9/135/198/6499_2135939232.jpg",
+                "similarImageSearchUrl": null,
+                "reference": "9/135/198/6499_2135939232.jpg"
+            }
+        ],
+        "floorPlans": []
+    },
+    "selfLink": "https://api.willhaben.at/restapi/v2/atverz/1351986499",
+    "contextLinkList": {
+        "contextLink": [
+            {
+                "id": "selfLink",
+                "description": "Identifies this entity",
+                "uri": "https://api.willhaben.at/restapi/v2/atverz/1351986499",
+                "selected": false,
+                "relativePath": "/atverz/1351986499",
+                "serviceName": "iad"
+            },
+            {
+                "id": "seoSelfLink",
+                "description": "Self reference",
+                "uri": "https://api.willhaben.at/restapi/v2/atverz/immobilien/d/mietwohnungen/niederoesterreich/tulln/kierlingerstrasse-124-126-3400-klosterneuburg-1351986499/",
+                "selected": false,
+                "relativePath": "/atverz/immobilien/d/mietwohnungen/niederoesterreich/tulln/kierlingerstrasse-124-126-3400-klosterneuburg-1351986499/",
+                "serviceName": "iad"
+            },
+            {
+                "id": "adDetailLink",
+                "description": "Self reference to advert via ad detail component",
+                "uri": "https://publicapi.willhaben.at/atdetail/v1/1351986499",
+                "selected": false,
+                "relativePath": "/1351986499",
+                "serviceName": "addetail"
+            },
+            {
+                "id": "removeAdFromFolder",
+                "description": "Remove ad from any folder",
+                "uri": "https://api.willhaben.at/restapi/v2/userfolders/remove/1351986499",
+                "selected": false,
+                "relativePath": "/userfolders/remove/1351986499",
+                "serviceName": "iad"
+            },
+            {
+                "id": "getFolderSaveLinks",
+                "description": "Get contextlinks to save the ad in the users folders",
+                "uri": "https://api.willhaben.at/restapi/v2/userfolders/links/1351986499",
+                "selected": false,
+                "relativePath": "/userfolders/links/1351986499",
+                "serviceName": "iad"
+            },
+            {
+                "id": "iadShareLink",
+                "description": "Share link in iAd",
+                "uri": "https://www.willhaben.at/iad/object?adId=1351986499",
+                "selected": false,
+                "relativePath": "/iad/object?adId=1351986499",
+                "serviceName": "web_url"
+            }
+        ]
+    },
+    "advertiserInfo": {
+        "label": "Haring Immobilien Treuhand GmbH",
+        "iconSVG": null,
+        "iconPNG": null,
+        "iconType": "NONE"
+    },
+    "upsellingOrganisationLogo": "https://cache.willhaben.at/mmo/logo/adSearchResult/21073913/haring_immobilien_treuhand_logo_neu_2021_8872976422434411406_11202856898934117611_medium.png",
+    "teaserAttributes": [],
+    "children": null
 }

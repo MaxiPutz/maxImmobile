@@ -38,7 +38,6 @@ export const willhabenJson = (await (await fetch("../../assets/input.json")).jso
 console.log(willhabenJson);
 
 
-export const gridDataJson = await (await fetch("../../assets/gridInput.json")).json()
 
 /**
  * Represents a journey between two points.
@@ -86,21 +85,6 @@ export const transitInfoJson = transitCollector.map((ele) => ele.map((ele)=>({
     },
 })))
 
-/**
- * An array of properties available for rent or sale.
- * @type {Journey[]}
- */
-export const transitInfoJson2 = (await (await fetch("../../assets/transitInfoInput.json")).json() ).map((ele) => ele.map((ele)=>({
-    ...ele,
-    startPoint : {
-        ...ele.startPoint,
-        lng: ele.startPoint.long
-    },
-    endPoint : {
-        ...ele.endPoint,
-        lng: ele.endPoint.long
-    },
-})))
 
 
 let selectTransitIndex = 0 

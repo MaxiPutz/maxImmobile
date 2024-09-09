@@ -1,6 +1,7 @@
 import {getViewCoords, isViewCoordsReady} from "../mapbox/viewInfos/viewInfos.js"
 import {html, render, css } from "lit"
 
+import {applyCheckBoxFilter} from "../components/teaserFilterMenu.js"
 import { setWillhabenFilter, willhabenJson } from "../mapbox/inputParser/inputWrapper.js";
 import {map} from "../mapbox/mapbox.js"
 import { mapId } from '../mapbox/staticNames.js';
@@ -56,7 +57,7 @@ export const renderDivs = () => {
     const isReady = isViewCoordsReady()
 
 
-    const filtered = willhabenJson
+    let filtered = willhabenJson
     .filter(ele => ele.price !== "not found")
     .filter(ele => ele.price > minPrice  && ele.price < maxPrice)
     .filter(ele => ele.squareMeters > minM2  && ele.squareMeters < maxM2)
@@ -76,6 +77,9 @@ export const renderDivs = () => {
       ele.coords.lng < boundary.topRight.lng
       
     })
+
+    filtered = applyCheckBoxFilter(filtered)
+
 
     setWillhabenFilter(filtered)
 

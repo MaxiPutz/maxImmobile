@@ -23,7 +23,7 @@ var geocoder = new MapboxGeocoder({
     mapboxgl: mapboxgl
   });
 
-map.addControl(geocoder, 'top-right');
+map.addControl(geocoder, 'bottom-right');
 
 
 map.on('load', () => {
