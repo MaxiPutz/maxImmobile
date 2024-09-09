@@ -1,6 +1,8 @@
 node_modules/
 updateAssets/fetchWillhabenImmo/result.json
 updateAssets/fetchWillhabenImmo/detailResult.json
+updateAssets/fetchWillhabenImmo/ERROR.log
+
 backup/*
 public/private/token.js
 public/assets/input.json
