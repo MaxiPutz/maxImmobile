@@ -4,7 +4,7 @@ import { setCustomHeaderRender, setCustomRender, setMarkCoords } from "./mapbox/
 import {customRender} from "./components/app.js"
 import {customHeaderRender} from "./components/header.js"
 import {} from "./mapHidingScript.js"
-
+import {} from "./components/guestBook.js"
 
 const defaultLat = 48.2082
 const defaultLng = 16.3738
