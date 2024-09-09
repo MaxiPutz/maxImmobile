@@ -1,27 +1,27 @@
 import {getViewCoords, isViewCoordsReady} from "../mapbox/viewInfos/viewInfos.js"
-import { html, render,  } from 'https://cdn.zywave.com/lit-html@2.1.1/lit-html.js';
-import {styleMap} from "https://cdn.zywave.com/lit-html@2.1.1/directives/style-map.js"
+// import { html, render,  } from 'https://cdn.zywave.com/lit-html@2.1.1/lit-html.js';
+import {html, render, css } from "lit"
+//import {styleMap} from "lit/directives/style-map.js"
 
 import { setWillhabenFilter, willhabenJson } from "../mapbox/inputParser/inputWrapper.js";
 import {map} from "../mapbox/mapbox.js"
 import { mapId } from '../mapbox/staticNames.js';
 import {reloadWillhabenLayer} from "../mapbox/layer/willhabenLayer.js"
 
-const scrollableContainerStyles = {
-  maxHeight: '400px',
-  overflowY: 'auto',
-  padding: '10px',
-  border: '1px solid #ccc',
-};
+const scrollableContainerStyles = css`
+  max-height: 400px;
+  overflow-y: auto;
+  padding: 10px;
+  border: 1px solid #ccc;
+`;
 
-const itemStyles = {
-  marginBottom: '15px',
-  padding: '10px',
-  backgroundColor: '#f9f9f9',
-  borderRadius: '5px',
-  border: '1px solid #ddd',
-};
-
+const itemStyles = css`
+  margin-bottom: 15px;
+  padding: 10px;
+  background-color: #f9f9f9;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+`;
 const onInputChange = (e) => {
     console.log(e);
     
@@ -89,7 +89,7 @@ export const renderDivs = () => {
 
     const divs = filtered.map(ele => {
     return html`
-        <div style=${styleMap(itemStyles)}  @click=${() => {
+        <div style=${itemStyles}  @click=${() => {
              const url = ele.url
              window.open(url, '_blank');
         }
@@ -124,7 +124,7 @@ const menuComponent = () => {
         </div>
 
         <p>${renderDivs().length} found elemnts</p>
-        <div style=${styleMap(scrollableContainerStyles)} >
+        <div style=${scrollableContainerStyles} >
             ${renderDivs()}
         </div>
     </div>

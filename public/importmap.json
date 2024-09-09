@@ -1,0 +1,7 @@
+{
+  "imports": {
+    "lit-html": "https://cdn.zywave.com/lit-html@2.1.1/lit-html.js",
+    "lit-html/directives/style-map": "https://cdn.zywave.com/lit-html@2.1.1/directives/style-map.js",
+    "lit": "https://cdn.jsdelivr.net/npm/lit@2.1.1/+esm"
+  }
+}
