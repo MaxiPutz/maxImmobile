@@ -7,6 +7,7 @@ import { logic } from "./logic.js";
 import { mapId } from "./staticNames.js";
 import { setViewCoords } from "./viewInfos/viewInfos.js";
 
+
 mapboxgl.accessToken = mapboxglAccessToken;
 
 
@@ -17,7 +18,17 @@ export const map = new mapboxgl.Map({
     zoom: 12
 });
 
+var geocoder = new MapboxGeocoder({
+    accessToken: mapboxgl.accessToken,
+    mapboxgl: mapboxgl
+  });
+
+map.addControl(geocoder, 'top-right');
+
+
 map.on('load', () => {
+
+
     map.loadImage('https://docs.mapbox.com/mapbox-gl-js/assets/custom_marker.png', (error, image) => {
         if (error) {
             console.error('Error loading image:', error);

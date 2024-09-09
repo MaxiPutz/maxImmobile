@@ -1,7 +1,5 @@
 import {getViewCoords, isViewCoordsReady} from "../mapbox/viewInfos/viewInfos.js"
-// import { html, render,  } from 'https://cdn.zywave.com/lit-html@2.1.1/lit-html.js';
 import {html, render, css } from "lit"
-//import {styleMap} from "lit/directives/style-map.js"
 
 import { setWillhabenFilter, willhabenJson } from "../mapbox/inputParser/inputWrapper.js";
 import {map} from "../mapbox/mapbox.js"
@@ -12,7 +10,7 @@ const scrollableContainerStyles = css`
   max-height: 400px;
   overflow-y: auto;
   padding: 10px;
-  border: 1px solid #ccc;
+  border: 1px solid #ccc;y
 `;
 
 const itemStyles = css`

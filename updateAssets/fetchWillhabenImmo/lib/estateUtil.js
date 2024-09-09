@@ -4,6 +4,7 @@
 */
 import { } from "../../../public/jsDocs/index.js"
 import {getCoordinates, isInEurope} from "./getCoordinates.js"
+import fs from "fs"
 
 /**
  * 
@@ -45,7 +46,12 @@ export const convertAdvertToObject = (advert) => {
         ...advert.teaserAttributes.map(ele => `${ele.prefix ? ele.prefix : ""} ${ele.value} ${ele.postfix ? ele.postfix : ""}`)
     ]
     if (teaser.length === 0 ) {
-        advert = advert.children[0]
+        try {
+            advert = advert.children[0]
+        } catch {
+            fs.appendFileSync("ERROR.log", "no child and no teaser" +"\n" + JSON.stringify(advert, undefined, 4))
+            return undefined
+        }
         teaser = [
             ...advert.teaserAttributes.map(ele => `${ele.prefix ? ele.prefix : ""} ${ele.value} ${ele.postfix ? ele.postfix : ""}`)
         ]

@@ -6,10 +6,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>maxim.mobil</title>
     <link href="https://api.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.css" rel="stylesheet">
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.js"></script>
+    
+    <script src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.7.0/mapbox-gl-geocoder.min.js"></script>
+    <link rel="stylesheet" href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.7.0/mapbox-gl-geocoder.css" type="text/css">
+  
     <style>
 
     </style>
     <link rel="stylesheet" href="style.css">
+    <script type="importmap">
+        {
+            "imports": {
+                "lit": "https://cdn.jsdelivr.net/npm/lit@2.1.1/+esm",
+                "lit-html/directives/style-map.js": "https://cdn.zywave.com/lit-html@2.1.1/directives/"
+            }
+        }
+    </script>
 
 </head>
 
@@ -23,16 +36,8 @@
         <div id="app-menu"></div>
     </div>
 
-    <script type="importmap">
-        {
-            "imports": {
-                "lit": "https://cdn.jsdelivr.net/npm/lit@2.1.1/+esm",
-                "lit-html/directives/style-map.js": "https://cdn.zywave.com/lit-html@2.1.1/directives/"
-            }
-        }
-    </script>
+  
 
-    <script src="https://api.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.js"></script>
     <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
 
 
