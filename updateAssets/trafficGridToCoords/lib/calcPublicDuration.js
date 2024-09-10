@@ -7,7 +7,7 @@ let isStationIdProcess = {
 
 
 
-export async function calcPublicDuration (startId, endId) {
+export async function calcstaticDuration (startId, endId) {
     console.log("startId", startId);
     console.log("endId", endId);
     

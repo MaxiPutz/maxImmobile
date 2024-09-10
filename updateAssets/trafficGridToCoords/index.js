@@ -3,7 +3,7 @@ import { findNearestStation } from "./lib/findNearestStation.js"
 import { client } from "./lib/hafasClient.js"
 import { getNextMonday } from "./lib/nextMondayAt6to10.js"
 import fs from "fs"
-import { calcPublicDuration } from "./lib/calcPublicDuration.js"
+import { calcstaticDuration } from "./lib/calcstaticDuration.js"
 
 const searchAndRecalcGrid = false
 
@@ -79,7 +79,7 @@ for (let i = 0; i< startPoints.length; i+=skipStation) {
     let time = undefined   
     let journeys = undefined
     try {
-         const durationObj = await calcPublicDuration(startPoint.id, endPoint[0].id)
+         const durationObj = await calcstaticDuration(startPoint.id, endPoint[0].id)
     
         time = durationObj.time
         journeys = durationObj.journeys

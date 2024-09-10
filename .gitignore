@@ -1,9 +1,11 @@
 node_modules/
+
 updateAssets/fetchWillhabenImmo/result.json
 updateAssets/fetchWillhabenImmo/detailResult.json
 updateAssets/fetchWillhabenImmo/ERROR.log
 updateAssets/fetchWillhabenImmo/ERROR_NoCoords.log
 
+static/private/token.js
 backup/*
-public/private/token.js
-public/assets/input.json
+static/private/token.js
+static/assets/input.json

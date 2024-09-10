@@ -1,8 +1,8 @@
 /**
- * import { AttributeKeys, WillHabenEstate, attributeKeys } from "../../../public/jsDocs/willhabenEstate.js"
+ * import { AttributeKeys, WillHabenEstate, attributeKeys } from "../../../static/jsDocs/willhabenEstate.js"
  * 
 */
-import { } from "../../../public/jsDocs/index.js"
+import { } from "../../../static/jsDocs/index.js"
 import {getCoordinates, isInEurope} from "./getCoordinates.js"
 import fs from "fs"
 

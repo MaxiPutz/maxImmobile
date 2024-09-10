@@ -1,6 +1,6 @@
-async function getGooglePublicTransportationDirections(origin, destination, apiKey) {
+async function getGooglestaticTransportationDirections(origin, destination, apiKey) {
     /**
-     * Fetches the latest public transportation directions between an origin and a destination using Google Maps Directions API.
+     * Fetches the latest static transportation directions between an origin and a destination using Google Maps Directions API.
      *
      * @param {string} origin - The starting location as a string (e.g., "40.7128,-74.0060" or "New York, NY").
      * @param {string} destination - The destination location as a string (e.g., "34.0522,-118.2437" or "Los Angeles, CA").
@@ -16,11 +16,11 @@ async function getGooglePublicTransportationDirections(origin, destination, apiK
     const params = new URLSearchParams({
         origin: origin,
         destination: destination,
-        mode: 'transit', // Set the mode to public transportation
+        mode: 'transit', // Set the mode to static transportation
         key: apiKey,
         alternatives: 'true',
         language: 'en',
-        transit_mode: 'bus,subway,train,tram', // Specify the modes of public transportation
+        transit_mode: 'bus,subway,train,tram', // Specify the modes of static transportation
         units: 'metric' // Use metric units
     });
 
@@ -47,7 +47,7 @@ const origin = "40.7128,-74.0060"; // New York City (latitude, longitude)
 const destination = "34.0522,-118.2437"; // Los Angeles (latitude, longitude)
 const apiKey = "your_google_maps_api_key";
 
-getGooglePublicTransportationDirections(origin, destination, apiKey)
+getGooglestaticTransportationDirections(origin, destination, apiKey)
     .then(directions => {
         console.log(directions);
     })

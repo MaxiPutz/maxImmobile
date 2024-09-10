@@ -1,10 +1,10 @@
-import { accessTokenObject } from "../../../public/private/token.js"
+import { accessTokenObject } from "../../../static/private/token.js"
 
 
 
-async function getPublicTransportationDirections(origin, destination, accessToken) {
+async function getstaticTransportationDirections(origin, destination, accessToken) {
     /**
-     * Fetches the latest public transportation directions between an origin and a destination using Mapbox Directions API.
+     * Fetches the latest static transportation directions between an origin and a destination using Mapbox Directions API.
      *
      * @param {Array} origin - An array containing the latitude and longitude of the origin [latitude, longitude].
      * @param {Array} destination - An array containing the latitude and longitude of the destination [latitude, longitude].
@@ -51,7 +51,7 @@ const origin = [40.7128, -74.0060]; // New York City (latitude, longitude)
 const destination = [34.0522, -118.2437]; // Los Angeles (latitude, longitude)
 const accessToken = accessTokenObject.token
 
-getPublicTransportationDirections(origin, destination, accessToken)
+getstaticTransportationDirections(origin, destination, accessToken)
     .then(directions => {
         console.log(directions);
     })

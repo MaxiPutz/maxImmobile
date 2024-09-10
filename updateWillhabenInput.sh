@@ -7,7 +7,7 @@ cd ./updateAssets/fetchWillhabenImmo/
 node index.js
 
 # Copy the result to the target location
-cp result.json ../../public/assets/input.json
+cp result.json ../../static/assets/input.json
 
 # Get the current date in European format (DD-MM-YYYY)
 europeanDate=$(date +'%d-%m-%Y')
