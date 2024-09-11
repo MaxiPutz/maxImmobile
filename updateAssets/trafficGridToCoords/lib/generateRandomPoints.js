@@ -1,4 +1,4 @@
-import {accessTokenObject} from "../../../public/private/token.js"
+import {accessTokenObject} from "../../../static/private/token.js"
 import { coordsToGeoJson } from "./toGeoJson.js"
 import fs from "fs"
 

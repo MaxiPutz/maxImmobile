@@ -3,7 +3,7 @@ import {client } from "./hafasClient.js"
 const latitude = 48.34636849437491
 const longitude = 16.491885636290036
 
-// Function to find the nearest public station
+// Function to find the nearest static station
 export async function findNearestStation(lat, lng) {
     try {
      
@@ -14,7 +14,7 @@ export async function findNearestStation(lat, lng) {
         }, {results: 3});
         
         if (nearbyLocations && nearbyLocations.length > 0) {
-            console.log('Nearest public stations:');
+            console.log('Nearest static stations:');
             const promises = []
             nearbyLocations.forEach((location, index) => {
                 promises.push(new Promise((res) => {

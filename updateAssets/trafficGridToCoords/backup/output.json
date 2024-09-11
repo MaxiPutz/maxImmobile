@@ -62,7 +62,7 @@
                     "id": "3-810028-6",
                     "fahrtNr": "7685",
                     "name": "REX 6",
-                    "public": true,
+                    "static": true,
                     "adminCode": "810028",
                     "productName": "REX",
                     "mode": "train",

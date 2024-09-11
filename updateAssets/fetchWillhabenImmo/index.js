@@ -1,7 +1,7 @@
 import { fetchUrl } from "./lib/fetchWillHabenDoc.js"
 import { convertAdvertToObject, getValFromAttributeKeys } from "./lib/estateUtil.js"
 import fs from "fs"
-import { attributeKeys } from "../../public/jsDocs/willhabenEstate.js";
+import { attributeKeys } from "../../static/jsDocs/willhabenEstate.js";
 
 var baseUrl = "https://www.willhaben.at/iad/immobilien/mietwohnungen/mietwohnung-angebote?sfId=3b261340-8744-4ef9-961d-5cebd78fac60&isNavigation=true&rows=90&areaId=101&areaId=102&areaId=103&areaId=106&areaId=107&areaId=301&areaId=302&areaId=304&areaId=305&areaId=306&areaId=307&areaId=308&areaId=312&areaId=313&areaId=316&areaId=317&areaId=318&areaId=321&areaId=323&PRICE_FROM=0&PRICE_TO=1000&ESTATE_SIZE/LIVING_AREA_FROM=40"
 
@@ -46,7 +46,7 @@ const convertedResults = []
 
 for (let i = 0; i < result.length; i++) {
   /**
-   * @type {import("../../public/jsDocs/willhabenEstate.js").WillHabenEstate}
+   * @type {import("../../static/jsDocs/willhabenEstate.js").WillHabenEstate}
    */
   const advert = result[i]
 

@@ -1,4 +1,4 @@
-import { token } from "../../../public/private/token.js"
+import { token } from "../../../static/private/token.js"
 
 
 export async function getWillhaebenCardInfos () {
