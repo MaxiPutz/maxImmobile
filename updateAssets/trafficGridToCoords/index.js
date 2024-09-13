@@ -7,7 +7,7 @@ import { calcstaticDuration } from "./lib/calcstaticDuration.js"
 
 const searchAndRecalcGrid = false
 
-const skipStation = 100 //<-----------------------------achtung should be 1 for testing 10
+const skipStation = 1 //<-----------------------------achtung should be 1 for testing 10
 
 const latitude =  
 //48.1855 // Wien HBF
@@ -20,7 +20,7 @@ const longitude =
 
 
 //const points = getRandomPoints(latitude, longitude, 65, 10)
-const points = generateGrid({ lat: latitude, lng: longitude }, 60000, 1000)
+const points = generateGrid({ lat: latitude, lng: longitude }, 120000, 1000)
 
 
 
