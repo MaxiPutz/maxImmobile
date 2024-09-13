@@ -10,6 +10,7 @@ import { transitOptions } from "../../assets/transit/index.js"
  * @property {number} coords.longitude - The longitude of the property location.
  * @property {number} coords.lat - The latitude of the property location.
  * @property {number} coords.lng - The longitude of the property location.
+ * @property {boolean} isGenossenschaft
  */
 
 
@@ -18,10 +19,15 @@ import { transitOptions } from "../../assets/transit/index.js"
  * @type {WillhabenJson[]}
  */
 export const willhabenJson = (await (await fetch("../../assets/input.json")).json()).map(ele =>  {
+
+    ele.price = ele.price.replace(".", "")
+
     const tmp = parseFloat( ele.price.split(" ")[1].split(",")[0])
     const squareMeters = parseFloat( ele.teaser.filter(ele => ele.includes("m²"))[0].split("m²")[0])
 
     console.log(ele);
+    console.log(tmp);
+    
     
     console.log(ele.coords);
     
