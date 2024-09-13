@@ -46,6 +46,21 @@ const setSelectedFilter = (event) => {
     customRender()
 }
 
+let isGenssenschaftFilterEnable = false
+let isNotGenssenschaftFilterEnable = false
+
+const setNotGenossenschaftFilter = e => {
+    isNotGenssenschaftFilterEnable = e.target.checked
+
+    customRender()
+}
+
+const setGenossenschaftFilter = e => {
+    isGenssenschaftFilterEnable = e.target.checked
+
+    customRender()
+}
+
 const generateTeaserCheckBox = () => {
 
     return teaserList.map(ele => html`
@@ -116,7 +131,17 @@ class CheckBoxArea extends LitElement {
                         OR
                     </label>
                 </div>
-                ${generateTeaserCheckBox()}
+                <div>
+                    ${generateTeaserCheckBox()}
+                </div>
+                <div>
+                    <input type="checkbox" id="genossenshaft" name="genossenshaft" @change=${(e)=> setGenossenschaftFilter(e)} >
+                    <label for="genossenshaft"> genossenshaft</label>
+                </div>
+                <div>
+                    <input type="checkbox" id="notgenossenshaft" name="notgenossenshaft" @change=${(e)=> setNotGenossenschaftFilter(e)} >
+                    <label for="notgenossenshaft"> notgenossenshaft</label>
+                </div>
             </div>
           
         </div>`
@@ -129,6 +154,19 @@ customElements.define('check-box-area', CheckBoxArea);
  * @param {import("../mapbox/inputParser/inputWrapper.js").WillhabenJson[]} obj
  */
 export const applyCheckBoxFilter  = (obj) => {
+
+    if (isGenssenschaftFilterEnable || isNotGenssenschaftFilterEnable) {
+        let tmp = []
+        if (isGenssenschaftFilterEnable) {
+            tmp.push(... obj.filter(ele => ele.isGenossenschaft) )
+        }
+        if (isNotGenssenschaftFilterEnable) {
+            tmp.push(...obj.filter(ele => !ele.isGenossenschaft) )
+        }
+        obj = tmp
+    }
+
+
     return filterOption === "OR" ?  orFilter(obj) : andFilter(obj)
 }
 
