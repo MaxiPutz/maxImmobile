@@ -48,6 +48,7 @@ const setSelectedFilter = (event) => {
 
 let isGenssenschaftFilterEnable = false
 let isNotGenssenschaftFilterEnable = false
+let isImmoScoutAnd = false
 
 const setNotGenossenschaftFilter = e => {
     isNotGenssenschaftFilterEnable = e.target.checked
@@ -61,6 +62,13 @@ const setGenossenschaftFilter = e => {
     customRender()
 }
 
+const setImmoScourtFilter = e => {
+    isImmoScoutAnd = e.target.checked
+    console.log(isImmoScoutAnd);
+    customRender()
+    
+}
+
 const generateTeaserCheckBox = () => {
 
     return teaserList.map(ele => html`
@@ -68,6 +76,8 @@ const generateTeaserCheckBox = () => {
         <label for="${ele}"> ${ele}</label>
     `)
 }
+
+
 
 let filterOption = "OR"
 
@@ -142,6 +152,10 @@ class CheckBoxArea extends LitElement {
                     <input type="checkbox" id="notgenossenshaft" name="notgenossenshaft" @change=${(e)=> setNotGenossenschaftFilter(e)} >
                     <label for="notgenossenshaft"> notgenossenshaft</label>
                 </div>
+                <div>
+                    <input type="checkbox" id="immoScout" name="immoScout" @change=${(e)=> setImmoScourtFilter(e)} >
+                    <label for="immoScout"> immoScout</label>
+                </div>
             </div>
           
         </div>`
@@ -155,7 +169,15 @@ customElements.define('check-box-area', CheckBoxArea);
  */
 export const applyCheckBoxFilter  = (obj) => {
 
-    if (isGenssenschaftFilterEnable || isNotGenssenschaftFilterEnable) {
+    if (isImmoScoutAnd) {
+
+        const t = obj.filter(ele1 => ele1.teaser.some(ele => ele === ("ImmoScout")) )
+        console.log("t", t.length);
+        obj = t
+        //obj = obj.filter(ele1 => ele1.teaser.join(" ").includes("ImmoScout"))
+    }
+
+    if (isGenssenschaftFilterEnable || isNotGenssenschaftFilterEnable ) {
         let tmp = []
         if (isGenssenschaftFilterEnable) {
             tmp.push(... obj.filter(ele => ele.isGenossenschaft) )
@@ -163,6 +185,7 @@ export const applyCheckBoxFilter  = (obj) => {
         if (isNotGenssenschaftFilterEnable) {
             tmp.push(...obj.filter(ele => !ele.isGenossenschaft) )
         }
+
         obj = tmp
     }
 

@@ -68,8 +68,6 @@ export const renderDivs = () => {
         return true
       }
       
-      console.log(ele.coords.lat > boundary.bottomLeft.lat && 
-        ele.coords.lat < boundary.topRight.lat);
       
 
       return  ele.coords.lat > boundary.bottomLeft.lat && 
