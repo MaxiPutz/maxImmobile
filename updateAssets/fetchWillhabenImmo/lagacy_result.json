@@ -1,21 +1,58 @@
 [
     {
-        "price": "€ 763,62",
+        "price": "€ 851,69",
         "teaser": [
-            " 56 m²",
+            " 55 m²",
             " 2 Zimmer",
-            "  Balkon, Garten"
+            "  Terrasse, Balkon, Garten"
         ],
         "destination": "2700 Wiener Neustadt ",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/wiener-neustadt/sommerbonus-sichern-schickes-2-zimmerapartment-nahe-stadtpark-wiener-neustadt-1706026637/",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/wiener-neustadt/sommerbonus-sichern-hochwertig-ausgestattete-mietwohnungen-nahe-stadtpark-1762718768/",
         "coords": {
-            "latitude": "47.80538992",
-            "longitude": "16.2361488"
+            "latitude": "47.80547878",
+            "longitude": "16.2345348"
         },
         "postcode": "2700",
         "isGenossenschaft": false,
         "info": [
-            "Herzlich willkommen in Wiener Neustadt! CELIA -  \"Wo Träume wahr werden\" Jetzt schnell sein und unseren Sommerbonus von 3 gratis Monatsmieten sichern!  Im Herzen von Wiener Neustadt, an der Ecke Maximiliangasse/ Kammanngasse, unmittelbar an unserer..."
+            "  Herzlich willkommen in Wiener Neustadt - Maximiliangasse/Kammanngasse CELIA -  \"Wo Träume wahr werden\" Jetzt schnell sein und unseren Sommerbonus von 3 gratis Monatsmieten sichern!  An diesem Standort haben wir brandneue Mietwohnungen mit privater..."
+        ]
+    },
+    {
+        "price": "€ 830",
+        "teaser": [
+            " 72 m²",
+            " 2 Zimmer"
+        ],
+        "destination": "2000 Stockerau Dr. Fuchsgasse 1a",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/korneuburg/top-wohnung-in-stockerau-1242427029/",
+        "coords": {
+            "latitude": "48.39011",
+            "longitude": "16.22004"
+        },
+        "postcode": "2000",
+        "isGenossenschaft": false,
+        "info": [
+            "Bezugsfertig nach liebevoller moderner Generalsanierung *komplett neue Küche und Bad/WC, Fußböden, Glasschiebetüren, Oberlichten, Elektroinstallationen.... *2-Zimmer Erdgeschoßwohnung mit Loggia 72m², Raumhöhe: 2,6m *Beheizung/Warmwasser mittels..."
+        ]
+    },
+    {
+        "price": "€ 640",
+        "teaser": [
+            " 74 m²",
+            " 3 Zimmer",
+            "  Balkon"
+        ],
+        "destination": "2493 Lichtenwörth Sportplatzgasse 5",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/wiener-neustadt-land/moderne-genossenschaftswohnung-mit-balkon-1653913280/",
+        "coords": {
+            "latitude": "47.82771",
+            "longitude": "16.2998"
+        },
+        "postcode": "2493",
+        "isGenossenschaft": true,
+        "info": [
+            "Details: + Wohnnutzfläche 73,65m2 + Balkon 11,80m2 + Balkon Abstellraum 2,51m2 + Kellerabteil 5,44m2 + 3 Zimmer + 2 Stellplätze sowie Besucherstellplätze + Fußbodenheizung + PVC-Fenster (3-fach Isolierverglasung und Zuluftelementen) + Außenrollläden Die..."
         ]
     },
     {
@@ -2058,25 +2095,6 @@
         ]
     },
     {
-        "price": "€ 865",
-        "teaser": [
-            " 50 m²",
-            " 2 Zimmer",
-            "  Terrasse, Garten"
-        ],
-        "destination": "3512 Mautern an der Donau Südtiroler Platz 6",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-land/moeblierte-50m-wohnung-mit-garten-in-mautern-1447600043/",
-        "coords": {
-            "latitude": "48.39253",
-            "longitude": "15.57895"
-        },
-        "postcode": "3512",
-        "isGenossenschaft": false,
-        "info": [
-            "Die lichtdurchflutete Wohnung ca. 50m² mit 41m² Garten ist modern ausgestattet. Das Badezimmer bietet Keramik, walk in Dusche, WC, Waschmaschinenanschluss und helle Fliesen. Ein separates Schlafzimmer ermöglicht Ihnen die Ruhe vom Alltag zu finden. Die..."
-        ]
-    },
-    {
         "price": "€ 758",
         "teaser": [
             " 73 m²",
@@ -2112,6 +2130,25 @@
         "isGenossenschaft": false,
         "info": [
             "Sichern Sie sich JETZT ihre EARLY-BIRD-Dachgeschoss-Balkon-Wohneinheit !!!   Genießen Sie den herrlichen Ausblick und verbringen Sie Ihre kostbare Zeit Freizeit mit Ihrem Partner/Familie. Die traumhafte Umgebung mit ihren zahlreichen Wander- und Radwegen..."
+        ]
+    },
+    {
+        "price": "€ 865",
+        "teaser": [
+            " 50 m²",
+            " 2 Zimmer",
+            "  Terrasse, Garten"
+        ],
+        "destination": "3512 Mautern an der Donau Südtiroler Platz 6",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/krems-land/moeblierte-50m-wohnung-mit-garten-in-mautern-1447600043/",
+        "coords": {
+            "latitude": "48.39253",
+            "longitude": "15.57895"
+        },
+        "postcode": "3512",
+        "isGenossenschaft": false,
+        "info": [
+            "Die lichtdurchflutete Wohnung ca. 50m² mit 41m² Garten ist modern ausgestattet. Das Badezimmer bietet Keramik, walk in Dusche, WC, Waschmaschinenanschluss und helle Fliesen. Ein separates Schlafzimmer ermöglicht Ihnen die Ruhe vom Alltag zu finden. Die..."
         ]
     },
     {
@@ -2491,25 +2528,6 @@
         ]
     },
     {
-        "price": "€ 1.098",
-        "teaser": [
-            " 140 m²",
-            " 4 Zimmer",
-            "  Garten"
-        ],
-        "destination": "3352 St. Peter in der Au ",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/grosszuegige-altbaumietwohnung-im-zentrum-1681109087/",
-        "coords": {
-            "latitude": "47.999541",
-            "longitude": "14.579875"
-        },
-        "postcode": "3352",
-        "isGenossenschaft": false,
-        "info": [
-            "Großzügige Altbaumietwohnung im Zentrum Diese sehr große und helle Mietwohnung liegt in einem repräsentativen Gebäude im 1. Stock, direkt im Zentrum von St.Peter in der Au. Die Wohnung mit altbautypischen hohen Räumen und Schiffböden hat eine Wohnfläche..."
-        ]
-    },
-    {
         "price": "€ 788,59",
         "teaser": [
             " 65 m²",
@@ -2526,6 +2544,25 @@
         "isGenossenschaft": false,
         "info": [
             "Am Ortsrand von Frauenkirchen in ruhiger Wohngegend bietet diese Wohnung solides Wohnvergnügen. Sie eignet sich perfekt für 2- 3 Personen. Küche, Wohnzimmer,Schlafzimmer, Bad mit Badewanne ,WC, sowie ein Balkon runden dieses Angebot ab. Strom und..."
+        ]
+    },
+    {
+        "price": "€ 1.098",
+        "teaser": [
+            " 140 m²",
+            " 4 Zimmer",
+            "  Garten"
+        ],
+        "destination": "3352 St. Peter in der Au ",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/grosszuegige-altbaumietwohnung-im-zentrum-1681109087/",
+        "coords": {
+            "latitude": "47.999541",
+            "longitude": "14.579875"
+        },
+        "postcode": "3352",
+        "isGenossenschaft": false,
+        "info": [
+            "Großzügige Altbaumietwohnung im Zentrum Diese sehr große und helle Mietwohnung liegt in einem repräsentativen Gebäude im 1. Stock, direkt im Zentrum von St.Peter in der Au. Die Wohnung mit altbautypischen hohen Räumen und Schiffböden hat eine Wohnfläche..."
         ]
     },
     {
@@ -4451,23 +4488,6 @@
         ]
     },
     {
-        "price": "€ 445",
-        "teaser": [
-            " 40 m²"
-        ],
-        "destination": "4482 Ennsdorf Wienerstraße",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/-leistbare-single-wohnung-in-zentraler-lage-zu-vermieten-802190138/",
-        "coords": {
-            "latitude": "48.212181091308594",
-            "longitude": "14.49215030670166"
-        },
-        "postcode": "4482",
-        "isGenossenschaft": false,
-        "info": [
-            "Diese gemütliche etwa 40 m² große Single-Wohnung bietet eine perfekte Aufteilung und liegt in zentraler Lage. Ideal für alle, die kurze Wege in die nahegelegenen Städte, wie Enns oder St.Valentin schätzen! Auch die Städte Linz, Perg, Amstetten, Steyr..."
-        ]
-    },
-    {
         "price": "€ 1.018,76",
         "teaser": [
             " 77 m²",
@@ -4482,6 +4502,23 @@
         "isGenossenschaft": false,
         "info": [
             "Moderne Wohnungen in familiärer Anlage Entdecken Sie \"Am Seepark\" in Rohrbach bei Mattersburg - ein Juwel für alle, die Wert auf eine harmonische Verbindung von ländlicher Idylle und städtischem Komfort legen. Die kleine Wohnhausanlage mit nur 8..."
+        ]
+    },
+    {
+        "price": "€ 445",
+        "teaser": [
+            " 40 m²"
+        ],
+        "destination": "4482 Ennsdorf Wienerstraße",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/amstetten/-leistbare-single-wohnung-in-zentraler-lage-zu-vermieten-802190138/",
+        "coords": {
+            "latitude": "48.212181091308594",
+            "longitude": "14.49215030670166"
+        },
+        "postcode": "4482",
+        "isGenossenschaft": false,
+        "info": [
+            "Diese gemütliche etwa 40 m² große Single-Wohnung bietet eine perfekte Aufteilung und liegt in zentraler Lage. Ideal für alle, die kurze Wege in die nahegelegenen Städte, wie Enns oder St.Valentin schätzen! Auch die Städte Linz, Perg, Amstetten, Steyr..."
         ]
     },
     {
@@ -22777,7 +22814,7 @@
         ]
     },
     {
-        "price": "€ 1.130",
+        "price": "€ 1.036",
         "teaser": [
             " 72 m²",
             " 3 Zimmer",
