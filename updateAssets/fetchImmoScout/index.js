@@ -38,7 +38,7 @@ console.log(tmp.reduce((prev, cur) => prev + cur))
 console.log(tmp.filter(ele => ele === 15).length   ) 
 
 console.log(message)
-fs.writeFileSync("./immoScourResult.json", JSON.stringify(result, undefined, 4 ))
+fs.writeFileSync("./detailResult.json", JSON.stringify(result, undefined, 4 ))
 
 
 const res = result.map(ele => convertPropertyToInputJson(ele, postcodes))
