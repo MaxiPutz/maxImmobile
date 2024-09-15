@@ -9,8 +9,6 @@ cd "./updateAssets/fetchWillhabenImmo/"
 # Run the first Node.js script
 node index.js
 
-# Copy the result to a temporary location
-cp result.json "../../temp_result1.json"
 
 # Navigate back to the base directory
 cd "../../"
