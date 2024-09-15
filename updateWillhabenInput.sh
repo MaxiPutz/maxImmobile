@@ -1,19 +1,38 @@
 #!/bin/bash
 
-# Navigate to the directory
-cd ./updateAssets/fetchWillhabenImmo/
+# Set the base directory to ensure paths are correct
 
-# Run the Node.js script
+
+# Navigate to the first directory
+cd "./updateAssets/fetchWillhabenImmo/"
+
+# Run the first Node.js script
 node index.js
 
-# Copy the result to the target location
-cp result.json ../../static/assets/input.json
+# Copy the result to a temporary location
+cp result.json "../../temp_result1.json"
 
-# Get the current date in European format (DD-MM-YYYY)
+# Navigate back to the base directory
+cd "../../"
+
+# Navigate to the second directory
+cd "./updateAssets/fetchImmoScout/"
+
+# Run the second Node.js script
+node index.js
+
+
+
+# Navigate back to the base directory
+cd "../../"
+
+cd "./updateAssets/mergeInput/"
+node index.js
+
 europeanDate=$(date +'%d-%m-%Y')
 
-# Create the zip file with the result
-zip ../../backup/willHabenimmo_${europeanDate}.zip result.json
+zip -j backup/willHabenimmo_${europeanDate}.zip "./updateAssets/fetchWillhabenImmo/result.json"
+zip -j backup/immoScoummp_${europeanDate}.zip "./updateAssets/fetchImmoScout/result.json"
 
 # Print success message
-echo "Update complete and backup created: willHabenimmo_${europeanDate}.zip"
+echo "Update complete and backups created: willHabenimmo_${europeanDate}.zip and source2immo_${europeanDate}.zip"

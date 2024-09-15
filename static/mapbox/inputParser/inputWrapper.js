@@ -1,6 +1,8 @@
 import { transitOptions } from "../../assets/transit/index.js"
+import { isLagacy, parseLagacy } from "./lagacyParser/lagacyParser.js";
 /**
  * @typedef {Object} WillhabenJson
+ * @property {string} postcode
  * @property {string} price - The price of the property.
  * @property {string[]} teaser - An array of strings providing a short description of the property.
  * @property {string} destination - The address of the property.
@@ -11,37 +13,18 @@ import { transitOptions } from "../../assets/transit/index.js"
  * @property {number} coords.lat - The latitude of the property location.
  * @property {number} coords.lng - The longitude of the property location.
  * @property {boolean} isGenossenschaft
+ * @property {number} squareMeters
  */
+
+
+const raw = (await (await fetch("../../assets/input.json")).json())
 
 
 /**
  * An array of properties available for rent or sale.
  * @type {WillhabenJson[]}
  */
-export const willhabenJson = (await (await fetch("../../assets/input.json")).json()).map(ele =>  {
-
-    ele.price = ele.price.replace(".", "")
-
-    const tmp = parseFloat( ele.price.split(" ")[1].split(",")[0])
-    const squareMeters = parseFloat( ele.teaser.filter(ele => ele.includes("m²"))[0].split("m²")[0])
-
-    console.log(ele);
-    console.log(tmp);
-    
-    
-    console.log(ele.coords);
-    
-    return ({
-    ...ele,
-    squareMeters,
-    price: tmp,
-    coords: {
-        ...ele.coords,
-        lat: ele.coords.latitude,
-        lng: ele.coords.longitude,
-    }
-})})
-console.log(willhabenJson);
+export const willhabenJson = isLagacy(raw) ? parseLagacy(raw) : raw
 
 
 

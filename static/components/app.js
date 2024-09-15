@@ -56,10 +56,11 @@ export const renderDivs = () => {
     const boundary = getViewCoords()
     const isReady = isViewCoordsReady()
 
-
+    console.log(maxPrice);
+    
     let filtered = willhabenJson
     .filter(ele => ele.price !== "not found")
-    .filter(ele => ele.price > minPrice  && ele.price < maxPrice)
+    .filter(ele => ele.price >  parseFloat(minPrice)  &&  parseFloat(ele.price) < maxPrice)
     .filter(ele => ele.squareMeters > minM2  && ele.squareMeters < maxM2)
     .filter(ele => {
       
@@ -96,8 +97,8 @@ export const renderDivs = () => {
              window.open(url, '_blank');
         }
         }>
-        <div>${ele.teaser.join(" ")}</div>
-        <div>${ele.price}</div>
+        <div>${ele.squareMeters} m²</div>
+        <div>${ele.price} €</div>
         <div>${ele.destination}</div>
         </div>
     `;
