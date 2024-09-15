@@ -6,6 +6,7 @@ updateAssets/fetchWillhabenImmo/ERROR.log
 updateAssets/fetchWillhabenImmo/ERROR_NoCoords.log
 updateAssets/fetchImmoScout/detailResult.json
 updateAssets/fetchImmoScout/result.json
+updateAssets/fetchImmoScout/lagacy_result.json
 
 static/private/token.js
 backup/*
