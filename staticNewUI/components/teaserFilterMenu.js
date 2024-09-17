@@ -105,7 +105,7 @@ class CheckBoxArea extends LitElement {
 
     constructor() {
         super();
-        this.isVisible = false; // Hidden by default
+        this.isVisible = true; // Hidden by default
         this.selectedFilter = 'OR'; 
         filterOption = this.selectedFilter
     }
@@ -125,10 +125,7 @@ class CheckBoxArea extends LitElement {
     render() {
         return html`
         <div>
-            <div style="background: rgba(255, 255, 255, 0.8); border-radius: 5px; padding: 10px; text-align: right;">
-                <label for="hidecheckBoxArea">hide check box</label>
-                <input checked type="checkbox" id="hideArea" name="hideArea" @change="${this.toggleVisibility}">
-            </div>
+           
            
             <div class="${this.isVisible ? 'visible' : 'hidden'}">
                 <div class="radio-group">

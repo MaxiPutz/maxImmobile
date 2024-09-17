@@ -91,7 +91,7 @@ export const renderDivs = () => {
 
     const divs = filtered.map(ele => {
     return html`
-    <div style=${scrollableContainerStyles}>
+    <div >
 
         <div style=${itemStyles}  @click=${() => {
              const url = ele.url
@@ -105,9 +105,12 @@ export const renderDivs = () => {
     </div>
       
     `;
-    });
+    }).slice(0, 100);
     console.log(divs);
-    return divs
+    return html`
+    <div style=${scrollableContainerStyles}>
+      ${divs}
+    </div> ` 
 }
 
 
@@ -124,11 +127,6 @@ const menuComponent = () => {
         <div style="margin-top: 10px;">
            <div>  <label for="min-m2">Min m²:</label><input type="text" id="min-m2" name="min-m2"  @input=${onInputChange}> </div>
            <div>  <label for="max-m2">Max m²:</label><input type="text" id="max-m2" name="max-m2"  @input=${onInputChange}> </div>
-        </div>
-
-        <p>${renderDivs().length} found elemnts</p>
-        <div  >
-            ${renderDivs()}
         </div>
     </div>
   `;

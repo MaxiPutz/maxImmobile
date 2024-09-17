@@ -22,7 +22,7 @@ const hideMapCheckbox = () => {
         </div>`
 }
 
-render(hideMapCheckbox(), document.body)
+//render(hideMapCheckbox(), document.body)
 
 /*
 

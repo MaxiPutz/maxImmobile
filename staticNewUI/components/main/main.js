@@ -88,6 +88,10 @@ class MainView extends LitElement {
                             isLeftOpen: this.isLeftOpen,
                             isRightOpen: this.isRightOpen
                         })}
+
+            button {
+                z-index: 10000;
+            }
         </style>
         `
 

@@ -152,12 +152,6 @@ class MapBox extends LitElement {
         ${style}
         <div id="map">
 
-            <button style="position: fixed" @click=${()=> {
-                this.map.resize()
-                this.requestUpdate();
-            }
-             }> test button</button>
-
         </div>
         `
     }

@@ -68,9 +68,6 @@ const menuComponent = () => {
     return html`
     ${styleTag}
     <div class="container">
-            <div>
-                <h4>Isochrone Settings: lat: ${coords.lat} lng: ${coords.lng}</h4>
-            </div>
             <!--${isochromeComponent()}-->
             <div>
             <select name="cars" id="cars" @change=${event => {

@@ -16,10 +16,12 @@ import { isLagacy, parseLagacy } from "./lagacyParser/lagacyParser.js";
  * @property {number} squareMeters
  */
 
+/**
+ * @type {WillhabenJson[]}
+ */
+let raw = (await (await fetch("../../assets/input.json")).json())
 
-const raw = (await (await fetch("../../assets/input.json")).json())
-
-
+//raw = raw.slice(0, 100)
 /**
  * An array of properties available for rent or sale.
  * @type {WillhabenJson[]}
