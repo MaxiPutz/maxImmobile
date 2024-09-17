@@ -1,0 +1,4242 @@
+function getCities () {
+
+    return [
+        {
+            "time": 34,
+            "startPoint": {
+                "lat": 48.21774372215453,
+                "long": 15.619220328485683,
+                "name": "St.Pölten Hbf (Busterminal)",
+                "id": "8172154"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 34,
+            "startPoint": {
+                "lat": 48.21774372215453,
+                "long": 15.619220328485683,
+                "name": "St.Pölten Hbf",
+                "id": "8100008"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 17,
+            "startPoint": {
+                "lat": 47.79044944712511,
+                "long": 16.940184131863465,
+                "name": "St.Andrä/Zicksee Ortsmitte",
+                "id": "8187078"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 72,
+            "startPoint": {
+                "lat": 47.79044944712511,
+                "long": 16.940184131863465,
+                "name": "St. Andrä am Zicksee",
+                "id": "8100431"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 19,
+            "startPoint": {
+                "lat": 48.02222466113293,
+                "long": 16.57096927325328,
+                "name": "Götzendorf/Leitha",
+                "id": "8100254"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 19,
+            "startPoint": {
+                "lat": 48.02222466113293,
+                "long": 16.57096927325328,
+                "name": "Götzendorf/Leitha Bahnhof (Vorplatz)",
+                "id": "8187110"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 62,
+            "startPoint": {
+                "lat": 48.48538614430516,
+                "long": 16.859961836334076,
+                "name": "Dürnkrut",
+                "id": "8100724"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 65,
+            "startPoint": {
+                "lat": 48.48538614430516,
+                "long": 16.859961836334076,
+                "name": "Jedenspeigen",
+                "id": "8101012"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 27,
+            "startPoint": {
+                "lat": 48.28281403383536,
+                "long": 16.385474529263526,
+                "name": "Wien Strebersdorf",
+                "id": "8101588"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 5,
+            "startPoint": {
+                "lat": 48.28281403383536,
+                "long": 16.385474529263526,
+                "name": "Wien Rußbergstraße",
+                "id": "8121013"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 25,
+            "startPoint": {
+                "lat": 48.28281403383536,
+                "long": 16.385474529263526,
+                "name": "Wien Jedlersdorf",
+                "id": "8101013"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 40,
+            "startPoint": {
+                "lat": 47.955445176429635,
+                "long": 16.81740833258577,
+                "name": "Neusiedl am See",
+                "id": "8100434"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 40,
+            "startPoint": {
+                "lat": 47.955445176429635,
+                "long": 16.81740833258577,
+                "name": "Neusiedl am See Bahnhof (Vorplatz)",
+                "id": "8197008"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 48,
+            "startPoint": {
+                "lat": 47.955445176429635,
+                "long": 16.81740833258577,
+                "name": "Jois",
+                "id": "8100280"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 19,
+            "startPoint": {
+                "lat": 48.257261158143656,
+                "long": 16.417391506372088,
+                "name": "Wien Floridsdorf Bf (Rechte Nordbahngasse)",
+                "id": "8172107"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 19,
+            "startPoint": {
+                "lat": 48.257261158143656,
+                "long": 16.417391506372088,
+                "name": "Wien Floridsdorf Bf (U6)",
+                "id": "8170012"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 19,
+            "startPoint": {
+                "lat": 48.257261158143656,
+                "long": 16.417391506372088,
+                "name": "Wien Floridsdorf",
+                "id": "8100236"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 87,
+            "startPoint": {
+                "lat": 48.692283784039795,
+                "long": 16.445159329199296,
+                "name": "Kottingneusiedl",
+                "id": "8101065"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 11,
+            "startPoint": {
+                "lat": 48.22193035711829,
+                "long": 16.438568037261902,
+                "name": "Wien Stadlau",
+                "id": "8104229"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 11,
+            "startPoint": {
+                "lat": 48.22193035711829,
+                "long": 16.438568037261902,
+                "name": "Wien Stadlau Bahnhst (Kaisermühlenstraße)",
+                "id": "8172359"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 11,
+            "startPoint": {
+                "lat": 48.22193035711829,
+                "long": 16.438568037261902,
+                "name": "Wien Stadlau Bahnhst (U2)",
+                "id": "8170925"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 72,
+            "startPoint": {
+                "lat": 47.77244701806725,
+                "long": 16.922457954251346,
+                "name": "St. Andrä am Zicksee",
+                "id": "8100431"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 17,
+            "startPoint": {
+                "lat": 47.77244701806725,
+                "long": 16.922457954251346,
+                "name": "St.Andrä/Zicksee Ortsmitte",
+                "id": "8187078"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 65,
+            "startPoint": {
+                "lat": 48.57631593793945,
+                "long": 16.57452189736616,
+                "name": "Mistelbach/Zaya Stadt",
+                "id": "8102007"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 70,
+            "startPoint": {
+                "lat": 48.57631593793945,
+                "long": 16.57452189736616,
+                "name": "Mistelbach",
+                "id": "8101245"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 63,
+            "startPoint": {
+                "lat": 48.41735088934424,
+                "long": 15.994072198041081,
+                "name": "Absdorf-Hippersdorf",
+                "id": "8100202"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 63,
+            "startPoint": {
+                "lat": 48.41735088934424,
+                "long": 15.994072198041081,
+                "name": "Absdorf-Hippersdorf Bahnhof (Bahnhofstraße)",
+                "id": "8171236"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 18,
+            "startPoint": {
+                "lat": 48.24973212082385,
+                "long": 16.449292980062634,
+                "name": "Wien Kagraner Platz (U1)",
+                "id": "8170815"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 20,
+            "startPoint": {
+                "lat": 48.24973212082385,
+                "long": 16.449292980062634,
+                "name": "Wien Rennbahnweg (U1)",
+                "id": "8170228"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 16,
+            "startPoint": {
+                "lat": 48.24973212082385,
+                "long": 16.449292980062634,
+                "name": "Wien Kagran (U1)",
+                "id": "8170022"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 39,
+            "startPoint": {
+                "lat": 48.3532383945176,
+                "long": 16.30721173954121,
+                "name": "Leobendorf-Burg Kreuzenstein",
+                "id": "8101124"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 32,
+            "startPoint": {
+                "lat": 48.3532383945176,
+                "long": 16.30721173954121,
+                "name": "Korneuburg Bahnhof (Bahnhofplatz)",
+                "id": "8182068"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 69,
+            "startPoint": {
+                "lat": 48.577033613922836,
+                "long": 16.08202425272667,
+                "name": "Hollabrunn",
+                "id": "8100274"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 71,
+            "startPoint": {
+                "lat": 47.68532982626512,
+                "long": 16.57452796113616,
+                "name": "Sopron vasútállomás (állomás utca)",
+                "id": "5581084"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 71,
+            "startPoint": {
+                "lat": 47.68532982626512,
+                "long": 16.57452796113616,
+                "name": "Sopron",
+                "id": "5501494"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 4,
+            "startPoint": {
+                "lat": 48.15430149248935,
+                "long": 16.42665426465204,
+                "name": "Wien Simmering Bahnhof (U3)",
+                "id": "8170076"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 9,
+            "startPoint": {
+                "lat": 48.13206774448612,
+                "long": 16.458864139586872,
+                "name": "Kledering b.Wien",
+                "id": "8101051"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 9,
+            "startPoint": {
+                "lat": 48.13206774448612,
+                "long": 16.458864139586872,
+                "name": "Kledering Bahnhst (Bahnhofplatz/Eingang)",
+                "id": "8174244"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 87,
+            "startPoint": {
+                "lat": 48.718031844122955,
+                "long": 16.46579247283211,
+                "name": "Kottingneusiedl",
+                "id": "8101065"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 39,
+            "startPoint": {
+                "lat": 48.34712326536994,
+                "long": 16.510414010508608,
+                "name": "Obersdorf NÖ",
+                "id": "8101317"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 36,
+            "startPoint": {
+                "lat": 48.34712326536994,
+                "long": 16.510414010508608,
+                "name": "Seyring",
+                "id": "8101498"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 17,
+            "startPoint": {
+                "lat": 47.82324803453858,
+                "long": 16.91201040889906,
+                "name": "Frauenkirchen Kirchenplatz",
+                "id": "8197092"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 66,
+            "startPoint": {
+                "lat": 47.82324803453858,
+                "long": 16.91201040889906,
+                "name": "Frauenkirchen",
+                "id": "8100238"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 39,
+            "startPoint": {
+                "lat": 48.25328803230204,
+                "long": 16.75752387928554,
+                "name": "Untersiebenbrunn",
+                "id": "8101701"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 39,
+            "startPoint": {
+                "lat": 48.25328803230204,
+                "long": 16.75752387928554,
+                "name": "Untersiebenbrunn Bahnhst (Bahnstraße)",
+                "id": "8178364"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 50,
+            "startPoint": {
+                "lat": 48.391754819723666,
+                "long": 16.487933740685143,
+                "name": "Ulrichskirchen",
+                "id": "8101697"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 5,
+            "startPoint": {
+                "lat": 48.68814425949013,
+                "long": 15.977878434292236,
+                "name": "Zellerndorf Bahnhof (Vorplatz)",
+                "id": "8170128"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 80,
+            "startPoint": {
+                "lat": 48.68814425949013,
+                "long": 15.977878434292236,
+                "name": "Zellerndorf",
+                "id": "8100363"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 76,
+            "startPoint": {
+                "lat": 48.68814425949013,
+                "long": 15.977878434292236,
+                "name": "Platt",
+                "id": "8101367"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 72,
+            "startPoint": {
+                "lat": 47.79217878127893,
+                "long": 16.929949485602474,
+                "name": "St. Andrä am Zicksee",
+                "id": "8100431"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 17,
+            "startPoint": {
+                "lat": 47.79217878127893,
+                "long": 16.929949485602474,
+                "name": "St.Andrä/Zicksee Ortsmitte",
+                "id": "8187078"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 24,
+            "startPoint": {
+                "lat": 48.283438698640715,
+                "long": 16.454772190331347,
+                "name": "Wien Leopoldau Bahnhst (U1)",
+                "id": "8170129"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 4,
+            "startPoint": {
+                "lat": 48.283438698640715,
+                "long": 16.454772190331347,
+                "name": "Wien Leopoldau Bahnhst (Schererstraße)",
+                "id": "8171044"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 24,
+            "startPoint": {
+                "lat": 48.283438698640715,
+                "long": 16.454772190331347,
+                "name": "Wien Leopoldau",
+                "id": "8101170"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 89,
+            "startPoint": {
+                "lat": 48.70757033479212,
+                "long": 16.498832758697727,
+                "name": "Staatz",
+                "id": "8101600"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 28,
+            "startPoint": {
+                "lat": 47.9001529666496,
+                "long": 16.399221755071235,
+                "name": "Pottendorf-Landegg",
+                "id": "8100525"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 28,
+            "startPoint": {
+                "lat": 47.9001529666496,
+                "long": 16.399221755071235,
+                "name": "Pottendorf-Landegg Bahnhof (Vorplatz)",
+                "id": "8176025"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 28,
+            "startPoint": {
+                "lat": 47.909089903372056,
+                "long": 16.395888572506117,
+                "name": "Pottendorf-Landegg",
+                "id": "8100525"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 28,
+            "startPoint": {
+                "lat": 47.909089903372056,
+                "long": 16.395888572506117,
+                "name": "Pottendorf-Landegg Bahnhof (Vorplatz)",
+                "id": "8176025"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 56,
+            "startPoint": {
+                "lat": 47.9006806308017,
+                "long": 16.70934393707085,
+                "name": "Purbach am Neusiedlersee",
+                "id": "8100532"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 69,
+            "startPoint": {
+                "lat": 48.54818004734016,
+                "long": 16.07676570356628,
+                "name": "Hollabrunn",
+                "id": "8100274"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 9,
+            "startPoint": {
+                "lat": 48.1437555247596,
+                "long": 16.448098011165875,
+                "name": "Kledering b.Wien",
+                "id": "8101051"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 9,
+            "startPoint": {
+                "lat": 48.1437555247596,
+                "long": 16.448098011165875,
+                "name": "Kledering Bahnhst (Bahnhofplatz/Eingang)",
+                "id": "8174244"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 56,
+            "startPoint": {
+                "lat": 47.89201820984821,
+                "long": 16.708929979782962,
+                "name": "Purbach am Neusiedlersee",
+                "id": "8100532"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 6,
+            "startPoint": {
+                "lat": 48.15495774345196,
+                "long": 16.38623152073484,
+                "name": "Wien Alaudagasse (U1)",
+                "id": "8180053"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 5,
+            "startPoint": {
+                "lat": 48.15495774345196,
+                "long": 16.38623152073484,
+                "name": "Wien Altes Landgut (U1)",
+                "id": "8180028"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 8,
+            "startPoint": {
+                "lat": 48.15495774345196,
+                "long": 16.38623152073484,
+                "name": "Wien Neulaa (U1)",
+                "id": "8110051"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 5,
+            "startPoint": {
+                "lat": 48.670110021506055,
+                "long": 15.944413298868875,
+                "name": "Platt b.Zellerndorf Kaffegasse",
+                "id": "8170083"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 76,
+            "startPoint": {
+                "lat": 48.670110021506055,
+                "long": 15.944413298868875,
+                "name": "Platt",
+                "id": "8101367"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 81,
+            "startPoint": {
+                "lat": 48.64741409408312,
+                "long": 16.90270617254677,
+                "name": "Rabensburg",
+                "id": "8101416"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 51,
+            "startPoint": {
+                "lat": 48.44113970029702,
+                "long": 16.179336610642267,
+                "name": "Höbersdorf",
+                "id": "8100962"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 48,
+            "startPoint": {
+                "lat": 48.44113970029702,
+                "long": 16.179336610642267,
+                "name": "Sierndorf b.Stockerau",
+                "id": "8101522"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 32,
+            "startPoint": {
+                "lat": 48.02105323377007,
+                "long": 16.295611757918152,
+                "name": "Traiskirchen Aspangbahn",
+                "id": "8101640"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 29,
+            "startPoint": {
+                "lat": 48.02105323377007,
+                "long": 16.295611757918152,
+                "name": "Möllersdorf Aspangbahn",
+                "id": "8101229"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 48,
+            "startPoint": {
+                "lat": 47.968003186541694,
+                "long": 17.05011336149183,
+                "name": "Zurndorf",
+                "id": "8101829"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 66,
+            "startPoint": {
+                "lat": 47.83691395781248,
+                "long": 16.525784027066088,
+                "name": "Eisenstadt Bahnhof (Bahnstraße)",
+                "id": "8191019"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 66,
+            "startPoint": {
+                "lat": 47.83691395781248,
+                "long": 16.525784027066088,
+                "name": "Eisenstadt",
+                "id": "8100231"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 71,
+            "startPoint": {
+                "lat": 47.83691395781248,
+                "long": 16.525784027066088,
+                "name": "Eisenstadt Schule",
+                "id": "8100773"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 60,
+            "startPoint": {
+                "lat": 48.48466453074223,
+                "long": 16.131004187376135,
+                "name": "Göllersdorf",
+                "id": "8100827"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 36,
+            "startPoint": {
+                "lat": 48.32047772689432,
+                "long": 16.570552948894168,
+                "name": "Deutsch Wagram Bahnhof (P+R)",
+                "id": "8198501"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 43,
+            "startPoint": {
+                "lat": 48.31178734266407,
+                "long": 16.62742959555221,
+                "name": "Strasshof",
+                "id": "8101595"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 60,
+            "startPoint": {
+                "lat": 48.50220938371659,
+                "long": 16.113715644082124,
+                "name": "Göllersdorf",
+                "id": "8100827"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 57,
+            "startPoint": {
+                "lat": 47.71835219855291,
+                "long": 16.40503981746978,
+                "name": "Marz-Rohrbach",
+                "id": "8100472"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 53,
+            "startPoint": {
+                "lat": 47.71835219855291,
+                "long": 16.40503981746978,
+                "name": "Mattersburg",
+                "id": "8100408"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 53,
+            "startPoint": {
+                "lat": 47.71835219855291,
+                "long": 16.40503981746978,
+                "name": "Mattersburg Bahnhof (Bahnhofplatz)",
+                "id": "8176014"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 22,
+            "startPoint": {
+                "lat": 48.272187586218216,
+                "long": 16.455238808996494,
+                "name": "Wien Großfeldsiedlung (U1)",
+                "id": "8170606"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 4,
+            "startPoint": {
+                "lat": 48.272187586218216,
+                "long": 16.455238808996494,
+                "name": "Wien Leopoldau Bahnhst (Schererstraße)",
+                "id": "8171044"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 24,
+            "startPoint": {
+                "lat": 48.272187586218216,
+                "long": 16.455238808996494,
+                "name": "Wien Leopoldau Bahnhst (U1)",
+                "id": "8170129"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 5,
+            "startPoint": {
+                "lat": 48.28825759732138,
+                "long": 16.389393615957438,
+                "name": "Wien Rußbergstraße",
+                "id": "8121013"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 27,
+            "startPoint": {
+                "lat": 48.28825759732138,
+                "long": 16.389393615957438,
+                "name": "Wien Strebersdorf",
+                "id": "8101588"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 25,
+            "startPoint": {
+                "lat": 48.28825759732138,
+                "long": 16.389393615957438,
+                "name": "Wien Jedlersdorf",
+                "id": "8101013"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 38,
+            "startPoint": {
+                "lat": 47.82063579086729,
+                "long": 16.229621046696348,
+                "name": "Wr.Neustadt Hbf (Busbahnhof)",
+                "id": "8184009"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 38,
+            "startPoint": {
+                "lat": 47.82063579086729,
+                "long": 16.229621046696348,
+                "name": "Wr.Neustadt Hbf (Zugang Bahnsteig 21)",
+                "id": "8174175"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 38,
+            "startPoint": {
+                "lat": 47.82063579086729,
+                "long": 16.229621046696348,
+                "name": "Wiener Neustadt Hbf",
+                "id": "8100516"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 65,
+            "startPoint": {
+                "lat": 48.499572089582635,
+                "long": 16.49648657125415,
+                "name": "Neubau-Kreuzstetten",
+                "id": "8101261"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 19,
+            "startPoint": {
+                "lat": 47.938501933867144,
+                "long": 16.73254122200162,
+                "name": "Breitenbrunn/Neusiedler See Türkenturm",
+                "id": "8193012"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 53,
+            "startPoint": {
+                "lat": 47.938501933867144,
+                "long": 16.73254122200162,
+                "name": "Breitenbrunn im Bgld",
+                "id": "8100397"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 25,
+            "startPoint": {
+                "lat": 48.26013249883479,
+                "long": 16.419978226891548,
+                "name": "Wien Siemensstraße",
+                "id": "8100796"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 19,
+            "startPoint": {
+                "lat": 48.26013249883479,
+                "long": 16.419978226891548,
+                "name": "Wien Floridsdorf Bf (Rechte Nordbahngasse)",
+                "id": "8172107"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 32,
+            "startPoint": {
+                "lat": 48.02700513514141,
+                "long": 16.29438560507359,
+                "name": "Traiskirchen Aspangbahn",
+                "id": "8101640"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 29,
+            "startPoint": {
+                "lat": 48.02700513514141,
+                "long": 16.29438560507359,
+                "name": "Möllersdorf Aspangbahn",
+                "id": "8101229"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 32,
+            "startPoint": {
+                "lat": 48.02700513514141,
+                "long": 16.29438560507359,
+                "name": "Gumpoldskirchen",
+                "id": "8100867"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 70,
+            "startPoint": {
+                "lat": 48.15784670373416,
+                "long": 17.121020029461196,
+                "name": "Bratislava hl.st.",
+                "id": "5600207"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 42,
+            "startPoint": {
+                "lat": 48.00388894376349,
+                "long": 16.937155488637867,
+                "name": "Neudorf b.Parndorf",
+                "id": "8100388"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 16,
+            "startPoint": {
+                "lat": 48.00388894376349,
+                "long": 16.937155488637867,
+                "name": "Neudorf b.Parndorf Volksschule",
+                "id": "8187105"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 19,
+            "startPoint": {
+                "lat": 48.01974488738181,
+                "long": 16.576656460464918,
+                "name": "Götzendorf/Leitha",
+                "id": "8100254"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 19,
+            "startPoint": {
+                "lat": 48.01974488738181,
+                "long": 16.576656460464918,
+                "name": "Götzendorf/Leitha Bahnhof (Vorplatz)",
+                "id": "8187110"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 69,
+            "startPoint": {
+                "lat": 48.627743130078244,
+                "long": 16.043971189406754,
+                "name": "Guntersdorf",
+                "id": "8100894"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 5,
+            "startPoint": {
+                "lat": 48.627743130078244,
+                "long": 16.043971189406754,
+                "name": "Guntersdorf Bahnhof (Bahnhofsiedlung)",
+                "id": "8170123"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 36,
+            "startPoint": {
+                "lat": 48.30333277434928,
+                "long": 16.543400061239094,
+                "name": "Deutsch Wagram",
+                "id": "8100721"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 36,
+            "startPoint": {
+                "lat": 48.30333277434928,
+                "long": 16.543400061239094,
+                "name": "Deutsch Wagram Bahnhof (P+R)",
+                "id": "8198501"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 63,
+            "startPoint": {
+                "lat": 48.4104823950472,
+                "long": 15.981552111893267,
+                "name": "Absdorf-Hippersdorf",
+                "id": "8100202"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 63,
+            "startPoint": {
+                "lat": 48.4104823950472,
+                "long": 15.981552111893267,
+                "name": "Absdorf-Hippersdorf Bahnhof (Bahnhofstraße)",
+                "id": "8171236"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 62,
+            "startPoint": {
+                "lat": 47.86215651582125,
+                "long": 16.94193033611782,
+                "name": "Mönchhof-Halbturn",
+                "id": "8100484"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 5,
+            "startPoint": {
+                "lat": 48.647233616008435,
+                "long": 16.073801619644634,
+                "name": "Guntersdorf Bahnhof (Bahnhofsiedlung)",
+                "id": "8170123"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 69,
+            "startPoint": {
+                "lat": 48.647233616008435,
+                "long": 16.073801619644634,
+                "name": "Guntersdorf",
+                "id": "8100894"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 19,
+            "startPoint": {
+                "lat": 48.08003945137025,
+                "long": 16.288189468794986,
+                "name": "Mödling Bahnhof (Bahnhofplatz)",
+                "id": "8177183"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 19,
+            "startPoint": {
+                "lat": 48.08003945137025,
+                "long": 16.288189468794986,
+                "name": "Mödling",
+                "id": "8101230"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 70,
+            "startPoint": {
+                "lat": 48.55030967670342,
+                "long": 16.50632282332568,
+                "name": "Ladendorf",
+                "id": "8101111"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 43,
+            "startPoint": {
+                "lat": 47.87346443718383,
+                "long": 16.39708869769787,
+                "name": "Neufeld/Leitha",
+                "id": "8100495"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 64,
+            "startPoint": {
+                "lat": 48.50710189859064,
+                "long": 16.069462632676597,
+                "name": "Breitenwaida",
+                "id": "8100710"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 35,
+            "startPoint": {
+                "lat": 47.931591878042575,
+                "long": 16.24960425209133,
+                "name": "Leobersdorf Bahnhof (Vorplatz)",
+                "id": "8176001"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 35,
+            "startPoint": {
+                "lat": 47.931591878042575,
+                "long": 16.24960425209133,
+                "name": "Leobersdorf",
+                "id": "8101163"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 62,
+            "startPoint": {
+                "lat": 47.898057539336506,
+                "long": 16.220616457483942,
+                "name": "Sollenau",
+                "id": "8101567"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 62,
+            "startPoint": {
+                "lat": 47.898057539336506,
+                "long": 16.220616457483942,
+                "name": "Sollenau Bahnhst (Feuerwehr)",
+                "id": "8173169"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 34,
+            "startPoint": {
+                "lat": 48.2419253921866,
+                "long": 16.82520730193887,
+                "name": "Schönfeld-Lassee",
+                "id": "8101545"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 20,
+            "startPoint": {
+                "lat": 47.89964513206352,
+                "long": 16.656076770906115,
+                "name": "Donnerskirchen Bundesstraße (Neusiedler Straße)",
+                "id": "8193094"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 19,
+            "startPoint": {
+                "lat": 47.89964513206352,
+                "long": 16.656076770906115,
+                "name": "Donnerskirchen Bundesstraße (Eisenstädter Straße)",
+                "id": "8193021"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 68,
+            "startPoint": {
+                "lat": 47.89964513206352,
+                "long": 16.656076770906115,
+                "name": "Donnerskirchen",
+                "id": "8100219"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 80,
+            "startPoint": {
+                "lat": 48.65681257951028,
+                "long": 16.518327676931982,
+                "name": "Frättingsdorf",
+                "id": "8100808"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 85,
+            "startPoint": {
+                "lat": 48.65681257951028,
+                "long": 16.518327676931982,
+                "name": "Enzersdorf b.Staatz",
+                "id": "8100775"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 29,
+            "startPoint": {
+                "lat": 48.00587838002541,
+                "long": 16.76304309583686,
+                "name": "Bruck/Leitha",
+                "id": "8100198"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 29,
+            "startPoint": {
+                "lat": 48.00587838002541,
+                "long": 16.76304309583686,
+                "name": "Bruck/Leitha Bahnhof (Bahnhofplatz)",
+                "id": "8177055"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 20,
+            "startPoint": {
+                "lat": 48.24019647784367,
+                "long": 16.478643244319446,
+                "name": "Wien Hirschstetten",
+                "id": "8100918"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 59,
+            "startPoint": {
+                "lat": 47.83956219733707,
+                "long": 16.21260856736299,
+                "name": "Wr.Neustadt Nord Bahnhst (Äußere Bahnzeile)",
+                "id": "8184042"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 5,
+            "startPoint": {
+                "lat": 48.34391320268474,
+                "long": 16.72731609319608,
+                "name": "Gänserndorf Bahnhof (Vorplatz Süd)",
+                "id": "8178136"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 49,
+            "startPoint": {
+                "lat": 48.34391320268474,
+                "long": 16.72731609319608,
+                "name": "Gänserndorf",
+                "id": "8100245"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 58,
+            "startPoint": {
+                "lat": 47.71398239241037,
+                "long": 16.012768608537726,
+                "name": "Ternitz Bahnhof (Franz-Dinhobl-Straße)",
+                "id": "8178059"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 58,
+            "startPoint": {
+                "lat": 47.71398239241037,
+                "long": 16.012768608537726,
+                "name": "Ternitz",
+                "id": "8101661"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 61,
+            "startPoint": {
+                "lat": 47.71398239241037,
+                "long": 16.012768608537726,
+                "name": "Pottschach",
+                "id": "8101390"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 62,
+            "startPoint": {
+                "lat": 48.37934120428227,
+                "long": 16.113848105230336,
+                "name": "Hausleiten b.Stockerau",
+                "id": "8100990"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 5,
+            "startPoint": {
+                "lat": 48.37934120428227,
+                "long": 16.113848105230336,
+                "name": "Hausleiten b.Stockerau Bahnhof (Bahnhofstraße)",
+                "id": "8172352"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 10,
+            "startPoint": {
+                "lat": 48.37934120428227,
+                "long": 16.113848105230336,
+                "name": "Hausleiten b.Stockerau F.-W.-Raiffeisenplatz",
+                "id": "8172065"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 48,
+            "startPoint": {
+                "lat": 48.43137572375987,
+                "long": 16.156625230122145,
+                "name": "Sierndorf b.Stockerau",
+                "id": "8101522"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 15,
+            "startPoint": {
+                "lat": 48.11824458094795,
+                "long": 16.569436475408114,
+                "name": "Flughafen Wien",
+                "id": "8100353"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 5,
+            "startPoint": {
+                "lat": 48.29589492315459,
+                "long": 16.378752225129137,
+                "name": "Wien Rußbergstraße",
+                "id": "8121013"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 27,
+            "startPoint": {
+                "lat": 48.29589492315459,
+                "long": 16.378752225129137,
+                "name": "Wien Strebersdorf",
+                "id": "8101588"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 24,
+            "startPoint": {
+                "lat": 48.03419818385839,
+                "long": 16.399472612483834,
+                "name": "Münchendorf",
+                "id": "8100423"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 53,
+            "startPoint": {
+                "lat": 48.41720624684889,
+                "long": 16.48473471886986,
+                "name": "Schleinbach",
+                "id": "8101535"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 50,
+            "startPoint": {
+                "lat": 48.41720624684889,
+                "long": 16.48473471886986,
+                "name": "Ulrichskirchen",
+                "id": "8101697"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 62,
+            "startPoint": {
+                "lat": 48.4717169213836,
+                "long": 16.48554694196371,
+                "name": "Niederkreuzstetten",
+                "id": "8101272"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 32,
+            "startPoint": {
+                "lat": 48.34895959309197,
+                "long": 16.34252688833656,
+                "name": "Korneuburg Bahnhof (Bahnhofplatz)",
+                "id": "8182068"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 32,
+            "startPoint": {
+                "lat": 48.34895959309197,
+                "long": 16.34252688833656,
+                "name": "Korneuburg",
+                "id": "8100293"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 39,
+            "startPoint": {
+                "lat": 48.23746726075845,
+                "long": 16.729863543305594,
+                "name": "Untersiebenbrunn",
+                "id": "8101701"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 39,
+            "startPoint": {
+                "lat": 48.23746726075845,
+                "long": 16.729863543305594,
+                "name": "Untersiebenbrunn Bahnhst (Bahnstraße)",
+                "id": "8178364"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 40,
+            "startPoint": {
+                "lat": 47.892745887247294,
+                "long": 16.27238922209935,
+                "name": "Felixdorf",
+                "id": "8100780"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 62,
+            "startPoint": {
+                "lat": 47.892745887247294,
+                "long": 16.27238922209935,
+                "name": "Sollenau Bahnhst (Feuerwehr)",
+                "id": "8173169"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 40,
+            "startPoint": {
+                "lat": 47.892745887247294,
+                "long": 16.27238922209935,
+                "name": "Felixdorf Bahnhof (Bahnstraße)",
+                "id": "8183092"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 54,
+            "startPoint": {
+                "lat": 47.72586652198742,
+                "long": 16.10854328954267,
+                "name": "Neunkirchen NÖ Bahnhof (Südseite)",
+                "id": "8178462"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 54,
+            "startPoint": {
+                "lat": 47.72586652198742,
+                "long": 16.10854328954267,
+                "name": "Neunkirchen NÖ",
+                "id": "8101277"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 50,
+            "startPoint": {
+                "lat": 48.403025562356575,
+                "long": 16.51414167135965,
+                "name": "Ulrichskirchen",
+                "id": "8101697"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 46,
+            "startPoint": {
+                "lat": 48.103318730917415,
+                "long": 17.098827428395882,
+                "name": "Bratislava-Petrzalka",
+                "id": "5600582"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 46,
+            "startPoint": {
+                "lat": 48.103318730917415,
+                "long": 17.098827428395882,
+                "name": "Bratislava Petrzalka zel.st. (Kopcianska ul.)",
+                "id": "5681768"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 71,
+            "startPoint": {
+                "lat": 48.54351563265945,
+                "long": 16.88319829480462,
+                "name": "Drösing",
+                "id": "8100221"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 33,
+            "startPoint": {
+                "lat": 48.00647573342284,
+                "long": 16.860652018311942,
+                "name": "Parndorf Ort",
+                "id": "8100515"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 33,
+            "startPoint": {
+                "lat": 48.00647573342284,
+                "long": 16.860652018311942,
+                "name": "Parndorf Ort Bahnhst (P+R)",
+                "id": "8187005"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 63,
+            "startPoint": {
+                "lat": 48.39768517396253,
+                "long": 15.969540090126433,
+                "name": "Absdorf-Hippersdorf Bahnhof (Bahnhofstraße)",
+                "id": "8171236"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 63,
+            "startPoint": {
+                "lat": 48.39768517396253,
+                "long": 15.969540090126433,
+                "name": "Absdorf-Hippersdorf",
+                "id": "8100202"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 16,
+            "startPoint": {
+                "lat": 48.020789800816374,
+                "long": 16.925355720423124,
+                "name": "Neudorf b.Parndorf Volksschule",
+                "id": "8187105"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 42,
+            "startPoint": {
+                "lat": 48.020789800816374,
+                "long": 16.925355720423124,
+                "name": "Neudorf b.Parndorf",
+                "id": "8100388"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 53,
+            "startPoint": {
+                "lat": 47.68709588253664,
+                "long": 15.968764945944713,
+                "name": "Gloggnitz",
+                "id": "8100026"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 53,
+            "startPoint": {
+                "lat": 47.68709588253664,
+                "long": 15.968764945944713,
+                "name": "Gloggnitz Bahnhof (Vorplatz)",
+                "id": "8178003"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 76,
+            "startPoint": {
+                "lat": 48.67763924468807,
+                "long": 15.985581551951464,
+                "name": "Platt",
+                "id": "8101367"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 5,
+            "startPoint": {
+                "lat": 48.67763924468807,
+                "long": 15.985581551951464,
+                "name": "Platt b.Zellerndorf Kaffegasse",
+                "id": "8170083"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 9,
+            "startPoint": {
+                "lat": 48.123270570467064,
+                "long": 16.420172391801636,
+                "name": "Kledering Bahnhst (Bahnhofplatz/Eingang)",
+                "id": "8174244"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 9,
+            "startPoint": {
+                "lat": 48.123270570467064,
+                "long": 16.420172391801636,
+                "name": "Kledering b.Wien",
+                "id": "8101051"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 17,
+            "startPoint": {
+                "lat": 47.834777811045036,
+                "long": 16.925996994163157,
+                "name": "Frauenkirchen Kirchenplatz",
+                "id": "8197092"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 66,
+            "startPoint": {
+                "lat": 47.834777811045036,
+                "long": 16.925996994163157,
+                "name": "Frauenkirchen",
+                "id": "8100238"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 5,
+            "startPoint": {
+                "lat": 47.687784822557326,
+                "long": 16.145204699750813,
+                "name": "Seebenstein Aspanger Straße",
+                "id": "8178370"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 64,
+            "startPoint": {
+                "lat": 48.520989651057825,
+                "long": 16.0927229311202,
+                "name": "Breitenwaida",
+                "id": "8100710"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 66,
+            "startPoint": {
+                "lat": 47.833278024704896,
+                "long": 16.518587026566728,
+                "name": "Eisenstadt Bahnhof (Bahnstraße)",
+                "id": "8191019"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 66,
+            "startPoint": {
+                "lat": 47.833278024704896,
+                "long": 16.518587026566728,
+                "name": "Eisenstadt",
+                "id": "8100231"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 71,
+            "startPoint": {
+                "lat": 47.833278024704896,
+                "long": 16.518587026566728,
+                "name": "Eisenstadt Schule",
+                "id": "8100773"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 21,
+            "startPoint": {
+                "lat": 48.269937397110745,
+                "long": 16.463829288946975,
+                "name": "Wien Aderklaaer Straße (U1)",
+                "id": "8170830"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 22,
+            "startPoint": {
+                "lat": 48.269937397110745,
+                "long": 16.463829288946975,
+                "name": "Wien Großfeldsiedlung (U1)",
+                "id": "8170606"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 24,
+            "startPoint": {
+                "lat": 48.269937397110745,
+                "long": 16.463829288946975,
+                "name": "Wien Leopoldau Bahnhst (U1)",
+                "id": "8170129"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 24,
+            "startPoint": {
+                "lat": 47.96909166965363,
+                "long": 16.406543447116082,
+                "name": "Ebreichsdorf",
+                "id": "8100226"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 24,
+            "startPoint": {
+                "lat": 47.96909166965363,
+                "long": 16.406543447116082,
+                "name": "Ebreichsdorf Bahnhof (Busbahnhof)",
+                "id": "8176209"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 41,
+            "startPoint": {
+                "lat": 48.37868956969166,
+                "long": 16.199827885475578,
+                "name": "Stockerau",
+                "id": "8100534"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 41,
+            "startPoint": {
+                "lat": 48.37868956969166,
+                "long": 16.199827885475578,
+                "name": "Stockerau Bahnhof (Bahnhofplatz)",
+                "id": "8172070"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 40,
+            "startPoint": {
+                "lat": 47.88661014175892,
+                "long": 16.249549907102033,
+                "name": "Felixdorf",
+                "id": "8100780"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 40,
+            "startPoint": {
+                "lat": 47.88661014175892,
+                "long": 16.249549907102033,
+                "name": "Felixdorf Bahnhof (Bahnstraße)",
+                "id": "8183092"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 62,
+            "startPoint": {
+                "lat": 47.88661014175892,
+                "long": 16.249549907102033,
+                "name": "Sollenau Bahnhst (Feuerwehr)",
+                "id": "8173169"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 12,
+            "startPoint": {
+                "lat": 48.10949446064402,
+                "long": 16.459983285778954,
+                "name": "Lanzendorf-Rannersdorf Bahnhst (Unt.Hauptstraße)",
+                "id": "8174209"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 12,
+            "startPoint": {
+                "lat": 48.10949446064402,
+                "long": 16.459983285778954,
+                "name": "Lanzendorf-Rannersdorf",
+                "id": "8101173"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 5,
+            "startPoint": {
+                "lat": 48.38137478905352,
+                "long": 16.088782974058905,
+                "name": "Hausleiten b.Stockerau Bahnhof (Bahnhofstraße)",
+                "id": "8172352"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 10,
+            "startPoint": {
+                "lat": 48.38137478905352,
+                "long": 16.088782974058905,
+                "name": "Hausleiten b.Stockerau F.-W.-Raiffeisenplatz",
+                "id": "8172065"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 62,
+            "startPoint": {
+                "lat": 48.38137478905352,
+                "long": 16.088782974058905,
+                "name": "Hausleiten b.Stockerau",
+                "id": "8100990"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 71,
+            "startPoint": {
+                "lat": 48.61918834134718,
+                "long": 16.552709460504232,
+                "name": "Siebenhirten NÖ",
+                "id": "8101523"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 38,
+            "startPoint": {
+                "lat": 47.99287571680817,
+                "long": 16.310273344845818,
+                "name": "Trumau",
+                "id": "8101682"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 14,
+            "startPoint": {
+                "lat": 48.202203049922396,
+                "long": 16.422603818197327,
+                "name": "Wien Erdbergstraße/Schlachthausgasse",
+                "id": "8187859"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 15,
+            "startPoint": {
+                "lat": 48.11204771910765,
+                "long": 16.555401923655406,
+                "name": "Flughafen Wien",
+                "id": "8100353"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 10,
+            "startPoint": {
+                "lat": 47.94989421083182,
+                "long": 16.215927842880593,
+                "name": "Kottingbrunn Friedhof",
+                "id": "8196153"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 55,
+            "startPoint": {
+                "lat": 47.94989421083182,
+                "long": 16.215927842880593,
+                "name": "Kottingbrunn",
+                "id": "8101033"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 15,
+            "startPoint": {
+                "lat": 47.96924416612668,
+                "long": 16.810675861027853,
+                "name": "Jois Eisenstädter Straße",
+                "id": "8197065"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 40,
+            "startPoint": {
+                "lat": 47.96924416612668,
+                "long": 16.810675861027853,
+                "name": "Neusiedl am See",
+                "id": "8100434"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 40,
+            "startPoint": {
+                "lat": 47.96924416612668,
+                "long": 16.810675861027853,
+                "name": "Neusiedl am See Bahnhof (Vorplatz)",
+                "id": "8197008"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 65,
+            "startPoint": {
+                "lat": 48.49328808538778,
+                "long": 16.89473893194194,
+                "name": "Jedenspeigen",
+                "id": "8101012"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 10,
+            "startPoint": {
+                "lat": 48.189641947806514,
+                "long": 16.435910377840667,
+                "name": "Wien Praterkai",
+                "id": "8101539"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 7,
+            "startPoint": {
+                "lat": 48.189641947806514,
+                "long": 16.435910377840667,
+                "name": "Wien Haidestraße",
+                "id": "8100920"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 64,
+            "startPoint": {
+                "lat": 48.50008465079594,
+                "long": 16.061452794217832,
+                "name": "Breitenwaida",
+                "id": "8100710"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 76,
+            "startPoint": {
+                "lat": 48.58710690726324,
+                "long": 16.895234713734073,
+                "name": "Hohenau",
+                "id": "8100130"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 33,
+            "startPoint": {
+                "lat": 48.32001889009807,
+                "long": 16.480679982778135,
+                "name": "Kapellerfeld",
+                "id": "8101020"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 36,
+            "startPoint": {
+                "lat": 48.32001889009807,
+                "long": 16.480679982778135,
+                "name": "Seyring",
+                "id": "8101498"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 33,
+            "startPoint": {
+                "lat": 48.315062400896515,
+                "long": 16.469729699276215,
+                "name": "Kapellerfeld",
+                "id": "8101020"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 62,
+            "startPoint": {
+                "lat": 47.88683520139431,
+                "long": 16.96053437197128,
+                "name": "Mönchhof-Halbturn",
+                "id": "8100484"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 68,
+            "startPoint": {
+                "lat": 48.51326168195034,
+                "long": 16.891834422002297,
+                "name": "Sierndorf an der March",
+                "id": "8101524"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 67,
+            "startPoint": {
+                "lat": 47.72935888407577,
+                "long": 16.543728332742326,
+                "name": "Baumgarten-Schattendorf",
+                "id": "8100216"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 67,
+            "startPoint": {
+                "lat": 47.72935888407577,
+                "long": 16.543728332742326,
+                "name": "Baumgarten-Schattendorf Bahnhof (Vorplatz)",
+                "id": "8176043"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 57,
+            "startPoint": {
+                "lat": 47.88766934684608,
+                "long": 16.908690714962805,
+                "name": "Gols",
+                "id": "8100255"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 48,
+            "startPoint": {
+                "lat": 47.93796205428534,
+                "long": 16.284944446917944,
+                "name": "Teesdorf",
+                "id": "8101656"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 10,
+            "startPoint": {
+                "lat": 48.13550376702448,
+                "long": 16.40817802216049,
+                "name": "Wien Oberlaa (U1)",
+                "id": "8170176"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 31,
+            "startPoint": {
+                "lat": 48.24338346158434,
+                "long": 16.656282415939685,
+                "name": "Glinzendorf",
+                "id": "8100852"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 68,
+            "startPoint": {
+                "lat": 48.51641695221143,
+                "long": 16.868626352654548,
+                "name": "Sierndorf an der March",
+                "id": "8101524"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 41,
+            "startPoint": {
+                "lat": 48.369535697265036,
+                "long": 16.211620306280366,
+                "name": "Stockerau",
+                "id": "8100534"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 41,
+            "startPoint": {
+                "lat": 48.369535697265036,
+                "long": 16.211620306280366,
+                "name": "Stockerau Bahnhof (Bahnhofplatz)",
+                "id": "8172070"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 50,
+            "startPoint": {
+                "lat": 48.40027786551057,
+                "long": 16.47802868439094,
+                "name": "Ulrichskirchen",
+                "id": "8101697"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 19,
+            "startPoint": {
+                "lat": 48.08713149421436,
+                "long": 16.27718194967189,
+                "name": "Mödling Bahnhof (Bahnhofplatz)",
+                "id": "8177183"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 19,
+            "startPoint": {
+                "lat": 48.08713149421436,
+                "long": 16.27718194967189,
+                "name": "Mödling",
+                "id": "8101230"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 71,
+            "startPoint": {
+                "lat": 47.67142988765223,
+                "long": 16.571743119318427,
+                "name": "Sopron",
+                "id": "5501494"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 71,
+            "startPoint": {
+                "lat": 47.67142988765223,
+                "long": 16.571743119318427,
+                "name": "Sopron vasútállomás (állomás utca)",
+                "id": "5581084"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 15,
+            "startPoint": {
+                "lat": 48.09313951407696,
+                "long": 16.46448991601984,
+                "name": "Himberg b.Wien",
+                "id": "8100950"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 15,
+            "startPoint": {
+                "lat": 48.09313951407696,
+                "long": 16.46448991601984,
+                "name": "Himberg b.Wien Bahnhof (Vorplatz)",
+                "id": "8124405"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 61,
+            "startPoint": {
+                "lat": 47.69571899438884,
+                "long": 15.990795613983716,
+                "name": "Pottschach",
+                "id": "8101390"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 61,
+            "startPoint": {
+                "lat": 47.69571899438884,
+                "long": 15.990795613983716,
+                "name": "Pottschach Bahnhof (Putzmannsdorfer Straße)",
+                "id": "8178461"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 80,
+            "startPoint": {
+                "lat": 48.64235163053726,
+                "long": 16.51382126966299,
+                "name": "Frättingsdorf",
+                "id": "8100808"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 15,
+            "startPoint": {
+                "lat": 48.10727509141023,
+                "long": 16.56806196050267,
+                "name": "Flughafen Wien",
+                "id": "8100353"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 65,
+            "startPoint": {
+                "lat": 48.49513695190223,
+                "long": 16.49694844354423,
+                "name": "Neubau-Kreuzstetten",
+                "id": "8101261"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 13,
+            "startPoint": {
+                "lat": 48.13525999887169,
+                "long": 16.347361190745247,
+                "name": "Wien Blumental",
+                "id": "8101003"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 30,
+            "startPoint": {
+                "lat": 47.984017563116886,
+                "long": 16.23441775642302,
+                "name": "Bad Vöslau",
+                "id": "8100708"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 5,
+            "startPoint": {
+                "lat": 47.984017563116886,
+                "long": 16.23441775642302,
+                "name": "Bad Vöslau Bahnhof (Castelligasse)",
+                "id": "8196208"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 16,
+            "startPoint": {
+                "lat": 48.0394636968553,
+                "long": 16.50193688713471,
+                "name": "Gramatneusiedl",
+                "id": "8100369"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 16,
+            "startPoint": {
+                "lat": 48.0394636968553,
+                "long": 16.50193688713471,
+                "name": "Gramatneusiedl Bahnhof (Vorplatz)",
+                "id": "8174162"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 34,
+            "startPoint": {
+                "lat": 48.20703839507534,
+                "long": 15.64601925314655,
+                "name": "St.Pölten Hbf",
+                "id": "8100008"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 34,
+            "startPoint": {
+                "lat": 48.20703839507534,
+                "long": 15.64601925314655,
+                "name": "St.Pölten Hbf (Busterminal)",
+                "id": "8172154"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 48,
+            "startPoint": {
+                "lat": 47.964674592350605,
+                "long": 17.043536623405387,
+                "name": "Zurndorf",
+                "id": "8101829"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 62,
+            "startPoint": {
+                "lat": 48.30778182077663,
+                "long": 16.84563879316896,
+                "name": "Oberweiden",
+                "id": "8101329"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 60,
+            "startPoint": {
+                "lat": 48.485433956640826,
+                "long": 16.132580696676925,
+                "name": "Göllersdorf",
+                "id": "8100827"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 40,
+            "startPoint": {
+                "lat": 48.320586041529275,
+                "long": 16.588504753700253,
+                "name": "Helmahof",
+                "id": "8100928"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 43,
+            "startPoint": {
+                "lat": 48.30385119698314,
+                "long": 16.621669999385393,
+                "name": "Strasshof",
+                "id": "8101595"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 40,
+            "startPoint": {
+                "lat": 48.30385119698314,
+                "long": 16.621669999385393,
+                "name": "Helmahof",
+                "id": "8100928"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 31,
+            "startPoint": {
+                "lat": 48.24720386666351,
+                "long": 16.659832930733597,
+                "name": "Glinzendorf",
+                "id": "8100852"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 40,
+            "startPoint": {
+                "lat": 47.87923976775393,
+                "long": 16.259970695466546,
+                "name": "Felixdorf",
+                "id": "8100780"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 40,
+            "startPoint": {
+                "lat": 47.87923976775393,
+                "long": 16.259970695466546,
+                "name": "Felixdorf Bahnhof (Bahnstraße)",
+                "id": "8183092"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 57,
+            "startPoint": {
+                "lat": 47.89892836541632,
+                "long": 17.141274046982975,
+                "name": "Hegyeshalom",
+                "id": "5500017"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 9,
+            "startPoint": {
+                "lat": 48.221601358476725,
+                "long": 16.392893904561685,
+                "name": "Wien Praterstern Bf (U1)",
+                "id": "8170043"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 9,
+            "startPoint": {
+                "lat": 48.221601358476725,
+                "long": 16.392893904561685,
+                "name": "Wien Praterstern Bf (Ostseite)",
+                "id": "8182018"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 9,
+            "startPoint": {
+                "lat": 48.221601358476725,
+                "long": 16.392893904561685,
+                "name": "Wien Praterstern",
+                "id": "8100349"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 54,
+            "startPoint": {
+                "lat": 47.73046162792814,
+                "long": 16.070137023166875,
+                "name": "Neunkirchen NÖ",
+                "id": "8101277"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 54,
+            "startPoint": {
+                "lat": 47.73046162792814,
+                "long": 16.070137023166875,
+                "name": "Neunkirchen NÖ Bahnhof (Südseite)",
+                "id": "8178462"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 30,
+            "startPoint": {
+                "lat": 47.970413378099984,
+                "long": 16.238642039838247,
+                "name": "Bad Vöslau",
+                "id": "8100708"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 5,
+            "startPoint": {
+                "lat": 47.970413378099984,
+                "long": 16.238642039838247,
+                "name": "Bad Vöslau Bahnhof (Castelligasse)",
+                "id": "8196208"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 70,
+            "startPoint": {
+                "lat": 48.17561243060792,
+                "long": 17.098161535383277,
+                "name": "Bratislava hl.st.",
+                "id": "5600207"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 17,
+            "startPoint": {
+                "lat": 48.12407465215951,
+                "long": 16.271108199707523,
+                "name": "Perchtoldsdorf Bahnhst (Salitergasse)",
+                "id": "8117173"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 17,
+            "startPoint": {
+                "lat": 48.12407465215951,
+                "long": 16.271108199707523,
+                "name": "Perchtoldsdorf",
+                "id": "8101346"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 14,
+            "startPoint": {
+                "lat": 48.12407465215951,
+                "long": 16.271108199707523,
+                "name": "Wien Liesing Bahnhof (Liesinger Platz)",
+                "id": "8123033"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 24,
+            "startPoint": {
+                "lat": 48.03957917712214,
+                "long": 16.41052746261239,
+                "name": "Münchendorf",
+                "id": "8100423"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 51,
+            "startPoint": {
+                "lat": 48.44458266713028,
+                "long": 16.186538020733305,
+                "name": "Höbersdorf",
+                "id": "8100962"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 48,
+            "startPoint": {
+                "lat": 47.96752043312376,
+                "long": 17.005968139735614,
+                "name": "Zurndorf",
+                "id": "8101829"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 73,
+            "startPoint": {
+                "lat": 48.556571741936295,
+                "long": 16.535655744563186,
+                "name": "Paasdorf",
+                "id": "8101336"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 80,
+            "startPoint": {
+                "lat": 48.6418413488891,
+                "long": 16.534914398296223,
+                "name": "Frättingsdorf",
+                "id": "8100808"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 56,
+            "startPoint": {
+                "lat": 47.70276280815937,
+                "long": 16.15174655441293,
+                "name": "Seebenstein",
+                "id": "8100190"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 16,
+            "startPoint": {
+                "lat": 48.024353006371825,
+                "long": 16.913642149658745,
+                "name": "Neudorf b.Parndorf Volksschule",
+                "id": "8187105"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 71,
+            "startPoint": {
+                "lat": 47.844728741019665,
+                "long": 16.646111366063245,
+                "name": "Schützen am Gebirge Haltestelle",
+                "id": "8101617"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 9,
+            "startPoint": {
+                "lat": 47.844728741019665,
+                "long": 16.646111366063245,
+                "name": "Schützen am Gebirge Neusiedler Straße",
+                "id": "8193034"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 14,
+            "startPoint": {
+                "lat": 48.05550101923954,
+                "long": 16.312254700265072,
+                "name": "Hauptstraße/B17 (Triester Straße)",
+                "id": "8117014"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 36,
+            "startPoint": {
+                "lat": 48.05550101923954,
+                "long": 16.312254700265072,
+                "name": "Guntramsdorf Thallern Bahnhst (Vorplatz)",
+                "id": "8177385"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 36,
+            "startPoint": {
+                "lat": 48.05550101923954,
+                "long": 16.312254700265072,
+                "name": "Guntramsdorf-Thallern",
+                "id": "8100846"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 17,
+            "startPoint": {
+                "lat": 47.84645542069614,
+                "long": 16.948856813128423,
+                "name": "Frauenkirchen Kirchenplatz",
+                "id": "8197092"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 40,
+            "startPoint": {
+                "lat": 48.321926700127705,
+                "long": 16.58817963441661,
+                "name": "Helmahof",
+                "id": "8100928"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 5,
+            "startPoint": {
+                "lat": 48.3357969461472,
+                "long": 16.720159261346538,
+                "name": "Gänserndorf Bahnhof (Vorplatz Süd)",
+                "id": "8178136"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        },
+        {
+            "time": 49,
+            "startPoint": {
+                "lat": 48.3357969461472,
+                "long": 16.720159261346538,
+                "name": "Gänserndorf",
+                "id": "8100245"
+            },
+            "endPoint": {
+                "lat": 48.1855,
+                "long": 16.3781,
+                "name": "Wien Hbf",
+                "id": "8103000"
+            }
+        }
+    ]
+
+    .map((ele) => {
+    return {time: ele.time, name: ele.startPoint.id, coords: { long: ele.startPoint.long, lat : ele.startPoint.lat } }
+})
+ }
+
+ console.log(getCities());
+ 

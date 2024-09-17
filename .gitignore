@@ -8,7 +8,13 @@ updateAssets/fetchImmoScout/detailResult.json
 updateAssets/fetchImmoScout/result.json
 updateAssets/fetchImmoScout/lagacy_result.json
 
-static/private/token.js
+
 backup/*
 static/private/token.js
 static/assets/input.json
+static/private/token.js
+
+
+staticNewUI/private/token.js
+staticNewUI/assets/input.json
+staticNewUI/private/token.js

@@ -8,6 +8,8 @@ const app = express()
 
 app.use(cors())
 app.use(express.static('static'));
+app.use('/newUI', express.static('staticNewUI')); 
+
 
 app.listen(port, () => console.log("server is listen on port " + port))
 
