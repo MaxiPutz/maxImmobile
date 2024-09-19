@@ -7,14 +7,14 @@ import {map} from "../mapbox/mapbox.js"
 import { mapId } from '../mapbox/staticNames.js';
 import {reloadWillhabenLayer} from "../mapbox/layer/willhabenLayer.js"
 
-const scrollableContainerStyles = css`
+const scrollableContainerStyles = `
   max-height: 400px;
   overflow-y: auto;
   padding: 10px;
   border: 1px solid #ccc;y
 `;
 
-const itemStyles = css`
+const itemStyles = `
   margin-bottom: 15px;
   padding: 10px;
   background-color: #f9f9f9;
