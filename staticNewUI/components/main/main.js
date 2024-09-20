@@ -46,10 +46,20 @@ class MainView extends LitElement {
 
 
     constructor () {
+
         super()
-        this.isLeftOpen = true
-        this.isRightOpen = true
-        this.isBottomOpen = false
+
+        const isSmartphone = window.matchMedia("(max-width: 768px)").matches;
+
+        if (isSmartphone) {
+            this.isLeftOpen = false;
+            this.isRightOpen = false;
+            this.isBottomOpen = false;
+        } else {
+            this.isLeftOpen = true;
+            this.isRightOpen = true;
+            this.isBottomOpen = false;
+        }
     }
 
     firstUpdated() {

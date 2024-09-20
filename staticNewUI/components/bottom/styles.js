@@ -250,7 +250,7 @@ then set the desired styles for .card-img. */
   z-index: -1;
   top: -16px;
   right: -16px;
-  background: #00838d;
+  background-color: #007bff;
   height: 32px;
   width: 32px;
   border-radius: 32px;
