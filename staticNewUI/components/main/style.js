@@ -87,7 +87,7 @@ export const getFullScreen =  (openInfo)=> {
     }
 
     .btnLeftTop {
-        position: fixed;
+        position: absolute;
         top: 20px;
         left: 20px;
         background-color: white;
@@ -95,7 +95,7 @@ export const getFullScreen =  (openInfo)=> {
     }
 
     .btnRightTop {
-        position: fixed;
+        position: absolute;
         top: 20px;
         right: 20px;
         z-index: 10000;

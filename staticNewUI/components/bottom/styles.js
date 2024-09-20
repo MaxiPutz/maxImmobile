@@ -10,6 +10,7 @@ export const listStyles = css`
 }
 
 #list{
+    justify-items: center;
     overflow-y: auto;
     padding-right: 50px;
     padding-left: 20px;
