@@ -1,5 +1,8 @@
 import { html, css, render, LitElement } from "lit"
-import { getWillhabenFilterJson, willhabenJson } from "../mapbox/inputParser/inputWrapper.js"
+import { getWillhabenFilterJson, willhabenJson } from "../../mapbox/inputParser/inputWrapper.js"
+import { checkBoxStyle, getCheckBoyStyleByScale, teaserStyle } from "./style.js"
+import { checkBoxTemplate } from "./checkBoxTemplate.js"
+import { globaHostStyle } from "../globalStyle.js"
 
 const teaserOptions = {
 
@@ -71,10 +74,8 @@ const setImmoScourtFilter = e => {
 
 const generateTeaserCheckBox = () => {
 
-    return teaserList.map(ele => html`
-        <input type="checkbox" id="${ele}" name="${ele}" @change=${(e)=> setSelectedFilter(e)} >
-        <label for="${ele}"> ${ele}</label>
-    `)
+    return teaserList.map(ele => checkBoxTemplate(ele, setSelectedFilter))
+
 }
 
 
@@ -83,21 +84,7 @@ let filterOption = "OR"
 
 class CheckBoxArea extends LitElement {
     // position: fixed; top: 10px; left: 10px; z-index: 9999; background: rgba(255, 255, 255, 0.8); padding: 10px; border-radius: 5px;
-    static styles = css`
-        .hidden {
-        display: none;
-        }
-
-        .visible {
-        position: absolut;
-        top: 10px;
-        right: 10px;
-        background: white;
-        padding: 10px;
-        border: 1px solid #ccc;
-        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
-        }
-    `;
+    static styles = [teaserStyle, getCheckBoyStyleByScale(0.5), globaHostStyle]
 
     static properties = {
         isVisible: { type: Boolean }
@@ -124,7 +111,7 @@ class CheckBoxArea extends LitElement {
 
     render() {
         return html`
-        <div>
+        <div class="container">
            
            
             <div class="${this.isVisible ? 'visible' : 'hidden'}">
@@ -141,18 +128,22 @@ class CheckBoxArea extends LitElement {
                 <div>
                     ${generateTeaserCheckBox()}
                 </div>
-                <div>
-                    <input type="checkbox" id="genossenshaft" name="genossenshaft" @change=${(e)=> setGenossenschaftFilter(e)} >
-                    <label for="genossenshaft"> genossenshaft</label>
+                <div class="and-area">
+
+                    <div>
+                        <span> And filter Area</span>
+                    </div>
+                    <div>
+                        ${checkBoxTemplate("genossenschaft", setGenossenschaftFilter)}
+                    </div>
+                    <div>
+                        ${checkBoxTemplate("no genossenschaft", setNotGenossenschaftFilter)}
+                    </div>
+                    <div>
+                        ${checkBoxTemplate("immoScout", setImmoScourtFilter)}
+                    </div>
                 </div>
-                <div>
-                    <input type="checkbox" id="notgenossenshaft" name="notgenossenshaft" @change=${(e)=> setNotGenossenschaftFilter(e)} >
-                    <label for="notgenossenshaft"> notgenossenshaft</label>
-                </div>
-                <div>
-                    <input type="checkbox" id="immoScout" name="immoScout" @change=${(e)=> setImmoScourtFilter(e)} >
-                    <label for="immoScout"> immoScout</label>
-                </div>
+                
             </div>
           
         </div>`
@@ -162,7 +153,7 @@ class CheckBoxArea extends LitElement {
 customElements.define('check-box-area', CheckBoxArea);
 
 /**
- * @param {import("../mapbox/inputParser/inputWrapper.js").WillhabenJson[]} obj
+ * @param {import("../../mapbox/inputParser/inputWrapper.js").WillhabenJson[]} obj
  */
 export const applyCheckBoxFilter  = (obj) => {
 
@@ -191,7 +182,7 @@ export const applyCheckBoxFilter  = (obj) => {
 }
 
 /**
- * @param {import("../mapbox/inputParser/inputWrapper.js").WillhabenJson[]} obj
+ * @param {import("../../mapbox/inputParser/inputWrapper.js").WillhabenJson[]} obj
  */
 function andFilter(obj) {
     const filterList = Object.entries(selectedFilter).filter(([key, val]) => val).map(([key, val]) => key)
@@ -208,7 +199,7 @@ function andFilter(obj) {
 }
 
 /**
- * @param {import("../mapbox/inputParser/inputWrapper.js").WillhabenJson[]} obj
+ * @param {import("../../mapbox/inputParser/inputWrapper.js").WillhabenJson[]} obj
  */
 function orFilter(obj) {
     const filterList = Object.entries(selectedFilter).filter(([key, val]) => val).map(([key, val]) => key)

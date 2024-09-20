@@ -8,6 +8,32 @@ import {map} from "../mapbox/mapboxComponent.js"
 import { mapId } from '../mapbox/staticNames.js';
 import {reloadWillhabenLayer} from "../mapbox/layer/willhabenLayer.js"
 
+
+let minPrice = -1;
+let maxPrice = 999999999;
+let minM2 = -1;
+let maxM2 = 999999;
+
+
+let isListOpen = false
+
+/**
+ * @param {import("./bottom/BottomComponent.js").filterParam} filterParam
+ */
+let dispatchFilter = (filterParam) => undefined
+
+/**
+ * @param {boolean} info
+ */
+export const setIsListOpen = (info) => {
+  isListOpen  = info
+}
+
+
+export const setDispatchFilter = (injectDisptachFilter) => {
+  dispatchFilter = injectDisptachFilter
+}
+
 const scrollableContainerStyles = `
   max-height: 400px;
   overflow-y: auto;
@@ -41,15 +67,24 @@ const onInputChange = (e) => {
       maxM2 = value;
     }
 
+    /**
+     * @type {import("./bottom/BottomComponent.js").filterParam}
+     */
+    const obj = {
+      minPrice : minPrice === "" ? 0 : parseFloat(minPrice),
+      maxPrice,
+      minM2,
+      maxM2
+    }
+
+    
+    dispatchFilter(obj)
+
     renderDivs()
     render(menuComponent(), document.querySelector('#app-menu'));
   };
 
 
-let minPrice = -1;
-let maxPrice = 999999999;
-let minM2 = -1;
-let maxM2 = 999999;
 
 
 export const renderDivs = () => {
@@ -132,13 +167,3 @@ const menuComponent = () => {
   `;
 };
 
-
-render(renderDivs(), document.querySelector("#list"))
-render(menuComponent(), document.querySelector("#app-menu"));
-
-
-export const customRender = () => {
-  render(menuComponent(), document.querySelector("#app-menu"));
-  render(renderDivs(), document.querySelector("#list"))
-
-}

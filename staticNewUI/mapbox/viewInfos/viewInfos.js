@@ -1,7 +1,38 @@
 import { map } from "../mapboxComponent.js";
 //import { map } from "../mapbox.js";
 
+
+/**
+ * @typedef {Object} Coords
+ * @property {number} lat
+ * @property {number} lng
+ */
+
+/**
+ * @typedef {Object} Boundary
+ * @property {Coords} bottomLeft
+ * @property {Coords} topLeft 
+ * @property {Coords} bottomRight 
+ * @property {Coords} topRight 
+ *  
+ */
+
 let customHeaderRender = undefined
+
+/**
+ * 
+ * @param {Boundary} boundary 
+ * @returns 
+ */
+let dispatchBoundaryParam = (boundary) => undefined
+
+/**
+ * 
+ * @param {function (Boundary) } injectDisptachBoundaryParam 
+ */
+export function setDispatchBoundaryParam(injectDisptachBoundaryParam)  {
+    dispatchBoundaryParam = injectDisptachBoundaryParam
+}
 
 export const setCustomHeaderRender = (render) => {
     customHeaderRender=  render
@@ -96,6 +127,8 @@ export const  setViewCoords = () =>  {
     }
     console.log("souchwest", viewCoords)
 
+
+    dispatchBoundaryParam(viewCoords)
     if (customRender !== undefined) {
         customRender()
     }

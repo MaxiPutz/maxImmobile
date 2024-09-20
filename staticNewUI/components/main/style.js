@@ -2,28 +2,31 @@ import { css } from "lit"
 
 const girdClass = css`
 
+    :host {
+    }
+
     .grid-class {
             display: grid;
     }
 
     .a {
         grid-area: a;
-        background-color: blue;
     }   
 
     .b {
         grid-area: b;
-        background-color: gray;
+        background-color: white;
     }
      
     .c {
         grid-area: c;
-        background-color: yellow;
+        background-color: white;
     }
 
     .d {
         grid-area: d;
-        background-color: green;
+        background-color: white;
+        padding-right: 100px
     }
 
     div {
@@ -69,6 +72,7 @@ export const getFullScreen =  (openInfo)=> {
         position: fixed;
         transition: 0.3s;
         width: 1fr;
+        z-index: -1;
  
     }
 
@@ -79,18 +83,24 @@ export const getFullScreen =  (openInfo)=> {
     .right {
         right: 0px;
         transform: translateX(100%);
+        z-index: -2;
     }
 
     .btnLeftTop {
         position: fixed;
         top: 20px;
-        left: 20px
+        left: 20px;
+        background-color: white;
+        z-index: 10000;
     }
 
     .btnRightTop {
         position: fixed;
         top: 20px;
-        right: 20px
+        right: 20px;
+        z-index: 10000;
+        background-color: white;
+
     }
 `
 }

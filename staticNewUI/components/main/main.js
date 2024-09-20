@@ -1,5 +1,9 @@
-import { LitElement, html } from "lit";
+import { LitElement, css, html } from "lit";
 import { getFullScreen } from "./style.js"
+import { leftButton } from "./leftButton.js";
+import { rightButton } from "./rightButton.js";
+import { upDownArrow } from "./svg.js";
+import { globaHostStyle } from "../globalStyle.js";
 
 let i = 0 
 
@@ -7,14 +11,30 @@ let mainHeight = 100
 let mainWidth = 100
 
 let dispatchSlotSize = (info) => undefined
+let dispatchIsBottomListOpen = (event) => undefined
+
 
 export function setDispatchSlotSize (injectDispatchSlotSize) {
     dispatchSlotSize = injectDispatchSlotSize
 }
 
+export function setDispatchIsBottomListOpen (injectDispatchIsButtomListOpen) {
+    dispatchIsBottomListOpen = injectDispatchIsButtomListOpen
+}
+
+const bottomStyles = css`
+        .bottom {
+            margin:20px;
+            width: 95%;
+        }
+        `
 
 class MainView extends LitElement {
 
+    static styles = [
+        bottomStyles,
+        globaHostStyle
+    ]
 
     static get properties () {
         return {
@@ -70,6 +90,7 @@ class MainView extends LitElement {
         }
         if (e==="bottom") {
             this.isBottomOpen = ! this.isBottomOpen
+            dispatchIsBottomListOpen(this.isBottomOpen)
         }
         this.requestUpdate()
 
@@ -109,10 +130,29 @@ class MainView extends LitElement {
 
         <div class="grid-class fullscreen">
 
-            <button class="btnLeftTop" @click=${() => this.switchMenu("left")}> switch Left Menu</button>
-            
-            <button class="btnRightTop" @click=${() => this.switchMenu("right") }> switch right Menu</button>
 
+            <button class="btnLeftTop"> 
+                ${leftButton(() => {
+                    this.switchMenu("left")
+                    console.log("from the left button");
+                    
+                } 
+                )}
+            </button>
+
+            <!--<div class="btnLeftTop"> ${leftButton(() => this.switchMenu("left"))}</div>-->
+
+            
+            <!--<button class="btnRightTop" @click=${() => this.switchMenu("right") }> switch right Menu</button>-->
+            <button class="btnRightTop" >        
+            ${rightButton(() => {
+                    this.switchMenu("right")
+                    console.log("from the left button");
+                    
+                } 
+                )}
+           
+            </button>
 
             <div class="a ${this.isLeftOpen ? "": "hide left"}">
             <slot name="left-menu"></slot> 
@@ -125,9 +165,8 @@ class MainView extends LitElement {
             </div>
 
             <div class="d">
-            <button style="width:100%"  @click=${() => this.switchMenu("bottom") }> view List</button>
-                    <slot name="list-content"></slot> 
-                 
+            <button style="width:100%; background-color:rgb(255,255,255);"  @click=${() => this.switchMenu("bottom") }> ${upDownArrow} </button>
+                    <slot class="bottom" name="list-content"></slot> 
             </div>
         </div>
         `

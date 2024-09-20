@@ -85,9 +85,10 @@ const menuComponent = () => {
 }
 
 
-
+/** 
 render(menuComponent(), document.querySelector("#header"))
 
 export const customHeaderRender = () => {
     render(menuComponent(), document.querySelector("#header"))
 }
+    */

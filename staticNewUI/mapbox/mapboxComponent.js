@@ -40,6 +40,12 @@ export let dispatchSlotSize = (calback) => {
 
 class MapBox extends LitElement {
 
+    static styles = css`
+    :host{
+        height: 90vh;
+    }`
+
+
     constructor() {
         super();
         this.accessToken = mapboxglAccessToken; // Set your Mapbox token here or pass it as a property
@@ -57,8 +63,12 @@ class MapBox extends LitElement {
 
         myReload = () => {
             console.log("will it works");
-            this.map.resize()
             this.requestUpdate();
+
+            setTimeout(() => {
+                this.map.resize()
+            }, 1000);
+
         }
     
         mapboxgl.accessToken = this.accessToken;
@@ -106,18 +116,9 @@ class MapBox extends LitElement {
         });
 
 
-        
-        //setInterval(()=> this.map.resize(), 5000)
-
-        console.log("dere oidsa");
 
 
-        setInterval(()=> {
-            this.map.resize()
-            this.requestUpdate();
-            console.log("should be rerender");
-            
-        }, 3000)
+      
     }
 
     render () {

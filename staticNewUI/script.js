@@ -1,32 +1,19 @@
-import { setCustomRenderForTeaserFilterMenu } from "./components/teaserFilterMenu.js"
-//import { map } from "./mapbox/mapbox.js";
-import { getIsochrone } from "./mapbox/logic.js";
-import { setCustomHeaderRender, setCustomRender, setMarkCoords } from "./mapbox/viewInfos/viewInfos.js";
-import {customRender} from "./components/app.js"
-import {customHeaderRender} from "./components/header.js"
+import { setDispatchFilter } from "./components/leftMenu/LeftMenuComponent.js";
 import {} from "./mapHidingScript.js"
 import {dispatchSlotSize, map} from "./mapbox/mapboxComponent.js"
 import  "./components/main/main.js"
-import { setDispatchSlotSize } from "./components/main/main.js";
+import  "./components/bottom/BottomComponent.js"
+import "./components/leftMenu/LeftMenuComponent.js"
+import { setDispatchIsBottomListOpen, setDispatchSlotSize } from "./components/main/main.js";
+import { dispatchBoundaryParam, dispatchFilterParam, dispatchIsButtomListOpen, reloadBottomList } from "./components/bottom/BottomComponent.js";
+import { setDispatchBoundaryParam } from "./mapbox/viewInfos/viewInfos.js";
+import { setCustomRenderForTeaserFilterMenu } from "./components/rightMenu/teaserFilterMenu.js";
 
-const defaultLat = 48.2082
-const defaultLng = 16.3738
 
-setCustomRender(customRender)
-setCustomHeaderRender(customHeaderRender)
-setCustomRenderForTeaserFilterMenu(customRender)
+
 setDispatchSlotSize(dispatchSlotSize)
-
-
-
-
-
-
-
-document.getElementById('getIsochrone').addEventListener('click', () => {
-    const minutes = document.getElementById('minutes').value;
-    const profile = document.getElementById('profile').value;
-    const { lng, lat } = marker.getLngLat();
-    getIsochrone(map, lng, lat, minutes, profile);
-});
+setDispatchIsBottomListOpen(dispatchIsButtomListOpen)
+setDispatchFilter(dispatchFilterParam)
+setDispatchBoundaryParam(dispatchBoundaryParam)
+setCustomRenderForTeaserFilterMenu(reloadBottomList)
 
