@@ -1,8 +1,7 @@
 #!/bin/bash
-
 # Set the base directory to ensure paths are correct
 
-
+echo "cron job starts"
 # Navigate to the first directory
 cd "./updateAssets/fetchWillhabenImmo/"
 

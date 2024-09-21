@@ -7542,4 +7542,1468 @@ no child and no teaser
     "upsellingOrganisationLogo": "https://cache.willhaben.at/mmo/logo/adSearchResult/19026547/wertimmobilien_logo_15946125584665783512_13146695655794834453_medium.png",
     "teaserAttributes": [],
     "children": null
+}no child and no teaser
+{
+    "id": "581354868",
+    "verticalId": 2,
+    "adTypeId": 16,
+    "productId": 270,
+    "advertStatus": {
+        "id": "active",
+        "description": "aktiv",
+        "statusId": 50
+    },
+    "description": "ERSTBEZUGSWOHNUNGEN MIT FREIFLÄCHE IN OPTIMALER LAGE NAHE SCS UND BADNER BAHN",
+    "attributes": {
+        "attribute": [
+            {
+                "name": "LOCATION",
+                "values": [
+                    "Wiener Neudorf"
+                ]
+            },
+            {
+                "name": "POSTCODE",
+                "values": [
+                    "2351"
+                ]
+            },
+            {
+                "name": "STATE",
+                "values": [
+                    "Niederösterreich"
+                ]
+            },
+            {
+                "name": "BODY_DYN",
+                "values": [
+                    "Schillerstraße 2351 Wiener Neudorf - nahe SCS und WLB-Station   Informationen zum Objekt  Im soeben fertiggestellten Wohnprojekte wurden soeben 53 Wohneinheiten und 2 Büros errichtet.  Die attraktive Wohnanlage gliedert sich in 2 Baukörper mit darunter..."
+                ]
+            },
+            {
+                "name": "ORGNAME",
+                "values": [
+                    "DECUS Immobilien GmbH"
+                ]
+            },
+            {
+                "name": "ORG_UUID",
+                "values": [
+                    "a691edf9-f379-49d6-a7c4-c82a3667e9e5"
+                ]
+            },
+            {
+                "name": "DISTRICT",
+                "values": [
+                    "Mödling"
+                ]
+            },
+            {
+                "name": "HEADING",
+                "values": [
+                    "ERSTBEZUGSWOHNUNGEN MIT FREIFLÄCHE IN OPTIMALER LAGE NAHE SCS UND BADNER BAHN"
+                ]
+            },
+            {
+                "name": "LOCATION_QUALITY",
+                "values": [
+                    "1.0"
+                ]
+            },
+            {
+                "name": "PUBLISHED",
+                "values": [
+                    "1726626120000"
+                ]
+            },
+            {
+                "name": "COUNTRY",
+                "values": [
+                    "Österreich"
+                ]
+            },
+            {
+                "name": "LOCATION_ID",
+                "values": [
+                    "105168"
+                ]
+            },
+            {
+                "name": "NUMBER_OF_ROOMS",
+                "values": [
+                    "0"
+                ]
+            },
+            {
+                "name": "ADTYPE_ID",
+                "values": [
+                    "16"
+                ]
+            },
+            {
+                "name": "ADID",
+                "values": [
+                    "581354868"
+                ]
+            },
+            {
+                "name": "ORGID",
+                "values": [
+                    "26861442"
+                ]
+            },
+            {
+                "name": "SEO_URL",
+                "values": [
+                    "immobilien/d/neubauprojekt/niederoesterreich/moedling/erstbezugswohnungen-mit-freiflaeche-in-optimaler-lage-nahe-scs-und-badner-bahn-581354868/"
+                ]
+            },
+            {
+                "name": "ALL_IMAGE_URLS",
+                "values": [
+                    "8/581/354/868_-765931497.jpg;8/581/354/868_-1916609441.jpg;8/581/354/868_-3345994.jpg;8/581/354/868_1399319113.jpg;8/581/354/868_947704762.jpg;8/581/354/868_1307239037.jpg;8/581/354/868_-202188434.jpg;8/581/354/868_843243659.jpg;8/581/354/868_1893260167.jpg"
+                ]
+            },
+            {
+                "name": "PUBLISHED_String",
+                "values": [
+                    "2024-09-18T04:22:00Z"
+                ]
+            },
+            {
+                "name": "UPSELLING_AD_SEARCHRESULT",
+                "values": [
+                    "true"
+                ]
+            },
+            {
+                "name": "categorytreeids",
+                "values": [
+                    "5008881"
+                ]
+            },
+            {
+                "name": "PROJECT/UNIT_RENT_FROM",
+                "values": [
+                    "841.08"
+                ]
+            },
+            {
+                "name": "ADVERTISER_REF",
+                "values": [
+                    "554813"
+                ]
+            },
+            {
+                "name": "PRODUCT_ID",
+                "values": [
+                    "270"
+                ]
+            },
+            {
+                "name": "IS_BUMPED",
+                "values": [
+                    "1"
+                ]
+            },
+            {
+                "name": "MMO",
+                "values": [
+                    "8/581/354/868_-765931497.jpg"
+                ]
+            },
+            {
+                "name": "AD_UUID",
+                "values": [
+                    "84ce9236-ff35-4e9f-a700-a6ca8aa3da02"
+                ]
+            },
+            {
+                "name": "ADDRESS",
+                "values": [
+                    "Schillerstraße"
+                ]
+            },
+            {
+                "name": "AD_SEARCHRESULT_LOGO",
+                "values": [
+                    "adSearchResult/26861442/logo_aktuell_decus_3402687950051786318.png"
+                ]
+            },
+            {
+                "name": "COORDINATES",
+                "values": [
+                    "48.0816,16.31117"
+                ]
+            },
+            {
+                "name": "PRICE",
+                "values": [
+                    "841.08"
+                ]
+            },
+            {
+                "name": "PRICE_FOR_DISPLAY",
+                "values": [
+                    "ab € 841,08"
+                ]
+            },
+            {
+                "name": "ISPRIVATE",
+                "values": [
+                    "0"
+                ]
+            },
+            {
+                "name": "UNIT_TITLE",
+                "values": [
+                    "554813"
+                ]
+            }
+        ]
+    },
+    "advertImageList": {
+        "advertImage": [
+            {
+                "id": 1,
+                "name": "8/581/354/868_-765931497.jpg",
+                "selfLink": "https://api.willhaben.at/restapi/v2/atimage/581354868/1",
+                "description": "Cover Image",
+                "mainImageUrl": "https://cache.willhaben.at/mmo/8/581/354/868_-765931497_hoved.jpg",
+                "thumbnailImageUrl": "https://cache.willhaben.at/mmo/8/581/354/868_-765931497_thumb.jpg",
+                "referenceImageUrl": "https://cache.willhaben.at/mmo/8/581/354/868_-765931497.jpg",
+                "similarImageSearchUrl": null,
+                "reference": "8/581/354/868_-765931497.jpg"
+            },
+            {
+                "id": 1,
+                "name": "8/581/354/868_-1916609441.jpg",
+                "selfLink": "https://api.willhaben.at/restapi/v2/atimage/581354868/1",
+                "description": "Cover Image",
+                "mainImageUrl": "https://cache.willhaben.at/mmo/8/581/354/868_-1916609441_hoved.jpg",
+                "thumbnailImageUrl": "https://cache.willhaben.at/mmo/8/581/354/868_-1916609441_thumb.jpg",
+                "referenceImageUrl": "https://cache.willhaben.at/mmo/8/581/354/868_-1916609441.jpg",
+                "similarImageSearchUrl": null,
+                "reference": "8/581/354/868_-1916609441.jpg"
+            },
+            {
+                "id": 1,
+                "name": "8/581/354/868_-3345994.jpg",
+                "selfLink": "https://api.willhaben.at/restapi/v2/atimage/581354868/1",
+                "description": "Cover Image",
+                "mainImageUrl": "https://cache.willhaben.at/mmo/8/581/354/868_-3345994_hoved.jpg",
+                "thumbnailImageUrl": "https://cache.willhaben.at/mmo/8/581/354/868_-3345994_thumb.jpg",
+                "referenceImageUrl": "https://cache.willhaben.at/mmo/8/581/354/868_-3345994.jpg",
+                "similarImageSearchUrl": null,
+                "reference": "8/581/354/868_-3345994.jpg"
+            }
+        ],
+        "floorPlans": []
+    },
+    "selfLink": "https://api.willhaben.at/restapi/v2/atverz/581354868",
+    "contextLinkList": {
+        "contextLink": [
+            {
+                "id": "selfLink",
+                "description": "Identifies this entity",
+                "uri": "https://api.willhaben.at/restapi/v2/atverz/581354868",
+                "selected": false,
+                "relativePath": "/atverz/581354868",
+                "serviceName": "iad"
+            },
+            {
+                "id": "seoSelfLink",
+                "description": "Self reference",
+                "uri": "https://api.willhaben.at/restapi/v2/atverz/immobilien/d/mietwohnungen/niederoesterreich/moedling/erstbezugswohnungen-mit-freiflaeche-in-optimaler-lage-nahe-scs-und-badner-bahn-581354868/",
+                "selected": false,
+                "relativePath": "/atverz/immobilien/d/mietwohnungen/niederoesterreich/moedling/erstbezugswohnungen-mit-freiflaeche-in-optimaler-lage-nahe-scs-und-badner-bahn-581354868/",
+                "serviceName": "iad"
+            },
+            {
+                "id": "adDetailLink",
+                "description": "Self reference to advert via ad detail component",
+                "uri": "https://publicapi.willhaben.at/atdetail/v1/581354868",
+                "selected": false,
+                "relativePath": "/581354868",
+                "serviceName": "addetail"
+            },
+            {
+                "id": "removeAdFromFolder",
+                "description": "Remove ad from any folder",
+                "uri": "https://api.willhaben.at/restapi/v2/userfolders/remove/581354868",
+                "selected": false,
+                "relativePath": "/userfolders/remove/581354868",
+                "serviceName": "iad"
+            },
+            {
+                "id": "getFolderSaveLinks",
+                "description": "Get contextlinks to save the ad in the users folders",
+                "uri": "https://api.willhaben.at/restapi/v2/userfolders/links/581354868",
+                "selected": false,
+                "relativePath": "/userfolders/links/581354868",
+                "serviceName": "iad"
+            },
+            {
+                "id": "iadShareLink",
+                "description": "Share link in iAd",
+                "uri": "https://www.willhaben.at/iad/object?adId=581354868",
+                "selected": false,
+                "relativePath": "/iad/object?adId=581354868",
+                "serviceName": "web_url"
+            }
+        ]
+    },
+    "advertiserInfo": {
+        "label": "DECUS Immobilien GmbH",
+        "iconSVG": null,
+        "iconPNG": null,
+        "iconType": "NONE"
+    },
+    "upsellingOrganisationLogo": "https://cache.willhaben.at/mmo/logo/adSearchResult/26861442/logo_aktuell_decus_3402687950051786318_medium.png",
+    "teaserAttributes": [],
+    "children": null
+}no child and no teaser
+{
+    "id": "1795249514",
+    "verticalId": 2,
+    "adTypeId": 16,
+    "productId": 270,
+    "advertStatus": {
+        "id": "active",
+        "description": "aktiv",
+        "statusId": 50
+    },
+    "description": "Erstbezug nach Sanierung",
+    "attributes": {
+        "attribute": [
+            {
+                "name": "LOCATION",
+                "values": [
+                    "Laa an der Thaya"
+                ]
+            },
+            {
+                "name": "POSTCODE",
+                "values": [
+                    "2136"
+                ]
+            },
+            {
+                "name": "STATE",
+                "values": [
+                    "Niederösterreich"
+                ]
+            },
+            {
+                "name": "BODY_DYN",
+                "values": [
+                    "Zum Projekt In der Hauptstraße in Laa an der Thaya,   wird das gesamte Wohnobjekt komplett saniert und voraussichtlich bis Herbst 2024  fertiggestellt.   Das Gebäude umfasst 27 Wohnungen  in der Größe von 31 m² bis 101 m², mit 1 - 5 Zimmern, auf zwei..."
+                ]
+            },
+            {
+                "name": "ORGNAME",
+                "values": [
+                    "Wertimmobilien Consulting KG"
+                ]
+            },
+            {
+                "name": "ORG_UUID",
+                "values": [
+                    "10880ae3-77a5-41b9-af4f-c82a3667e9e5"
+                ]
+            },
+            {
+                "name": "DISTRICT",
+                "values": [
+                    "Mistelbach"
+                ]
+            },
+            {
+                "name": "HEADING",
+                "values": [
+                    "Erstbezug nach Sanierung"
+                ]
+            },
+            {
+                "name": "LOCATION_QUALITY",
+                "values": [
+                    "1.0"
+                ]
+            },
+            {
+                "name": "PUBLISHED",
+                "values": [
+                    "1726241040000"
+                ]
+            },
+            {
+                "name": "COUNTRY",
+                "values": [
+                    "Österreich"
+                ]
+            },
+            {
+                "name": "LOCATION_ID",
+                "values": [
+                    "105068"
+                ]
+            },
+            {
+                "name": "NUMBER_OF_ROOMS",
+                "values": [
+                    "0"
+                ]
+            },
+            {
+                "name": "ADTYPE_ID",
+                "values": [
+                    "16"
+                ]
+            },
+            {
+                "name": "ADID",
+                "values": [
+                    "1795249514"
+                ]
+            },
+            {
+                "name": "ORGID",
+                "values": [
+                    "19026547"
+                ]
+            },
+            {
+                "name": "SEO_URL",
+                "values": [
+                    "immobilien/d/neubauprojekt/niederoesterreich/mistelbach/erstbezug-nach-sanierung-1795249514/"
+                ]
+            },
+            {
+                "name": "ALL_IMAGE_URLS",
+                "values": [
+                    "4/179/524/9514_1880808376.jpg"
+                ]
+            },
+            {
+                "name": "PUBLISHED_String",
+                "values": [
+                    "2024-09-13T17:24:00Z"
+                ]
+            },
+            {
+                "name": "UPSELLING_AD_SEARCHRESULT",
+                "values": [
+                    "true"
+                ]
+            },
+            {
+                "name": "categorytreeids",
+                "values": [
+                    "5008881"
+                ]
+            },
+            {
+                "name": "PROJECT/UNIT_RENT_FROM",
+                "values": [
+                    "809.19"
+                ]
+            },
+            {
+                "name": "ADVERTISER_REF",
+                "values": [
+                    "24217"
+                ]
+            },
+            {
+                "name": "PRODUCT_ID",
+                "values": [
+                    "270"
+                ]
+            },
+            {
+                "name": "MMO",
+                "values": [
+                    "4/179/524/9514_1880808376.jpg"
+                ]
+            },
+            {
+                "name": "AD_UUID",
+                "values": [
+                    "f82a815b-cd7c-4a33-a0fd-a6ca8aa3da02"
+                ]
+            },
+            {
+                "name": "AD_SEARCHRESULT_LOGO",
+                "values": [
+                    "adSearchResult/19026547/wertimmobilien_logo_15946125584665783512_13146695655794834453.png"
+                ]
+            },
+            {
+                "name": "COORDINATES",
+                "values": [
+                    "48.72628492,16.38361784"
+                ]
+            },
+            {
+                "name": "PRICE",
+                "values": [
+                    "809.19"
+                ]
+            },
+            {
+                "name": "PRICE_FOR_DISPLAY",
+                "values": [
+                    "ab € 809,19"
+                ]
+            },
+            {
+                "name": "ISPRIVATE",
+                "values": [
+                    "0"
+                ]
+            },
+            {
+                "name": "UNIT_TITLE",
+                "values": [
+                    "24217"
+                ]
+            }
+        ]
+    },
+    "advertImageList": {
+        "advertImage": [
+            {
+                "id": 1,
+                "name": "4/179/524/9514_1880808376.jpg",
+                "selfLink": "https://api.willhaben.at/restapi/v2/atimage/1795249514/1",
+                "description": "Cover Image",
+                "mainImageUrl": "https://cache.willhaben.at/mmo/4/179/524/9514_1880808376_hoved.jpg",
+                "thumbnailImageUrl": "https://cache.willhaben.at/mmo/4/179/524/9514_1880808376_thumb.jpg",
+                "referenceImageUrl": "https://cache.willhaben.at/mmo/4/179/524/9514_1880808376.jpg",
+                "similarImageSearchUrl": null,
+                "reference": "4/179/524/9514_1880808376.jpg"
+            }
+        ],
+        "floorPlans": []
+    },
+    "selfLink": "https://api.willhaben.at/restapi/v2/atverz/1795249514",
+    "contextLinkList": {
+        "contextLink": [
+            {
+                "id": "selfLink",
+                "description": "Identifies this entity",
+                "uri": "https://api.willhaben.at/restapi/v2/atverz/1795249514",
+                "selected": false,
+                "relativePath": "/atverz/1795249514",
+                "serviceName": "iad"
+            },
+            {
+                "id": "seoSelfLink",
+                "description": "Self reference",
+                "uri": "https://api.willhaben.at/restapi/v2/atverz/immobilien/d/mietwohnungen/niederoesterreich/mistelbach/erstbezug-nach-sanierung-1795249514/",
+                "selected": false,
+                "relativePath": "/atverz/immobilien/d/mietwohnungen/niederoesterreich/mistelbach/erstbezug-nach-sanierung-1795249514/",
+                "serviceName": "iad"
+            },
+            {
+                "id": "adDetailLink",
+                "description": "Self reference to advert via ad detail component",
+                "uri": "https://publicapi.willhaben.at/atdetail/v1/1795249514",
+                "selected": false,
+                "relativePath": "/1795249514",
+                "serviceName": "addetail"
+            },
+            {
+                "id": "removeAdFromFolder",
+                "description": "Remove ad from any folder",
+                "uri": "https://api.willhaben.at/restapi/v2/userfolders/remove/1795249514",
+                "selected": false,
+                "relativePath": "/userfolders/remove/1795249514",
+                "serviceName": "iad"
+            },
+            {
+                "id": "getFolderSaveLinks",
+                "description": "Get contextlinks to save the ad in the users folders",
+                "uri": "https://api.willhaben.at/restapi/v2/userfolders/links/1795249514",
+                "selected": false,
+                "relativePath": "/userfolders/links/1795249514",
+                "serviceName": "iad"
+            },
+            {
+                "id": "iadShareLink",
+                "description": "Share link in iAd",
+                "uri": "https://www.willhaben.at/iad/object?adId=1795249514",
+                "selected": false,
+                "relativePath": "/iad/object?adId=1795249514",
+                "serviceName": "web_url"
+            }
+        ]
+    },
+    "advertiserInfo": {
+        "label": "Wertimmobilien Consulting KG",
+        "iconSVG": null,
+        "iconPNG": null,
+        "iconType": "NONE"
+    },
+    "upsellingOrganisationLogo": "https://cache.willhaben.at/mmo/logo/adSearchResult/19026547/wertimmobilien_logo_15946125584665783512_13146695655794834453_medium.png",
+    "teaserAttributes": [],
+    "children": null
+}no child and no teaser
+{
+    "id": "1795249514",
+    "verticalId": 2,
+    "adTypeId": 16,
+    "productId": 270,
+    "advertStatus": {
+        "id": "active",
+        "description": "aktiv",
+        "statusId": 50
+    },
+    "description": "Erstbezug nach Sanierung",
+    "attributes": {
+        "attribute": [
+            {
+                "name": "LOCATION",
+                "values": [
+                    "Laa an der Thaya"
+                ]
+            },
+            {
+                "name": "POSTCODE",
+                "values": [
+                    "2136"
+                ]
+            },
+            {
+                "name": "STATE",
+                "values": [
+                    "Niederösterreich"
+                ]
+            },
+            {
+                "name": "BODY_DYN",
+                "values": [
+                    "Zum Projekt In der Hauptstraße in Laa an der Thaya,   wird das gesamte Wohnobjekt komplett saniert und voraussichtlich bis Herbst 2024  fertiggestellt.   Das Gebäude umfasst 27 Wohnungen  in der Größe von 31 m² bis 101 m², mit 1 - 5 Zimmern, auf zwei..."
+                ]
+            },
+            {
+                "name": "ORGNAME",
+                "values": [
+                    "Wertimmobilien Consulting KG"
+                ]
+            },
+            {
+                "name": "ORG_UUID",
+                "values": [
+                    "10880ae3-77a5-41b9-af4f-c82a3667e9e5"
+                ]
+            },
+            {
+                "name": "DISTRICT",
+                "values": [
+                    "Mistelbach"
+                ]
+            },
+            {
+                "name": "HEADING",
+                "values": [
+                    "Erstbezug nach Sanierung"
+                ]
+            },
+            {
+                "name": "LOCATION_QUALITY",
+                "values": [
+                    "1.0"
+                ]
+            },
+            {
+                "name": "PUBLISHED",
+                "values": [
+                    "1726241040000"
+                ]
+            },
+            {
+                "name": "COUNTRY",
+                "values": [
+                    "Österreich"
+                ]
+            },
+            {
+                "name": "LOCATION_ID",
+                "values": [
+                    "105068"
+                ]
+            },
+            {
+                "name": "NUMBER_OF_ROOMS",
+                "values": [
+                    "0"
+                ]
+            },
+            {
+                "name": "ADTYPE_ID",
+                "values": [
+                    "16"
+                ]
+            },
+            {
+                "name": "ADID",
+                "values": [
+                    "1795249514"
+                ]
+            },
+            {
+                "name": "ORGID",
+                "values": [
+                    "19026547"
+                ]
+            },
+            {
+                "name": "SEO_URL",
+                "values": [
+                    "immobilien/d/neubauprojekt/niederoesterreich/mistelbach/erstbezug-nach-sanierung-1795249514/"
+                ]
+            },
+            {
+                "name": "ALL_IMAGE_URLS",
+                "values": [
+                    "4/179/524/9514_1880808376.jpg"
+                ]
+            },
+            {
+                "name": "PUBLISHED_String",
+                "values": [
+                    "2024-09-13T17:24:00Z"
+                ]
+            },
+            {
+                "name": "UPSELLING_AD_SEARCHRESULT",
+                "values": [
+                    "true"
+                ]
+            },
+            {
+                "name": "categorytreeids",
+                "values": [
+                    "5008881"
+                ]
+            },
+            {
+                "name": "PROJECT/UNIT_RENT_FROM",
+                "values": [
+                    "809.19"
+                ]
+            },
+            {
+                "name": "ADVERTISER_REF",
+                "values": [
+                    "24217"
+                ]
+            },
+            {
+                "name": "PRODUCT_ID",
+                "values": [
+                    "270"
+                ]
+            },
+            {
+                "name": "MMO",
+                "values": [
+                    "4/179/524/9514_1880808376.jpg"
+                ]
+            },
+            {
+                "name": "AD_UUID",
+                "values": [
+                    "f82a815b-cd7c-4a33-a0fd-a6ca8aa3da02"
+                ]
+            },
+            {
+                "name": "AD_SEARCHRESULT_LOGO",
+                "values": [
+                    "adSearchResult/19026547/wertimmobilien_logo_15946125584665783512_13146695655794834453.png"
+                ]
+            },
+            {
+                "name": "COORDINATES",
+                "values": [
+                    "48.72628492,16.38361784"
+                ]
+            },
+            {
+                "name": "PRICE",
+                "values": [
+                    "809.19"
+                ]
+            },
+            {
+                "name": "PRICE_FOR_DISPLAY",
+                "values": [
+                    "ab € 809,19"
+                ]
+            },
+            {
+                "name": "ISPRIVATE",
+                "values": [
+                    "0"
+                ]
+            },
+            {
+                "name": "UNIT_TITLE",
+                "values": [
+                    "24217"
+                ]
+            }
+        ]
+    },
+    "advertImageList": {
+        "advertImage": [
+            {
+                "id": 1,
+                "name": "4/179/524/9514_1880808376.jpg",
+                "selfLink": "https://api.willhaben.at/restapi/v2/atimage/1795249514/1",
+                "description": "Cover Image",
+                "mainImageUrl": "https://cache.willhaben.at/mmo/4/179/524/9514_1880808376_hoved.jpg",
+                "thumbnailImageUrl": "https://cache.willhaben.at/mmo/4/179/524/9514_1880808376_thumb.jpg",
+                "referenceImageUrl": "https://cache.willhaben.at/mmo/4/179/524/9514_1880808376.jpg",
+                "similarImageSearchUrl": null,
+                "reference": "4/179/524/9514_1880808376.jpg"
+            }
+        ],
+        "floorPlans": []
+    },
+    "selfLink": "https://api.willhaben.at/restapi/v2/atverz/1795249514",
+    "contextLinkList": {
+        "contextLink": [
+            {
+                "id": "selfLink",
+                "description": "Identifies this entity",
+                "uri": "https://api.willhaben.at/restapi/v2/atverz/1795249514",
+                "selected": false,
+                "relativePath": "/atverz/1795249514",
+                "serviceName": "iad"
+            },
+            {
+                "id": "seoSelfLink",
+                "description": "Self reference",
+                "uri": "https://api.willhaben.at/restapi/v2/atverz/immobilien/d/mietwohnungen/niederoesterreich/mistelbach/erstbezug-nach-sanierung-1795249514/",
+                "selected": false,
+                "relativePath": "/atverz/immobilien/d/mietwohnungen/niederoesterreich/mistelbach/erstbezug-nach-sanierung-1795249514/",
+                "serviceName": "iad"
+            },
+            {
+                "id": "adDetailLink",
+                "description": "Self reference to advert via ad detail component",
+                "uri": "https://publicapi.willhaben.at/atdetail/v1/1795249514",
+                "selected": false,
+                "relativePath": "/1795249514",
+                "serviceName": "addetail"
+            },
+            {
+                "id": "removeAdFromFolder",
+                "description": "Remove ad from any folder",
+                "uri": "https://api.willhaben.at/restapi/v2/userfolders/remove/1795249514",
+                "selected": false,
+                "relativePath": "/userfolders/remove/1795249514",
+                "serviceName": "iad"
+            },
+            {
+                "id": "getFolderSaveLinks",
+                "description": "Get contextlinks to save the ad in the users folders",
+                "uri": "https://api.willhaben.at/restapi/v2/userfolders/links/1795249514",
+                "selected": false,
+                "relativePath": "/userfolders/links/1795249514",
+                "serviceName": "iad"
+            },
+            {
+                "id": "iadShareLink",
+                "description": "Share link in iAd",
+                "uri": "https://www.willhaben.at/iad/object?adId=1795249514",
+                "selected": false,
+                "relativePath": "/iad/object?adId=1795249514",
+                "serviceName": "web_url"
+            }
+        ]
+    },
+    "advertiserInfo": {
+        "label": "Wertimmobilien Consulting KG",
+        "iconSVG": null,
+        "iconPNG": null,
+        "iconType": "NONE"
+    },
+    "upsellingOrganisationLogo": "https://cache.willhaben.at/mmo/logo/adSearchResult/19026547/wertimmobilien_logo_15946125584665783512_13146695655794834453_medium.png",
+    "teaserAttributes": [],
+    "children": null
+}no child and no teaser
+{
+    "id": "1795249514",
+    "verticalId": 2,
+    "adTypeId": 16,
+    "productId": 270,
+    "advertStatus": {
+        "id": "active",
+        "description": "aktiv",
+        "statusId": 50
+    },
+    "description": "Erstbezug nach Sanierung",
+    "attributes": {
+        "attribute": [
+            {
+                "name": "LOCATION",
+                "values": [
+                    "Laa an der Thaya"
+                ]
+            },
+            {
+                "name": "POSTCODE",
+                "values": [
+                    "2136"
+                ]
+            },
+            {
+                "name": "STATE",
+                "values": [
+                    "Niederösterreich"
+                ]
+            },
+            {
+                "name": "BODY_DYN",
+                "values": [
+                    "Zum Projekt In der Hauptstraße in Laa an der Thaya,   wird das gesamte Wohnobjekt komplett saniert und voraussichtlich bis Herbst 2024  fertiggestellt.   Das Gebäude umfasst 27 Wohnungen  in der Größe von 31 m² bis 101 m², mit 1 - 5 Zimmern, auf zwei..."
+                ]
+            },
+            {
+                "name": "ORGNAME",
+                "values": [
+                    "Wertimmobilien Consulting KG"
+                ]
+            },
+            {
+                "name": "ORG_UUID",
+                "values": [
+                    "10880ae3-77a5-41b9-af4f-c82a3667e9e5"
+                ]
+            },
+            {
+                "name": "DISTRICT",
+                "values": [
+                    "Mistelbach"
+                ]
+            },
+            {
+                "name": "HEADING",
+                "values": [
+                    "Erstbezug nach Sanierung"
+                ]
+            },
+            {
+                "name": "LOCATION_QUALITY",
+                "values": [
+                    "1.0"
+                ]
+            },
+            {
+                "name": "PUBLISHED",
+                "values": [
+                    "1726241040000"
+                ]
+            },
+            {
+                "name": "COUNTRY",
+                "values": [
+                    "Österreich"
+                ]
+            },
+            {
+                "name": "LOCATION_ID",
+                "values": [
+                    "105068"
+                ]
+            },
+            {
+                "name": "NUMBER_OF_ROOMS",
+                "values": [
+                    "0"
+                ]
+            },
+            {
+                "name": "ADTYPE_ID",
+                "values": [
+                    "16"
+                ]
+            },
+            {
+                "name": "ADID",
+                "values": [
+                    "1795249514"
+                ]
+            },
+            {
+                "name": "ORGID",
+                "values": [
+                    "19026547"
+                ]
+            },
+            {
+                "name": "SEO_URL",
+                "values": [
+                    "immobilien/d/neubauprojekt/niederoesterreich/mistelbach/erstbezug-nach-sanierung-1795249514/"
+                ]
+            },
+            {
+                "name": "ALL_IMAGE_URLS",
+                "values": [
+                    "4/179/524/9514_1880808376.jpg"
+                ]
+            },
+            {
+                "name": "PUBLISHED_String",
+                "values": [
+                    "2024-09-13T17:24:00Z"
+                ]
+            },
+            {
+                "name": "UPSELLING_AD_SEARCHRESULT",
+                "values": [
+                    "true"
+                ]
+            },
+            {
+                "name": "categorytreeids",
+                "values": [
+                    "5008881"
+                ]
+            },
+            {
+                "name": "PROJECT/UNIT_RENT_FROM",
+                "values": [
+                    "809.19"
+                ]
+            },
+            {
+                "name": "ADVERTISER_REF",
+                "values": [
+                    "24217"
+                ]
+            },
+            {
+                "name": "PRODUCT_ID",
+                "values": [
+                    "270"
+                ]
+            },
+            {
+                "name": "MMO",
+                "values": [
+                    "4/179/524/9514_1880808376.jpg"
+                ]
+            },
+            {
+                "name": "AD_UUID",
+                "values": [
+                    "f82a815b-cd7c-4a33-a0fd-a6ca8aa3da02"
+                ]
+            },
+            {
+                "name": "AD_SEARCHRESULT_LOGO",
+                "values": [
+                    "adSearchResult/19026547/wertimmobilien_logo_15946125584665783512_13146695655794834453.png"
+                ]
+            },
+            {
+                "name": "COORDINATES",
+                "values": [
+                    "48.72628492,16.38361784"
+                ]
+            },
+            {
+                "name": "PRICE",
+                "values": [
+                    "809.19"
+                ]
+            },
+            {
+                "name": "PRICE_FOR_DISPLAY",
+                "values": [
+                    "ab € 809,19"
+                ]
+            },
+            {
+                "name": "ISPRIVATE",
+                "values": [
+                    "0"
+                ]
+            },
+            {
+                "name": "UNIT_TITLE",
+                "values": [
+                    "24217"
+                ]
+            }
+        ]
+    },
+    "advertImageList": {
+        "advertImage": [
+            {
+                "id": 1,
+                "name": "4/179/524/9514_1880808376.jpg",
+                "selfLink": "https://api.willhaben.at/restapi/v2/atimage/1795249514/1",
+                "description": "Cover Image",
+                "mainImageUrl": "https://cache.willhaben.at/mmo/4/179/524/9514_1880808376_hoved.jpg",
+                "thumbnailImageUrl": "https://cache.willhaben.at/mmo/4/179/524/9514_1880808376_thumb.jpg",
+                "referenceImageUrl": "https://cache.willhaben.at/mmo/4/179/524/9514_1880808376.jpg",
+                "similarImageSearchUrl": null,
+                "reference": "4/179/524/9514_1880808376.jpg"
+            }
+        ],
+        "floorPlans": []
+    },
+    "selfLink": "https://api.willhaben.at/restapi/v2/atverz/1795249514",
+    "contextLinkList": {
+        "contextLink": [
+            {
+                "id": "selfLink",
+                "description": "Identifies this entity",
+                "uri": "https://api.willhaben.at/restapi/v2/atverz/1795249514",
+                "selected": false,
+                "relativePath": "/atverz/1795249514",
+                "serviceName": "iad"
+            },
+            {
+                "id": "seoSelfLink",
+                "description": "Self reference",
+                "uri": "https://api.willhaben.at/restapi/v2/atverz/immobilien/d/mietwohnungen/niederoesterreich/mistelbach/erstbezug-nach-sanierung-1795249514/",
+                "selected": false,
+                "relativePath": "/atverz/immobilien/d/mietwohnungen/niederoesterreich/mistelbach/erstbezug-nach-sanierung-1795249514/",
+                "serviceName": "iad"
+            },
+            {
+                "id": "adDetailLink",
+                "description": "Self reference to advert via ad detail component",
+                "uri": "https://publicapi.willhaben.at/atdetail/v1/1795249514",
+                "selected": false,
+                "relativePath": "/1795249514",
+                "serviceName": "addetail"
+            },
+            {
+                "id": "removeAdFromFolder",
+                "description": "Remove ad from any folder",
+                "uri": "https://api.willhaben.at/restapi/v2/userfolders/remove/1795249514",
+                "selected": false,
+                "relativePath": "/userfolders/remove/1795249514",
+                "serviceName": "iad"
+            },
+            {
+                "id": "getFolderSaveLinks",
+                "description": "Get contextlinks to save the ad in the users folders",
+                "uri": "https://api.willhaben.at/restapi/v2/userfolders/links/1795249514",
+                "selected": false,
+                "relativePath": "/userfolders/links/1795249514",
+                "serviceName": "iad"
+            },
+            {
+                "id": "iadShareLink",
+                "description": "Share link in iAd",
+                "uri": "https://www.willhaben.at/iad/object?adId=1795249514",
+                "selected": false,
+                "relativePath": "/iad/object?adId=1795249514",
+                "serviceName": "web_url"
+            }
+        ]
+    },
+    "advertiserInfo": {
+        "label": "Wertimmobilien Consulting KG",
+        "iconSVG": null,
+        "iconPNG": null,
+        "iconType": "NONE"
+    },
+    "upsellingOrganisationLogo": "https://cache.willhaben.at/mmo/logo/adSearchResult/19026547/wertimmobilien_logo_15946125584665783512_13146695655794834453_medium.png",
+    "teaserAttributes": [],
+    "children": null
+}no child and no teaser
+{
+    "id": "1795249514",
+    "verticalId": 2,
+    "adTypeId": 16,
+    "productId": 270,
+    "advertStatus": {
+        "id": "active",
+        "description": "aktiv",
+        "statusId": 50
+    },
+    "description": "Erstbezug nach Sanierung",
+    "attributes": {
+        "attribute": [
+            {
+                "name": "LOCATION",
+                "values": [
+                    "Laa an der Thaya"
+                ]
+            },
+            {
+                "name": "POSTCODE",
+                "values": [
+                    "2136"
+                ]
+            },
+            {
+                "name": "STATE",
+                "values": [
+                    "Niederösterreich"
+                ]
+            },
+            {
+                "name": "BODY_DYN",
+                "values": [
+                    "Zum Projekt In der Hauptstraße in Laa an der Thaya,   wird das gesamte Wohnobjekt komplett saniert und voraussichtlich bis Herbst 2024  fertiggestellt.   Das Gebäude umfasst 27 Wohnungen  in der Größe von 31 m² bis 101 m², mit 1 - 5 Zimmern, auf zwei..."
+                ]
+            },
+            {
+                "name": "ORGNAME",
+                "values": [
+                    "Wertimmobilien Consulting KG"
+                ]
+            },
+            {
+                "name": "ORG_UUID",
+                "values": [
+                    "10880ae3-77a5-41b9-af4f-c82a3667e9e5"
+                ]
+            },
+            {
+                "name": "DISTRICT",
+                "values": [
+                    "Mistelbach"
+                ]
+            },
+            {
+                "name": "HEADING",
+                "values": [
+                    "Erstbezug nach Sanierung"
+                ]
+            },
+            {
+                "name": "LOCATION_QUALITY",
+                "values": [
+                    "1.0"
+                ]
+            },
+            {
+                "name": "PUBLISHED",
+                "values": [
+                    "1726241040000"
+                ]
+            },
+            {
+                "name": "COUNTRY",
+                "values": [
+                    "Österreich"
+                ]
+            },
+            {
+                "name": "LOCATION_ID",
+                "values": [
+                    "105068"
+                ]
+            },
+            {
+                "name": "NUMBER_OF_ROOMS",
+                "values": [
+                    "0"
+                ]
+            },
+            {
+                "name": "ADTYPE_ID",
+                "values": [
+                    "16"
+                ]
+            },
+            {
+                "name": "ADID",
+                "values": [
+                    "1795249514"
+                ]
+            },
+            {
+                "name": "ORGID",
+                "values": [
+                    "19026547"
+                ]
+            },
+            {
+                "name": "SEO_URL",
+                "values": [
+                    "immobilien/d/neubauprojekt/niederoesterreich/mistelbach/erstbezug-nach-sanierung-1795249514/"
+                ]
+            },
+            {
+                "name": "ALL_IMAGE_URLS",
+                "values": [
+                    "4/179/524/9514_1880808376.jpg"
+                ]
+            },
+            {
+                "name": "PUBLISHED_String",
+                "values": [
+                    "2024-09-13T17:24:00Z"
+                ]
+            },
+            {
+                "name": "UPSELLING_AD_SEARCHRESULT",
+                "values": [
+                    "true"
+                ]
+            },
+            {
+                "name": "categorytreeids",
+                "values": [
+                    "5008881"
+                ]
+            },
+            {
+                "name": "PROJECT/UNIT_RENT_FROM",
+                "values": [
+                    "809.19"
+                ]
+            },
+            {
+                "name": "ADVERTISER_REF",
+                "values": [
+                    "24217"
+                ]
+            },
+            {
+                "name": "PRODUCT_ID",
+                "values": [
+                    "270"
+                ]
+            },
+            {
+                "name": "MMO",
+                "values": [
+                    "4/179/524/9514_1880808376.jpg"
+                ]
+            },
+            {
+                "name": "AD_UUID",
+                "values": [
+                    "f82a815b-cd7c-4a33-a0fd-a6ca8aa3da02"
+                ]
+            },
+            {
+                "name": "AD_SEARCHRESULT_LOGO",
+                "values": [
+                    "adSearchResult/19026547/wertimmobilien_logo_15946125584665783512_13146695655794834453.png"
+                ]
+            },
+            {
+                "name": "COORDINATES",
+                "values": [
+                    "48.72628492,16.38361784"
+                ]
+            },
+            {
+                "name": "PRICE",
+                "values": [
+                    "809.19"
+                ]
+            },
+            {
+                "name": "PRICE_FOR_DISPLAY",
+                "values": [
+                    "ab € 809,19"
+                ]
+            },
+            {
+                "name": "ISPRIVATE",
+                "values": [
+                    "0"
+                ]
+            },
+            {
+                "name": "UNIT_TITLE",
+                "values": [
+                    "24217"
+                ]
+            }
+        ]
+    },
+    "advertImageList": {
+        "advertImage": [
+            {
+                "id": 1,
+                "name": "4/179/524/9514_1880808376.jpg",
+                "selfLink": "https://api.willhaben.at/restapi/v2/atimage/1795249514/1",
+                "description": "Cover Image",
+                "mainImageUrl": "https://cache.willhaben.at/mmo/4/179/524/9514_1880808376_hoved.jpg",
+                "thumbnailImageUrl": "https://cache.willhaben.at/mmo/4/179/524/9514_1880808376_thumb.jpg",
+                "referenceImageUrl": "https://cache.willhaben.at/mmo/4/179/524/9514_1880808376.jpg",
+                "similarImageSearchUrl": null,
+                "reference": "4/179/524/9514_1880808376.jpg"
+            }
+        ],
+        "floorPlans": []
+    },
+    "selfLink": "https://api.willhaben.at/restapi/v2/atverz/1795249514",
+    "contextLinkList": {
+        "contextLink": [
+            {
+                "id": "selfLink",
+                "description": "Identifies this entity",
+                "uri": "https://api.willhaben.at/restapi/v2/atverz/1795249514",
+                "selected": false,
+                "relativePath": "/atverz/1795249514",
+                "serviceName": "iad"
+            },
+            {
+                "id": "seoSelfLink",
+                "description": "Self reference",
+                "uri": "https://api.willhaben.at/restapi/v2/atverz/immobilien/d/mietwohnungen/niederoesterreich/mistelbach/erstbezug-nach-sanierung-1795249514/",
+                "selected": false,
+                "relativePath": "/atverz/immobilien/d/mietwohnungen/niederoesterreich/mistelbach/erstbezug-nach-sanierung-1795249514/",
+                "serviceName": "iad"
+            },
+            {
+                "id": "adDetailLink",
+                "description": "Self reference to advert via ad detail component",
+                "uri": "https://publicapi.willhaben.at/atdetail/v1/1795249514",
+                "selected": false,
+                "relativePath": "/1795249514",
+                "serviceName": "addetail"
+            },
+            {
+                "id": "removeAdFromFolder",
+                "description": "Remove ad from any folder",
+                "uri": "https://api.willhaben.at/restapi/v2/userfolders/remove/1795249514",
+                "selected": false,
+                "relativePath": "/userfolders/remove/1795249514",
+                "serviceName": "iad"
+            },
+            {
+                "id": "getFolderSaveLinks",
+                "description": "Get contextlinks to save the ad in the users folders",
+                "uri": "https://api.willhaben.at/restapi/v2/userfolders/links/1795249514",
+                "selected": false,
+                "relativePath": "/userfolders/links/1795249514",
+                "serviceName": "iad"
+            },
+            {
+                "id": "iadShareLink",
+                "description": "Share link in iAd",
+                "uri": "https://www.willhaben.at/iad/object?adId=1795249514",
+                "selected": false,
+                "relativePath": "/iad/object?adId=1795249514",
+                "serviceName": "web_url"
+            }
+        ]
+    },
+    "advertiserInfo": {
+        "label": "Wertimmobilien Consulting KG",
+        "iconSVG": null,
+        "iconPNG": null,
+        "iconType": "NONE"
+    },
+    "upsellingOrganisationLogo": "https://cache.willhaben.at/mmo/logo/adSearchResult/19026547/wertimmobilien_logo_15946125584665783512_13146695655794834453_medium.png",
+    "teaserAttributes": [],
+    "children": null
 }
