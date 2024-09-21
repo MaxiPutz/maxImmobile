@@ -4,6 +4,12 @@ import { checkBoxStyle, getCheckBoyStyleByScale, teaserStyle } from "./style.js"
 import { checkBoxTemplate } from "./checkBoxTemplate.js"
 import { globaHostStyle } from "../globalStyle.js"
 
+/**
+ * @typedef {"genossenschaft" | "no genossenschaft" | "immoScout"} StaticFilter
+ */
+
+
+
 const teaserOptions = {
 
 }
@@ -61,18 +67,25 @@ const setNotGenossenschaftFilter = e => {
     isNotGenssenschaftFilterEnable = e.target.checked
 
     customRender()
+    teaserRender()
+
 }
 
 const setGenossenschaftFilter = e => {
     isGenssenschaftFilterEnable = e.target.checked
 
     customRender()
+    teaserRender()
+
 }
 
 const setImmoScourtFilter = e => {
     isImmoScoutAnd = e.target.checked
     console.log(isImmoScoutAnd);
+    console.log("immoScout",e);
+    
     customRender()
+    teaserRender()
     
 }
 /**
@@ -86,6 +99,26 @@ function getSelectedCheckBox(label) {
         console.log("switch found", selectedFilter[label]);
         
         return selectedFilter[label]
+    }
+
+
+    /**
+     * @type {StaticFilter}
+     */
+    const staticFilter = label 
+
+
+    if (staticFilter === "genossenschaft") {
+        return isGenssenschaftFilterEnable
+    }
+
+    if (staticFilter === "no genossenschaft") {
+        return isNotGenssenschaftFilterEnable
+    }
+    
+
+    if (staticFilter === "immoScout") {
+        return isImmoScoutAnd
     }
     //alert("filter is not implement")
 
@@ -136,7 +169,6 @@ class CheckBoxArea extends LitElement {
 
     render() {
 
-        console.log("switch, updetet all");
         
         return html`
         <div class="container">
