@@ -29,6 +29,8 @@ node index.js
 
 cd "../../"
 
+cp ./static/assets/input.json ./staticNewUI/assets/input.json
+
 europeanDate=$(date +'%d-%m-%Y')
 
 zip -j backup/willHabenimmo_${europeanDate}.zip "./updateAssets/fetchWillhabenImmo/result.json"

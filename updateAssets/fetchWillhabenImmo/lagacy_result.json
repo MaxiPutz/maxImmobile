@@ -1,13 +1,13 @@
 [
     {
-        "price": "€ 851,69",
+        "price": "€ 866,22",
         "teaser": [
-            " 55 m²",
-            " 2 Zimmer",
-            "  Terrasse, Balkon, Garten"
+            " 70 m²",
+            " 3 Zimmer",
+            "  Terrasse, Garten"
         ],
         "destination": "2700 Wiener Neustadt ",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/wiener-neustadt/sommerbonus-sichern-hochwertig-ausgestattete-mietwohnungen-nahe-stadtpark-1762718768/",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/wiener-neustadt/sommerbonus-sichern-hochwertig-ausgestattete-mietwohnungen-nahe-stadtpark-1532248453/",
         "coords": {
             "latitude": "47.80547878",
             "longitude": "16.2345348"
@@ -16,6 +16,44 @@
         "isGenossenschaft": false,
         "info": [
             "  Herzlich willkommen in Wiener Neustadt - Maximiliangasse/Kammanngasse CELIA -  \"Wo Träume wahr werden\" Jetzt schnell sein und unseren Sommerbonus von 3 gratis Monatsmieten sichern!  An diesem Standort haben wir brandneue Mietwohnungen mit privater..."
+        ]
+    },
+    {
+        "price": "€ 638",
+        "teaser": [
+            " 43 m²",
+            " 2 Zimmer",
+            "  Garten"
+        ],
+        "destination": "2700 Wiener Neustadt ",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/wiener-neustadt/charmante-wohnung-fuer-naturverbundene-1220474477/",
+        "coords": {
+            "latitude": "47.81281",
+            "longitude": "16.24551"
+        },
+        "postcode": "2700",
+        "isGenossenschaft": false,
+        "info": [
+            "Die renovierte, gemütliche Wohnung befindet sich in einem charmanten Altbau in einer ruhigen Wohngegend. Das Haus mit naturbelassenem Garten weist insgesamt nur drei Wohneinheiten auf. Die Wohnung befindet sich im Erdgeschoss mit kleinem Gartenanteil...."
+        ]
+    },
+    {
+        "price": "€ 574,38",
+        "teaser": [
+            " 49 m²",
+            " 2 Zimmer",
+            "  Balkon"
+        ],
+        "destination": "2700 Wiener Neustadt Josef Bierenz-Gasse 10b",
+        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/wiener-neustadt/erstbezug-mit-kaufoption-mietwohnung-en-mit-balkon-terrasse-parkplatz-option-nahe-merkur-city-beispiel-fotos-top-22-1124002574/",
+        "coords": {
+            "latitude": "47.8264628",
+            "longitude": "16.2586552"
+        },
+        "postcode": "2700",
+        "isGenossenschaft": false,
+        "info": [
+            "Obj. Nr. 2289 FREI FINANZIERTER NEUBAU - Fertigstellung sowie Übergabe Ende 2024 bzw. Anfang 2025 In Ruhelage , nahe dem Einkaufszentrum Merkur City , befindet sich eine großteils barrierefreie Neubau-Wohnhausanlage mit zahlreichen frei finanzierten 2, 3..."
         ]
     },
     {
@@ -50292,25 +50330,6 @@
         ]
     },
     {
-        "price": "€ 574,38",
-        "teaser": [
-            " 49 m²",
-            " 2 Zimmer",
-            "  Balkon"
-        ],
-        "destination": "2700 Wiener Neustadt Josef Bierenz-Gasse 10b",
-        "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/wiener-neustadt/erstbezug-mit-kaufoption-mietwohnung-en-mit-balkon-terrasse-parkplatz-option-nahe-merkur-city-beispiel-fotos-top-22-1124002574/",
-        "coords": {
-            "latitude": "47.8264628",
-            "longitude": "16.2586552"
-        },
-        "postcode": "2700",
-        "isGenossenschaft": false,
-        "info": [
-            "Obj. Nr. 2289 FREI FINANZIERTER NEUBAU - Fertigstellung sowie Übergabe Ende 2024 bzw. Anfang 2025 In Ruhelage , nahe dem Einkaufszentrum Merkur City , befindet sich eine großteils barrierefreie Neubau-Wohnhausanlage mit zahlreichen frei finanzierten 2, 3..."
-        ]
-    },
-    {
         "price": "€ 1.019",
         "teaser": [
             " 77 m²",
@@ -50916,8 +50935,8 @@
         "destination": "3107 St. Pölten Mühlweg 114/11",
         "url": "https://www.willhaben.at/iad/immobilien/d/mietwohnungen/niederoesterreich/sankt-poelten/2-zimmer-mietwohnung-mit-loggia-1814926205/",
         "coords": {
-            "latitude": 48.208637,
-            "longitude": 15.629441
+            "latitude": 48.208393,
+            "longitude": 15.629424
         },
         "postcode": "3107",
         "isGenossenschaft": false,
