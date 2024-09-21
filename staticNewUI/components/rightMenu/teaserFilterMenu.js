@@ -23,6 +23,7 @@ let selectedFilter = {
 }
 
 let customRender = () => undefined
+let teaserRender = () => undefined
 
 export function setCustomRenderForTeaserFilterMenu(render) {
     customRender = render
@@ -37,16 +38,19 @@ Object.keys(teaserOptions).forEach(ele => {
 
 teaserList = teaserList.sort()
 
+
+
 const setSelectedFilter = (event) => {
     console.log(event)
     const isChecked = event.target.checked
     const val = event.target.name
 
     console.log(isChecked);
-    console.log(val);
+    console.log("switch in the filter",val);
     
     selectedFilter[val] = isChecked
     customRender()
+    teaserRender()
 }
 
 let isGenssenschaftFilterEnable = false
@@ -71,10 +75,26 @@ const setImmoScourtFilter = e => {
     customRender()
     
 }
+/**
+ * @param {string} label
+ * @returns {boolean} 
+ */
+function getSelectedCheckBox(label) {
+    console.log("switch",selectedFilter);
+    
+    if (selectedFilter[label] !== undefined) {
+        console.log("switch found", selectedFilter[label]);
+        
+        return selectedFilter[label]
+    }
+    //alert("filter is not implement")
+
+    return false
+}
 
 const generateTeaserCheckBox = () => {
 
-    return teaserList.map(ele => checkBoxTemplate(ele, setSelectedFilter))
+    return teaserList.map(ele => checkBoxTemplate(ele, () => getSelectedCheckBox(ele), setSelectedFilter))
 
 }
 
@@ -95,6 +115,11 @@ class CheckBoxArea extends LitElement {
         this.isVisible = true; // Hidden by default
         this.selectedFilter = 'OR'; 
         filterOption = this.selectedFilter
+        teaserRender = () => {
+            console.log("switch teaser Render called");
+            this.requestUpdate()
+            
+        }
     }
 
     toggleVisibility(e) {
@@ -110,6 +135,9 @@ class CheckBoxArea extends LitElement {
     }
 
     render() {
+
+        console.log("switch, updetet all");
+        
         return html`
         <div class="container">
            
@@ -134,13 +162,22 @@ class CheckBoxArea extends LitElement {
                         <span> And filter Area</span>
                     </div>
                     <div>
-                        ${checkBoxTemplate("genossenschaft", setGenossenschaftFilter)}
+                        ${checkBoxTemplate(
+                            "genossenschaft",
+                             () => getSelectedCheckBox("genossenschaft"), 
+                             setGenossenschaftFilter)}
                     </div>
                     <div>
-                        ${checkBoxTemplate("no genossenschaft", setNotGenossenschaftFilter)}
+                        ${checkBoxTemplate(
+                            "no genossenschaft", 
+                            () => getSelectedCheckBox("no genossenschaft"),
+                            setNotGenossenschaftFilter)}
                     </div>
                     <div>
-                        ${checkBoxTemplate("immoScout", setImmoScourtFilter)}
+                        ${checkBoxTemplate(
+                            "immoScout", 
+                            () => getSelectedCheckBox("immoScout"),
+                            setImmoScourtFilter)}
                     </div>
                 </div>
                 

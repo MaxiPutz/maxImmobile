@@ -4,6 +4,7 @@ import { leftButton } from "./leftButton.js";
 import { rightButton } from "./rightButton.js";
 import { upDownArrow } from "./svg.js";
 import { globaHostStyle } from "../globalStyle.js";
+import "./floatingActionButton/floatingActionButton.js"
 
 let i = 0 
 
@@ -179,6 +180,8 @@ class MainView extends LitElement {
                     <slot class="bottom" name="list-content"></slot> 
             </div>
         </div>
+
+        <floating-action-button></floating-action-button>
         `
     }
 

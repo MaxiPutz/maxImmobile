@@ -33,9 +33,12 @@ export let dispatchFilterParam = (filterParam) => undefined
 
 /**
  * @param {import("../../mapbox/viewInfos/viewInfos.js").Boundary} boundary
- *
  */
 export let dispatchBoundaryParam = (boundary) => undefined
+/**
+ * @param {import("../main/floatingActionButton/floatingActionButton.js").Sort []} sortState
+ */
+export let dispatchSortState = (sortState) => undefined
 
 export let reloadBottomList = () => undefined
 
@@ -49,6 +52,7 @@ class BottomComponent extends LitElement {
         super()
 
  
+
         const initBoundary = getViewCoords()
         /**
          * @type {filterParam & import("../../mapbox/viewInfos/viewInfos.js").Boundary}
@@ -63,6 +67,12 @@ class BottomComponent extends LitElement {
     
         this.isBottomListOpen = false
         
+
+        /**
+         * @type {import("../main/floatingActionButton/floatingActionButton.js").Sort []}
+         */
+        this.sortState = []
+
         reloadBottomList  = () => {
             dispatchFilterParam(this.filterVal)
         }
@@ -113,6 +123,10 @@ class BottomComponent extends LitElement {
             this.requestUpdate()
         }
 
+        dispatchSortState = (sortState) => {
+            this.sortState = sortState
+            this.requestUpdate()
+        }
     
 
 
@@ -124,7 +138,7 @@ class BottomComponent extends LitElement {
         
         return html`
         <div id="list" class="close">
-            ${renderDivs(this.filterVal)}
+            ${renderDivs(this.filterVal, this.sortState)}
         </div>
         `
     }
@@ -136,9 +150,10 @@ customElements.define("bottom-commponent", BottomComponent)
 /**
  * 
  * @param {filterParam & import("../../mapbox/viewInfos/viewInfos.js").Boundary} filterParam 
+ * @param {import("../main/floatingActionButton/floatingActionButton.js").Sort[]} sortState
  * @returns 
  */
-function renderDivs (filterParam) {
+function renderDivs (filterParam, sortState) {
     const minPrice = filterParam.minPrice
     const minM2 = filterParam.minM2
     const maxM2 = filterParam.maxM2
@@ -181,6 +196,29 @@ function renderDivs (filterParam) {
       reloadWillhabenLayer(map, mapId.willhaben)
     }
     
+    const sortDown = sortState.find(ele => ele.down)
+    const sortUp = sortState.find(ele => ele.up)
+
+    console.log("sortState down", sortDown);
+    console.log("sortState up", sortUp);
+    
+    if (sortUp) {
+        if ("euro" === sortUp.sortLable) {
+            filtered.sort((ele1, ele2) => parseFloat(ele2.price) -  parseFloat(ele1.price))
+        }
+        if ("size" === sortUp.sortLable) {
+            filtered.sort((ele1, ele2) => parseFloat(ele2.squareMeters) -  parseFloat(ele1.squareMeters))
+        }
+    }
+
+    if (sortDown) {
+        if ("euro" === sortDown.sortLable) {
+            filtered.sort((ele1, ele2) => parseFloat(ele1.price) -  parseFloat(ele2.price))
+        }
+        if ("size" === sortDown.sortLable) {
+            filtered.sort((ele1, ele2) => parseFloat(ele1.squareMeters) -  parseFloat(ele2.squareMeters))
+        }
+    }
     
     /*
     const divs = filtered.map(ele => {
