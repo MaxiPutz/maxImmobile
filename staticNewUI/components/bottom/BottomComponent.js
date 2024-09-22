@@ -8,6 +8,7 @@ import {  getCardStyle, listStyles } from "./styles.js"
 import { mapId } from "../../mapbox/staticNames.js"
 import { cardtemplateComponent } from "./cardTemplate.js"
 import { globaHostStyle } from "../globalStyle.js"
+import { CardComponent } from "./cardComponent/CardComponent.js"
 
 /**
  * @typedef {Object} filterParam
@@ -240,6 +241,17 @@ function renderDivs (filterParam, sortState) {
     }).slice(0, 100);
     console.log(divs);
     */
+
+
+    return filtered.map(ele => new CardComponent({
+        callback: () => console.log("irgendwas"),
+        destination: ele.destination,
+        teaser: ele.teaser.join(","),
+        price: ele.price,
+        squareMeters: ele.squareMeters,
+        url: ele.url
+        
+    }))
 
     return filtered.map(ele => cardtemplateComponent({
         destination: ele.destination,

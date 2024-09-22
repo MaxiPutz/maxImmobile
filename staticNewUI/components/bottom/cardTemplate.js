@@ -1,4 +1,4 @@
-import { html } from "lit"
+import { html, LitElement } from "lit"
 
 
 
@@ -28,3 +28,4 @@ export const cardtemplateComponent = (cardInfo, callback) => {
     </div>
 `
 }
+

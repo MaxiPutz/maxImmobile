@@ -9,6 +9,8 @@ import { dispatchBoundaryParam, dispatchFilterParam, dispatchIsButtomListOpen, d
 import { setDispatchBoundaryParam } from "./mapbox/viewInfos/viewInfos.js";
 import { setCustomRenderForTeaserFilterMenu } from "./components/rightMenu/teaserFilterMenu.js";
 import { setDispatchSortState } from "./components/main/floatingActionButton/floatingActionButton.js";
+import { setDispatchFavoritList } from "./components/bottom/cardComponent/CardComponent.js";
+import { dispatchFavoritList } from "./components/leftMenu/favoritList/favoritList.js";
 
 
 
@@ -18,4 +20,4 @@ setDispatchFilter(dispatchFilterParam)
 setDispatchBoundaryParam(dispatchBoundaryParam)
 setCustomRenderForTeaserFilterMenu(reloadBottomList)
 setDispatchSortState(dispatchSortState)
-
+setDispatchFavoritList(dispatchFavoritList)

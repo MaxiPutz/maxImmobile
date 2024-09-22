@@ -7,6 +7,7 @@ import { map } from "../../mapbox/mapboxComponent.js";
 import {leftMenuStyle, dropDownStyle} from "./style.js"
 import { dropdownComponent } from "./dropDownTemplate.js";
 import { globaHostStyle } from "../globalStyle.js";
+import { FavoritList } from "./favoritList/favoritList.js";
 
 let minPrice = -1;
 let maxPrice = 999999999;
@@ -90,6 +91,7 @@ class LeftMenuComponent extends LitElement {
         <div class="container">
           ${this.headerComponent()}
           ${menuComponent()}
+          ${new FavoritList()}
         </div>
         `
     }
