@@ -161,9 +161,9 @@ export class FavoritList extends LitElement {
 
 
             }
-            }> copy to clipboard</button>
+            }> copy to Clipboard</button>
 
-<div class="close-button">
+            <div class="close-button">
                 ${closeIcon}
             </div>
                 </div>
