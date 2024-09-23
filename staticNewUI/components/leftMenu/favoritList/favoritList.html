@@ -16,9 +16,16 @@
         }
     </script>
     
-    <script type="module" src="./FavoritList.js"></script>
-    <favorit-list></favorit-list>
 
     <div id="app"></div>
+
+    <script type="module">
+        import {render, html} from "lit"
+        import {FavoritList} from "./favoritList.js"
+
+        render(new FavoritList(html`<span></span>`, ()=> []), document.getElementById("app"))
+
+
+    </script>
 </body>
 </html>

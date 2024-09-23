@@ -144,6 +144,9 @@ export const flipIcon = css`
   display: block; /* Show the disabled icon when not checked */
 }
 
+.hide {
+  display: none;
+}
 `
 
 export const gridStyle = css`

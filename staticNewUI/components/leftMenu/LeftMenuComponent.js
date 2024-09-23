@@ -4,10 +4,12 @@ import { setSelectTransitIndex } from "../../mapbox/inputParser/inputWrapper.js"
 import { reloadTransitLayer, reloadTransitSquareLayer } from "../../mapbox/layer/transitLayer.js";
 import { mapId } from "../../mapbox/staticNames.js";
 import { map } from "../../mapbox/mapboxComponent.js";
-import {leftMenuStyle, dropDownStyle} from "./style.js"
+import { leftMenuStyle, dropDownStyle } from "./style.js"
 import { dropdownComponent } from "./dropDownTemplate.js";
 import { globaHostStyle } from "../globalStyle.js";
 import { FavoritList } from "./favoritList/favoritList.js";
+import { getFavoritListFromLocalStorage, getHideListFromLocalStorage } from "../bottom/cardComponent/CardComponent.js";
+import { favoriteEnable, hideDisable } from "../bottom/cardComponent/svg.js";
 
 let minPrice = -1;
 let maxPrice = 999999999;
@@ -22,85 +24,92 @@ let selectedIndex = 0
 let dispatchFilter = (filterParam) => undefined
 
 export const setDispatchFilter = (injectDisptachFilter) => {
-    dispatchFilter = injectDisptachFilter
-  }
+  dispatchFilter = injectDisptachFilter
+}
 
 const onInputChange = (e) => {
-    console.log(e);
-    
-    const { id, value } = e.target;
-  
-    console.log(value);
-    console.log(id);
-    
-    
-    if (id === 'min-price') {
-      minPrice = value;
-    } else if (id === 'max-price') {
-      maxPrice = value;
-    } else if (id === 'min-m2') {
-      minM2 = value;
-    } else if (id === 'max-m2') {
-      maxM2 = value;
-    }
+  console.log(e);
 
-    /**
-     * @type {import("./bottom/BottomComponent.js").filterParam}
-     */
-    const obj = {
-      minPrice : minPrice === "" ? 0 : parseFloat(minPrice),
-      maxPrice : maxPrice === "" ? 10000 : parseFloat(maxPrice),
-      minM2 : minM2 === "" ? 0 : parseFloat(minM2),
-      maxM2: maxM2 === ""? 100000 : parseFloat(maxM2)
-    }
+  const { id, value } = e.target;
 
-    dispatchFilter(obj)
-  };
+  console.log(value);
+  console.log(id);
+
+
+  if (id === 'min-price') {
+    minPrice = value;
+  } else if (id === 'max-price') {
+    maxPrice = value;
+  } else if (id === 'min-m2') {
+    minM2 = value;
+  } else if (id === 'max-m2') {
+    maxM2 = value;
+  }
+
+  /**
+   * @type {import("./bottom/BottomComponent.js").filterParam}
+   */
+  const obj = {
+    minPrice: minPrice === "" ? 0 : parseFloat(minPrice),
+    maxPrice: maxPrice === "" ? 10000 : parseFloat(maxPrice),
+    minM2: minM2 === "" ? 0 : parseFloat(minM2),
+    maxM2: maxM2 === "" ? 100000 : parseFloat(maxM2)
+  }
+
+  dispatchFilter(obj)
+};
 
 
 
 
 class LeftMenuComponent extends LitElement {
-  
-    static styles = [leftMenuStyle, dropDownStyle, globaHostStyle ]
 
-    constructor () {
-      super()
+  static styles = [leftMenuStyle, dropDownStyle, globaHostStyle]
 
-    }
+  constructor() {
+    super()
+
+  }
 
 
-    headerComponent()  {
-      return html`
+  headerComponent() {
+    return html`
       <div>
               <div>
-              ${dropdownComponent(transitOptions, selectedIndex, (num)=> {
-                selectedIndex = num
-                setSelectTransitIndex( num)
-                reloadTransitSquareLayer(map, mapId.transitSquareMap)
-                reloadTransitLayer(map, mapId.transitText)
-                this.requestUpdate()
-              })}
+              ${dropdownComponent(transitOptions, selectedIndex, (num) => {
+      selectedIndex = num
+      setSelectTransitIndex(num)
+      reloadTransitSquareLayer(map, mapId.transitSquareMap)
+      reloadTransitLayer(map, mapId.transitText)
+      this.requestUpdate()
+    })}
                   </label>
               </div>
           </div>`
   }
 
-    render () {
-        return html`
+  render() {
+    return html`
         <div class="container">
           ${this.headerComponent()}
           ${menuComponent()}
-          ${new FavoritList()}
+
+          <div class="overlay-list">
+            ${new FavoritList(favoriteEnable, getFavoritListFromLocalStorage)}
+          </div>
+          <div class="overlay-list">
+            ${new FavoritList(hideDisable, getHideListFromLocalStorage)}
+          </div>
+
         </div>
         `
-    }
+  }
 }
 
 customElements.define("left-menu-component", LeftMenuComponent)
 
-function menuComponent()   {
-    return html`
+function menuComponent() {
+  return html`
       <div>
           <div>
 
@@ -110,18 +119,18 @@ function menuComponent()   {
           </div>
   
           <div style="margin-top: 10px;">
-              ${filterInput("Min mm²", "min-m2" )}
-              ${filterInput("Max mm²", "max-m2" )}
+              ${filterInput("Min mm²", "min-m2")}
+              ${filterInput("Max mm²", "max-m2")}
           </div>
       </div>
     `;
-  };
+};
 
-  /**
-   * @param {string} label
-   * @param {string} id
-   * @returns 
-   */
+/**
+ * @param {string} label
+ * @param {string} id
+ * @returns 
+ */
 function filterInput(label, id) {
 
   return html`
@@ -136,7 +145,7 @@ function filterInput(label, id) {
 
 
 
-function dorpDown () {
+function dorpDown() {
   return html`
   
 <div class="select">
@@ -160,7 +169,7 @@ function dorpDown () {
   </div>
   <div class="options">
 
-  ${transitOptions.map((ele, i ) => html`
+  ${transitOptions.map((ele, i) => html`
     <div title="${ele}">
       <input id="${ele}" name="option" type="radio"  />
       <label class="option" for="option-${i}" data-txt="${ele}"></label>

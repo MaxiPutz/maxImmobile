@@ -150,7 +150,7 @@ export function addTransitSquareLayer(map, info) {
                 0, 'green',
                 90, 'red'
             ],
-            'fill-opacity': 0.6,
+            'fill-opacity': 0.2,
             'fill-outline-color': 'black'
         }
     });

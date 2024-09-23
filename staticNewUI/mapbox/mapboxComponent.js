@@ -1,5 +1,5 @@
 import { getMainSize } from "../components/main/main.js";
-import {mapboxglAccessToken} from "../private/token.js"
+import { mapboxglAccessToken } from "../private/token.js"
 import { willhabenJson } from "./inputParser/inputWrapper.js";
 import { getTransitInfoFeature, getWillhabenFeature, getTransitInfoSquareFeature } from "./inputParser/jsonToMapboxFeature.js"
 import { addTransitCyrcleLayer, addTransitMarkerLayer, addTransitSquareLayer, addTransitTextLayer } from "./layer/transitLayer.js";
@@ -7,7 +7,7 @@ import { addWillHabenLayer } from "./layer/willhabenLayer.js";
 import { logic } from "./logic.js";
 import { mapId } from "./staticNames.js";
 import { setViewCoords } from "./viewInfos/viewInfos.js";
-import {LitElement, html, css} from "lit"
+import { LitElement, html, css } from "lit"
 
 
 let map = {}
@@ -21,7 +21,7 @@ let height = 100
 
 let myReload = () => {
     console.log("default funcito");
-    
+
 }
 
 /**
@@ -41,9 +41,21 @@ export let dispatchSlotSize = (calback) => {
 class MapBox extends LitElement {
 
     static styles = css`
-    :host{
+    :host{        
         height: 90vh;
-    }`
+    }
+    
+    .mapboxgl-ctrl-attrib.mapboxgl-compact {
+            display: none;
+        }
+    
+    .mapboxgl-ctrl-bottom-right .mapboxgl-ctrl{
+        transform: scale(0.5);
+        margin-right: -50px;
+    }
+   
+
+    `
 
 
     constructor() {
@@ -54,11 +66,11 @@ class MapBox extends LitElement {
         this.zoom = 12;     // Default zoom level
         this.markers = [];  // Default empty markers array
         this.map = undefined
-        
 
-      }
 
-      
+    }
+
+
     firstUpdated() {
 
         myReload = () => {
@@ -70,7 +82,7 @@ class MapBox extends LitElement {
             }, 1000);
 
         }
-    
+
         mapboxgl.accessToken = this.accessToken;
 
 
@@ -80,10 +92,18 @@ class MapBox extends LitElement {
             center: [16.3738, 48.2082], // Centered on Vienna, Austria
             zoom: 12
         });
-        
+
         map = this.map
 
-      
+        var geocoder = new MapboxGeocoder({
+            accessToken: mapboxgl.accessToken,
+            mapboxgl: mapboxgl
+        });
+
+        map.addControl(geocoder, 'bottom-right');
+
+
+
         map.on('load', () => {
             map.loadImage('https://docs.mapbox.com/mapbox-gl-js/assets/custom_marker.png', (error, image) => {
                 if (error) {
@@ -91,24 +111,24 @@ class MapBox extends LitElement {
                     return;
                 }
                 map.addImage('custom-marker', image);
-        
+
                 addTransitSquareLayer(map, mapId.transitSquareMap)
-                
+
                 addTransitTextLayer(map, mapId.transitText)
-                
+
                 addWillHabenLayer(map, mapId.willhaben)
-        
+
                 //addTransitCyrcleLayer(map, mapId.transitCyrcle)
-                            
+
                 setViewCoords()
-                
-        
+
+
                 logic(map)
-        
-        
-                
+
+
+
             });
-        
+
         });
 
         map.on('moveend', () => {
@@ -118,13 +138,13 @@ class MapBox extends LitElement {
 
 
 
-      
+
     }
 
-    render () {
+    render() {
 
 
-        
+
         let getStyle = () => css`
         #map {
             top: 0;
@@ -137,6 +157,9 @@ class MapBox extends LitElement {
         button {
             position: fixed;
             z-index: 999;
+        }
+        .mapboxgl-ctrl-attrib.mapboxgl-compact {
+            display: none;
         }
         `
 
@@ -160,4 +183,4 @@ class MapBox extends LitElement {
 
 customElements.define("map-box", MapBox)
 
-export {map}
+export { map }

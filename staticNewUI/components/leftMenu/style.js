@@ -7,6 +7,10 @@ export const leftMenuStyle = css`
   z-index: 1;
 }
 
+.overlay-list {
+  margin: 10px;
+}
+
 .container {
     margin-top: 70px;
     background-color: white;

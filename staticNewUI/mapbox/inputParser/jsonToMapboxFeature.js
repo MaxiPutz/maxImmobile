@@ -42,7 +42,7 @@ export function getTransitInfoFeature() {
             'coordinates': [ele.coords.long, ele.coords.lat]
         },
         'properties': {
-            'title': `${ele.time}\n${ele.name}`,
+            'title': `${ele.time}\n`, //${ele.name}
             'time': ele.time
         }
     }))
