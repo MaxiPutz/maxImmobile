@@ -1,9 +1,9 @@
-import { setDispatchFilter } from "./components/leftMenu/LeftMenuComponent.js";
+import { setDispatchFilter } from "./components/leftMenu/leftMenuComponent.js";
 import {} from "./mapHidingScript.js"
 import {dispatchSlotSize, map} from "./mapbox/mapboxComponent.js"
 import  "./components/main/main.js"
 import  "./components/bottom/BottomComponent.js"
-import "./components/leftMenu/LeftMenuComponent.js"
+import "./components/leftMenu/leftMenuComponent.js"
 import { setDispatchIsBottomListOpen, setDispatchSlotSize } from "./components/main/main.js";
 import { dispatchBoundaryParam, dispatchFilterParam, dispatchIsButtomListOpen, dispatchSortState, reloadBottomList } from "./components/bottom/BottomComponent.js";
 import { setDispatchBoundaryParam } from "./mapbox/viewInfos/viewInfos.js";
