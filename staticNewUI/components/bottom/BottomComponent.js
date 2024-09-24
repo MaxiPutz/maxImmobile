@@ -242,6 +242,7 @@ function renderDivs (filterParam, sortState) {
     console.log(divs);
     */
 
+    filtered = filtered.slice(0,100)
 
     return filtered.map(ele => new CardComponent({
         callback: () => console.log("irgendwas"),

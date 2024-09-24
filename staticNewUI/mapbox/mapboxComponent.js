@@ -50,8 +50,8 @@ class MapBox extends LitElement {
         }
     
     .mapboxgl-ctrl-bottom-right .mapboxgl-ctrl{
-        transform: scale(0.5);
-        margin-right: -50px;
+        transform: scale(0.75);
+        margin-right: -25px;
     }
    
 

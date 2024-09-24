@@ -16,7 +16,7 @@ app.listen(port, () => console.log("server is listen on port " + port))
 const transitPath = "./static/assets/transit/"
 const files = fs.readdirSync(transitPath).filter(ele => ele.includes(".json"))
 console.log(files);
-
+ 
 
 
 fs.writeFileSync(transitPath + "index.js", `
