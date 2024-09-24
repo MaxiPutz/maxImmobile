@@ -3,6 +3,7 @@ import { CardComponent, getFavoritListFromLocalStorage } from "../../bottom/card
 import { styleFavoritList } from "./styleFavoritList.js";
 import { favoriteDisable, favoriteEnable } from "../../bottom/cardComponent/svg.js";
 import { closeIcon } from "./closeSvg.js";
+import { generateUrlWithIds } from "../../../urlController.js";
 
 console.log("call list");
 
@@ -133,7 +134,7 @@ export class FavoritList extends LitElement {
                 })
             }
             }> open all</button>
-                    <button @click=${() => {
+            <button @click=${() => {
                 console.log(this.favoritList);
 
 
@@ -162,6 +163,36 @@ export class FavoritList extends LitElement {
 
             }
             }> copy to Clipboard</button>
+
+<button @click=${() => {
+                console.log(this.favoritList);
+
+
+                const csvList = generateUrlWithIds()
+
+                try {
+                    navigator.clipboard.writeText(csvList)
+                        .then(() => {
+                            alert("url is in clipboard")
+                        })
+                        .catch(err => {
+                            console.error("Failed to copy text: ", err);
+                            alert("http allows no clipbard copy you will forwart to a new tab with the csv")
+                            const newWindow = window.open('', '_blank');
+                            newWindow.document.write(html`<div>${csvList}</div>`);
+                            newWindow.document.close()
+
+                        });
+                } catch {
+                    alert("http allows no clipbard copy you will forwart to a new tab with the csv")
+                    const newWindow = window.open('', '_blank');
+                    newWindow.document.write("<a href='" + csvList + "'>"  + csvList + "</a>");
+                    newWindow.document.close()
+                }
+
+
+            }
+            }> copy shareLink to Clipboard</button>
 
             <div class="close-button">
                 ${closeIcon}

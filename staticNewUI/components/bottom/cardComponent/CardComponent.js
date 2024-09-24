@@ -192,7 +192,7 @@ function backCard(cardInfo, favoriteIdMap, hideIdMap, isHideListDisplayed) {
  * 
  * @param {CardInfo} cardInfo 
  */
-function pushToLocalStorageFavoritList(cardInfo) {
+export function pushToLocalStorageFavoritList(cardInfo) {
     cardInfo.id = cardInfo.url
     cardInfo.shortId = cardInfo.url.slice(-4)
     let favoritList = getFavoritListFromLocalStorage();
@@ -221,7 +221,7 @@ export function getFavoritListFromLocalStorage() {
 }
 
 
-function getFavoritIdMap() {
+export function getFavoritIdMap() {
     let favoriteIdMap = localStorage.getItem("favoriteIdMap")
     return favoriteIdMap ? JSON.parse(favoriteIdMap) : {}
 }

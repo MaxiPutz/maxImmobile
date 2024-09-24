@@ -1,3 +1,4 @@
+import "./urlController.js"
 import { setDispatchFilter } from "./components/leftMenu/leftMenuComponent.js";
 import {} from "./mapHidingScript.js"
 import {dispatchSlotSize, map} from "./mapbox/mapboxComponent.js"
