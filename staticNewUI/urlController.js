@@ -103,13 +103,12 @@ function extractIdsFromUrl() {
  return idsArray;
 }
 
-const extractedIds = extractIdsFromUrl();
-console.log("favMap", extractedIds);
-
 
 function saveURLProperties() {
     const ids = extractIdsFromUrl()
     const favList = collectWillhabenJSONFromShortId(ids)
+
+
 
     favList.forEach(ele => pushToLocalStorageFavoritList(ele))
 }
