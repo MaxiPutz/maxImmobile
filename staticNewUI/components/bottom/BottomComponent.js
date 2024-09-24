@@ -45,6 +45,7 @@ export let reloadBottomList = () => undefined
 
 
 
+
 class BottomComponent extends LitElement {
 
     static styles = [listStyles, getCardStyle(), globaHostStyle]
@@ -53,6 +54,7 @@ class BottomComponent extends LitElement {
         super()
 
  
+        this.debounceTimer = undefined
 
         const initBoundary = getViewCoords()
         /**
@@ -110,18 +112,26 @@ class BottomComponent extends LitElement {
 
         dispatchBoundaryParam = (boundary) => {
             console.log("dispatched Boundary", boundary);
-            
+
+            clearInterval(this.debounceTimer)
+
+            this.debounceTimer = setTimeout(() => {
+
+                
+      
+                
             if (!this.isBottomListOpen) {
                 this.filterVal = {
                     ...this.filterVal,
                     ...boundary
                 }
             }
-    
+        
 
-            console.log("dispatched filters", this.filterVal);
-            
-            this.requestUpdate()
+                console.log("dispatched filters", this.filterVal);
+                
+                this.requestUpdate()
+            }, 300);
         }
 
         dispatchSortState = (sortState) => {
