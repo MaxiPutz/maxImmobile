@@ -17,20 +17,6 @@ import { isLagacy, parseLagacy } from "./lagacyParser/lagacyParser.js";
  */
 
 /**
- * @type {WillhabenJson[]}
- */
-let raw = (await (await fetch("../../assets/input.json")).json())
-
-//raw = raw.slice(0, 100)
-/**
- * An array of properties available for rent or sale.
- * @type {WillhabenJson[]}
- */
-export const willhabenJson = isLagacy(raw) ? parseLagacy(raw) : raw
-
-
-
-/**
  * Represents a journey between two points.
  * @typedef {Object} Journey
  * @property {number} time - The duration of the journey in minutes.
@@ -51,11 +37,80 @@ export const willhabenJson = isLagacy(raw) ? parseLagacy(raw) : raw
  */
 
 
-const transitPath = "../../assets/transit/"
-let transitCollector = await Promise.all( transitOptions.map(ele => transitPath + ele).map( ele => fetch(ele) )) 
-console.log("transitCollecotr", transitCollector);
+async function  loadAssetes() {
+    function fetchAll() {
+        let promisesAll = []
 
-transitCollector = await Promise.all(transitCollector.map(ele => ele.json()))
+        promisesAll.push(new Promise((resolve) => {
+            fetch("../../assets/input.json").then((ele) => {
+                resolve({
+                    file: "input",
+                    data: ele
+                })
+            })
+
+
+        }))
+
+
+        const transitPath = "../../assets/transit/"
+        const transitFiles =  transitOptions.map( ele => transitPath + "/" + ele)
+
+        promisesAll.push(...transitFiles.map((ele) => new Promise((resolve) => fetch(ele).then(ele =>  resolve(({file: "transit", data: ele} ))) ) ))
+
+        return Promise.all(promisesAll)
+    }
+
+
+    const fetchedData = await fetchAll()
+    console.log("fetchAll data",fetchedData);
+    
+
+    for (let i = 0; i < fetchedData.length; i++) {
+        const element = fetchedData[i];
+        console.log("fetchAll element", element);
+        
+        //let data = await element.data.json()
+        
+    }
+
+    return Promise.all( fetchedData.map((ele) => new Promise( async (resolve) => {
+        const data = await ele.data.json()
+
+        resolve({
+            ...ele,
+            data: data
+        })
+    })))
+}
+
+
+const allAssets = await loadAssetes()
+
+console.log("fetch all", allAssets);
+
+
+/**
+ * @type {WillhabenJson[]}
+ */
+let raw =  allAssets.find(ele => ele.file === "input").data // (await (await fetch("../../assets/input.json")).json())
+
+//raw = raw.slice(0, 100)
+/**
+ * An array of properties available for rent or sale.
+ * @type {WillhabenJson[]}
+ */
+export const willhabenJson = isLagacy(raw) ? parseLagacy(raw) : raw
+
+
+
+
+/*
+const transitPath = "../../assets/transit/"
+let transitCollector =  await Promise.all( transitOptions.map(ele => transitPath + ele).map( ele => fetch(ele) )) 
+console.log("transitCollecotr", transitCollector);
+*/
+const transitCollector =  allAssets.filter(ele => ele.file === "transit").map(ele => ele.data) //await Promise.all(transitCollector.map(ele => ele.json()))
 
 console.log("transitCollecotr", transitCollector);
 
