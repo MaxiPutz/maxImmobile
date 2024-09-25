@@ -87,6 +87,10 @@ async function  loadAssetes() {
 
 const allAssets = await loadAssetes()
 
+const app = document.querySelector(".app")
+console.log(app);
+app.classList.add("loaded")
+
 console.log("fetch all", allAssets);
 
 
@@ -113,6 +117,7 @@ console.log("transitCollecotr", transitCollector);
 const transitCollector =  allAssets.filter(ele => ele.file === "transit").map(ele => ele.data) //await Promise.all(transitCollector.map(ele => ele.json()))
 
 console.log("transitCollecotr", transitCollector);
+
 
 
 /**

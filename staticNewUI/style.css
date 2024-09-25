@@ -1,98 +1,68 @@
-body {
-    margin: 0;
-    padding: 0;
+.app {
+    display: grid;
+    height: 100vh;
+    width: 100vw;
 }
 
-#map {
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    width: 100%;
-    height: 100%;
-    z-index: 0; /* Set map below overlay */
+.loading{
+    display: grid;
+    height: 100vh;
+    width: 100vw;
+    align-items: center;
 }
 
-.map-overlay {
-    position: absolute;
-    top: 10px;
-    left: 10px;
-    background: rgba(255, 255, 255, 0.8);
-    margin: 10px;
-    padding: 10px;
-    font-family: 'Open Sans', sans-serif;
-    z-index: 1; /* Set overlay on top */
-    border-radius: 3px;
-    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.10);
+.isloaded {
+    display: none;
+    height: 100vh;
+    width: 100vw;
 }
 
-.map-overlay select,
-.map-overlay input {
-    width: 100%;
-    margin-bottom: 10px;
+.app.loaded .isloaded {
+    display: grid;
 }
 
-/* Media query for tablets */
-@media (min-width: 768px) and (max-width: 1024px) {
-    .map-overlay {
-        position: unset;
-
-        width: 100%;
-        height: 30%;
-        bottom: 0;
-        top: unset;
-        display: block;
-    }
-}
-
-/* Mobile styles */
-@media (max-width: 767px) {
-    .map-overlay {
-        position: unset;
-        width: 100%;
-        height: 90%;
-        bottom: 0;
-        top: unset;
-    }
-}
-
-/* Media query for tablets */
-@media (min-width: 768px) and (max-width: 1024px) {
-    #map { /* Use the correct ID selector */
-        position: absolute;
-        top: 0;
-        bottom: 0;
-        width: 100%;
-        height: 40%; /* Keep the map full height */
-        z-index: 0; /* Ensure it's under the overlay */
-    }
-}
-
-/* Mobile styles */
-@media (max-width: 767px) {
-    #map { /* Use the correct ID selector */
-        position: absolute;
-        top: 0;
-        bottom: 0;
-        width: 100%;
-        height: 40%; /* Full height for map */
-        z-index: 0; /* Ensure it's under the overlay */
-    }
-}
-
-/* Hide map if checkbox is checked */
-#map.hidden {
+.app.loaded .loading {
     display: none;
 }
 
-.map-overlay select,
-.map-overlay input {
-    width: 100%;
-    margin-bottom: 10px;
-}
 
-#checkbox-container {
-    position: absolute;
-    top: 10px;
-    right: 10px;
-    z-index: 10; /* Ensure it's above the map */
+/* From Uiverse.io by Satwinder04 */ 
+.loader {
+    /* background-color: blue; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .loader-text {
+    font-size: 24px;
+    color: rgb(0, 0, 0);
+    margin-bottom: 20px;
+    align-self: center;
+  }
+  
+  .loader-bar {
+    width: 30%;
+    height: 10px;
+    border-radius: 5px;
+    background-color: rgb(0, 0, 0);
+    animation: loader-bar-animation 2s ease-in-out infinite;
+  }
+  
+  @keyframes loader-bar-animation {
+    0% {
+      /* transform: translateX(-100%) rotate(270deg); */
+      transform: translateX(-100%);
+    }
+  
+    50% {
+      /* transform: translateX(100%) rotate(-90deg); */
+      transform: translateX(100%);
+    }
+  
+    100% {
+      /* transform: translateX(-100%) rotate(270deg); */
+      transform: translateX(-100%);
+    }
   }

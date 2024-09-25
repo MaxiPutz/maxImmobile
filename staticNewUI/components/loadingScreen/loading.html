@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+
+    <script type="importmap">
+        {
+            "imports": {
+                "lit": "https://cdn.jsdelivr.net/npm/lit@2.1.1/+esm",
+                "lit-html/directives/style-map.js": "https://cdn.zywave.com/lit-html@2.1.1/directives/"
+            }
+        }
+    </script>
+
+</head>
+<body>
+
+    
+
+
+    <div class="app">
+        <div class="loading">
+            <loading-screen></loading-screen>
+        </div>
+        <div class="isloaded">
+            <p>loaded</p>
+        </div>
+    </div>
+
+
+    <script type="module" src="./loadingScreen.js"></script>
+
+
+    <script>
+
+        setTimeout(()=> {
+            const app = document.querySelector(".app")
+            console.log(app);
+            app.classList.add("loaded")
+            
+        }, 100000)
+
+    </script>
+</body>
+</html>

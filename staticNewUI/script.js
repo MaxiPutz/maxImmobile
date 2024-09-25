@@ -1,7 +1,7 @@
 import "./urlController.js"
+import {dispatchSlotSize, map} from "./mapbox/mapboxComponent.js"
 import { setDispatchFilter } from "./components/leftMenu/leftMenuComponent.js";
 import {} from "./mapHidingScript.js"
-import {dispatchSlotSize, map} from "./mapbox/mapboxComponent.js"
 import  "./components/main/main.js"
 import  "./components/bottom/BottomComponent.js"
 import "./components/leftMenu/leftMenuComponent.js"

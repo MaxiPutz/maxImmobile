@@ -1,0 +1,24 @@
+.app {
+    display: grid;
+    height: 100vh;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+}
+
+.loading{
+    display: grid;
+}
+
+.isloaded {
+    display: none;
+}
+
+.app.loaded .isloaded {
+    display: grid;
+}
+
+.app.loaded .loading {
+    display: none;
+}
+
