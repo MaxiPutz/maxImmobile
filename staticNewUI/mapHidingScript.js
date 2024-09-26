@@ -1,5 +1,4 @@
-import { html, render, } from 'https://cdn.zywave.com/lit-html@2.1.1/lit-html.js';
-import { styleMap } from "https://cdn.zywave.com/lit-html@2.1.1/directives/style-map.js"
+import { html, render, } from 'lit';
 
 const hideMapCheckbox = () => {
 

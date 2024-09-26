@@ -54,7 +54,7 @@ async function  loadAssetes() {
 
 
         const transitPath = "../../assets/transit/"
-        const transitFiles =  transitOptions.map( ele => transitPath + "/" + ele)
+        const transitFiles =  transitOptions.map( ele => transitPath + ele)
 
         promisesAll.push(...transitFiles.map((ele) => new Promise((resolve) => fetch(ele).then(ele =>  resolve(({file: "transit", data: ele} ))) ) ))
 

@@ -8,7 +8,7 @@ import {  getCardStyle, listStyles } from "./styles.js"
 import { mapId } from "../../mapbox/staticNames.js"
 import { cardtemplateComponent } from "./cardTemplate.js"
 import { globaHostStyle } from "../globalStyle.js"
-import { CardComponent } from "./cardComponent/CardComponent.js"
+import { CardComponent, getHideListFromLocalStorage } from "./cardComponent/CardComponent.js"
 
 /**
  * @typedef {Object} filterParam
@@ -147,9 +147,13 @@ class BottomComponent extends LitElement {
 
         console.log("this.filterVal",this.filterVal);
         
+
+        const hideList = getHideListFromLocalStorage()
+
+
         return html`
         <div id="list" class="close">
-            ${renderDivs(this.filterVal, this.sortState)}
+            ${renderDivs(this.filterVal, this.sortState).filter(rd => !hideList.some(hd => hd.url === rd.cardInfo.url)) }
         </div>
         `
     }
@@ -162,7 +166,7 @@ customElements.define("bottom-commponent", BottomComponent)
  * 
  * @param {filterParam & import("../../mapbox/viewInfos/viewInfos.js").Boundary} filterParam 
  * @param {import("../main/floatingActionButton/floatingActionButton.js").Sort[]} sortState
- * @returns 
+ * @returns {CardComponent []}
  */
 function renderDivs (filterParam, sortState) {
     const minPrice = filterParam.minPrice

@@ -1,5 +1,5 @@
 import { html, LitElement, render } from "lit";
-import { CardComponent, getFavoritListFromLocalStorage } from "../../bottom/cardComponent/CardComponent.js";
+import { CardComponent, getFavoritListFromLocalStorage, getHideListFromLocalStorage } from "../../bottom/cardComponent/CardComponent.js";
 import { styleFavoritList } from "./styleFavoritList.js";
 import { favoriteDisable, favoriteEnable } from "../../bottom/cardComponent/svg.js";
 import { closeIcon } from "./closeSvg.js";
@@ -103,6 +103,7 @@ export class FavoritList extends LitElement {
         console.log("call render", this.favoritList.length);
         console.log("call render", this.favoritList.length);
 
+        
 
         return html`
         <div class="container">

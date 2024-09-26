@@ -58,12 +58,13 @@ export function addTransitTextLayer (map, info) {
         'id': info.layer,
         'type': 'symbol',
         'source': info.source,
+        'minzoom': 12,
         'layout': {
             'text-field': ['get', 'title'],
             'text-font': ['Open Sans Semibold', 'Arial Unicode MS Bold'],
             'text-offset': [0, 1.25],
             'text-anchor': 'top',
-            'text-optional': true,
+            'text-optional': false,
         }
     });
 }

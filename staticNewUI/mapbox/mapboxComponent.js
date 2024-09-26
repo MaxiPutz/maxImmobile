@@ -63,7 +63,7 @@ class MapBox extends LitElement {
         this.accessToken = mapboxglAccessToken; // Set your Mapbox token here or pass it as a property
         this.lat = 48.2082; // Default latitude (Vienna)
         this.lng = 16.3738; // Default longitude (Vienna)
-        this.zoom = 12;     // Default zoom level
+        this.zoom = 10.5;     // Default zoom level
         this.markers = [];  // Default empty markers array
         this.map = undefined
 
@@ -90,7 +90,7 @@ class MapBox extends LitElement {
             container: this.shadowRoot.getElementById('map'),
             style: `mapbox://styles/mapbox/streets-v12`,
             center: [16.3738, 48.2082], // Centered on Vienna, Austria
-            zoom: 12
+            zoom: this.zoom
         });
 
         map = this.map
