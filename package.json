@@ -7,7 +7,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "rollup -c && npm run assets",
-    "assets": "cp -r staticNewUI/assets public/assets && rm -r public/assets/private && cp staticNewUI/index.html public/ && echo \"import './bundler/bundler/bundle.js'\" > public/script.js && cp staticNewUI/style.css public"
+    "assets": "cp -r staticNewUI/assets public && rm -r public/assets/private && cp staticNewUI/index.html public/ && echo \"import './bundler/bundler/bundle.js'\" > public/script.js && cp staticNewUI/style.css public"
     ,
     "start": "node server.js"
   },
