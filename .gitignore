@@ -18,3 +18,7 @@ static/private/token.js
 staticNewUI/private/token.js
 staticNewUI/assets/input.json
 staticNewUI/private/token.js
+
+public/assets/input.json
+public/assets/transit/*
+public/bundler/bundler/bundle.js

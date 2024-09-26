@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>maxim.mobil</title>
+    
+    <link rel="icon" type="image/webp" href="assets/favicon.webp">
+    <link rel="stylesheet" href="style.css">
+
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.js"></script> 
+    <script src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.7.0/mapbox-gl-geocoder.min.js"></script>
+  
+    <style>
+ 
+    </style>
+    <script type="importmap">
+        {
+            "imports": {
+                "lit": "https://cdn.jsdelivr.net/npm/lit@2.1.1/+esm",
+                "lit-html/directives/style-map.js": "https://cdn.zywave.com/lit-html@2.1.1/directives/"
+            }
+        }
+    </script>
+
+
+</head>
+
+<body>
+
+    
+
+
+
+
+
+    <script type="module" src="script.js"></script>
+
+
+    <div class="app">
+        <div class="loading">
+            <div class="loader">
+                <div class="loader-text">Loading...</div>
+                <div class="loader-bar"></div>
+            </div>
+        
+        </div>
+        <div class="isloaded">
+            <main-view>
+                <slot slot="left-menu">  <left-menu-component></left-menu-component> </slot>  
+                <slot slot="right-menu">        <check-box-area/></slot>  
+                <slot slot="main-content"> <map-box></map-box> </slot>  
+                <slot slot="list-content"> <bottom-commponent></bottom-commponent></slot>  
+              </main-view>
+        </div>
+    </div>
+
+
+</body>
+
+</html>

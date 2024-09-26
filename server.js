@@ -7,8 +7,10 @@ const port = 3000
 const app = express()
 
 app.use(cors())
-app.use( express.static('staticNewUI')); 
+app.use("/new", express.static('staticNewUI')); 
 app.use('/old',express.static('static'));
+app.use(express.static('public'));
+
 
 
 app.listen(port, () => console.log("server is listen on port " + port))

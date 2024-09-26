@@ -29,6 +29,7 @@ node index.js
 cd "../../"
 
 cp ./static/assets/input.json ./staticNewUI/assets/input.json
+cp ./static/assets/input.json ./public/assets/input.json
 
 europeanDate=$(date +'%d-%m-%Y')
 
