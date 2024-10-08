@@ -4,6 +4,8 @@ This project is a web-based platform that provides users with comprehensive info
 
 ## Features
 ![alt text](image.png)
+![image](https://github.com/user-attachments/assets/9a9daa26-ab31-4722-962f-bda4edde1424)
+
 ### 1. MapBox Integration
 - Displays real estate properties using latitude and longitude data on an interactive map.
 - Only properties within the current viewport of the map are shown in the accompanying list.
@@ -11,27 +13,32 @@ This project is a web-based platform that provides users with comprehensive info
 ### 2. Property List
 - A dynamic list of real estate properties that updates as the user navigates through the map.
 - Each list item represents an estate within the map’s current viewport.
-![alt text](image-1.png)
+![image-1](https://github.com/user-attachments/assets/d93cf171-5c26-46da-a114-66a8b9f03650)
+
 ### 3. Transit Layer
 - Displays color-filled rectangles on the map to indicate transport times around Vienna.
   - **Green**: Short transportation time.
   - **Red**: Long transportation time.
 - Each rectangle includes an overlay with the exact transport time for clearer understanding.
-![alt text](image-2.png)
+![image-2](https://github.com/user-attachments/assets/614889cf-457a-4eab-9bce-405efc0b907a)
+
 ### 4. Property Cards
 - Each property in the list is displayed as a card containing the following features:
   - **Open in Link**: Navigate to the detailed page of the property.
   - **Hide**: Remove the property from the current list view.
   - **Add to Favorites**: Save the property to a personal favorites list.
-![alt text](image-3.png)
+![image-3](https://github.com/user-attachments/assets/d6cba3ad-429d-4cb4-87c3-b886e6c82a07)
+
 ### 5. Favorites List
 - A feature to view and manage favorite properties.
 - Users can access their favorites list and interact with it from the side menu.
-![alt text](image-4.png)
-![alt text](image-5.png)
+![image-4](https://github.com/user-attachments/assets/76b2c9e1-0786-4d1f-b58a-6ab9ab6a2b9c)
+![image-5](https://github.com/user-attachments/assets/7753dcd0-741c-44b4-8b7e-2eae0e5c9823)
+
 ### 6. Two Menu Bars
 - **Filter Menu**: Allows users to filter properties based on specific features.
 - **Transit Layer Menu**: Users can switch between different transit layers or access the favorites list from this menu.
+![image-6](https://github.com/user-attachments/assets/bfada9d0-1279-4c60-8fa7-cb3493825ec9)
 
 ## Technologies Used
 - **MapBox**: For displaying interactive maps and integrating real estate locations with lat/lng data.
