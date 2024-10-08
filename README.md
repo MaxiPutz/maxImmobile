@@ -39,31 +39,34 @@ This project is a web-based platform that provides users with comprehensive info
 
 ## How to Set Up the Project
 
-1. **Clone the Repository**
+### 1. **Clone the Repository**
    ```bash
    git clone https://github.com/yourusername/real-estate-vienna.git
-   cd real-estate-vienna```
-2. **Create Access Token File**
+   cd real-estate-vienna
+   ```
+### 2. **Create Access Token File**
    Create a file in the following path: `staticNewUI/private/`
    
    Inside the file, add the following content:
 
-   ```javascript
+   ```
    const token = "yourMapboxAccessToken";
    export const mapboxglAccessToken = token;
    export const accessTokenObject = {
      token: token
    };
    ```
-    Replace "yourMapboxAccessToken" with your actual Mapbox access token.
-3. **Install Dependencies**
-    Ensure that you have npm and node installed on your system. Then, run:
-    ```
-    npm install
-    ```
-4. **Run the Development** Server Start the development server with the following command:
-    ```
-    npm run start
-    ```
-    This will launch the application in your default browser at http://localhost:3000.
+Replace "yourMapboxAccessToken" with your actual Mapbox access token.
+### 3. **Install Dependencies**
+Ensure that you have npm and node installed on your system. Then, run:
+```
+npm install
+```
+
+### 4. **Run the Development** 
+Server Start the development server with the following command:
+```
+npm run start
+```
+This will launch the application in your default browser at http://localhost:3000.
 
