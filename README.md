@@ -3,7 +3,7 @@
 This project is a web-based platform that provides users with comprehensive information about real estate properties in the area around Vienna. It includes interactive features such as a MapBox integration for displaying property locations, a transit layer for visualizing transport times, and a user-friendly interface for managing favorite properties.
 
 ## Features
-
+![alt text](image.png)
 ### 1. MapBox Integration
 - Displays real estate properties using latitude and longitude data on an interactive map.
 - Only properties within the current viewport of the map are shown in the accompanying list.
@@ -11,23 +11,24 @@ This project is a web-based platform that provides users with comprehensive info
 ### 2. Property List
 - A dynamic list of real estate properties that updates as the user navigates through the map.
 - Each list item represents an estate within the map’s current viewport.
-
+![alt text](image-1.png)
 ### 3. Transit Layer
 - Displays color-filled rectangles on the map to indicate transport times around Vienna.
   - **Green**: Short transportation time.
   - **Red**: Long transportation time.
 - Each rectangle includes an overlay with the exact transport time for clearer understanding.
-
+![alt text](image-2.png)
 ### 4. Property Cards
 - Each property in the list is displayed as a card containing the following features:
   - **Open in Link**: Navigate to the detailed page of the property.
   - **Hide**: Remove the property from the current list view.
   - **Add to Favorites**: Save the property to a personal favorites list.
-
+![alt text](image-3.png)
 ### 5. Favorites List
 - A feature to view and manage favorite properties.
 - Users can access their favorites list and interact with it from the side menu.
-
+![alt text](image-4.png)
+![alt text](image-5.png)
 ### 6. Two Menu Bars
 - **Filter Menu**: Allows users to filter properties based on specific features.
 - **Transit Layer Menu**: Users can switch between different transit layers or access the favorites list from this menu.
