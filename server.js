@@ -13,7 +13,7 @@ app.use(express.static('public'));
 
 
 
-app.listen(port, () => console.log("server is listen on port " + port))
+app.listen(port, () => console.log("server is listen on port " + port + "\n" + `productiv is if you run npm build then you can join the webside on http://yourUrl:${port}` + ` debug version is on http://localhost:${port}/new`))
 
 const transitPath = "./static/assets/transit/"
 const files = fs.readdirSync(transitPath).filter(ele => ele.includes(".json"))

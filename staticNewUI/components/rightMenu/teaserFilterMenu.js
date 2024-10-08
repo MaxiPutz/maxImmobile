@@ -288,3 +288,6 @@ function orFilter(obj) {
     
     return result
 }
+
+
+export const filterType = [...teaserList, "genossenschaft", "willhaben", "immoScout"]

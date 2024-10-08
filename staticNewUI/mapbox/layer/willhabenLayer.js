@@ -7,14 +7,16 @@ import { getWillhabenFeature, getWillhabenFiltedFeature } from "../inputParser/j
  * @param {string} info.source 
  * @param {string} info.layer 
  */
-export function addWillHabenLayer (map, info) {
-    map.addSource(info.source , {
+export function addWillHabenLayer(map, info) {
+    map.addSource(info.source, {
         'type': 'geojson',
         'data': {
             'type': 'FeatureCollection',
             'features': getWillhabenFiltedFeature()
         }
     });
+
+
 
     map.addLayer({
         'id': info.layer,
@@ -54,10 +56,10 @@ export function reloadWillhabenLayer(map, info) {
     }
 
     map.getSource(info.source).setData(newData);
-    
+
 
     console.log("reloadWillhaben Layer", newData);
     console.log(info);
-    
-    
+
+
 }

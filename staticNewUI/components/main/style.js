@@ -65,6 +65,7 @@ export const getFullScreen =  (openInfo)=> {
         grid-template-columns:${openInfo.isLeftOpen ? 1 : 0 }fr ${calcSpace(openInfo)}fr 1fr ${openInfo.isRightOpen ? 1 : 0 }fr;
 
         height: 100vh;
+        width: 100vw;
         transition: 0.3s;
     }
 
