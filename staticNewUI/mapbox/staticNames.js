@@ -22,5 +22,13 @@ export const mapId = {
     transitSquareMap: {
         source: "transitSquareSource",
         layer: "transitSquareLayer"
+    },
+    publicRailStation: {
+        source: "publicRailStationSource",
+        layer: "publicRailStationLayer"
+    },
+    publicBusStation: {
+        source: "publicBusStationSource",
+        layer: "publicBusStationLayer"
     }
 }

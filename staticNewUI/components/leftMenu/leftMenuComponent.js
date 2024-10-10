@@ -10,6 +10,7 @@ import { globaHostStyle } from "../globalStyle.js";
 import { FavoritList } from "./favoritList/favoritList.js";
 import { getFavoritListFromLocalStorage, getHideListFromLocalStorage } from "../bottom/cardComponent/CardComponent.js";
 import { favoriteEnable, hideDisable } from "../bottom/cardComponent/svg.js";
+import { LayerComponent } from "./layerVisible/layerComponent.js";
 
 let minPrice = -1;
 let maxPrice = 999999999;
@@ -100,7 +101,9 @@ class LeftMenuComponent extends LitElement {
           <div class="overlay-list">
             ${new FavoritList(hideDisable, getHideListFromLocalStorage)}
           </div>
-
+          <div>
+              ${new LayerComponent()}
+          </div>
         </div>
         `
   }

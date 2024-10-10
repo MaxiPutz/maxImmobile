@@ -12,6 +12,7 @@ import { setCustomRenderForTeaserFilterMenu } from "./components/rightMenu/tease
 import { setDispatchSortState } from "./components/main/floatingActionButton/floatingActionButton.js";
 import { setDispatchFavoritList } from "./components/bottom/cardComponent/CardComponent.js";
 import { dispatchFavoritList } from "./components/leftMenu/favoritList/favoritList.js";
+import { LayerComponent } from "./components/leftMenu/layerVisible/layerComponent.js";
 
 
 

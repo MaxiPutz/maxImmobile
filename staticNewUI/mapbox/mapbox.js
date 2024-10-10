@@ -1,6 +1,7 @@
 import {mapboxglAccessToken} from "../private/token.js"
 import { willhabenJson } from "./inputParser/inputWrapper.js";
 import { getTransitInfoFeature, getWillhabenFeature, getTransitInfoSquareFeature } from "./inputParser/jsonToMapboxFeature.js"
+import { addRailStationLayer } from "./layer/railLayer.js";
 import { addTransitCyrcleLayer, addTransitMarkerLayer, addTransitSquareLayer, addTransitTextLayer } from "./layer/transitLayer.js";
 import { addWillHabenLayer } from "./layer/willhabenLayer.js";
 import { logic } from "./logic.js";
@@ -43,7 +44,7 @@ map.on('load', () => {
         addTransitTextLayer(map, mapId.transitText)
         
         addWillHabenLayer(map, mapId.willhaben)
-
+        
         //addTransitCyrcleLayer(map, mapId.transitCyrcle)
 
         

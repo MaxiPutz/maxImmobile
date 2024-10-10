@@ -2,13 +2,14 @@ import { getMainSize } from "../components/main/main.js";
 import { mapboxglAccessToken } from "../private/token.js"
 import { willhabenJson } from "./inputParser/inputWrapper.js";
 import { getTransitInfoFeature, getWillhabenFeature, getTransitInfoSquareFeature } from "./inputParser/jsonToMapboxFeature.js"
+import { addBusStationLayer } from "./layer/busLayer.js";
+import { addRailStationLayer } from "./layer/railLayer.js";
 import { addTransitCyrcleLayer, addTransitMarkerLayer, addTransitSquareLayer, addTransitTextLayer } from "./layer/transitLayer.js";
 import { addWillHabenLayer } from "./layer/willhabenLayer.js";
 import { logic } from "./logic.js";
 import { mapId } from "./staticNames.js";
 import { setViewCoords } from "./viewInfos/viewInfos.js";
 import { LitElement, html, css } from "lit"
-
 
 let map = {}
 const defaultLat = 48.2082
@@ -105,18 +106,35 @@ class MapBox extends LitElement {
 
 
         map.on('load', () => {
+
+            map.loadImage("https://img.icons8.com/ios-filled/50/000000/bus.png" , (err, img) => {
+                map.addImage("bus-marker", img)
+                addBusStationLayer(map, mapId.publicBusStation)
+                
+            })
+        
+            map.loadImage("https://img.icons8.com/ios-filled/50/000000/train.png" , (err, img) => {
+                map.addImage("rail-marker", img)
+                addRailStationLayer(map, mapId.publicRailStation)
+            })
+        
+
             map.loadImage('https://docs.mapbox.com/mapbox-gl-js/assets/custom_marker.png', (error, image) => {
                 if (error) {
                     console.error('Error loading image:', error);
                     return;
                 }
                 map.addImage('custom-marker', image);
-
+         
                 addTransitSquareLayer(map, mapId.transitSquareMap)
 
                 addTransitTextLayer(map, mapId.transitText)
 
                 addWillHabenLayer(map, mapId.willhaben)
+
+                console.log("railStation");
+        
+                
 
                 //addTransitCyrcleLayer(map, mapId.transitCyrcle)
 

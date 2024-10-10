@@ -30,6 +30,7 @@ cd "../../"
 
 cp ./static/assets/input.json ./staticNewUI/assets/input.json
 cp ./static/assets/input.json ./public/assets/input.json
+cp -r ./staticNewUI/assets/publicStation ./public/assets/publicStation 
 
 europeanDate=$(date +'%d-%m-%Y')
 
