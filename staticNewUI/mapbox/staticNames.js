@@ -30,5 +30,13 @@ export const mapId = {
     publicBusStation: {
         source: "publicBusStationSource",
         layer: "publicBusStationLayer"
+    },
+    circle: {
+        source: "circleSource",
+        layer: "circleLayer"
+    },
+    line: {
+        source: "lineSource",
+        layer: "lineLayer"
     }
 }
