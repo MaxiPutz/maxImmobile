@@ -25,8 +25,8 @@ const girdClass = css`
 
     .d {
         grid-area: d;
+        z-index: 3;
         background-color: white;
-        padding-right: 100px
     }
 
     div {

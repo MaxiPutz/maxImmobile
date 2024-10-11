@@ -84,7 +84,7 @@ class MapBox extends LitElement {
     .button {
         position: absolute;
         width: 100vw;
-        z-index: 1000000000;
+        z-index: 2;
 
     }
 
