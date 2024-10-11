@@ -61,8 +61,13 @@ export const getFullScreen =  (openInfo)=> {
             "a c c b"
             "a d d b";
 
-        grid-template-rows: ${openInfo.isBottomOpen ? 0 : 1}fr ${openInfo.isBottomOpen ? 0 : 1}fr 1fr;
-        grid-template-columns:${openInfo.isLeftOpen ? 1 : 0 }fr ${calcSpace(openInfo)}fr 1fr ${openInfo.isRightOpen ? 1 : 0 }fr;
+        grid-template-rows: 
+        ${openInfo.isBottomOpen ? 0 : 1}fr 
+        ${openInfo.isBottomOpen ? 0 : 1}fr 1fr;
+        grid-template-columns:
+        ${openInfo.isLeftOpen ? 1 : 0 }fr 
+        ${calcSpace(openInfo)}fr 
+        ${openInfo.isRightOpen ? 1 : 0 }fr;
 
         height: 100vh;
         width: 100vw;
