@@ -3,6 +3,7 @@ import { css } from "lit";
 export const floatingActinButtonStyle = css`
 
 .fab-container {
+    z-index: 10;
     position: absolute;
     display: block;
     bottom: 80px;
