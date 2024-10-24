@@ -24,7 +24,12 @@ node index.js
 cd "../../"
 
 cd "./updateAssets/mergeInput/"
-node index.js
+
+# update the input.json without merge
+cp ../fetchWillhabenImmo/result.json ./../static/assets/input.json
+
+## run the nextlince to merge willhaben and immoscout
+# node index.js
 
 cd "../../"
 
