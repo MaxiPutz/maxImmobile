@@ -19,4 +19,10 @@ staticNewUI/private/token.js
 staticNewUI/assets/input.json
 staticNewUI/private/token.js
 
+
+public/assets/transit
+static/assets/transit
+staticNewUI/assets/transit
+
 public/*
+assets/transit/*
