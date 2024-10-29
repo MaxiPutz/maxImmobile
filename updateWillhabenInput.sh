@@ -25,8 +25,6 @@ cd "../../"
 
 cd "./updateAssets/mergeInput/"
 
-# update the input.json without merge
-cp ../fetchWillhabenImmo/result.json ./../static/assets/input.json
 
 ## run the nextline to merge willhaben and immoscout
 node index.js
