@@ -42,5 +42,7 @@ europeanDate=$(date +'%d-%m-%Y')
 zip -j backup/willHabenimmo_${europeanDate}.zip "./updateAssets/fetchWillhabenImmo/result.json"
 zip -j backup/immoScoummp_${europeanDate}.zip "./updateAssets/fetchImmoScout/result.json"
 
+cp ./updateAssets/fetchImmoScout/result.json ./static/assets/input.json
+
 # Print success message
 echo "Update complete and backups created: willHabenimmo_${europeanDate}.zip and source2immo_${europeanDate}.zip"
