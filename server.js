@@ -3,13 +3,15 @@ import cors from "cors"
 import fs from "fs"
 
 const port = 3000
+const BASE_PATH = process.env.BASE_PATH ?? ""
 
+console.log(BASE_PATH)
 const app = express()
 
 app.use(cors())
-app.use("/new", express.static('staticNewUI')); 
-app.use('/old',express.static('static'));
-app.use(express.static('public'));
+app.use(`${BASE_PATH}/new`, express.static("staticNewUI"))
+app.use(`${BASE_PATH}/old`, express.static("static"))
+app.use(`${BASE_PATH}`, express.static("public"))
 
 
 
@@ -27,13 +29,13 @@ files = fs.readdirSync(transitPath)
 const staticDirs = [
   "./public/assets/transit/",
   "./staticNewUI/assets/transit/",
-  "./static/assets/transit/" 
+  "./static/assets/transit/"
 ]
 
-staticDirs.flatMap(dir => fs.readdirSync(dir).map(_dir => dir+ _dir).filter(e => e.includes(".js")) ).forEach(ele => fs.unlinkSync(ele))
+staticDirs.flatMap(dir => fs.readdirSync(dir).map(_dir => dir + _dir).filter(e => e.includes(".js"))).forEach(ele => fs.unlinkSync(ele))
 
 files.forEach(file => {
-  const content = fs.readFileSync(transitPath+"/" + file).toString()
+  const content = fs.readFileSync(transitPath + "/" + file).toString()
 
   staticDirs.forEach(dir => fs.writeFileSync(dir + file, content))
 })
