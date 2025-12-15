@@ -9006,4 +9006,1290 @@ no child and no teaser
     "upsellingOrganisationLogo": "https://cache.willhaben.at/mmo/logo/adSearchResult/19026547/wertimmobilien_logo_15946125584665783512_13146695655794834453_medium.png",
     "teaserAttributes": [],
     "children": null
+}no child and no teaser
+{
+    "id": "1042655471",
+    "verticalId": 2,
+    "adTypeId": 16,
+    "productId": 270,
+    "advertStatus": {
+        "id": "active",
+        "description": "aktiv",
+        "statusId": 50
+    },
+    "description": "Kierlinger Straße 118-122, 3400 Klosterneuburg - Ateliers -nur zur gewerblichen Nutzung",
+    "attributes": {
+        "attribute": [
+            {
+                "name": "LOCATION",
+                "values": [
+                    "Klosterneuburg"
+                ]
+            },
+            {
+                "name": "POSTCODE",
+                "values": [
+                    "3400"
+                ]
+            },
+            {
+                "name": "STATE",
+                "values": [
+                    "Niederösterreich"
+                ]
+            },
+            {
+                "name": "BODY_DYN",
+                "values": [
+                    "Wir weisen darauf hin, dass zwischen dem Vermittler und dem zu vermittelnden Dritten ein familiäres oder wirtschaftliches Naheverhältnis besteht. Projekteinheiten Zimmeranzahl: 1 Die Immobilie in der Kierlinger Straße 3400 Klosterneuburg besticht durch..."
+                ]
+            },
+            {
+                "name": "ORGNAME",
+                "values": [
+                    "Haring Group Bauträger GmbH"
+                ]
+            },
+            {
+                "name": "imagedescription",
+                "values": [
+                    "Bild"
+                ]
+            },
+            {
+                "name": "ORG_UUID",
+                "values": [
+                    "33f94e82-d3d1-40c2-8991-c82a3667e9e5"
+                ]
+            },
+            {
+                "name": "DISTRICT",
+                "values": [
+                    "Tulln"
+                ]
+            },
+            {
+                "name": "HEADING",
+                "values": [
+                    "Kierlinger Straße 118-122, 3400 Klosterneuburg - Ateliers -nur zur gewerblichen Nutzung"
+                ]
+            },
+            {
+                "name": "LOCATION_QUALITY",
+                "values": [
+                    "1.0"
+                ]
+            },
+            {
+                "name": "PUBLISHED",
+                "values": [
+                    "1765541640000"
+                ]
+            },
+            {
+                "name": "COUNTRY",
+                "values": [
+                    "Österreich"
+                ]
+            },
+            {
+                "name": "LOCATION_ID",
+                "values": [
+                    "106706"
+                ]
+            },
+            {
+                "name": "NUMBER_OF_ROOMS",
+                "values": [
+                    "0"
+                ]
+            },
+            {
+                "name": "ADTYPE_ID",
+                "values": [
+                    "16"
+                ]
+            },
+            {
+                "name": "ADID",
+                "values": [
+                    "1042655471"
+                ]
+            },
+            {
+                "name": "ORGID",
+                "values": [
+                    "21073913"
+                ]
+            },
+            {
+                "name": "SEO_URL",
+                "values": [
+                    "immobilien/d/neubauprojekt/niederoesterreich/tulln/kierlinger-strasse-118-122-3400-klosterneuburg-ateliers-nur-zur-gewerblichen-nutzung-1042655471/"
+                ]
+            },
+            {
+                "name": "ALL_IMAGE_URLS",
+                "values": [
+                    "1/104/265/5471_-1294803269.jpg;1/104/265/5471_-127147674.jpg;1/104/265/5471_1101849448.jpg;1/104/265/5471_-1646533061.jpg;1/104/265/5471_-1789336902.jpg"
+                ]
+            },
+            {
+                "name": "PUBLISHED_String",
+                "values": [
+                    "2025-12-12T13:14:00Z"
+                ]
+            },
+            {
+                "name": "UPSELLING_AD_SEARCHRESULT",
+                "values": [
+                    "true"
+                ]
+            },
+            {
+                "name": "categorytreeids",
+                "values": [
+                    "5008881"
+                ]
+            },
+            {
+                "name": "PROJECT/UNIT_RENT_FROM",
+                "values": [
+                    "565.24"
+                ]
+            },
+            {
+                "name": "ADVERTISER_REF",
+                "values": [
+                    "1240/237976"
+                ]
+            },
+            {
+                "name": "PRODUCT_ID",
+                "values": [
+                    "270"
+                ]
+            },
+            {
+                "name": "IS_BUMPED",
+                "values": [
+                    "1"
+                ]
+            },
+            {
+                "name": "MMO",
+                "values": [
+                    "1/104/265/5471_-1294803269.jpg"
+                ]
+            },
+            {
+                "name": "AD_UUID",
+                "values": [
+                    "c6ee58da-c2bb-4b78-92a2-b34e9d305250"
+                ]
+            },
+            {
+                "name": "ADDRESS",
+                "values": [
+                    "Kierlinger Straße 118-122"
+                ]
+            },
+            {
+                "name": "AD_SEARCHRESULT_LOGO",
+                "values": [
+                    "adSearchResult/21073913/imageupload15529473232991889903hggplogo4c6_15481874149441703181.png"
+                ]
+            },
+            {
+                "name": "COORDINATES",
+                "values": [
+                    "48.3067303,16.3002968"
+                ]
+            },
+            {
+                "name": "PRICE",
+                "values": [
+                    "565.24"
+                ]
+            },
+            {
+                "name": "PRICE_FOR_DISPLAY",
+                "values": [
+                    "ab € 565,24"
+                ]
+            },
+            {
+                "name": "ISPRIVATE",
+                "values": [
+                    "0"
+                ]
+            },
+            {
+                "name": "UNIT_TITLE",
+                "values": [
+                    "1240/237976"
+                ]
+            }
+        ]
+    },
+    "advertImageList": {
+        "advertImage": [
+            {
+                "id": 1,
+                "name": "1/104/265/5471_-1294803269.jpg",
+                "selfLink": "https://api.willhaben.at/restapi/v2/atimage/1042655471/1",
+                "description": "Cover Image",
+                "mainImageUrl": "https://cache.willhaben.at/mmo/1/104/265/5471_-1294803269_hoved.jpg",
+                "thumbnailImageUrl": "https://cache.willhaben.at/mmo/1/104/265/5471_-1294803269_thumb.jpg",
+                "referenceImageUrl": "https://cache.willhaben.at/mmo/1/104/265/5471_-1294803269.jpg",
+                "similarImageSearchUrl": null,
+                "reference": "1/104/265/5471_-1294803269.jpg"
+            },
+            {
+                "id": 1,
+                "name": "1/104/265/5471_-127147674.jpg",
+                "selfLink": "https://api.willhaben.at/restapi/v2/atimage/1042655471/1",
+                "description": "Cover Image",
+                "mainImageUrl": "https://cache.willhaben.at/mmo/1/104/265/5471_-127147674_hoved.jpg",
+                "thumbnailImageUrl": "https://cache.willhaben.at/mmo/1/104/265/5471_-127147674_thumb.jpg",
+                "referenceImageUrl": "https://cache.willhaben.at/mmo/1/104/265/5471_-127147674.jpg",
+                "similarImageSearchUrl": null,
+                "reference": "1/104/265/5471_-127147674.jpg"
+            },
+            {
+                "id": 1,
+                "name": "1/104/265/5471_1101849448.jpg",
+                "selfLink": "https://api.willhaben.at/restapi/v2/atimage/1042655471/1",
+                "description": "Cover Image",
+                "mainImageUrl": "https://cache.willhaben.at/mmo/1/104/265/5471_1101849448_hoved.jpg",
+                "thumbnailImageUrl": "https://cache.willhaben.at/mmo/1/104/265/5471_1101849448_thumb.jpg",
+                "referenceImageUrl": "https://cache.willhaben.at/mmo/1/104/265/5471_1101849448.jpg",
+                "similarImageSearchUrl": null,
+                "reference": "1/104/265/5471_1101849448.jpg"
+            }
+        ],
+        "floorPlans": []
+    },
+    "selfLink": "https://api.willhaben.at/restapi/v2/atverz/1042655471",
+    "contextLinkList": {
+        "contextLink": [
+            {
+                "id": "selfLink",
+                "description": "Identifies this entity",
+                "uri": "https://api.willhaben.at/restapi/v2/atverz/1042655471",
+                "selected": false,
+                "relativePath": "/atverz/1042655471",
+                "serviceName": "iad"
+            },
+            {
+                "id": "seoSelfLink",
+                "description": "Self reference",
+                "uri": "https://api.willhaben.at/restapi/v2/atverz/immobilien/d/mietwohnungen/niederoesterreich/tulln/kierlinger-strasse-118-122-3400-klosterneuburg-ateliers-nur-zur-gewerblichen-nutzung-1042655471/",
+                "selected": false,
+                "relativePath": "/atverz/immobilien/d/mietwohnungen/niederoesterreich/tulln/kierlinger-strasse-118-122-3400-klosterneuburg-ateliers-nur-zur-gewerblichen-nutzung-1042655471/",
+                "serviceName": "iad"
+            },
+            {
+                "id": "adDetailLink",
+                "description": "Self reference to advert via ad detail component",
+                "uri": "https://publicapi.willhaben.at/atdetail/v1/1042655471",
+                "selected": false,
+                "relativePath": "/1042655471",
+                "serviceName": "addetail"
+            },
+            {
+                "id": "removeAdFromFolder",
+                "description": "Remove ad from any folder",
+                "uri": "https://api.willhaben.at/restapi/v2/userfolders/remove/1042655471",
+                "selected": false,
+                "relativePath": "/userfolders/remove/1042655471",
+                "serviceName": "iad"
+            },
+            {
+                "id": "getFolderSaveLinks",
+                "description": "Get contextlinks to save the ad in the users folders",
+                "uri": "https://api.willhaben.at/restapi/v2/userfolders/links/1042655471",
+                "selected": false,
+                "relativePath": "/userfolders/links/1042655471",
+                "serviceName": "iad"
+            },
+            {
+                "id": "iadShareLink",
+                "description": "Share link in iAd",
+                "uri": "https://www.willhaben.at/iad/object?adId=1042655471",
+                "selected": false,
+                "relativePath": "/iad/object?adId=1042655471",
+                "serviceName": "web_url"
+            }
+        ]
+    },
+    "advertiserInfo": {
+        "label": "Haring Group Bauträger GmbH",
+        "iconSVG": null,
+        "iconPNG": null,
+        "iconType": "NONE"
+    },
+    "upsellingOrganisationLogo": "https://cache.willhaben.at/mmo/logo/adSearchResult/21073913/imageupload15529473232991889903hggplogo4c6_15481874149441703181_medium.png",
+    "teaserAttributes": [],
+    "children": null
+}no child and no teaser
+{
+    "id": "1510133625",
+    "verticalId": 2,
+    "adTypeId": 16,
+    "productId": 270,
+    "advertStatus": {
+        "id": "active",
+        "description": "aktiv",
+        "statusId": 50
+    },
+    "description": "\"ein viertel grün\", 39 freifinanzierte Wohnungen im ehemaligen Stadionareal in Wiener Neustadt",
+    "attributes": {
+        "attribute": [
+            {
+                "name": "LOCATION",
+                "values": [
+                    "Wiener Neustadt"
+                ]
+            },
+            {
+                "name": "POSTCODE",
+                "values": [
+                    "2700"
+                ]
+            },
+            {
+                "name": "STATE",
+                "values": [
+                    "Niederösterreich"
+                ]
+            },
+            {
+                "name": "BODY_DYN",
+                "values": [
+                    "39 freifinanzierte Wohnungen 2 - 4 Zimmer Wohnungsgrößen zwischen 58 m² und 88 m² jede Wohnung verfügt über einen Freiraum (Garten, Balkon/Loggia, Terrasse) Auf dem Baufeld 8 sind 2 Wohnhausanlagen mit 3 bzw. 6 Ebenen fertig gestellt, welche eine..."
+                ]
+            },
+            {
+                "name": "ORGNAME",
+                "values": [
+                    "EGW Erste gemeinnützige Wohnungsgesellschaft mbH"
+                ]
+            },
+            {
+                "name": "ORG_UUID",
+                "values": [
+                    "d1c07cde-a6b1-45d9-80d9-c82a3667e9e5"
+                ]
+            },
+            {
+                "name": "DISTRICT",
+                "values": [
+                    "Wiener Neustadt"
+                ]
+            },
+            {
+                "name": "HEADING",
+                "values": [
+                    "\"ein viertel grün\", 39 freifinanzierte Wohnungen im ehemaligen Stadionareal in Wiener Neustadt"
+                ]
+            },
+            {
+                "name": "LOCATION_QUALITY",
+                "values": [
+                    "0.79"
+                ]
+            },
+            {
+                "name": "PUBLISHED",
+                "values": [
+                    "1765294920000"
+                ]
+            },
+            {
+                "name": "COUNTRY",
+                "values": [
+                    "Österreich"
+                ]
+            },
+            {
+                "name": "LOCATION_ID",
+                "values": [
+                    "103170"
+                ]
+            },
+            {
+                "name": "NUMBER_OF_ROOMS",
+                "values": [
+                    "0"
+                ]
+            },
+            {
+                "name": "ADTYPE_ID",
+                "values": [
+                    "16"
+                ]
+            },
+            {
+                "name": "ADID",
+                "values": [
+                    "1510133625"
+                ]
+            },
+            {
+                "name": "ORGID",
+                "values": [
+                    "19335301"
+                ]
+            },
+            {
+                "name": "SEO_URL",
+                "values": [
+                    "immobilien/d/neubauprojekt/niederoesterreich/wiener-neustadt/-ein-viertel-gruen-39-freifinanzierte-wohnungen-im-ehemaligen-stadionareal-in-wiener-neustadt-1510133625/"
+                ]
+            },
+            {
+                "name": "ALL_IMAGE_URLS",
+                "values": [
+                    "5/151/013/3625_-30942338.jpg;5/151/013/3625_-388504257.jpg;5/151/013/3625_-1871059499.jpg;5/151/013/3625_215607424.jpg;5/151/013/3625_-1155145315.jpg;5/151/013/3625_2042291403.jpg;5/151/013/3625_1816717586.jpg;5/151/013/3625_1494999846.jpg;5/151/013/3625_1918493459.jpg;5/151/013/3625_1828119502.jpg;5/151/013/3625_1719330284.jpg;5/151/013/3625_-1440948162.jpg;5/151/013/3625_-1573529658.jpg;5/151/013/3625_1894705804.jpg;5/151/013/3625_-2119380184.jpg;5/151/013/3625_-675555856.jpg;5/151/013/3625_51766046.jpg;5/151/013/3625_1674099437.jpg;5/151/013/3625_1791221352.jpg;5/151/013/3625_-654453312.jpg;5/151/013/3625_-1376594999.jpg;5/151/013/3625_1977276758.jpg;5/151/013/3625_892726703.jpg;5/151/013/3625_-1961763205.jpg;5/151/013/3625_-1787043742.jpg;5/151/013/3625_-1517039812.jpg;5/151/013/3625_41541597.jpg;5/151/013/3625_-862525700.jpg"
+                ]
+            },
+            {
+                "name": "PUBLISHED_String",
+                "values": [
+                    "2025-12-09T16:42:00Z"
+                ]
+            },
+            {
+                "name": "ESTATE_PREFERENCE",
+                "values": [
+                    "2146911743, 23, 24, 4"
+                ]
+            },
+            {
+                "name": "UPSELLING_AD_SEARCHRESULT",
+                "values": [
+                    "true"
+                ]
+            },
+            {
+                "name": "categorytreeids",
+                "values": [
+                    "5008881"
+                ]
+            },
+            {
+                "name": "PROJECT/UNIT_RENT_FROM",
+                "values": [
+                    "836.0"
+                ]
+            },
+            {
+                "name": "ADVERTISER_REF",
+                "values": [
+                    "16930"
+                ]
+            },
+            {
+                "name": "PRODUCT_ID",
+                "values": [
+                    "270"
+                ]
+            },
+            {
+                "name": "IS_BUMPED",
+                "values": [
+                    "1"
+                ]
+            },
+            {
+                "name": "MMO",
+                "values": [
+                    "5/151/013/3625_-30942338.jpg"
+                ]
+            },
+            {
+                "name": "AD_UUID",
+                "values": [
+                    "b4909aa0-8e17-4c27-8f1d-b34e9d305250"
+                ]
+            },
+            {
+                "name": "ADDRESS",
+                "values": [
+                    "Elisabeth Bollenberger-Gasse 6 u. 8"
+                ]
+            },
+            {
+                "name": "AD_SEARCHRESULT_LOGO",
+                "values": [
+                    "adSearchResult/19335301/egw_gemeinn_tzige__2407569128754616580_9737871951992930589.png"
+                ]
+            },
+            {
+                "name": "COORDINATES",
+                "values": [
+                    "47.82225,16.25609"
+                ]
+            },
+            {
+                "name": "PRICE",
+                "values": [
+                    "836"
+                ]
+            },
+            {
+                "name": "PRICE_FOR_DISPLAY",
+                "values": [
+                    "ab € 836"
+                ]
+            },
+            {
+                "name": "ISPRIVATE",
+                "values": [
+                    "0"
+                ]
+            },
+            {
+                "name": "UNIT_TITLE",
+                "values": [
+                    "16930"
+                ]
+            }
+        ]
+    },
+    "advertImageList": {
+        "advertImage": [
+            {
+                "id": 1,
+                "name": "5/151/013/3625_-30942338.jpg",
+                "selfLink": "https://api.willhaben.at/restapi/v2/atimage/1510133625/1",
+                "description": "Cover Image",
+                "mainImageUrl": "https://cache.willhaben.at/mmo/5/151/013/3625_-30942338_hoved.jpg",
+                "thumbnailImageUrl": "https://cache.willhaben.at/mmo/5/151/013/3625_-30942338_thumb.jpg",
+                "referenceImageUrl": "https://cache.willhaben.at/mmo/5/151/013/3625_-30942338.jpg",
+                "similarImageSearchUrl": null,
+                "reference": "5/151/013/3625_-30942338.jpg"
+            },
+            {
+                "id": 1,
+                "name": "5/151/013/3625_-388504257.jpg",
+                "selfLink": "https://api.willhaben.at/restapi/v2/atimage/1510133625/1",
+                "description": "Cover Image",
+                "mainImageUrl": "https://cache.willhaben.at/mmo/5/151/013/3625_-388504257_hoved.jpg",
+                "thumbnailImageUrl": "https://cache.willhaben.at/mmo/5/151/013/3625_-388504257_thumb.jpg",
+                "referenceImageUrl": "https://cache.willhaben.at/mmo/5/151/013/3625_-388504257.jpg",
+                "similarImageSearchUrl": null,
+                "reference": "5/151/013/3625_-388504257.jpg"
+            },
+            {
+                "id": 1,
+                "name": "5/151/013/3625_-1871059499.jpg",
+                "selfLink": "https://api.willhaben.at/restapi/v2/atimage/1510133625/1",
+                "description": "Cover Image",
+                "mainImageUrl": "https://cache.willhaben.at/mmo/5/151/013/3625_-1871059499_hoved.jpg",
+                "thumbnailImageUrl": "https://cache.willhaben.at/mmo/5/151/013/3625_-1871059499_thumb.jpg",
+                "referenceImageUrl": "https://cache.willhaben.at/mmo/5/151/013/3625_-1871059499.jpg",
+                "similarImageSearchUrl": null,
+                "reference": "5/151/013/3625_-1871059499.jpg"
+            }
+        ],
+        "floorPlans": []
+    },
+    "selfLink": "https://api.willhaben.at/restapi/v2/atverz/1510133625",
+    "contextLinkList": {
+        "contextLink": [
+            {
+                "id": "selfLink",
+                "description": "Identifies this entity",
+                "uri": "https://api.willhaben.at/restapi/v2/atverz/1510133625",
+                "selected": false,
+                "relativePath": "/atverz/1510133625",
+                "serviceName": "iad"
+            },
+            {
+                "id": "seoSelfLink",
+                "description": "Self reference",
+                "uri": "https://api.willhaben.at/restapi/v2/atverz/immobilien/d/mietwohnungen/niederoesterreich/wiener-neustadt/-ein-viertel-gruen-39-freifinanzierte-wohnungen-im-ehemaligen-stadionareal-in-wiener-neustadt-1510133625/",
+                "selected": false,
+                "relativePath": "/atverz/immobilien/d/mietwohnungen/niederoesterreich/wiener-neustadt/-ein-viertel-gruen-39-freifinanzierte-wohnungen-im-ehemaligen-stadionareal-in-wiener-neustadt-1510133625/",
+                "serviceName": "iad"
+            },
+            {
+                "id": "adDetailLink",
+                "description": "Self reference to advert via ad detail component",
+                "uri": "https://publicapi.willhaben.at/atdetail/v1/1510133625",
+                "selected": false,
+                "relativePath": "/1510133625",
+                "serviceName": "addetail"
+            },
+            {
+                "id": "removeAdFromFolder",
+                "description": "Remove ad from any folder",
+                "uri": "https://api.willhaben.at/restapi/v2/userfolders/remove/1510133625",
+                "selected": false,
+                "relativePath": "/userfolders/remove/1510133625",
+                "serviceName": "iad"
+            },
+            {
+                "id": "getFolderSaveLinks",
+                "description": "Get contextlinks to save the ad in the users folders",
+                "uri": "https://api.willhaben.at/restapi/v2/userfolders/links/1510133625",
+                "selected": false,
+                "relativePath": "/userfolders/links/1510133625",
+                "serviceName": "iad"
+            },
+            {
+                "id": "iadShareLink",
+                "description": "Share link in iAd",
+                "uri": "https://www.willhaben.at/iad/object?adId=1510133625",
+                "selected": false,
+                "relativePath": "/iad/object?adId=1510133625",
+                "serviceName": "web_url"
+            }
+        ]
+    },
+    "advertiserInfo": {
+        "label": "EGW Erste gemeinnützige Wohnungsgesellschaft mbH",
+        "iconSVG": null,
+        "iconPNG": null,
+        "iconType": "NONE"
+    },
+    "upsellingOrganisationLogo": "https://cache.willhaben.at/mmo/logo/adSearchResult/19335301/egw_gemeinn_tzige__2407569128754616580_9737871951992930589_medium.png",
+    "teaserAttributes": [],
+    "children": null
+}no child and no teaser
+{
+    "id": "1769337517",
+    "verticalId": 2,
+    "adTypeId": 16,
+    "productId": 270,
+    "advertStatus": {
+        "id": "active",
+        "description": "aktiv",
+        "statusId": 50
+    },
+    "description": "Krems am Campus provisionsfreie Mietwohnungen",
+    "attributes": {
+        "attribute": [
+            {
+                "name": "LOCATION",
+                "values": [
+                    "Krems an der Donau"
+                ]
+            },
+            {
+                "name": "POSTCODE",
+                "values": [
+                    "3500"
+                ]
+            },
+            {
+                "name": "STATE",
+                "values": [
+                    "Niederösterreich"
+                ]
+            },
+            {
+                "name": "BODY_DYN",
+                "values": [
+                    "  Im Zentrum des Campus am Krems entsteht im Stilaltbau ein wunderbarer Immobilienprojekt zum Wohnen, bestehend aus zwei kongruenten Baukörpern.  Das Immobilienprojekt  KREMS AM CAMPUS  besteht aus 32 exklusiven Mietwohnungen. Jede Wohnung außer im..."
+                ]
+            },
+            {
+                "name": "ORGNAME",
+                "values": [
+                    "Zirkel Immobilien GmbH"
+                ]
+            },
+            {
+                "name": "imagedescription",
+                "values": [
+                    "Bild"
+                ]
+            },
+            {
+                "name": "ORG_UUID",
+                "values": [
+                    "a16f59db-4679-4f78-9114-c82a3667e9e5"
+                ]
+            },
+            {
+                "name": "DISTRICT",
+                "values": [
+                    "Krems an der Donau"
+                ]
+            },
+            {
+                "name": "HEADING",
+                "values": [
+                    "Krems am Campus provisionsfreie Mietwohnungen"
+                ]
+            },
+            {
+                "name": "LOCATION_QUALITY",
+                "values": [
+                    "1.0"
+                ]
+            },
+            {
+                "name": "PUBLISHED",
+                "values": [
+                    "1764948240000"
+                ]
+            },
+            {
+                "name": "COUNTRY",
+                "values": [
+                    "Österreich"
+                ]
+            },
+            {
+                "name": "LOCATION_ID",
+                "values": [
+                    "103149"
+                ]
+            },
+            {
+                "name": "NUMBER_OF_ROOMS",
+                "values": [
+                    "0"
+                ]
+            },
+            {
+                "name": "ADTYPE_ID",
+                "values": [
+                    "16"
+                ]
+            },
+            {
+                "name": "ADID",
+                "values": [
+                    "1769337517"
+                ]
+            },
+            {
+                "name": "ORGID",
+                "values": [
+                    "21074619"
+                ]
+            },
+            {
+                "name": "SEO_URL",
+                "values": [
+                    "immobilien/d/neubauprojekt/niederoesterreich/krems-an-der-donau/krems-am-campus-provisionsfreie-mietwohnungen-1769337517/"
+                ]
+            },
+            {
+                "name": "ALL_IMAGE_URLS",
+                "values": [
+                    "7/176/933/7517_791141818.jpg;7/176/933/7517_908389249.jpg;7/176/933/7517_1434966900.jpg;7/176/933/7517_1515840569.jpg;7/176/933/7517_-1279009853.jpg;7/176/933/7517_805620091.jpg;7/176/933/7517_-1364665088.jpg;7/176/933/7517_284088841.jpg;7/176/933/7517_-750460508.jpg;7/176/933/7517_-1512252746.jpg;7/176/933/7517_-397676509.jpg;7/176/933/7517_-385101022.jpg;7/176/933/7517_-2019706495.jpg;7/176/933/7517_1335461104.jpg;7/176/933/7517_-421887448.jpg;7/176/933/7517_-906132759.jpg;7/176/933/7517_1325367108.jpg;7/176/933/7517_1790476833.jpg;7/176/933/7517_-1542557132.jpg;7/176/933/7517_1309238784.jpg;7/176/933/7517_588874842.jpg;7/176/933/7517_-264666177.jpg;7/176/933/7517_-1064139060.jpg;7/176/933/7517_-1573420656.jpg;7/176/933/7517_1333363309.jpg;7/176/933/7517_-1213757211.jpg;7/176/933/7517_1195148238.jpg;7/176/933/7517_1963492714.jpg;7/176/933/7517_-928611296.jpg;7/176/933/7517_-1763802930.jpg;7/176/933/7517_307593554.jpg;7/176/933/7517_1929868604.jpg;7/176/933/7517_928809168.jpg;7/176/933/7517_668104627.jpg;7/176/933/7517_-1966181187.jpg;7/176/933/7517_114321884.jpg;7/176/933/7517_-1192000500.jpg;7/176/933/7517_-225671116.jpg;7/176/933/7517_1577287543.jpg;7/176/933/7517_-2022211472.jpg;7/176/933/7517_-655850100.jpg;7/176/933/7517_1964014866.jpg;7/176/933/7517_-720862736.jpg;7/176/933/7517_-1264350485.jpg;7/176/933/7517_-1536653096.jpg"
+                ]
+            },
+            {
+                "name": "PUBLISHED_String",
+                "values": [
+                    "2025-12-05T16:24:00Z"
+                ]
+            },
+            {
+                "name": "UPSELLING_AD_SEARCHRESULT",
+                "values": [
+                    "true"
+                ]
+            },
+            {
+                "name": "categorytreeids",
+                "values": [
+                    "5008881"
+                ]
+            },
+            {
+                "name": "PROJECT/UNIT_RENT_FROM",
+                "values": [
+                    "1087.9"
+                ]
+            },
+            {
+                "name": "ADVERTISER_REF",
+                "values": [
+                    "170"
+                ]
+            },
+            {
+                "name": "PRODUCT_ID",
+                "values": [
+                    "270"
+                ]
+            },
+            {
+                "name": "IS_BUMPED",
+                "values": [
+                    "1"
+                ]
+            },
+            {
+                "name": "MMO",
+                "values": [
+                    "7/176/933/7517_791141818.jpg"
+                ]
+            },
+            {
+                "name": "AD_UUID",
+                "values": [
+                    "9995a7e5-3410-450f-a58a-b34e9d305250"
+                ]
+            },
+            {
+                "name": "AD_SEARCHRESULT_LOGO",
+                "values": [
+                    "adSearchResult/21074619/zirkel_immobilien_18141003454764482117_2584757632588458239.png"
+                ]
+            },
+            {
+                "name": "COORDINATES",
+                "values": [
+                    "48.40630545,15.58856173"
+                ]
+            },
+            {
+                "name": "PRICE",
+                "values": [
+                    "1087.9"
+                ]
+            },
+            {
+                "name": "PRICE_FOR_DISPLAY",
+                "values": [
+                    "ab € 1.087,90"
+                ]
+            },
+            {
+                "name": "ISPRIVATE",
+                "values": [
+                    "0"
+                ]
+            },
+            {
+                "name": "UNIT_TITLE",
+                "values": [
+                    "170"
+                ]
+            }
+        ]
+    },
+    "advertImageList": {
+        "advertImage": [
+            {
+                "id": 1,
+                "name": "7/176/933/7517_791141818.jpg",
+                "selfLink": "https://api.willhaben.at/restapi/v2/atimage/1769337517/1",
+                "description": "Cover Image",
+                "mainImageUrl": "https://cache.willhaben.at/mmo/7/176/933/7517_791141818_hoved.jpg",
+                "thumbnailImageUrl": "https://cache.willhaben.at/mmo/7/176/933/7517_791141818_thumb.jpg",
+                "referenceImageUrl": "https://cache.willhaben.at/mmo/7/176/933/7517_791141818.jpg",
+                "similarImageSearchUrl": null,
+                "reference": "7/176/933/7517_791141818.jpg"
+            },
+            {
+                "id": 1,
+                "name": "7/176/933/7517_908389249.jpg",
+                "selfLink": "https://api.willhaben.at/restapi/v2/atimage/1769337517/1",
+                "description": "Cover Image",
+                "mainImageUrl": "https://cache.willhaben.at/mmo/7/176/933/7517_908389249_hoved.jpg",
+                "thumbnailImageUrl": "https://cache.willhaben.at/mmo/7/176/933/7517_908389249_thumb.jpg",
+                "referenceImageUrl": "https://cache.willhaben.at/mmo/7/176/933/7517_908389249.jpg",
+                "similarImageSearchUrl": null,
+                "reference": "7/176/933/7517_908389249.jpg"
+            },
+            {
+                "id": 1,
+                "name": "7/176/933/7517_1434966900.jpg",
+                "selfLink": "https://api.willhaben.at/restapi/v2/atimage/1769337517/1",
+                "description": "Cover Image",
+                "mainImageUrl": "https://cache.willhaben.at/mmo/7/176/933/7517_1434966900_hoved.jpg",
+                "thumbnailImageUrl": "https://cache.willhaben.at/mmo/7/176/933/7517_1434966900_thumb.jpg",
+                "referenceImageUrl": "https://cache.willhaben.at/mmo/7/176/933/7517_1434966900.jpg",
+                "similarImageSearchUrl": null,
+                "reference": "7/176/933/7517_1434966900.jpg"
+            }
+        ],
+        "floorPlans": []
+    },
+    "selfLink": "https://api.willhaben.at/restapi/v2/atverz/1769337517",
+    "contextLinkList": {
+        "contextLink": [
+            {
+                "id": "selfLink",
+                "description": "Identifies this entity",
+                "uri": "https://api.willhaben.at/restapi/v2/atverz/1769337517",
+                "selected": false,
+                "relativePath": "/atverz/1769337517",
+                "serviceName": "iad"
+            },
+            {
+                "id": "seoSelfLink",
+                "description": "Self reference",
+                "uri": "https://api.willhaben.at/restapi/v2/atverz/immobilien/d/mietwohnungen/niederoesterreich/krems-an-der-donau/krems-am-campus-provisionsfreie-mietwohnungen-1769337517/",
+                "selected": false,
+                "relativePath": "/atverz/immobilien/d/mietwohnungen/niederoesterreich/krems-an-der-donau/krems-am-campus-provisionsfreie-mietwohnungen-1769337517/",
+                "serviceName": "iad"
+            },
+            {
+                "id": "adDetailLink",
+                "description": "Self reference to advert via ad detail component",
+                "uri": "https://publicapi.willhaben.at/atdetail/v1/1769337517",
+                "selected": false,
+                "relativePath": "/1769337517",
+                "serviceName": "addetail"
+            },
+            {
+                "id": "removeAdFromFolder",
+                "description": "Remove ad from any folder",
+                "uri": "https://api.willhaben.at/restapi/v2/userfolders/remove/1769337517",
+                "selected": false,
+                "relativePath": "/userfolders/remove/1769337517",
+                "serviceName": "iad"
+            },
+            {
+                "id": "getFolderSaveLinks",
+                "description": "Get contextlinks to save the ad in the users folders",
+                "uri": "https://api.willhaben.at/restapi/v2/userfolders/links/1769337517",
+                "selected": false,
+                "relativePath": "/userfolders/links/1769337517",
+                "serviceName": "iad"
+            },
+            {
+                "id": "iadShareLink",
+                "description": "Share link in iAd",
+                "uri": "https://www.willhaben.at/iad/object?adId=1769337517",
+                "selected": false,
+                "relativePath": "/iad/object?adId=1769337517",
+                "serviceName": "web_url"
+            }
+        ]
+    },
+    "advertiserInfo": {
+        "label": "Zirkel Immobilien GmbH",
+        "iconSVG": null,
+        "iconPNG": null,
+        "iconType": "NONE"
+    },
+    "upsellingOrganisationLogo": "https://cache.willhaben.at/mmo/logo/adSearchResult/21074619/zirkel_immobilien_18141003454764482117_2584757632588458239_medium.png",
+    "teaserAttributes": [],
+    "children": null
+}no child and no teaser
+{
+    "id": "1776350587",
+    "verticalId": 2,
+    "adTypeId": 16,
+    "productId": 270,
+    "advertStatus": {
+        "id": "active",
+        "description": "aktiv",
+        "statusId": 50
+    },
+    "description": "\"Mittendrin\": Ein modernes Zentrum in Wulkaprodersdorf entsteht",
+    "attributes": {
+        "attribute": [
+            {
+                "name": "LOCATION",
+                "values": [
+                    "Wulkaprodersdorf"
+                ]
+            },
+            {
+                "name": "POSTCODE",
+                "values": [
+                    "7041"
+                ]
+            },
+            {
+                "name": "STATE",
+                "values": [
+                    "Burgenland"
+                ]
+            },
+            {
+                "name": "BODY_DYN",
+                "values": [
+                    "In der burgenländischen Gemeinde Wulkaprodersdorf wird ein Neubauprojekt verwirklicht, bei dem Wohnen und Arbeiten mit nachhaltiger Bauweise in Einklang gebracht werden: In attraktiver Lage unweit der Landeshauptstadt Eisenstadt und mit Nähe zu Wiener..."
+                ]
+            },
+            {
+                "name": "ORGNAME",
+                "values": [
+                    "BWS Gemeinnützige allgemeine Bau-, Wohn- und Siedlungsgenossenschaft regGenmbH"
+                ]
+            },
+            {
+                "name": "imagedescription",
+                "values": [
+                    "Bild"
+                ]
+            },
+            {
+                "name": "ORG_UUID",
+                "values": [
+                    "6677c60c-81bf-43d6-bc24-c82a3667e9e5"
+                ]
+            },
+            {
+                "name": "DISTRICT",
+                "values": [
+                    "Eisenstadt - Umgebung"
+                ]
+            },
+            {
+                "name": "HEADING",
+                "values": [
+                    "\"Mittendrin\": Ein modernes Zentrum in Wulkaprodersdorf entsteht"
+                ]
+            },
+            {
+                "name": "LOCATION_QUALITY",
+                "values": [
+                    "1.0"
+                ]
+            },
+            {
+                "name": "PUBLISHED",
+                "values": [
+                    "1764555180000"
+                ]
+            },
+            {
+                "name": "COUNTRY",
+                "values": [
+                    "Österreich"
+                ]
+            },
+            {
+                "name": "LOCATION_ID",
+                "values": [
+                    "100027"
+                ]
+            },
+            {
+                "name": "NUMBER_OF_ROOMS",
+                "values": [
+                    "0"
+                ]
+            },
+            {
+                "name": "ADTYPE_ID",
+                "values": [
+                    "16"
+                ]
+            },
+            {
+                "name": "ADID",
+                "values": [
+                    "1776350587"
+                ]
+            },
+            {
+                "name": "ORGID",
+                "values": [
+                    "19188761"
+                ]
+            },
+            {
+                "name": "SEO_URL",
+                "values": [
+                    "immobilien/d/neubauprojekt/burgenland/eisenstadt-umgebung/-mittendrin-ein-modernes-zentrum-in-wulkaprodersdorf-entsteht-1776350587/"
+                ]
+            },
+            {
+                "name": "ALL_IMAGE_URLS",
+                "values": [
+                    "7/177/635/0587_83813785.jpg;7/177/635/0587_1437719128.jpg;7/177/635/0587_-602219124.jpg;7/177/635/0587_-1315908731.jpg;7/177/635/0587_803910510.jpg;7/177/635/0587_1140225801.jpg"
+                ]
+            },
+            {
+                "name": "PUBLISHED_String",
+                "values": [
+                    "2025-12-01T03:13:00Z"
+                ]
+            },
+            {
+                "name": "categorytreeids",
+                "values": [
+                    "5008881"
+                ]
+            },
+            {
+                "name": "PROJECT/UNIT_RENT_FROM",
+                "values": [
+                    "1048.59"
+                ]
+            },
+            {
+                "name": "ADVERTISER_REF",
+                "values": [
+                    "5889/19201"
+                ]
+            },
+            {
+                "name": "PRODUCT_ID",
+                "values": [
+                    "270"
+                ]
+            },
+            {
+                "name": "IS_BUMPED",
+                "values": [
+                    "1"
+                ]
+            },
+            {
+                "name": "MMO",
+                "values": [
+                    "7/177/635/0587_83813785.jpg"
+                ]
+            },
+            {
+                "name": "AD_UUID",
+                "values": [
+                    "b8554a2d-d480-4e72-abbd-b34e9d305250"
+                ]
+            },
+            {
+                "name": "ADDRESS",
+                "values": [
+                    "Obere Hauptstraße 38"
+                ]
+            },
+            {
+                "name": "COORDINATES",
+                "values": [
+                    "47.7944619,16.4969992"
+                ]
+            },
+            {
+                "name": "PRICE",
+                "values": [
+                    "1048.59"
+                ]
+            },
+            {
+                "name": "PRICE_FOR_DISPLAY",
+                "values": [
+                    "ab € 1.048,59"
+                ]
+            },
+            {
+                "name": "ISPRIVATE",
+                "values": [
+                    "0"
+                ]
+            },
+            {
+                "name": "UNIT_TITLE",
+                "values": [
+                    "5889/19201"
+                ]
+            }
+        ]
+    },
+    "advertImageList": {
+        "advertImage": [
+            {
+                "id": 1,
+                "name": "7/177/635/0587_83813785.jpg",
+                "selfLink": "https://api.willhaben.at/restapi/v2/atimage/1776350587/1",
+                "description": "Cover Image",
+                "mainImageUrl": "https://cache.willhaben.at/mmo/7/177/635/0587_83813785_hoved.jpg",
+                "thumbnailImageUrl": "https://cache.willhaben.at/mmo/7/177/635/0587_83813785_thumb.jpg",
+                "referenceImageUrl": "https://cache.willhaben.at/mmo/7/177/635/0587_83813785.jpg",
+                "similarImageSearchUrl": null,
+                "reference": "7/177/635/0587_83813785.jpg"
+            },
+            {
+                "id": 1,
+                "name": "7/177/635/0587_1437719128.jpg",
+                "selfLink": "https://api.willhaben.at/restapi/v2/atimage/1776350587/1",
+                "description": "Cover Image",
+                "mainImageUrl": "https://cache.willhaben.at/mmo/7/177/635/0587_1437719128_hoved.jpg",
+                "thumbnailImageUrl": "https://cache.willhaben.at/mmo/7/177/635/0587_1437719128_thumb.jpg",
+                "referenceImageUrl": "https://cache.willhaben.at/mmo/7/177/635/0587_1437719128.jpg",
+                "similarImageSearchUrl": null,
+                "reference": "7/177/635/0587_1437719128.jpg"
+            },
+            {
+                "id": 1,
+                "name": "7/177/635/0587_-602219124.jpg",
+                "selfLink": "https://api.willhaben.at/restapi/v2/atimage/1776350587/1",
+                "description": "Cover Image",
+                "mainImageUrl": "https://cache.willhaben.at/mmo/7/177/635/0587_-602219124_hoved.jpg",
+                "thumbnailImageUrl": "https://cache.willhaben.at/mmo/7/177/635/0587_-602219124_thumb.jpg",
+                "referenceImageUrl": "https://cache.willhaben.at/mmo/7/177/635/0587_-602219124.jpg",
+                "similarImageSearchUrl": null,
+                "reference": "7/177/635/0587_-602219124.jpg"
+            }
+        ],
+        "floorPlans": []
+    },
+    "selfLink": "https://api.willhaben.at/restapi/v2/atverz/1776350587",
+    "contextLinkList": {
+        "contextLink": [
+            {
+                "id": "selfLink",
+                "description": "Identifies this entity",
+                "uri": "https://api.willhaben.at/restapi/v2/atverz/1776350587",
+                "selected": false,
+                "relativePath": "/atverz/1776350587",
+                "serviceName": "iad"
+            },
+            {
+                "id": "seoSelfLink",
+                "description": "Self reference",
+                "uri": "https://api.willhaben.at/restapi/v2/atverz/immobilien/d/mietwohnungen/burgenland/eisenstadt-umgebung/-mittendrin-ein-modernes-zentrum-in-wulkaprodersdorf-entsteht-1776350587/",
+                "selected": false,
+                "relativePath": "/atverz/immobilien/d/mietwohnungen/burgenland/eisenstadt-umgebung/-mittendrin-ein-modernes-zentrum-in-wulkaprodersdorf-entsteht-1776350587/",
+                "serviceName": "iad"
+            },
+            {
+                "id": "adDetailLink",
+                "description": "Self reference to advert via ad detail component",
+                "uri": "https://publicapi.willhaben.at/atdetail/v1/1776350587",
+                "selected": false,
+                "relativePath": "/1776350587",
+                "serviceName": "addetail"
+            },
+            {
+                "id": "removeAdFromFolder",
+                "description": "Remove ad from any folder",
+                "uri": "https://api.willhaben.at/restapi/v2/userfolders/remove/1776350587",
+                "selected": false,
+                "relativePath": "/userfolders/remove/1776350587",
+                "serviceName": "iad"
+            },
+            {
+                "id": "getFolderSaveLinks",
+                "description": "Get contextlinks to save the ad in the users folders",
+                "uri": "https://api.willhaben.at/restapi/v2/userfolders/links/1776350587",
+                "selected": false,
+                "relativePath": "/userfolders/links/1776350587",
+                "serviceName": "iad"
+            },
+            {
+                "id": "iadShareLink",
+                "description": "Share link in iAd",
+                "uri": "https://www.willhaben.at/iad/object?adId=1776350587",
+                "selected": false,
+                "relativePath": "/iad/object?adId=1776350587",
+                "serviceName": "web_url"
+            }
+        ]
+    },
+    "advertiserInfo": {
+        "label": "BWS Gemeinnützige allgemeine Bau-, Wohn- und Siedlungsgenossenschaft regGenmbH",
+        "iconSVG": null,
+        "iconPNG": null,
+        "iconType": "NONE"
+    },
+    "upsellingOrganisationLogo": null,
+    "teaserAttributes": [],
+    "children": null
 }
