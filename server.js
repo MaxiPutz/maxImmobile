@@ -4,7 +4,6 @@ import fs from "fs"
 
 const port = 3000
 const BASE_PATH = process.env.BASE_PATH ?? ""
-
 console.log(BASE_PATH)
 const app = express()
 

@@ -1,5 +1,6 @@
 import { transitOptions } from "../../assets/transit/index.js"
 import { isLagacy, parseLagacy } from "./lagacyParser/lagacyParser.js";
+import { BASE_PATH } from "../../../ENV_BASE_PATH.js";
 /**
  * @typedef {Object} WillhabenJson
  * @property {string} postcode
@@ -16,8 +17,7 @@ import { isLagacy, parseLagacy } from "./lagacyParser/lagacyParser.js";
  * @property {number} squareMeters
  */
 
-
-const raw = (await (await fetch("../../assets/input.json")).json())
+const raw = (await (await fetch(`./${BASE_PATH ?? ""}/assets/input.json`)).json())
 
 
 /**
@@ -50,7 +50,7 @@ export const willhabenJson = isLagacy(raw) ? parseLagacy(raw) : raw
 
 
 const transitPath = "../../assets/transit/"
-let transitCollector = await Promise.all( transitOptions.map(ele => transitPath + ele).map( ele => fetch(ele) )) 
+let transitCollector = await Promise.all(transitOptions.map(ele => transitPath + ele).map(ele => fetch(ele)))
 console.log("transitCollecotr", transitCollector);
 
 transitCollector = await Promise.all(transitCollector.map(ele => ele.json()))
@@ -62,31 +62,31 @@ console.log("transitCollecotr", transitCollector);
  * An array of properties available for rent or sale.
  * @type {Journey[]}
  */
-export const transitInfoJson = transitCollector.map((ele) => ele.map((ele)=>({
-    ...ele,
-    startPoint : {
-        ...ele.startPoint,
-        lng: ele.startPoint.long
-    },
-    endPoint : {
-        ...ele.endPoint,
-        lng: ele.endPoint.long
-    },
+export const transitInfoJson = transitCollector.map((ele) => ele.map((ele) => ({
+  ...ele,
+  startPoint: {
+    ...ele.startPoint,
+    lng: ele.startPoint.long
+  },
+  endPoint: {
+    ...ele.endPoint,
+    lng: ele.endPoint.long
+  },
 })))
 
 
 
-let selectTransitIndex = 0 
+let selectTransitIndex = 0
 
 export const setSelectTransitIndex = (num) => {
-    console.log("selected Index", num);
-    
-    selectTransitIndex = num
+  console.log("selected Index", num);
+
+  selectTransitIndex = num
 }
 
-export const getSelectedTransitInfoJson = () =>   {
-    
-    return transitInfoJson[selectTransitIndex]
+export const getSelectedTransitInfoJson = () => {
+
+  return transitInfoJson[selectTransitIndex]
 }
 
 /**
@@ -99,16 +99,16 @@ let willhabenJsonFiltered = willhabenJson
  * An array of properties available for rent or sale.
  * @param {WillhabenJson[]} arr
  */
-export function setWillhabenFilter (arr) {
-    willhabenJsonFiltered = arr
-    console.log("willhabenJsonFilterd", willhabenJsonFiltered);
-    //customRender()
-    
+export function setWillhabenFilter(arr) {
+  willhabenJsonFiltered = arr
+  console.log("willhabenJsonFilterd", willhabenJsonFiltered);
+  //customRender()
+
 }
 
 export function getWillhabenFilterJson() {
-    console.log("this is witten", willhabenJsonFiltered);
-    
-    return willhabenJsonFiltered
+  console.log("this is witten", willhabenJsonFiltered);
+
+  return willhabenJsonFiltered
 }
 

@@ -1,5 +1,6 @@
 import { transitOptions } from "../../assets/transit/index.js"
 import { isLagacy, parseLagacy } from "./lagacyParser/lagacyParser.js";
+import { BASE_PATH } from "../../../ENV_BASE_PATH.js";
 /**
  * @typedef {Object} WillhabenJson
  * @property {string} postcode
@@ -37,51 +38,51 @@ import { isLagacy, parseLagacy } from "./lagacyParser/lagacyParser.js";
  */
 
 
-async function  loadAssetes() {
-    function fetchAll() {
-        let promisesAll = []
+async function loadAssetes() {
+  function fetchAll() {
+    let promisesAll = []
 
-        promisesAll.push(new Promise((resolve) => {
-            fetch("../../assets/input.json").then((ele) => {
-                resolve({
-                    file: "input",
-                    data: ele
-                })
-            })
-
-
-        }))
-
-
-        const transitPath = "../../assets/transit/"
-        const transitFiles =  transitOptions.map( ele => transitPath + ele)
-
-        promisesAll.push(...transitFiles.map((ele) => new Promise((resolve) => fetch(ele).then(ele =>  resolve(({file: "transit", data: ele} ))) ) ))
-
-        return Promise.all(promisesAll)
-    }
-
-
-    const fetchedData = await fetchAll()
-    console.log("fetchAll data",fetchedData);
-    
-
-    for (let i = 0; i < fetchedData.length; i++) {
-        const element = fetchedData[i];
-        console.log("fetchAll element", element);
-        
-        //let data = await element.data.json()
-        
-    }
-
-    return Promise.all( fetchedData.map((ele) => new Promise( async (resolve) => {
-        const data = await ele.data.json()
-
+    promisesAll.push(new Promise((resolve) => {
+      fetch(`./${BASE_PATH ?? ""}/assets/input.json`).then((ele) => {
         resolve({
-            ...ele,
-            data: data
+          file: "input",
+          data: ele
         })
-    })))
+      })
+
+
+    }))
+
+
+    const transitPath = `./${BASE_PATH}/assets/transit/`
+    const transitFiles = transitOptions.map(ele => transitPath + ele)
+
+    promisesAll.push(...transitFiles.map((ele) => new Promise((resolve) => fetch(ele).then(ele => resolve(({ file: "transit", data: ele }))))))
+
+    return Promise.all(promisesAll)
+  }
+
+
+  const fetchedData = await fetchAll()
+  console.log("fetchAll data", fetchedData);
+
+
+  for (let i = 0; i < fetchedData.length; i++) {
+    const element = fetchedData[i];
+    console.log("fetchAll element", element);
+
+    //let data = await element.data.json()
+
+  }
+
+  return Promise.all(fetchedData.map((ele) => new Promise(async (resolve) => {
+    const data = await ele.data.json()
+
+    resolve({
+      ...ele,
+      data: data
+    })
+  })))
 }
 
 
@@ -97,11 +98,8 @@ console.log("fetch all", allAssets);
 /**
  * @type {WillhabenJson[]}
  */
-let raw =  allAssets.find(ele => ele.file === "input").data // (await (await fetch("../../assets/input.json")).json())
-
-//raw = raw.slice(0, 100)
-/**
- * An array of properties available for rent or sale.
+let raw = allAssets.find(ele => ele.file === "input").data // (await (await fetch(`./${BASE_PATH ?? ""}/assets/input.json`)).json()) raw = raw.slice(0, 100)
+/** An array of properties available for rent or sale.
  * @type {WillhabenJson[]}
  */
 export const willhabenJson = isLagacy(raw) ? parseLagacy(raw) : raw
@@ -114,7 +112,7 @@ const transitPath = "../../assets/transit/"
 let transitCollector =  await Promise.all( transitOptions.map(ele => transitPath + ele).map( ele => fetch(ele) )) 
 console.log("transitCollecotr", transitCollector);
 */
-const transitCollector =  allAssets.filter(ele => ele.file === "transit").map(ele => ele.data) //await Promise.all(transitCollector.map(ele => ele.json()))
+const transitCollector = allAssets.filter(ele => ele.file === "transit").map(ele => ele.data) //await Promise.all(transitCollector.map(ele => ele.json()))
 
 console.log("transitCollecotr", transitCollector);
 
@@ -124,31 +122,31 @@ console.log("transitCollecotr", transitCollector);
  * An array of properties available for rent or sale.
  * @type {Journey[]}
  */
-export const transitInfoJson = transitCollector.map((ele) => ele.map((ele)=>({
-    ...ele,
-    startPoint : {
-        ...ele.startPoint,
-        lng: ele.startPoint.long
-    },
-    endPoint : {
-        ...ele.endPoint,
-        lng: ele.endPoint.long
-    },
+export const transitInfoJson = transitCollector.map((ele) => ele.map((ele) => ({
+  ...ele,
+  startPoint: {
+    ...ele.startPoint,
+    lng: ele.startPoint.long
+  },
+  endPoint: {
+    ...ele.endPoint,
+    lng: ele.endPoint.long
+  },
 })))
 
 
 
-let selectTransitIndex = 0 
+let selectTransitIndex = 0
 
 export const setSelectTransitIndex = (num) => {
-    console.log("selected Index", num);
-    
-    selectTransitIndex = num
+  console.log("selected Index", num);
+
+  selectTransitIndex = num
 }
 
-export const getSelectedTransitInfoJson = () =>   {
-    
-    return transitInfoJson[selectTransitIndex]
+export const getSelectedTransitInfoJson = () => {
+
+  return transitInfoJson[selectTransitIndex]
 }
 
 /**
@@ -161,16 +159,16 @@ let willhabenJsonFiltered = willhabenJson
  * An array of properties available for rent or sale.
  * @param {WillhabenJson[]} arr
  */
-export function setWillhabenFilter (arr) {
-    willhabenJsonFiltered = arr
-    console.log("willhabenJsonFilterd", willhabenJsonFiltered);
-    //customRender()
-    
+export function setWillhabenFilter(arr) {
+  willhabenJsonFiltered = arr
+  console.log("willhabenJsonFilterd", willhabenJsonFiltered);
+  //customRender()
+
 }
 
 export function getWillhabenFilterJson() {
-    console.log("this is witten", willhabenJsonFiltered);
-    
-    return willhabenJsonFiltered
+  console.log("this is witten", willhabenJsonFiltered);
+
+  return willhabenJsonFiltered
 }
 
